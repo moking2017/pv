@@ -27,7 +27,12 @@ jobs:
       - name: 运行脚本
         run: python a.py
 
-      # ★ 新增替换步骤
+      # ★ 新增：保存一份原始文件
+      - name: 备份原始M3U
+        run: |
+          cp PPV_IFRAME.m3u8 example.m3u8
+
+      # ★ 修改地址
       - name: 替换 embed 地址
         run: |
           sed -i 's|https://modistreams.org/embed/|https://ppv2.168.us.kg/stream?uri=|g' PPV_IFRAME.m3u8
@@ -36,6 +41,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add PPV_IFRAME.m3u8
+          git add PPV_IFRAME.m3u8 example.m3u8
           git commit -m "Auto update PPV M3U" || echo "No changes"
           git push
