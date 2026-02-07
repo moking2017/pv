@@ -1,0 +1,33 @@
+name: Update a M3U
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # 每30分钟运行一次
+  workflow_dispatch:          # 允许手动运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 拉取仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 运行脚本
+        run: python a.py
+
+      - name: 提交生成文件
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add PPV_IFRAME.m3u8
+          git commit -m "Auto update PPV M3U" || echo "No changes"
+          git push
