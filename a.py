@@ -8,6 +8,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
+
 def get_data():
     try:
         r = requests.get(API_URL, headers=HEADERS, timeout=15)
@@ -19,6 +20,20 @@ def get_data():
         print("请求异常:", e)
         return None
 
+
+def get_logo(stream):
+    """
+    API里图标字段不固定，这里自动尝试几个常见字段
+    """
+    return (
+        stream.get("logo")
+        or stream.get("poster")
+        or stream.get("image")
+        or stream.get("thumbnail")
+        or ""
+    )
+
+
 def build_m3u(data):
     lines = ["#EXTM3U"]
     total = 0
@@ -29,19 +44,25 @@ def build_m3u(data):
         for s in cat.get("streams", []):
             name = s.get("name", "Unnamed")
             iframe = s.get("iframe")
+            logo = get_logo(s)
 
             if not iframe:
                 continue
 
             total += 1
 
-            lines.append(
-                f'#EXTINF:-1 group-title="{category}",{name}'
-            )
+            # 带图标的EXTINF
+            if logo:
+                extinf = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{category}",{name}'
+            else:
+                extinf = f'#EXTINF:-1 group-title="{category}",{name}'
+
+            lines.append(extinf)
             lines.append(iframe)
 
     print(f"总频道: {total}")
     return "\n".join(lines)
+
 
 def main():
     print("PPV IFRAME M3U 生成")
@@ -58,6 +79,7 @@ def main():
         f.write(m3u)
 
     print("已保存:", OUTPUT)
+
 
 if __name__ == "__main__":
     main()
