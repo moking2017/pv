@@ -1,58 +1,52 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-02-19 23:28:56
+# PlayTorrio Sports Events - 2026-02-20 01:59:20
 # Total Events: 35
-# Live Events: 4
+# Live Events: 6
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports.webp" group-title="Copa Libertadores",[23:00] Copa Libertadores - Juventud vs Guaraní 🔴 - Bein Sports 🇺🇸 USA
-https://cdn-live.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-5.png" group-title="NBA",[01:00] NBA - Charlotte Hornets vs Houston Rockets 🔴
+https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+5&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-n.svg" group-title="Copa Libertadores",[23:00] Copa Libertadores - Juventud vs Guaraní 🔴 - Bein Sports N 🇪🇸 Spain
-https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/yes.png" group-title="NBA",[01:00] NBA - Cleveland Cavaliers vs Brooklyn Nets 🔴 - Yes Network 🇺🇸 USA
+https://cdn-live.tv/api/v1/channels/player/?name=yes+network&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-4.svg" group-title="Copa Libertadores",[23:00] Copa Libertadores - Juventud vs Guaraní 🔴 - Espn 4 🇧🇷 Brazil
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-3.webp" group-title="NBA",[01:00] NBA - Cleveland Cavaliers vs Brooklyn Nets 🔴 - M Liga De Campeones 3 🇪🇸 Spain
+https://cdn-live.tv/api/v1/channels/player/?name=m+liga+de+campeones+3&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NBA",[01:00] NBA - Cleveland Cavaliers vs Brooklyn Nets 🔴 - Sport 5 Stars 🇮🇱 Israel
+https://cdn-live.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-2.webp" group-title="NBA",[01:00] NBA - Philadelphia 76ers vs Atlanta Hawks 🔴
+https://cdn-live.tv/api/v1/channels/player/?name=m+liga+de+campeones+2&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-4.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Deportivo Táchira vs Deportes Tolima 🔴 - Espn 4 🇧🇷 Brazil
 https://cdn-live.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/fox-sports.svg" group-title="Copa Libertadores",[23:00] Copa Libertadores - Juventud vs Guaraní 🔴 - Fox Sports 🇦🇷 Argentina
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/fox-sports.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Deportivo Táchira vs Deportes Tolima 🔴 - Fox Sports 🇦🇷 Argentina
 https://cdn-live.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-4.svg" group-title="Copa Libertadores",[23:00] Copa Libertadores - Juventud vs Guaraní 🔴 - Espn 4 🇲🇽 Mexico
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-4.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Deportivo Táchira vs Deportes Tolima 🔴 - Espn 4 🇲🇽 Mexico
 https://cdn-live.tv/api/v1/channels/player/?name=espn+4&code=mx&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Primera División",[23:30] Primera División - Independiente Rivadavia vs Independiente 🔴 - Espn Premium 🇦🇷 Argentina
-https://cdn-live.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="Copa Libertadores",[01:30] Copa Libertadores - Deportivo Táchira vs Deportes Tolima 🔴 - Bein Sports 3 🇸🇦 Saudi Arabia
+https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Primera División",[23:30] Primera División - Independiente Rivadavia vs Independiente 🔴 - ESPN Premium 🇦🇷 Argentina
-https://cdn-live.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/msg.png" group-title="NBA",[01:30] NBA - New York Knicks vs Detroit Pistons 🔴 - Msg 🇺🇸 USA
+https://cdn-live.tv/api/v1/channels/player/?name=msg&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[23:30] Primera División - Instituto vs Atlético Tucumán 🔴 - Tnt Sports 🇦🇷 Argentina
-https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="NBA",[01:30] NBA - New York Knicks vs Detroit Pistons 🔴 - Tsn 5 🇨🇦 Canada
+https://cdn-live.tv/api/v1/channels/player/?name=tsn+5&code=ca&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[23:30] Primera División - Instituto vs Atlético Tucumán 🔴 - TNT Sports 🇦🇷 Argentina
-https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-3.svg" group-title="NBA",[01:30] NBA - New York Knicks vs Detroit Pistons 🔴 - Tsn 3 🇨🇦 Canada
+https://cdn-live.tv/api/v1/channels/player/?name=tsn+3&code=ca&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="Brasileirão",[23:30] Brasileirão - Athletico-PR vs Corinthians 🔴 - Viaplay Sports 1 🇬🇧 UK
-https://cdn-live.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg" group-title="NBA",[01:30] NBA - New York Knicks vs Detroit Pistons 🔴 - Tvp Sport 🇵🇱 Poland
+https://cdn-live.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.svg" group-title="Brasileirão",[23:30] Brasileirão - Athletico-PR vs Corinthians 🔴 - Premier Sports 1 🇬🇧 UK
-https://cdn-live.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png" group-title="NBA",[02:00] NBA - Chicago Bulls vs Toronto Raptors 🔴 - Tnt Sports 7 🇬🇧 UK
+https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Brasileirão",[23:30] Brasileirão - Athletico-PR vs Corinthians 🔴 - Match Football 3 🇷🇺 Russia
-https://cdn-live.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp" group-title="Brasileirão",[23:30] Brasileirão - Athletico-PR vs Corinthians 🔴 - Arena 3 Premium 🇷🇸 Serbia
-https://cdn-live.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="Brasileirão",[23:30] Brasileirão - Athletico-PR vs Corinthians 🔴 - Viaplay Sports 1 🇬🇧 UK
-https://cdn-live.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.svg" group-title="Brasileirão",[23:30] Brasileirão - Athletico-PR vs Corinthians 🔴 - Premier Sports 1 🇬🇧 UK
-https://cdn-live.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Brasileirão",[23:30] Brasileirão - Athletico-PR vs Corinthians 🔴 - Match Football 3 🇷🇺 Russia
-https://cdn-live.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp" group-title="Brasileirão",[23:30] Brasileirão - Athletico-PR vs Corinthians 🔴 - Arena 3 Premium 🇷🇸 Serbia
-https://cdn-live.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png" group-title="NBA",[02:00] NBA - Chicago Bulls vs Toronto Raptors 🔴 - TNT Sports 7 🇬🇧 UK
+https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-3.png" group-title="AFC Champions League Two",[08:45] AFC Champions League Two - Macarthur vs Bangkok United - Diema Sport 3 🇧🇬 Bulgaria
 https://cdn-live.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
@@ -612,47 +606,38 @@ https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlive
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Primera División",[21:15] Primera División - Defensa y Justicia vs Belgrano
 https://cdn-live.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-5.png" group-title="NBA",[01:00] NBA - Charlotte Hornets vs Houston Rockets
-https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+5&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports.webp" group-title="Copa Libertadores",[23:00] Copa Libertadores - Juventud vs Guaraní - Bein Sports 🇺🇸 USA
+https://cdn-live.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/yes.png" group-title="NBA",[01:00] NBA - Cleveland Cavaliers vs Brooklyn Nets - Yes Network 🇺🇸 USA
-https://cdn-live.tv/api/v1/channels/player/?name=yes+network&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-n.svg" group-title="Copa Libertadores",[23:00] Copa Libertadores - Juventud vs Guaraní - Bein Sports N 🇪🇸 Spain
+https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-3.webp" group-title="NBA",[01:00] NBA - Cleveland Cavaliers vs Brooklyn Nets - M Liga De Campeones 3 🇪🇸 Spain
-https://cdn-live.tv/api/v1/channels/player/?name=m+liga+de+campeones+3&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NBA",[01:00] NBA - Cleveland Cavaliers vs Brooklyn Nets - Sport 5 Stars 🇮🇱 Israel
-https://cdn-live.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-2.webp" group-title="NBA",[01:00] NBA - Philadelphia 76ers vs Atlanta Hawks
-https://cdn-live.tv/api/v1/channels/player/?name=m+liga+de+campeones+2&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-4.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Deportivo Táchira vs Deportes Tolima - Espn 4 🇧🇷 Brazil
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-4.svg" group-title="Copa Libertadores",[23:00] Copa Libertadores - Juventud vs Guaraní - Espn 4 🇧🇷 Brazil
 https://cdn-live.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/fox-sports.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Deportivo Táchira vs Deportes Tolima - Fox Sports 🇦🇷 Argentina
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/fox-sports.svg" group-title="Copa Libertadores",[23:00] Copa Libertadores - Juventud vs Guaraní - Fox Sports 🇦🇷 Argentina
 https://cdn-live.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-4.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Deportivo Táchira vs Deportes Tolima - Espn 4 🇲🇽 Mexico
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-4.svg" group-title="Copa Libertadores",[23:00] Copa Libertadores - Juventud vs Guaraní - Espn 4 🇲🇽 Mexico
 https://cdn-live.tv/api/v1/channels/player/?name=espn+4&code=mx&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="Copa Libertadores",[01:30] Copa Libertadores - Deportivo Táchira vs Deportes Tolima - Bein Sports 3 🇸🇦 Saudi Arabia
-https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Primera División",[23:30] Primera División - Independiente Rivadavia vs Independiente
+https://cdn-live.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/msg.png" group-title="NBA",[01:30] NBA - New York Knicks vs Detroit Pistons - Msg 🇺🇸 USA
-https://cdn-live.tv/api/v1/channels/player/?name=msg&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[23:30] Primera División - Instituto vs Atlético Tucumán
+https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="NBA",[01:30] NBA - New York Knicks vs Detroit Pistons - Tsn 5 🇨🇦 Canada
-https://cdn-live.tv/api/v1/channels/player/?name=tsn+5&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="Brasileirão",[23:30] Brasileirão - Athletico-PR vs Corinthians - Viaplay Sports 1 🇬🇧 UK
+https://cdn-live.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-3.svg" group-title="NBA",[01:30] NBA - New York Knicks vs Detroit Pistons - Tsn 3 🇨🇦 Canada
-https://cdn-live.tv/api/v1/channels/player/?name=tsn+3&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.svg" group-title="Brasileirão",[23:30] Brasileirão - Athletico-PR vs Corinthians - Premier Sports 1 🇬🇧 UK
+https://cdn-live.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg" group-title="NBA",[01:30] NBA - New York Knicks vs Detroit Pistons - Tvp Sport 🇵🇱 Poland
-https://cdn-live.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Brasileirão",[23:30] Brasileirão - Athletico-PR vs Corinthians - Match Football 3 🇷🇺 Russia
+https://cdn-live.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png" group-title="NBA",[02:00] NBA - Chicago Bulls vs Toronto Raptors
-https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp" group-title="Brasileirão",[23:30] Brasileirão - Athletico-PR vs Corinthians - Arena 3 Premium 🇷🇸 Serbia
+https://cdn-live.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs Boston Celtics - Tsn 5 🇨🇦 Canada
 https://cdn-live.tv/api/v1/channels/player/?name=tsn+5&code=ca&user=cdnlivetv&plan=free
