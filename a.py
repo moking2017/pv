@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-API_URL = "https://api.ppv.st/api/streams"
+API_URL = "https://api.ppv.sh/api/streams"
 OUTPUT = "PPV_IFRAME.m3u8"
 
 HEADERS = {
