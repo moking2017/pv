@@ -1,8 +1,15 @@
 import requests
 from datetime import datetime
+import re
 
-API_URL = "https://api.ppv.sh/api/streams"
-OUTPUT = "PPV_IFRAME.m3u8"
+API_URL = "https://api.ppv.st/api/streams"
+
+OUTPUT_ORIGINAL = "example.m3u8"
+OUTPUT_PUBLIC = "PPV_IFRAME.m3u8"
+OUTPUT_LOCAL = "PPV_LOCAL.m3u8"
+
+PUBLIC_BASE = "https://ppv2.168.us.kg/stream?uri="
+LOCAL_BASE = "http://192.168.2.139:8090/stream?uri="
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0"
@@ -22,9 +29,6 @@ def get_data():
 
 
 def get_logo(stream):
-    """
-    API里图标字段不固定，这里自动尝试几个常见字段
-    """
     return (
         stream.get("logo")
         or stream.get("poster")
@@ -34,8 +38,26 @@ def get_logo(stream):
     )
 
 
-def build_m3u(data):
-    lines = ["#EXTM3U"]
+def convert_embed(url, base):
+    """
+    把 https://xxxx/embed/abc123
+    转成 base + abc123
+    """
+    if not url:
+        return None
+
+    m = re.search(r'/embed/(.+)', url)
+    if m:
+        return base + m.group(1)
+
+    return None
+
+
+def build_all_versions(data):
+    original = ["#EXTM3U"]
+    public = ["#EXTM3U"]
+    local = ["#EXTM3U"]
+
     total = 0
 
     for cat in data.get("streams", []):
@@ -51,21 +73,37 @@ def build_m3u(data):
 
             total += 1
 
-            # 带图标的EXTINF
             if logo:
                 extinf = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{category}",{name}'
             else:
                 extinf = f'#EXTINF:-1 group-title="{category}",{name}'
 
-            lines.append(extinf)
-            lines.append(iframe)
+            # 原始
+            original.append(extinf)
+            original.append(iframe)
+
+            # 公网
+            public_url = convert_embed(iframe, PUBLIC_BASE)
+            if public_url:
+                public.append(extinf)
+                public.append(public_url)
+
+            # 局域网
+            local_url = convert_embed(iframe, LOCAL_BASE)
+            if local_url:
+                local.append(extinf)
+                local.append(local_url)
 
     print(f"总频道: {total}")
-    return "\n".join(lines)
+    return (
+        "\n".join(original),
+        "\n".join(public),
+        "\n".join(local),
+    )
 
 
 def main():
-    print("PPV IFRAME M3U 生成")
+    print("PPV 自动生成 3版本")
     print(datetime.now())
 
     data = get_data()
@@ -73,12 +111,21 @@ def main():
         print("获取失败")
         return
 
-    m3u = build_m3u(data)
+    original, public, local = build_all_versions(data)
 
-    with open(OUTPUT, "w", encoding="utf-8") as f:
-        f.write(m3u)
+    with open(OUTPUT_ORIGINAL, "w", encoding="utf-8") as f:
+        f.write(original)
 
-    print("已保存:", OUTPUT)
+    with open(OUTPUT_PUBLIC, "w", encoding="utf-8") as f:
+        f.write(public)
+
+    with open(OUTPUT_LOCAL, "w", encoding="utf-8") as f:
+        f.write(local)
+
+    print("已生成:")
+    print(" -", OUTPUT_ORIGINAL)
+    print(" -", OUTPUT_PUBLIC)
+    print(" -", OUTPUT_LOCAL)
 
 
 if __name__ == "__main__":
