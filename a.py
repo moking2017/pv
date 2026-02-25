@@ -40,30 +40,20 @@ def get_logo(stream):
 
 def convert_embed(url, base):
     """
-    通用提取 embed 后面的ID
+    精准提取 /embed/ 后面的真实ID
     适配：
-    /embed/xxx
-    /embed.php?xxx
-    /embed.html?xxx
+    /eu/embed/mlb/xxx
+    /embed/mlb/xxx
     """
     if not url:
         return None
 
-    # 找 embed 后面的内容
-    m = re.search(r'embed[/\.]?(.*)', url)
-    if m:
-        id_part = m.group(1).lstrip('/?')
-        if id_part:
-            return base + id_part
-
-    return None
-
+    # 只截取 embed/ 后面的内容
     m = re.search(r'/embed/(.+)', url)
     if m:
         return base + m.group(1)
 
     return None
-
 
 def build_all_versions(data):
     original = ["#EXTM3U"]
