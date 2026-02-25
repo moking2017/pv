@@ -40,11 +40,23 @@ def get_logo(stream):
 
 def convert_embed(url, base):
     """
-    把 https://xxxx/embed/abc123
-    转成 base + abc123
+    通用提取 embed 后面的ID
+    适配：
+    /embed/xxx
+    /embed.php?xxx
+    /embed.html?xxx
     """
     if not url:
         return None
+
+    # 找 embed 后面的内容
+    m = re.search(r'embed[/\.]?(.*)', url)
+    if m:
+        id_part = m.group(1).lstrip('/?')
+        if id_part:
+            return base + id_part
+
+    return None
 
     m = re.search(r'/embed/(.+)', url)
     if m:
