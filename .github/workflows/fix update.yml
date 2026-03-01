@@ -22,7 +22,7 @@ jobs:
         run: pip install requests
 
       - name: Run rewrite script
-        run: python rewrite.py
+        run: python fixhost.py
 
       - name: Commit and Push
         run: |
