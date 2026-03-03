@@ -1,25 +1,8 @@
 {
-  "generated_at": "2026-03-03T05:48:38.635483",
+  "generated_at": "2026-03-03T06:51:07.652662",
   "total_events": 68,
-  "live_events": 1,
+  "live_events": 0,
   "events": [
-    {
-      "title": "Pumas UNAM vs Toluca",
-      "league": "Liga MX",
-      "time": "04:10",
-      "timestamp": 1772507400000,
-      "logo": "https://api.cdn-live.tv/api/v1/team/images/261000.png",
-      "sources": [
-        {
-          "name": "Tudn 🇺🇸 USA",
-          "channel": "Tudn",
-          "country": "🇺🇸 USA",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free"
-        }
-      ],
-      "live": true
-    },
     {
       "title": "Melbourne City vs Buriram United",
       "league": "AFC Champions League Elite",
@@ -2947,6 +2930,23 @@
           "country": "🇸🇦 Saudi Arabia",
           "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg",
           "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
+    {
+      "title": "Pumas UNAM vs Toluca",
+      "league": "Liga MX",
+      "time": "04:10",
+      "timestamp": 1772507400000,
+      "logo": "https://api.cdn-live.tv/api/v1/team/images/261000.png",
+      "sources": [
+        {
+          "name": "Tudn 🇺🇸 USA",
+          "channel": "Tudn",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free"
         }
       ],
       "live": false
