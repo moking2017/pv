@@ -1,16 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-03 17:42:25
+# PlayTorrio Sports Events - 2026-03-03 18:45:08
 # Total Events: 48
-# Live Events: 9
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-2.svg" group-title="AFC Champions League Elite",[17:00] AFC Champions League Elite - Al Wahda vs Al Ittihad 🔴 - Espn 2 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=espn+2&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="AFC Champions League Elite",[17:00] AFC Champions League Elite - Al Wahda vs Al Ittihad 🔴 - Sport Klub 1 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="AFC Champions League Elite",[17:00] AFC Champions League Elite - Al Wahda vs Al Ittihad 🔴 - Bein Sports 2 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+# Live Events: 10
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Parva Liga",[17:30] Parva Liga - Botev Plovdiv vs Septemvri Sofia 🔴 - Diema Sport 1 🇧🇬 Bulgaria
 http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
@@ -18,29 +9,17 @@ http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=cdnlivetv&plan=fr
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="Parva Liga",[17:30] Parva Liga - Botev Plovdiv vs Septemvri Sofia 🔴 - Sport Klub 3 🇷🇸 Serbia
 http://192.168.2.139:8383/play?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-max.svg" group-title="Serie C",[18:00] Serie C - Ospitaletto vs Pro Patria 🔴 - Sky Sport Max 🇮🇹 Italy
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-max.svg" group-title="Serie C",[18:00] Serie C - Ospitaletto vs Pro Patria 🔴
 http://192.168.2.139:8383/play?name=sky+sport+max&code=it&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-max.svg" group-title="Serie C",[18:00] Serie C - Ospitaletto vs Pro Patria 🔴 - Sky Sport Max 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+max&code=it&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-arena.svg" group-title="Serie C",[18:00] Serie C - Lumezzane vs Union ArzignanoChiampo 🔴 - Sky Sport Arena 🇮🇹 Italy
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-arena.svg" group-title="Serie C",[18:00] Serie C - Lumezzane vs Union ArzignanoChiampo 🔴
 http://192.168.2.139:8383/play?name=sky+sport+arena&code=it&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-arena.svg" group-title="Serie C",[18:00] Serie C - Lumezzane vs Union ArzignanoChiampo 🔴 - Sky Sport Arena 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+arena&code=it&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg" group-title="Serie C",[18:00] Serie C - Pergolettese vs Pro Vercelli 🔴 - Sky Sport Calcio 🇮🇹 Italy
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg" group-title="Serie C",[18:00] Serie C - Pergolettese vs Pro Vercelli 🔴
 http://192.168.2.139:8383/play?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg" group-title="Serie C",[18:00] Serie C - Pergolettese vs Pro Vercelli 🔴 - Sky Sport Calcio 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+calcio&code=it&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Cupa Romaniei",[18:00] Cupa Romaniei - Universitatea Cluj vs Hermannstadt 🔴 - Digi Sport 1 🇷🇴 Romania
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Cupa Romaniei",[18:00] Cupa Romaniei - Universitatea Cluj vs Hermannstadt 🔴
 http://192.168.2.139:8383/play?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Cupa Romaniei",[18:00] Cupa Romaniei - Universitatea Cluj vs Hermannstadt 🔴 - Digi Sport 1 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=digi+sport+1&code=ro&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="Russian Cup",[18:00] Russian Cup - Baltika vs Zenit 🔴 - Match Premier 🇷🇺 Russia
 http://192.168.2.139:8383/play?name=match+premier&code=ru&user=cdnlivetv&plan=free
@@ -48,17 +27,8 @@ http://192.168.2.139:8383/play?name=match+premier&code=ru&user=cdnlivetv&plan=fr
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Russian Cup",[18:00] Russian Cup - Baltika vs Zenit 🔴 - Match Tv 🇷🇺 Russia
 http://192.168.2.139:8383/play?name=match+tv&code=ru&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="Russian Cup",[18:00] Russian Cup - Baltika vs Zenit 🔴 - Match Premier 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+premier&code=ru&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Russian Cup",[18:00] Russian Cup - Baltika vs Zenit 🔴 - Match TV 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+tv&code=ru&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-pls.webp" group-title="DStv Premiership",[18:30] DStv Premiership - Richards Bay vs Kaizer Chiefs 🔴 - Supersport Psl 🇿🇦 South Africa
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-pls.webp" group-title="DStv Premiership",[18:30] DStv Premiership - Richards Bay vs Kaizer Chiefs 🔴
 http://192.168.2.139:8383/play?name=supersport+psl&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-pls.webp" group-title="DStv Premiership",[18:30] DStv Premiership - Richards Bay vs Kaizer Chiefs 🔴 - SuperSport PSL 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+psl&code=za&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg" group-title="Turkish Cup",[18:30] Turkish Cup - Alanyaspor vs Galatasaray 🔴 - Max Sport 3 🇧🇬 Bulgaria
 http://192.168.2.139:8383/play?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
@@ -69,14 +39,41 @@ http://192.168.2.139:8383/play?name=sport+klub+2&code=rs&user=cdnlivetv&plan=fre
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-2.png" group-title="Turkish Cup",[18:30] Turkish Cup - Alanyaspor vs Galatasaray 🔴 - Sport 2 🇮🇱 Israel
 http://192.168.2.139:8383/play?name=sport+2&code=il&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg" group-title="Turkish Cup",[18:30] Turkish Cup - Alanyaspor vs Galatasaray 🔴 - Max Sport 3 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+3&code=bg&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sport-1.svg" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal 🔴 - Sport 1 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sport+1&code=de&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-2.png.webp" group-title="Turkish Cup",[18:30] Turkish Cup - Alanyaspor vs Galatasaray 🔴 - Sport Klub 2 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+2&code=rs&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-3.svg" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal 🔴 - Espn 3 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=espn+3&code=nl&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-2.png" group-title="Turkish Cup",[18:30] Turkish Cup - Alanyaspor vs Galatasaray 🔴 - Sport 2 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+2&code=il&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal 🔴 - Sport Klub 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-3.svg" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal 🔴 - Espn 3 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=espn+3&code=br&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal 🔴 - Bein Sports 2 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sport-1.svg" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal 🔴 - Sport 1 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sport+1&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-3.svg" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal 🔴 - ESPN 3 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=espn+3&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal 🔴 - Sport Klub 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-3.svg" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal 🔴 - ESPN 3 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=espn+3&code=br&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal 🔴 - beIN SPORTS 2 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-6.svg" group-title="AFC Champions League Two",[19:15] AFC Champions League Two - Al Ahli vs Al Hussein 🔴 - Bein Sports 6 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+6&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-6.svg" group-title="AFC Champions League Two",[19:15] AFC Champions League Two - Al Ahli vs Al Hussein 🔴 - beIN SPORTS 6 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+6&code=sa&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="AFC Champions League Elite",[08:45] AFC Champions League Elite - Melbourne City vs Buriram United - Sport Klub 3 🇷🇸 Serbia
 http://192.168.2.139:8383/play?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
@@ -111,23 +108,14 @@ http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=cdnlivetv&plan=fr
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-2.png.webp" group-title="Parva Liga",[15:00] Parva Liga - Beroe vs Slavia Sofia - Sport Klub 2 🇷🇸 Serbia
 http://192.168.2.139:8383/play?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sport-1.svg" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal - Sport 1 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sport+1&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-2.svg" group-title="AFC Champions League Elite",[17:00] AFC Champions League Elite - Al Wahda vs Al Ittihad - Espn 2 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=espn+2&code=nl&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-3.svg" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal - Espn 3 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=espn+3&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal - Sport Klub 1 🇷🇸 Serbia
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="AFC Champions League Elite",[17:00] AFC Champions League Elite - Al Wahda vs Al Ittihad - Sport Klub 1 🇷🇸 Serbia
 http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-3.svg" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal - Espn 3 🇧🇷 Brazil
-http://192.168.2.139:8383/play?name=espn+3&code=br&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="AFC Champions League Elite",[19:15] AFC Champions League Elite - Al Sadd vs Al Hilal - Bein Sports 2 🇸🇦 Saudi Arabia
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="AFC Champions League Elite",[17:00] AFC Champions League Elite - Al Wahda vs Al Ittihad - Bein Sports 2 🇸🇦 Saudi Arabia
 http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-6.svg" group-title="AFC Champions League Two",[19:15] AFC Champions League Two - Al Ahli vs Al Hussein
-http://192.168.2.139:8383/play?name=bein+sports+6&code=sa&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="KNVB Beker",[20:00] KNVB Beker - NEC vs PSV - Sportdigital Fussball 🇩🇪 Germany
 http://192.168.2.139:8383/play?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
