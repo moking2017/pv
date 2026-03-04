@@ -1,109 +1,724 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-04 17:37:45
+# PlayTorrio Sports Events - 2026-03-04 20:30:52
 # Total Events: 65
-# Live Events: 15
+# Live Events: 26
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[16:00] Serie C - Cittadella vs Inter II 🔴
-http://192.168.2.139:8383/play?name=sky+sport+254&code=it&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-1.svg" group-title="Super League",[19:00] Super League - Kifisia vs PAOK 🔴 - Cosmote Sport 1 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[16:00] Serie C - Albinoleffe vs Union Brescia 🔴
-http://192.168.2.139:8383/play?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/nova-sport.png" group-title="Super League",[19:00] Super League - Kifisia vs PAOK 🔴 - Nova Sport 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=nova+sport&code=bg&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Russian Cup",[16:30] Russian Cup - Rostov vs Dynamo Makhachkala 🔴
-http://192.168.2.139:8383/play?name=match+tv&code=ru&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Bein Sports 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="Russian Cup",[16:30] Russian Cup - Krylya Sovetov vs Orenburg 🔴
-http://192.168.2.139:8383/play?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/la-liga-tv.svg" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Laliga Tv 🇬🇧 UK
+http://192.168.2.139:8383/play?name=laliga+tv&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Cupa Romaniei",[16:30] Cupa Romaniei - SCM Argeşul Piteşti vs Gloria Bistriţa 🔴 - Digi Sport 1 🇷🇴 Romania
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-laliga.webp" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Supersport Laliga 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-laliga.png" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Dazn Laliga 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=dazn+laliga&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Dazn 2 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=dazn+2&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Dazn 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-prime.png" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Nova Sports Prime 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Match Football 3 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Arena Sport 1 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-4.png" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Nova Sport 4 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=nova+sport+4&code=cz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-3.svg" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Espn 3 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn+3&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-2.png" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Digi Sport 2 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Prima Sport 2 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Bein Sports 3 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo 🔴 - Bein Sports 8 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/canal-11.png" group-title="AFC Champions League Two",[19:15] AFC Champions League Two - Al Wasl vs Al Nassr 🔴 - Canal 11 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=canal+11&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-2.svg" group-title="AFC Champions League Two",[19:15] AFC Champions League Two - Al Wasl vs Al Nassr 🔴 - Espn 2 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=espn+2&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="AFC Champions League Two",[19:15] AFC Champions League Two - Al Wasl vs Al Nassr 🔴 - Bein Sports 2 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Cupa Romaniei",[19:30] Cupa Romaniei - CSU Craiova vs CFR Cluj 🔴 - Digi Sport 1 🇷🇴 Romania
 http://192.168.2.139:8383/play?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-1.svg" group-title="Cupa Romaniei",[16:30] Cupa Romaniei - SCM Argeşul Piteşti vs Gloria Bistriţa 🔴 - Prima Sport 1 🇷🇴 Romania
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-1.svg" group-title="Cupa Romaniei",[19:30] Cupa Romaniei - CSU Craiova vs CFR Cluj 🔴 - Prima Sport 1 🇷🇴 Romania
 http://192.168.2.139:8383/play?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-2.webp" group-title="Super League",[17:00] Super League - Panathinaikos vs OFI 🔴
-http://192.168.2.139:8383/play?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="Serie B",[20:00] Serie B - Bari 1908 vs Empoli 🔴
+http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg" group-title="Puchar Polski",[17:30] Puchar Polski - Zawisza Bydgoszcz vs Chojniczanka Chojnice 🔴
-http://192.168.2.139:8383/play?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-live.png" group-title="Serie B",[20:00] Serie B - Palermo vs Mantova 🔴
+http://192.168.2.139:8383/play?name=sport+5+live&code=il&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Parva Liga",[17:30] Parva Liga - CSKA Sofia vs Botev Vratsa 🔴 - Diema Sport 1 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="KNVB Beker",[20:00] KNVB Beker - AZ vs Telstar 🔴 - Sportdigital Fussball 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Parva Liga",[17:30] Parva Liga - CSKA Sofia vs Botev Vratsa 🔴 - Sport Klub 1 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="KNVB Beker",[20:00] KNVB Beker - AZ vs Telstar 🔴 - Espn 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=espn&code=nl&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-10.webp" group-title="Serbian Cup",[18:00] Serbian Cup - Grafičar vs Mačva Šabac 🔴 - Arena Sport 10 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+sport+10&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/ring.png" group-title="KNVB Beker",[20:00] KNVB Beker - AZ vs Telstar 🔴 - Ring 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=ring&code=bg&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Serbian Cup",[18:00] Serbian Cup - Grafičar vs Mačva Šabac 🔴 - Arena 1 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-1.png" group-title="Premier League",[20:30] Premier League - Simulcast vs Simulcast 🔴 - Hub Premier 1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-10.webp" group-title="Serbian Cup",[18:00] Serbian Cup - Grafičar vs Mačva Šabac 🔴 - Arena Sport 10 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+sport+10&code=rs&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-8.png" group-title="Premier League",[20:30] Premier League - Simulcast vs Simulcast 🔴 - Sky Sport 8 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+8&code=nz&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Serbian Cup",[18:00] Serbian Cup - Grafičar vs Mačva Šabac 🔴 - Arena 1 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-fr.webp" group-title="Premier League",[20:30] Premier League - Simulcast vs Simulcast 🔴 - Canal 🇫🇷 France
+http://192.168.2.139:8383/play?name=canal&code=fr&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Gubbio vs Athletic Carpi 🔴 - Sky Sport 253 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+253&code=it&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-1.png" group-title="Premier League",[20:30] Premier League - Simulcast vs Simulcast 🔴 - Sport 1 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+1&code=il&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-max.svg" group-title="Serie C",[18:00] Serie C - Gubbio vs Athletic Carpi 🔴 - Sky Sport Max 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+max&code=it&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-4.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest 🔴 - Hub Premier 4 🇬🇧 UK
+http://192.168.2.139:8383/play?name=hub+premier+4&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Gubbio vs Athletic Carpi 🔴 - Sky Sport 253 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+253&code=it&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-4.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest 🔴 - Tnt Sports 4 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-max.svg" group-title="Serie C",[18:00] Serie C - Gubbio vs Athletic Carpi 🔴 - Sky Sport Max 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+max&code=it&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest 🔴 - Sky Sport 3 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Pontedera vs Juventus II 🔴 - Sky Sport 251 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg" group-title="Serie C",[18:00] Serie C - Pontedera vs Juventus II 🔴 - Sky Sport Uno 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Pontedera vs Juventus II 🔴 - Sky Sport 251 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+251&code=it&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg" group-title="Serie C",[18:00] Serie C - Pontedera vs Juventus II 🔴 - Sky Sport Uno 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+uno&code=it&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Vis Pesaro vs Bra 🔴 - Sky Sport 252 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg" group-title="Serie C",[18:00] Serie C - Vis Pesaro vs Bra 🔴 - Sky Sport Calcio 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Vis Pesaro vs Bra 🔴 - Sky Sport 252 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+252&code=it&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg" group-title="Serie C",[18:00] Serie C - Vis Pesaro vs Bra 🔴 - Sky Sport Calcio 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+calcio&code=it&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="Turkish Cup",[18:30] Turkish Cup - Beşiktaş vs Rizespor 🔴 - Max Sport 4 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="Turkish Cup",[18:30] Turkish Cup - Beşiktaş vs Rizespor 🔴 - Max Sport 4 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+4&code=bg&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg" group-title="Turkish Cup",[18:30] Turkish Cup - Gaziantep FK vs Fenerbahçe 🔴 - Max Sport 1 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+1&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-3.png" group-title="Turkish Cup",[18:30] Turkish Cup - Gaziantep FK vs Fenerbahçe 🔴 - Sport 3 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+3&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg" group-title="Turkish Cup",[18:30] Turkish Cup - Gaziantep FK vs Fenerbahçe 🔴 - Max Sport 1 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+1&code=bg&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-3.png" group-title="Turkish Cup",[18:30] Turkish Cup - Gaziantep FK vs Fenerbahçe 🔴 - Sport 3 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+3&code=il&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-variety-3.webp" group-title="DStv Premiership",[18:30] DStv Premiership - Mamelodi Sundowns vs Golden Arrows 🔴 - Supersport Variety 3 🇿🇦 South Africa
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-variety-3.webp" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest 🔴 - Supersport Variety 3 🇿🇦 South Africa
 http://192.168.2.139:8383/play?name=supersport+variety+3&code=za&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-variety-3.webp" group-title="DStv Premiership",[18:30] DStv Premiership - Mamelodi Sundowns vs Golden Arrows 🔴 - SuperSport Variety 3 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+variety+3&code=za&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-2.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest 🔴 - Dazn 2 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=dazn+2&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest 🔴 - M Liga De Campeones 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/vamos-spain.svg" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest 🔴 - Vamos Spain 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=vamos+spain&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-2.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest 🔴 - Dazn 2 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+2&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-premier-league.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest 🔴 - Nova Sports Premier League 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+premier+league&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-max.webp" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest 🔴 - Tv3 Max 🇩🇰 Denmark
+http://192.168.2.139:8383/play?name=tv3+max&code=dk&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/nova-sport.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest 🔴 - Nova Sport 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=nova+sport&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest 🔴 - Bein Sports 2 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Bein Sports Mena 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-6.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Hub Premier 6 🇬🇧 UK
+http://192.168.2.139:8383/play?name=hub+premier+6&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Tnt Sports 2 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Sky Sport 2 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/canal-sport-africa-3.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Canal Sport 3 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=canal+sport+3&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-premier-league.webp" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Supersport Premier League 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Supersport Grandstand 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Canal Sport 🇫🇷 France
+http://192.168.2.139:8383/play?name=canal+sport&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-1.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Dazn 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=dazn+1&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/italia-1.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Italia 1 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=italia+1&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Sky Sport 251 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-3.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Dazn 3 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+3&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-2.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Nova Sports 2 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+2&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-2.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Diema Sport 2 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Arena 1 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-premium.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - V Sport Premium 🇸🇪 Sweden
+http://192.168.2.139:8383/play?name=v+sport+premium&code=se&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-2.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Espn 2 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn+2&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-2.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Sport 2 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+2&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal 🔴 - Bein Sports 4 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-5.png" group-title="Premier League",[20:30] Premier League - Fulham vs West Ham United 🔴 - Hub Premier 5 🇬🇧 UK
+http://192.168.2.139:8383/play?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-5.png" group-title="Premier League",[20:30] Premier League - Fulham vs West Ham United 🔴 - Sky Sport 5 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-football.webp" group-title="Premier League",[20:30] Premier League - Fulham vs West Ham United 🔴 - Supersport Football 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+football&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-start.png" group-title="Premier League",[20:30] Premier League - Fulham vs West Ham United 🔴 - Nova Sports Start 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp" group-title="Premier League",[20:30] Premier League - Fulham vs West Ham United 🔴 - Arena Sport 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-6.svg" group-title="Premier League",[20:30] Premier League - Fulham vs West Ham United 🔴 - Bein Sports 6 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+6&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/usa-network.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Usa Network 🇺🇸 USA
+http://192.168.2.139:8383/play?name=usa+network&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nbc.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Nbc 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nbc&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-premier-league-2.webp" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Astro Premier League 2 🇺🇸 USA
+http://192.168.2.139:8383/play?name=astro+premier+league+2&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-3.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Hub Premier 3 🇬🇧 UK
+http://192.168.2.139:8383/play?name=hub+premier+3&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Tnt Sports 3 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Sky Sport 4 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Supersport Action 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+action&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport-360.svg" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Canal Sport360 🇫🇷 France
+http://192.168.2.139:8383/play?name=canal+sport360&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-3.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Dazn 3 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=dazn+3&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-4.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Dazn 4 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+4&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-4.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Nova Sports 4 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+4&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-plus.webp" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Tv3 Puls 🇩🇰 Denmark
+http://192.168.2.139:8383/play?name=tv3+puls&code=dk&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/austria/sky-sport-1.svg" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Sky Sport 1 🇦🇹 Austria
+http://192.168.2.139:8383/play?name=sky+sport+1&code=at&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-3.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Diema Sport 3 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/cyprus/cytavision-sports-2.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Cytavision Sports 2 CY
+http://192.168.2.139:8383/play?name=cytavision+sports+2&code=cy&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/canal-sport.svg" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Canal Sport 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=canal+sport&code=cz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn.svg" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Espn 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=espn&code=br&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn.svg" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Espn 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-3.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Sport 3 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+3&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea 🔴 - Bein Sports 3 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Bein Sports 3 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Bein Sports Max 4 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-1.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Sky Sport Bundesliga 1 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+bundesliga+1&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Sky Sport Top Event 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-3.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Nova Sports 3 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+3&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-sport.webp" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Tv3 Sport 🇩🇰 Denmark
+http://192.168.2.139:8383/play?name=tv3+sport&code=dk&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/eleven-sport-2.svg" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Eleven Sports 2 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=eleven+sports+2&code=pl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Diema Sport 1 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-6.webp" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Arena Sport 6 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+6&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Sport Klub 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-3.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Nova Sport 3 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/sportv-1.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Sportv 1 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=sportv+1&code=br&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-3.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Digi Sport 3 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-4.svg" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen 🔴 - Prima Sport 4 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=prima+sport+4&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-2.svg" group-title="Coupe de France",[20:30] Coupe de France - Lorient vs Nice 🔴 - Bein Sports 2 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-xtra.webp" group-title="Coupe de France",[20:30] Coupe de France - Lorient vs Nice 🔴 - Bein Sports Xtra 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-5.svg" group-title="Coupe de France",[20:30] Coupe de France - Lorient vs Nice 🔴 - Sport Tv 5 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+5&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-2.png" group-title="Coupe de France",[20:30] Coupe de France - Lorient vs Nice 🔴 - Nova Sport 2 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=nova+sport+2&code=cz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-6.svg" group-title="Coupe de France",[20:30] Coupe de France - Lorient vs Nice 🔴 - Bein Sports 6 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+6&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg" group-title="Puchar Polski",[20:30] Puchar Polski - Lech Poznań vs Górnik Zabrze 🔴
+http://192.168.2.139:8383/play?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Livorno vs Perugia 🔴
+http://192.168.2.139:8383/play?name=sky+sport+254&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Sassari Torres vs Nuova Monterosi 🔴
+http://192.168.2.139:8383/play?name=sky+sport+255&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Ravenna vs Pianese 🔴
+http://192.168.2.139:8383/play?name=sky+sport+253&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Pineto vs Forlì 🔴
+http://192.168.2.139:8383/play?name=sky+sport+256&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg" group-title="Serie C",[20:30] Serie C - Arezzo vs Ternana 🔴
+http://192.168.2.139:8383/play?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[21:00] Serie C - Sambenedettese vs Ascoli 🔴 - Sky Sport 252 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/rai-sport.webp" group-title="Serie C",[21:00] Serie C - Sambenedettese vs Ascoli 🔴 - Rai Sport 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=rai+sport&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[21:00] Serie C - Sambenedettese vs Ascoli 🔴 - Sky Sport 252 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+252&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/rai-sport.webp" group-title="Serie C",[21:00] Serie C - Sambenedettese vs Ascoli 🔴 - Rai Sport 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=rai+sport&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-football.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Sky Sports Football 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+football&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Sky Sports Main Event 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sport-1.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Sport 1 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sport+1&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-4.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Sport Tv 4 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+4&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-3.webp" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Cosmote Sport 3 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Polsat Sport 2 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/ring.png" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Ring 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=ring&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-8.webp" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Arena Sport 8 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+8&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-plus.png" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Sport 5 Plus 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-football.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Sky Sports Football 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+football&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Sky Sports Main Event 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+main+event&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sport-1.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Sport 1 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sport+1&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-4.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Sport TV 4 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+4&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-3.webp" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Cosmote Sport 3 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+3&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Polsat Sport 2 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=polsat+sport+2&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/ring.png" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Ring 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=ring&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-8.webp" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Arena Sport 8 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+8&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-plus.png" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic 🔴 - Sport 5 Plus 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5+plus&code=il&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Viaplay Sports 1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Premier Sports 1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-1.png" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Dazn 1 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=dazn+1&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Sport Tv 2 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.png" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Ziggo Sport 2 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-1.png" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Nova Sports 1 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+1&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Polsat Sport 2 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-1.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Match Football 1 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+football+1&code=ru&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Max Sport 3 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-3.webp" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Arena Sport 3 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-4.webp" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Arena Sport 4 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/trt-spor.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Trt Spor 🇹🇷 Turkey
+http://192.168.2.139:8383/play?name=trt+spor&code=tr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Viaplay Sports 1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=viaplay+sports+1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Premier Sports 1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=premier+sports+1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-1.png" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - DAZN 1 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=dazn+1&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Sport TV 2 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.png" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Ziggo Sport 2 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+2&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-1.png" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Nova Sports 1 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+1&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Polsat Sport 2 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=polsat+sport+2&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-1.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Match Football 1 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+football+1&code=ru&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Max Sport 3 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+3&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-3.webp" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Arena Sport 3 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+3&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-4.webp" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - Arena Sport 4 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+4&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/trt-spor.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta 🔴 - TRT Spor 🇹🇷 Turkey
+http://192.168.2.139:8383/play?name=trt+spor&code=tr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/itv-4.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Itv 4 🇬🇧 UK
+http://192.168.2.139:8383/play?name=itv+4&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/tve-la-1.webp" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Tve La 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=tve+la+1&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/m-laliga-tv-1.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - M Laliga 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+laliga&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Dazn 2 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=dazn+2&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Sport Tv 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Ziggo Sport 1 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/eleven-sport-1.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Eleven Sports 1 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Match Tv 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+tv&code=ru&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-2.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Match Football 2 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+football+2&code=ru&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Max Sport 4 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Arena 2 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-3.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Espn 3 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=espn+3&code=br&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-2.png" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Digi Sport 2 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Prima Sport 2 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/itv-4.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - ITV 4 🇬🇧 UK
+http://192.168.2.139:8383/play?name=itv+4&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/tve-la-1.webp" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - TVE La 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=tve+la+1&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/m-laliga-tv-1.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - M LALIGA 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+laliga&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - DAZN 2 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=dazn+2&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Sport TV 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Ziggo Sport 1 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+1&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/eleven-sport-1.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Eleven Sports 1 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=eleven+sports+1&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Match TV 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+tv&code=ru&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-2.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Match Football 2 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+football+2&code=ru&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Max Sport 4 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+4&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Arena 2 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-3.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - ESPN 3 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=espn+3&code=br&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-2.png" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Digi Sport 2 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=digi+sport+2&code=ro&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club 🔴 - Prima Sport 2 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=prima+sport+2&code=ro&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse 🔴 - Fox Sports 2 🇺🇸 USA
+http://192.168.2.139:8383/play?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse 🔴 - Bein Sports 1 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-3.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse 🔴 - Sport Tv 3 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse 🔴 - Max Sport 2 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-1.png" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse 🔴 - Nova Sport 1 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=nova+sport+1&code=cz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse 🔴 - Bein Sports 8 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse 🔴 - FOX Sports 2 🇺🇸 USA
+http://192.168.2.139:8383/play?name=fox+sports+2&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse 🔴 - beIN SPORTS 1 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-3.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse 🔴 - Sport TV 3 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+3&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse 🔴 - Max Sport 2 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-1.png" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse 🔴 - Nova Sport 1 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=nova+sport+1&code=cz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse 🔴 - beIN SPORTS 8 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-premier-league.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Astro Premier League 🇺🇸 USA
+http://192.168.2.139:8383/play?name=astro+premier+league&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-grandstand.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Astro Grandstand 🇺🇸 USA
+http://192.168.2.139:8383/play?name=astro+grandstand&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Tnt Sports 1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Sky Sport 1 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-8.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Sky Sport 8 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+8&code=nz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/canal-sport-africa-4.svg" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Canal Sport 4 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=canal+sport+4&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-maximo-1.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Supersport Maximo 1 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-pls.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Supersport Psl 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+psl&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-foot.svg" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Canal Foot 🇫🇷 France
+http://192.168.2.139:8383/play?name=canal+foot&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-4.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Dazn 4 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=dazn+4&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Sky Sport Mix 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Dazn 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-prime.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Nova Sports Prime 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/see.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - See 🇩🇰 Denmark
+http://192.168.2.139:8383/play?name=see&code=dk&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Diema Sport 1 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Arena 3 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Arena Sport 1 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-4.svg" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Espn 4 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=espn+4&code=br&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-4.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Sport 4 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+4&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-1.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Bein Sports 1 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-premier-league.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Astro Premier League 🇺🇸 USA
+http://192.168.2.139:8383/play?name=astro+premier+league&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-grandstand.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Astro Grandstand 🇺🇸 USA
+http://192.168.2.139:8383/play?name=astro+grandstand&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - TNT Sports 1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Sky Sport 1 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+1&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-8.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Sky Sport 8 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+8&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/canal-sport-africa-4.svg" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Canal Sport 4 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=canal+sport+4&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-maximo-1.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - SuperSport Maximo 1 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+maximo+1&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-pls.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - SuperSport PSL 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+psl&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-foot.svg" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Canal Foot 🇫🇷 France
+http://192.168.2.139:8383/play?name=canal+foot&code=fr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-4.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - DAZN 4 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=dazn+4&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Sky Sport Mix 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - DAZN 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+1&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-prime.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Nova Sports Prime 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+prime&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/see.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - See 🇩🇰 Denmark
+http://192.168.2.139:8383/play?name=see&code=dk&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Diema Sport 1 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Arena 3 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+3+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Arena Sport 1 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-4.svg" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - ESPN 4 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=espn+4&code=br&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-4.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - Sport 4 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+4&code=il&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-1.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United 🔴 - beIN SPORTS 1 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+1&code=sa&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-football.webp" group-title="AFC Champions League Elite",[11:00] AFC Champions League Elite - Seoul vs Vissel Kobe - Astro Football 🇺🇸 USA
 http://192.168.2.139:8383/play?name=astro+football&code=us&user=cdnlivetv&plan=free
@@ -156,539 +771,77 @@ http://192.168.2.139:8383/play?name=arena+sport+10&code=rs&user=cdnlivetv&plan=f
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Serbian Cup",[15:30] Serbian Cup - Vojvodina vs Trajal Krusevac - Arena 1 Premium 🇷🇸 Serbia
 http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[16:00] Serie C - Cittadella vs Inter II
+http://192.168.2.139:8383/play?name=sky+sport+254&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[16:00] Serie C - Albinoleffe vs Union Brescia
+http://192.168.2.139:8383/play?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Russian Cup",[16:30] Russian Cup - Rostov vs Dynamo Makhachkala
+http://192.168.2.139:8383/play?name=match+tv&code=ru&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="Russian Cup",[16:30] Russian Cup - Krylya Sovetov vs Orenburg
+http://192.168.2.139:8383/play?name=match+premier&code=ru&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Cupa Romaniei",[16:30] Cupa Romaniei - SCM Argeşul Piteşti vs Gloria Bistriţa - Digi Sport 1 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-1.svg" group-title="Cupa Romaniei",[16:30] Cupa Romaniei - SCM Argeşul Piteşti vs Gloria Bistriţa - Prima Sport 1 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-2.webp" group-title="Super League",[17:00] Super League - Panathinaikos vs OFI
+http://192.168.2.139:8383/play?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg" group-title="Puchar Polski",[17:30] Puchar Polski - Zawisza Bydgoszcz vs Chojniczanka Chojnice
+http://192.168.2.139:8383/play?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Parva Liga",[17:30] Parva Liga - CSKA Sofia vs Botev Vratsa - Diema Sport 1 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Parva Liga",[17:30] Parva Liga - CSKA Sofia vs Botev Vratsa - Sport Klub 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-10.webp" group-title="Serbian Cup",[18:00] Serbian Cup - Grafičar vs Mačva Šabac - Arena Sport 10 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+10&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Serbian Cup",[18:00] Serbian Cup - Grafičar vs Mačva Šabac - Arena 1 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Gubbio vs Athletic Carpi - Sky Sport 253 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+253&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-max.svg" group-title="Serie C",[18:00] Serie C - Gubbio vs Athletic Carpi - Sky Sport Max 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+max&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Pontedera vs Juventus II - Sky Sport 251 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg" group-title="Serie C",[18:00] Serie C - Pontedera vs Juventus II - Sky Sport Uno 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Vis Pesaro vs Bra - Sky Sport 252 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg" group-title="Serie C",[18:00] Serie C - Vis Pesaro vs Bra - Sky Sport Calcio 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="Turkish Cup",[18:30] Turkish Cup - Beşiktaş vs Rizespor
+http://192.168.2.139:8383/play?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg" group-title="Turkish Cup",[18:30] Turkish Cup - Gaziantep FK vs Fenerbahçe - Max Sport 1 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+1&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-3.png" group-title="Turkish Cup",[18:30] Turkish Cup - Gaziantep FK vs Fenerbahçe - Sport 3 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+3&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-variety-3.webp" group-title="DStv Premiership",[18:30] DStv Premiership - Mamelodi Sundowns vs Golden Arrows
+http://192.168.2.139:8383/play?name=supersport+variety+3&code=za&user=cdnlivetv&plan=free
+
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="Russian Cup",[18:45] Russian Cup - CSKA Moskva vs Krasnodar - Match Premier 🇷🇺 Russia
 http://192.168.2.139:8383/play?name=match+premier&code=ru&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Russian Cup",[18:45] Russian Cup - CSKA Moskva vs Krasnodar - Match Tv 🇷🇺 Russia
 http://192.168.2.139:8383/play?name=match+tv&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-1.svg" group-title="Super League",[19:00] Super League - Kifisia vs PAOK - Cosmote Sport 1 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/nova-sport.png" group-title="Super League",[19:00] Super League - Kifisia vs PAOK - Nova Sport 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=nova+sport&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Bein Sports 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/la-liga-tv.svg" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Laliga Tv 🇬🇧 UK
-http://192.168.2.139:8383/play?name=laliga+tv&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-laliga.webp" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Supersport Laliga 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-laliga.png" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Dazn Laliga 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=dazn+laliga&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Dazn 2 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=dazn+2&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Dazn 1 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=dazn+1&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-prime.png" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Nova Sports Prime 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Match Football 3 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Arena Sport 1 🇭🇷 Croatia
-http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-4.png" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Nova Sport 4 🇨🇿 Czech Republic
-http://192.168.2.139:8383/play?name=nova+sport+4&code=cz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-3.svg" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Espn 3 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn+3&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-2.png" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Digi Sport 2 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Prima Sport 2 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Bein Sports 3 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="La Liga",[19:00] La Liga - Rayo Vallecano vs Real Oviedo - Bein Sports 8 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/canal-11.png" group-title="AFC Champions League Two",[19:15] AFC Champions League Two - Al Wasl vs Al Nassr - Canal 11 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=canal+11&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-2.svg" group-title="AFC Champions League Two",[19:15] AFC Champions League Two - Al Wasl vs Al Nassr - Espn 2 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=espn+2&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="AFC Champions League Two",[19:15] AFC Champions League Two - Al Wasl vs Al Nassr - Bein Sports 2 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Cupa Romaniei",[19:30] Cupa Romaniei - CSU Craiova vs CFR Cluj - Digi Sport 1 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-1.svg" group-title="Cupa Romaniei",[19:30] Cupa Romaniei - CSU Craiova vs CFR Cluj - Prima Sport 1 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="Serie B",[20:00] Serie B - Bari 1908 vs Empoli
-http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-live.png" group-title="Serie B",[20:00] Serie B - Palermo vs Mantova
-http://192.168.2.139:8383/play?name=sport+5+live&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="KNVB Beker",[20:00] KNVB Beker - AZ vs Telstar - Sportdigital Fussball 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="KNVB Beker",[20:00] KNVB Beker - AZ vs Telstar - Espn 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=espn&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/ring.png" group-title="KNVB Beker",[20:00] KNVB Beker - AZ vs Telstar - Ring 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=ring&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-1.png" group-title="Premier League",[20:30] Premier League - Simulcast vs Simulcast - Hub Premier 1 🇬🇧 UK
-http://192.168.2.139:8383/play?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-8.png" group-title="Premier League",[20:30] Premier League - Simulcast vs Simulcast - Sky Sport 8 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+8&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-fr.webp" group-title="Premier League",[20:30] Premier League - Simulcast vs Simulcast - Canal 🇫🇷 France
-http://192.168.2.139:8383/play?name=canal&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-1.png" group-title="Premier League",[20:30] Premier League - Simulcast vs Simulcast - Sport 1 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+1&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-4.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest - Hub Premier 4 🇬🇧 UK
-http://192.168.2.139:8383/play?name=hub+premier+4&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-4.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest - Tnt Sports 4 🇬🇧 UK
-http://192.168.2.139:8383/play?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest - Sky Sport 3 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-variety-3.webp" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest - Supersport Variety 3 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+variety+3&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-2.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest - Dazn 2 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=dazn+2&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest - M Liga De Campeones 1 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/vamos-spain.svg" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest - Vamos Spain 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=vamos+spain&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-2.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest - Dazn 2 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=dazn+2&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-premier-league.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest - Nova Sports Premier League 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=nova+sports+premier+league&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-max.webp" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest - Tv3 Max 🇩🇰 Denmark
-http://192.168.2.139:8383/play?name=tv3+max&code=dk&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/nova-sport.png" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest - Nova Sport 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=nova+sport&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="Premier League",[20:30] Premier League - Manchester City vs Nottingham Forest - Bein Sports 2 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Bein Sports Mena 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-6.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Hub Premier 6 🇬🇧 UK
-http://192.168.2.139:8383/play?name=hub+premier+6&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Tnt Sports 2 🇬🇧 UK
-http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Sky Sport 2 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/canal-sport-africa-3.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Canal Sport 3 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=canal+sport+3&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-premier-league.webp" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Supersport Premier League 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Supersport Grandstand 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Canal Sport 🇫🇷 France
-http://192.168.2.139:8383/play?name=canal+sport&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-1.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Dazn 1 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=dazn+1&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/italia-1.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Italia 1 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=italia+1&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Sky Sport 251 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-3.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Dazn 3 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=dazn+3&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-2.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Nova Sports 2 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=nova+sports+2&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-2.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Diema Sport 2 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Arena 1 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-premium.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - V Sport Premium 🇸🇪 Sweden
-http://192.168.2.139:8383/play?name=v+sport+premium&code=se&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-2.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Espn 2 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn+2&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-2.png" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Sport 2 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+2&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg" group-title="Premier League",[20:30] Premier League - Brighton & Hove Albion vs Arsenal - Bein Sports 4 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-5.png" group-title="Premier League",[20:30] Premier League - Fulham vs West Ham United - Hub Premier 5 🇬🇧 UK
-http://192.168.2.139:8383/play?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-5.png" group-title="Premier League",[20:30] Premier League - Fulham vs West Ham United - Sky Sport 5 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-football.webp" group-title="Premier League",[20:30] Premier League - Fulham vs West Ham United - Supersport Football 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+football&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-start.png" group-title="Premier League",[20:30] Premier League - Fulham vs West Ham United - Nova Sports Start 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp" group-title="Premier League",[20:30] Premier League - Fulham vs West Ham United - Arena Sport 1 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-6.svg" group-title="Premier League",[20:30] Premier League - Fulham vs West Ham United - Bein Sports 6 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+6&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/usa-network.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Usa Network 🇺🇸 USA
-http://192.168.2.139:8383/play?name=usa+network&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nbc.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Nbc 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nbc&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-premier-league-2.webp" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Astro Premier League 2 🇺🇸 USA
-http://192.168.2.139:8383/play?name=astro+premier+league+2&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-3.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Hub Premier 3 🇬🇧 UK
-http://192.168.2.139:8383/play?name=hub+premier+3&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Tnt Sports 3 🇬🇧 UK
-http://192.168.2.139:8383/play?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Sky Sport 4 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Supersport Action 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+action&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport-360.svg" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Canal Sport360 🇫🇷 France
-http://192.168.2.139:8383/play?name=canal+sport360&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-3.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Dazn 3 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=dazn+3&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-4.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Dazn 4 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=dazn+4&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-4.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Nova Sports 4 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=nova+sports+4&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-plus.webp" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Tv3 Puls 🇩🇰 Denmark
-http://192.168.2.139:8383/play?name=tv3+puls&code=dk&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/austria/sky-sport-1.svg" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Sky Sport 1 🇦🇹 Austria
-http://192.168.2.139:8383/play?name=sky+sport+1&code=at&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-3.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Diema Sport 3 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/cyprus/cytavision-sports-2.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Cytavision Sports 2 CY
-http://192.168.2.139:8383/play?name=cytavision+sports+2&code=cy&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/canal-sport.svg" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Canal Sport 🇨🇿 Czech Republic
-http://192.168.2.139:8383/play?name=canal+sport&code=cz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn.svg" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Espn 🇧🇷 Brazil
-http://192.168.2.139:8383/play?name=espn&code=br&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn.svg" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Espn 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-3.png" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Sport 3 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+3&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="Premier League",[20:30] Premier League - Aston Villa vs Chelsea - Bein Sports 3 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Bein Sports 3 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Bein Sports Max 4 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-1.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Sky Sport Bundesliga 1 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+bundesliga+1&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Sky Sport Top Event 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-3.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Nova Sports 3 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=nova+sports+3&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-sport.webp" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Tv3 Sport 🇩🇰 Denmark
-http://192.168.2.139:8383/play?name=tv3+sport&code=dk&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/eleven-sport-2.svg" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Eleven Sports 2 🇵🇱 Poland
-http://192.168.2.139:8383/play?name=eleven+sports+2&code=pl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Diema Sport 1 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-6.webp" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Arena Sport 6 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+sport+6&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Sport Klub 1 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-3.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Nova Sport 3 🇨🇿 Czech Republic
-http://192.168.2.139:8383/play?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/sportv-1.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Sportv 1 🇧🇷 Brazil
-http://192.168.2.139:8383/play?name=sportv+1&code=br&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-3.png" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Digi Sport 3 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-4.svg" group-title="Bundesliga",[20:30] Bundesliga - Hamburger SV vs Bayer Leverkusen - Prima Sport 4 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=prima+sport+4&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-2.svg" group-title="Coupe de France",[20:30] Coupe de France - Lorient vs Nice - Bein Sports 2 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-xtra.webp" group-title="Coupe de France",[20:30] Coupe de France - Lorient vs Nice - Bein Sports Xtra 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-5.svg" group-title="Coupe de France",[20:30] Coupe de France - Lorient vs Nice - Sport Tv 5 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+5&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-2.png" group-title="Coupe de France",[20:30] Coupe de France - Lorient vs Nice - Nova Sport 2 🇨🇿 Czech Republic
-http://192.168.2.139:8383/play?name=nova+sport+2&code=cz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-6.svg" group-title="Coupe de France",[20:30] Coupe de France - Lorient vs Nice - Bein Sports 6 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+6&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg" group-title="Puchar Polski",[20:30] Puchar Polski - Lech Poznań vs Górnik Zabrze
-http://192.168.2.139:8383/play?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Livorno vs Perugia
-http://192.168.2.139:8383/play?name=sky+sport+254&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Sassari Torres vs Nuova Monterosi
-http://192.168.2.139:8383/play?name=sky+sport+255&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Ravenna vs Pianese
-http://192.168.2.139:8383/play?name=sky+sport+253&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Pineto vs Forlì
-http://192.168.2.139:8383/play?name=sky+sport+256&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg" group-title="Serie C",[20:30] Serie C - Arezzo vs Ternana
-http://192.168.2.139:8383/play?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[21:00] Serie C - Sambenedettese vs Ascoli - Sky Sport 252 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/rai-sport.webp" group-title="Serie C",[21:00] Serie C - Sambenedettese vs Ascoli - Rai Sport 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=rai+sport&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-football.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic - Sky Sports Football 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+football&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic - Sky Sports Main Event 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sport-1.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic - Sport 1 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sport+1&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-4.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic - Sport Tv 4 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+4&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-3.webp" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic - Cosmote Sport 3 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic - Polsat Sport 2 🇵🇱 Poland
-http://192.168.2.139:8383/play?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/ring.png" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic - Ring 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=ring&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-8.webp" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic - Arena Sport 8 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+sport+8&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-plus.png" group-title="Scottish Premiership",[21:00] Scottish Premiership - Aberdeen vs Celtic - Sport 5 Plus 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta - Viaplay Sports 1 🇬🇧 UK
-http://192.168.2.139:8383/play?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta - Premier Sports 1 🇬🇧 UK
-http://192.168.2.139:8383/play?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-1.png" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta - Dazn 1 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=dazn+1&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta - Sport Tv 2 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.png" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta - Ziggo Sport 2 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-1.png" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta - Nova Sports 1 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=nova+sports+1&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta - Polsat Sport 2 🇵🇱 Poland
-http://192.168.2.139:8383/play?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-1.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta - Match Football 1 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+football+1&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta - Max Sport 3 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-3.webp" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta - Arena Sport 3 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-4.webp" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta - Arena Sport 4 🇭🇷 Croatia
-http://192.168.2.139:8383/play?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/trt-spor.svg" group-title="Coppa Italia",[21:00] Coppa Italia - Lazio vs Atalanta - Trt Spor 🇹🇷 Turkey
-http://192.168.2.139:8383/play?name=trt+spor&code=tr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/itv-4.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - Itv 4 🇬🇧 UK
-http://192.168.2.139:8383/play?name=itv+4&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/tve-la-1.webp" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - Tve La 1 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=tve+la+1&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/m-laliga-tv-1.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - M Laliga 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=m+laliga&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - Dazn 2 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=dazn+2&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - Sport Tv 1 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - Ziggo Sport 1 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/eleven-sport-1.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - Eleven Sports 1 🇵🇱 Poland
-http://192.168.2.139:8383/play?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - Match Tv 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+tv&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-2.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - Match Football 2 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+football+2&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - Max Sport 4 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - Arena 2 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-3.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - Espn 3 🇧🇷 Brazil
-http://192.168.2.139:8383/play?name=espn+3&code=br&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-2.png" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - Digi Sport 2 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="Copa del Rey",[21:00] Copa del Rey - Real Sociedad vs Athletic Club - Prima Sport 2 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse - Fox Sports 2 🇺🇸 USA
-http://192.168.2.139:8383/play?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse - Bein Sports 1 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-3.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse - Sport Tv 3 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse - Max Sport 2 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-1.png" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse - Nova Sport 1 🇨🇿 Czech Republic
-http://192.168.2.139:8383/play?name=nova+sport+1&code=cz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="Coupe de France",[21:00] Coupe de France - Olympique Marseille vs Toulouse - Bein Sports 8 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-premier-league.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Astro Premier League 🇺🇸 USA
-http://192.168.2.139:8383/play?name=astro+premier+league&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-grandstand.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Astro Grandstand 🇺🇸 USA
-http://192.168.2.139:8383/play?name=astro+grandstand&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Tnt Sports 1 🇬🇧 UK
-http://192.168.2.139:8383/play?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Sky Sport 1 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-8.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Sky Sport 8 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+8&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/canal-sport-africa-4.svg" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Canal Sport 4 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=canal+sport+4&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-maximo-1.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Supersport Maximo 1 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-pls.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Supersport Psl 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+psl&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-foot.svg" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Canal Foot 🇫🇷 France
-http://192.168.2.139:8383/play?name=canal+foot&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-4.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Dazn 4 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=dazn+4&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Sky Sport Mix 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Dazn 1 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=dazn+1&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-prime.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Nova Sports Prime 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/see.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - See 🇩🇰 Denmark
-http://192.168.2.139:8383/play?name=see&code=dk&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Diema Sport 1 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Arena 3 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Arena Sport 1 🇭🇷 Croatia
-http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-4.svg" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Espn 4 🇧🇷 Brazil
-http://192.168.2.139:8383/play?name=espn+4&code=br&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-4.png" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Sport 4 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+4&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-1.webp" group-title="Premier League",[21:15] Premier League - Newcastle United vs Manchester United - Bein Sports 1 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports.webp" group-title="Copa Libertadores",[22:00] Copa Libertadores - Carabobo vs Sporting Cristal - Bein Sports 🇺🇸 USA
 http://192.168.2.139:8383/play?name=bein+sports&code=us&user=cdnlivetv&plan=free
