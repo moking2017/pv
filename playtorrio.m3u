@@ -1,43 +1,10 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-05 18:03:08
+# PlayTorrio Sports Events - 2026-03-05 19:51:18
 # Total Events: 33
-# Live Events: 9
+# Live Events: 11
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="Russian Cup",[16:30] Russian Cup - Arsenal Tula vs Lokomotiv Moskva 🔴 - Match Premier 🇷🇺 Russia
-https://cdn-live.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Russian Cup",[16:30] Russian Cup - Arsenal Tula vs Lokomotiv Moskva 🔴 - Match Tv 🇷🇺 Russia
-https://cdn-live.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Parva Liga",[17:30] Parva Liga - Ludogorets vs Levski Sofia 🔴 - Diema Sport 1 🇧🇬 Bulgaria
-https://cdn-live.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="Parva Liga",[17:30] Parva Liga - Ludogorets vs Levski Sofia 🔴 - Sport Klub 3 🇷🇸 Serbia
-https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Latina vs Sorrento 🔴
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+254&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Virtus Casarano vs Siracusa 🔴
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+253&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Picerno vs Atalanta II 🔴 - Sky Sport 251 🇮🇹 Italy
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg" group-title="Serie C",[18:00] Serie C - Picerno vs Atalanta II 🔴 - Sky Sport Uno 🇮🇹 Italy
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Giugliano vs Monopoli 🔴 - Sky Sport 252 🇮🇹 Italy
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg" group-title="Serie C",[18:00] Serie C - Giugliano vs Monopoli 🔴 - Sky Sport Calcio 🇮🇹 Italy
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Turkish Cup",[18:30] Turkish Cup - Antalyaspor vs Samsunspor 🔴 - Sport Klub 1 🇷🇸 Serbia
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Turkish Cup",[18:30] Turkish Cup - Antalyaspor vs Samsunspor 🔴
 https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Turkish Cup",[18:30] Turkish Cup - Antalyaspor vs Samsunspor 🔴 - Sport Klub 1 🇷🇸 Serbia
-https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="Russian Cup",[18:45] Russian Cup - Dinamo Moskva vs Spartak Moskva 🔴 - Match Premier 🇷🇺 Russia
 https://cdn-live.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
@@ -45,23 +12,101 @@ https://cdn-live.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnl
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Russian Cup",[18:45] Russian Cup - Dinamo Moskva vs Spartak Moskva 🔴 - Match Tv 🇷🇺 Russia
 https://cdn-live.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="Russian Cup",[18:45] Russian Cup - Dinamo Moskva vs Spartak Moskva 🔴 - Match Premier 🇷🇺 Russia
-https://cdn-live.tv/api/v1/channels/player/?name=match+premier&code=ru&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Russian Cup",[18:45] Russian Cup - Dinamo Moskva vs Spartak Moskva 🔴 - Match TV 🇷🇺 Russia
-https://cdn-live.tv/api/v1/channels/player/?name=match+tv&code=ru&user=ntvstream&plan=free
-
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Cupa Romaniei",[19:00] Cupa Romaniei - Dinamo Bucureşti vs Metalul Buzău 🔴 - Digi Sport 1 🇷🇴 Romania
 https://cdn-live.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-1.svg" group-title="Cupa Romaniei",[19:00] Cupa Romaniei - Dinamo Bucureşti vs Metalul Buzău 🔴 - Prima Sport 1 🇷🇴 Romania
 https://cdn-live.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Cupa Romaniei",[19:00] Cupa Romaniei - Dinamo Bucureşti vs Metalul Buzău 🔴 - Digi Sport 1 🇷🇴 Romania
-https://cdn-live.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.svg" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya 🔴 - Fox Soccer Plus 🇺🇸 USA
+https://cdn-live.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-1.svg" group-title="Cupa Romaniei",[19:00] Cupa Romaniei - Dinamo Bucureşti vs Metalul Buzău 🔴 - Prima Sport 1 🇷🇴 Romania
-https://cdn-live.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya 🔴 - M Liga De Campeones 1 🇪🇸 Spain
+https://cdn-live.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya 🔴 - Sky Sport Premier League 🇩🇪 Germany
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+premier+league&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya 🔴 - Sport Tv 1 🇵🇹 Portugal
+https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-2.webp" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya 🔴 - Cosmote Sport 2 🇬🇷 Greece
+https://cdn-live.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya 🔴 - Prima Sport 2 🇷🇴 Romania
+https://cdn-live.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.svg" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya 🔴 - FOX Soccer Plus 🇺🇸 USA
+https://cdn-live.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya 🔴 - M Liga de Campeones 1 🇪🇸 Spain
+https://cdn-live.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya 🔴 - Sky Sport Premier League 🇩🇪 Germany
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+premier+league&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya 🔴 - Sport TV 1 🇵🇹 Portugal
+https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-2.webp" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya 🔴 - Cosmote Sport 2 🇬🇷 Greece
+https://cdn-live.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya 🔴 - Prima Sport 2 🇷🇴 Romania
+https://cdn-live.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/canal-sport-3.svg" group-title="Ekstraklasa",[20:30] Ekstraklasa - Radomiak Radom vs Arka Gdynia 🔴 - Canal Sport 3 🇵🇱 Poland
+https://cdn-live.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp" group-title="Ekstraklasa",[20:30] Ekstraklasa - Radomiak Radom vs Arka Gdynia 🔴 - Arena Sport 3 🇭🇷 Croatia
+https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/canal-sport-3.svg" group-title="Ekstraklasa",[20:30] Ekstraklasa - Radomiak Radom vs Arka Gdynia 🔴 - Canal Sport 3 🇵🇱 Poland
+https://cdn-live.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp" group-title="Ekstraklasa",[20:30] Ekstraklasa - Radomiak Radom vs Arka Gdynia 🔴 - Arena Sport 3 🇭🇷 Croatia
+https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Audace Cerignola vs Trapani 1905 🔴 - Sky Sport 256 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+256&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Audace Cerignola vs Trapani 1905 🔴 - Sky Sport 256 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+256&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Benevento vs Catania 🔴 - Sky Sport 251 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg" group-title="Serie C",[20:30] Serie C - Benevento vs Catania 🔴 - Sky Sport Calcio 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Benevento vs Catania 🔴 - Sky Sport 251 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+251&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg" group-title="Serie C",[20:30] Serie C - Benevento vs Catania 🔴 - Sky Sport Calcio 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Potenza Calcio vs Cosenza 🔴 - Sky Sport 254 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+254&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Potenza Calcio vs Cosenza 🔴 - Sky Sport 254 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+254&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Casertana vs Salernitana 🔴 - Sky Sport 252 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Casertana vs Salernitana 🔴 - Sky Sport 252 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+252&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Crotone vs Cavese 🔴 - Sky Sport 253 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+253&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Crotone vs Cavese 🔴 - Sky Sport 253 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+253&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Team Altamura vs Foggia 🔴 - Sky Sport 255 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+255&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Team Altamura vs Foggia 🔴 - Sky Sport 255 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+255&code=it&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Parva Liga",[12:15] Parva Liga - Lokomotiv Sofia 1929 vs Dobrudzha 1919 - Diema Sport 1 🇧🇬 Bulgaria
 https://cdn-live.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
@@ -96,50 +141,35 @@ https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+10&code=rs&user=cdn
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Serbian Cup",[14:45] Serbian Cup - Novi Pazar vs Crvena Zvezda - Arena 1 Premium 🇷🇸 Serbia
 https://cdn-live.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.svg" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya - Fox Soccer Plus 🇺🇸 USA
-https://cdn-live.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="Russian Cup",[16:30] Russian Cup - Arsenal Tula vs Lokomotiv Moskva - Match Premier 🇷🇺 Russia
+https://cdn-live.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya - M Liga De Campeones 1 🇪🇸 Spain
-https://cdn-live.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Russian Cup",[16:30] Russian Cup - Arsenal Tula vs Lokomotiv Moskva - Match Tv 🇷🇺 Russia
+https://cdn-live.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya - Sky Sport Premier League 🇩🇪 Germany
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+premier+league&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Parva Liga",[17:30] Parva Liga - Ludogorets vs Levski Sofia - Diema Sport 1 🇧🇬 Bulgaria
+https://cdn-live.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya - Sport Tv 1 🇵🇹 Portugal
-https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="Parva Liga",[17:30] Parva Liga - Ludogorets vs Levski Sofia - Sport Klub 3 🇷🇸 Serbia
+https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-2.webp" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya - Cosmote Sport 2 🇬🇷 Greece
-https://cdn-live.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="Pro League",[20:00] Pro League - Al Kholood vs Al Quadisiya - Prima Sport 2 🇷🇴 Romania
-https://cdn-live.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/canal-sport-3.svg" group-title="Ekstraklasa",[20:30] Ekstraklasa - Radomiak Radom vs Arka Gdynia - Canal Sport 3 🇵🇱 Poland
-https://cdn-live.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp" group-title="Ekstraklasa",[20:30] Ekstraklasa - Radomiak Radom vs Arka Gdynia - Arena Sport 3 🇭🇷 Croatia
-https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Audace Cerignola vs Trapani 1905
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+256&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Benevento vs Catania - Sky Sport 251 🇮🇹 Italy
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg" group-title="Serie C",[20:30] Serie C - Benevento vs Catania - Sky Sport Calcio 🇮🇹 Italy
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Potenza Calcio vs Cosenza
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Latina vs Sorrento
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+254&code=it&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Casertana vs Salernitana
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Crotone vs Cavese
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Virtus Casarano vs Siracusa
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+253&code=it&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[20:30] Serie C - Team Altamura vs Foggia
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+255&code=it&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Picerno vs Atalanta II - Sky Sport 251 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg" group-title="Serie C",[18:00] Serie C - Picerno vs Atalanta II - Sky Sport Uno 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Serie C",[18:00] Serie C - Giugliano vs Monopoli - Sky Sport 252 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg" group-title="Serie C",[18:00] Serie C - Giugliano vs Monopoli - Sky Sport Calcio 🇮🇹 Italy
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/usa-network.png" group-title="Premier League",[21:00] Premier League - Tottenham Hotspur vs Crystal Palace - Usa Network 🇺🇸 USA
 https://cdn-live.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free
