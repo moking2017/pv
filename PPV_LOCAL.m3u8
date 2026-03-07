@@ -57,20 +57,18 @@ http://192.168.2.139:8090/stream?uri=big-ten-confrence-Tournament
 http://192.168.2.139:8090/stream?uri=sec-mens-confrence-tournament
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e83df3a2a94ac4b566fd1eb658c2e5a5-thumbnail.jpg" group-title="Basketball",March Madness
 http://192.168.2.139:8090/stream?uri=march-madness
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5a0559e26a92a47791d52e70aeadc256-thumbnail.jpg" group-title="Combat Sports",RIZIN 52: Kyoma Akimoto vs. Patchy Mix
-http://192.168.2.139:8090/stream?uri=rizin-52-kyoma-akimoto-vs.-patchy-mix
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0580da0e61591ceacb136ce4325ba4b6-thumbnail.jpg" group-title="Combat Sports",OKTAGON 85 (English)
 http://192.168.2.139:8090/stream?uri=oktagon-85-english
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0580da0e61591ceacb136ce4325ba4b6-thumbnail.jpg" group-title="Combat Sports",OKTAGON 85 (German)
 http://192.168.2.139:8090/stream?uri=oktagon-85-german
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0580da0e61591ceacb136ce4325ba4b6-thumbnail.jpg" group-title="Combat Sports",OKTAGON 85 (Czech)
 http://192.168.2.139:8090/stream?uri=oktagon-85-czech
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/88c597ae4e1cb21c34fe2f082b7c385f-thumbnail.jpg" group-title="Combat Sports",MF Duel 2: Ty Mitchell vs. Gabe Rosado
+http://192.168.2.139:8090/stream?uri=mf-duel-2-ty-mitchell-vs.-gabe-rosado
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/db95bc03bdb55c00cb25ff602c9304ca-thumbnail.jpg" group-title="Combat Sports",UFC 326: Holloway vs. Oliveira 2
 http://192.168.2.139:8090/stream?uri=ufc-326
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 http://192.168.2.139:8090/stream?uri=willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/310e268e9cb7b33759cb448da45440e5-thumbnail.jpg" group-title="Football",Mansfield Town vs. Arsenal
-http://192.168.2.139:8090/stream?uri=english-fa-cup/2026-03-07/mnf-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/803a7f74369d3b41cfe3f7ecde55c6a1-thumbnail.jpg" group-title="Football",Osasuna vs. Mallorca
 http://192.168.2.139:8090/stream?uri=laliga/2026-03-07/osa-mll
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eafa3754ea18e83e8f613eb4872e8523-thumbnail.jpg" group-title="Football",Cagliari vs. Como
@@ -169,6 +167,8 @@ http://192.168.2.139:8090/stream?uri=nhl/2026-03-07/car-cgy
 http://192.168.2.139:8090/stream?uri=nhl/2026-03-07/nyi-sj
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/39a10f6019a8a707cfddbf2c7cda518a-thumbnail.jpg" group-title="Ice Hockey",Ottawa Senators vs. Seattle Kraken
 http://192.168.2.139:8090/stream?uri=nhl/2026-03-07/ott-sea
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Indianapolis
+http://192.168.2.139:8090/stream?uri=smx-wk9
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/37e91f412909452e3a12e037ec80f272-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Race
 http://192.168.2.139:8090/stream?uri=f1/2026/australia/race
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
