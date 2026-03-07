@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/489d7a9e60025fa5343dd268ff8f9b92-thumbnail.jpg" group-title="Baseball",Colombia vs. Canada
-https://pooembed.eu/embed/mlb/2026-03-07/col-can-6037
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3182c18f397b4c17dc0caf98338ba43e-thumbnail.jpg" group-title="Baseball",Nicaragua vs. Kingdom of the Netherlands
 https://pooembed.eu/embed/mlb/2026-03-07/nca-ned-2904
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/da0ff9bb8165fd00fe81fe5d9c3704c6-thumbnail.jpg" group-title="Baseball",Brazil vs. Italy
@@ -49,6 +47,8 @@ https://pooembed.eu/embed/cbb/8427/8427-ku
 https://pooembed.eu/embed/cbb/2888/2888-mia
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9db0d5e25d52b27b739b298927433155-thumbnail.jpg" group-title="Basketball",Vanderbilt Commodores vs. Tennessee Volunteers (Basketball)
 https://pooembed.eu/embed/cbb/1963/1963-tenn
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cfea22f2437ed989f8d1bd0a959e0072-thumbnail.jpg" group-title="Basketball",Cincinnati vs TCU
+https://pooembed.eu/embed/cincinnati-vs-tcu
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6a1d45a6156a83952e16ce920686083f-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. Minnesota Timberwolves
 https://pooembed.eu/embed/nba/2026-03-07/orl-min
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9d361ded1009b5064c3feb7eb69f2021-thumbnail.jpg" group-title="Basketball",Florida Gators vs. Kentucky Wildcats (Basketball)
@@ -105,8 +105,6 @@ https://pooembed.eu/embed/uk-open-board-2
 https://pooembed.eu/embed/uk-open-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d51c83ae16642c54cb671a093b90fca5-thumbnail.jpg" group-title="Darts",UK Open (Board 4)
 https://pooembed.eu/embed/uk-open-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/441d110f7e43cd5a916ff7af4a6d60ed-thumbnail.jpg" group-title="Football",Atalanta vs. Udinese
-https://pooembed.eu/embed/seriea/2026-03-07/ata-udi
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/153907845b110edbebe04e73c23f155e-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Real Sociedad
 https://pooembed.eu/embed/laliga/2026-03-07/atm-rso
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3417df847ae0837853c2c5e9e773d848-thumbnail.jpg" group-title="Football",FC Cologne vs. Borussia Dortmund
