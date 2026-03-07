@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 http://192.168.2.139:8090/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8e1a54778a1c7a203a8a1ac8a490e1cc-thumbnail.jpg" group-title="Baseball",Chinese Taipei vs. Czechia
-http://192.168.2.139:8090/stream?uri=chinese-taipei-vs.-czechia
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/209185a14b3bfb3b349ab91261c8d4eb-thumbnail.jpg" group-title="Basketball",Indiana Pacers vs. Los Angeles Lakers
-http://192.168.2.139:8090/stream?uri=nba/2026-03-06/ind-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6a1d45a6156a83952e16ce920686083f-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. Minnesota Timberwolves
 http://192.168.2.139:8090/stream?uri=nba/2026-03-07/orl-min
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c0a3d405218498ce0ff527941293464f-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Detroit Pistons
@@ -109,10 +105,6 @@ http://192.168.2.139:8090/stream?uri=laliga/2026-03-08/val-ala
 http://192.168.2.139:8090/stream?uri=seriea/2026-03-09/laz-sas
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6c5cb7178175ded75b0001f93693af24-thumbnail.jpg" group-title="Football",Espanyol vs. Real Oviedo
 http://192.168.2.139:8090/stream?uri=laliga/2026-03-09/esp-ovi
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4058ae14322654cd132974ba7afb0383-thumbnail.jpg" group-title="Ice Hockey",Minnesota Wild vs. Vegas Golden Knights
-http://192.168.2.139:8090/stream?uri=nhl/2026-03-06/min-vgk
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3750c4762d3adbcbfc7a8ebcb68190f7-thumbnail.jpg" group-title="Ice Hockey",St. Louis Blues vs. San Jose Sharks
-http://192.168.2.139:8090/stream?uri=nhl/2026-03-06/stl-sj
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7f6a9f4580f27c0b4371a6023bf9d485-thumbnail.jpg" group-title="Ice Hockey",Washington Capitals vs. Boston Bruins
 http://192.168.2.139:8090/stream?uri=nhl/2026-03-07/wsh-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/602840c993fd2d74a8c411a8167e8131-thumbnail.jpg" group-title="Ice Hockey",New York Rangers vs. New Jersey Devils
@@ -135,8 +127,6 @@ http://192.168.2.139:8090/stream?uri=nhl/2026-03-07/car-cgy
 http://192.168.2.139:8090/stream?uri=nhl/2026-03-07/nyi-sj
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/39a10f6019a8a707cfddbf2c7cda518a-thumbnail.jpg" group-title="Ice Hockey",Ottawa Senators vs. Seattle Kraken
 http://192.168.2.139:8090/stream?uri=nhl/2026-03-07/ott-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d72b1274e0df94b08fd451342b472a44-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Qualifying
-http://192.168.2.139:8090/stream?uri=f1/2026/australia/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/37e91f412909452e3a12e037ec80f272-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Race
 http://192.168.2.139:8090/stream?uri=f1/2026/australia/race
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
