@@ -1,82 +1,52 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-09 22:27:37
-# Total Events: 34
-# Live Events: 4
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Espn Deportes 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Bein Sports 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/la-liga-tv.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Laliga Tv 🇬🇧 UK
-http://192.168.2.139:8383/play?name=laliga+tv&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Viaplay Sports 1 🇬🇧 UK
-http://192.168.2.139:8383/play?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Premier Sports 1 🇬🇧 UK
-http://192.168.2.139:8383/play?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-laliga.webp" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Supersport Laliga 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-5.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Bein Sports Max 5 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+max+5&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/m-laliga-tv-1.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - M Laliga 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=m+laliga&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Dazn 1 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=dazn+1&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Ziggo Sport 2 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-prime.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Nova Sports Prime 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/eleven-sport-2.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Eleven Sports 2 🇵🇱 Poland
-http://192.168.2.139:8383/play?name=eleven+sports+2&code=pl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-2.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Match Football 2 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+football+2&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Arena 2 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Arena Sport 3 🇭🇷 Croatia
-http://192.168.2.139:8383/play?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-4.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Nova Sport 4 🇨🇿 Czech Republic
-http://192.168.2.139:8383/play?name=nova+sport+4&code=cz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/tv4-football.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Tv4 Football 🇸🇪 Sweden
-http://192.168.2.139:8383/play?name=tv4+football&code=se&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-4.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Digi Sport 4 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-3.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Prima Sport 3 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo 🔴 - Bein Sports 3 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-4.png" group-title="NHL",[21:00] NHL - Los Angeles Kings vs Columbus Blue Jackets 🔴
-http://192.168.2.139:8383/play?name=sky+sport+bundesliga+4&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Primeira Liga",[21:15] Primeira Liga - Tondela vs Rio Ave 🔴 - Sport Tv 1 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp" group-title="Primeira Liga",[21:15] Primeira Liga - Tondela vs Rio Ave 🔴 - Cosmote Sport 8 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+8&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Primeira Liga",[21:15] Primeira Liga - Tondela vs Rio Ave 🔴 - Sport Klub 1 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+# PlayTorrio Sports Events - 2026-03-09 23:27:26
+# Total Events: 36
+# Live Events: 8
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/cbs-sports-network.svg" group-title="NCAA",[23:00] NCAA - TBD vs TBD 🔴
 http://192.168.2.139:8383/play?name=cbs+sports+network&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[00:00] Primera A - Llaneros vs Jaguares de Córdoba 🔴 - Win Futbol 🇨🇴 Colombia
+http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[00:00] Primera A - Llaneros vs Jaguares de Córdoba 🔴 - Win Futbol 🇨🇴 Colombia
+http://192.168.2.139:8383/play?name=win+futbol&code=co&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/chile/tnt-sports.png" group-title="Primera Division",[00:00] Primera Division - Universidad Chile vs Univ. Concepción 🔴 - Tnt Sports 🇨🇱 Chile
+http://192.168.2.139:8383/play?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/chile/tnt-sports.png" group-title="Primera Division",[00:00] Primera Division - Universidad Chile vs Univ. Concepción 🔴 - TNT Sports 🇨🇱 Chile
+http://192.168.2.139:8383/play?name=tnt+sports&code=cl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[00:00] NHL - Calgary Flames vs Washington Capitals 🔴 - Sportsnet West 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-2.png" group-title="NHL",[00:00] NHL - Calgary Flames vs Washington Capitals 🔴 - Sky Sport Bundesliga 2 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+bundesliga+2&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[00:00] NHL - Calgary Flames vs Washington Capitals 🔴 - Sportsnet West 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-2.png" group-title="NHL",[00:00] NHL - Calgary Flames vs Washington Capitals 🔴 - Sky Sport Bundesliga 2 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+bundesliga+2&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="NHL",[00:00] NHL - New York Rangers vs Philadelphia Flyers 🔴 - Viaplay Sports 2 🇬🇧 UK
+http://192.168.2.139:8383/play?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="NHL",[00:00] NHL - New York Rangers vs Philadelphia Flyers 🔴 - Viaplay Sports 2 🇬🇧 UK
+http://192.168.2.139:8383/play?name=viaplay+sports+2&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[00:00] Golf - Live From THE PLAYERS Episode 1 • Live 🔴
+http://192.168.2.139:8383/play?name=golf+tv&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-u.svg" group-title="NCAA",[00:00] NCAA - TBD vs Wright State 🔴
+http://192.168.2.139:8383/play?name=espn+u&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[00:20] Primera A - Millonarios vs Cúcuta Deportivo 🔴 - Win Futbol 🇨🇴 Colombia
+http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[00:20] Primera A - Millonarios vs Cúcuta Deportivo 🔴 - Win Futbol 🇨🇴 Colombia
+http://192.168.2.139:8383/play?name=win+futbol&code=co&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="FNL",[14:00] FNL - Rotor Volgograd vs Ural
 http://192.168.2.139:8383/play?name=match+tv&code=ru&user=cdnlivetv&plan=free
@@ -312,23 +282,77 @@ http://192.168.2.139:8383/play?name=sport+5+plus&code=il&user=cdnlivetv&plan=fre
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-6.svg" group-title="Ligue 2",[20:45] Ligue 2 - Dunkerque vs Reims - Bein Sports 6 🇸🇦 Saudi Arabia
 http://192.168.2.139:8383/play?name=bein+sports+6&code=sa&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[00:00] Primera A - Llaneros vs Jaguares de Córdoba
-http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Espn Deportes 🇺🇸 USA
+http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/chile/tnt-sports.png" group-title="Primera Division",[00:00] Primera Division - Universidad Chile vs Univ. Concepción
-http://192.168.2.139:8383/play?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Bein Sports 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[00:00] NHL - Calgary Flames vs Washington Capitals - Sportsnet West 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/la-liga-tv.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Laliga Tv 🇬🇧 UK
+http://192.168.2.139:8383/play?name=laliga+tv&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-2.png" group-title="NHL",[00:00] NHL - Calgary Flames vs Washington Capitals - Sky Sport Bundesliga 2 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+bundesliga+2&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Viaplay Sports 1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="NHL",[00:00] NHL - New York Rangers vs Philadelphia Flyers
-http://192.168.2.139:8383/play?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Premier Sports 1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[00:20] Primera A - Millonarios vs Cúcuta Deportivo
-http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-laliga.webp" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Supersport Laliga 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-5.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Bein Sports Max 5 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+max+5&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/m-laliga-tv-1.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - M Laliga 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+laliga&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Dazn 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Ziggo Sport 2 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-prime.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Nova Sports Prime 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/eleven-sport-2.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Eleven Sports 2 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=eleven+sports+2&code=pl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-2.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Match Football 2 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+football+2&code=ru&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Arena 2 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Arena Sport 3 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-4.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Nova Sport 4 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=nova+sport+4&code=cz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/tv4-football.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Tv4 Football 🇸🇪 Sweden
+http://192.168.2.139:8383/play?name=tv4+football&code=se&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-4.png" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Digi Sport 4 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-3.svg" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Prima Sport 3 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="La Liga",[21:00] La Liga - Espanyol vs Real Oviedo - Bein Sports 3 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-4.png" group-title="NHL",[21:00] NHL - Los Angeles Kings vs Columbus Blue Jackets
+http://192.168.2.139:8383/play?name=sky+sport+bundesliga+4&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Primeira Liga",[21:15] Primeira Liga - Tondela vs Rio Ave - Sport Tv 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp" group-title="Primeira Liga",[21:15] Primeira Liga - Tondela vs Rio Ave - Cosmote Sport 8 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+8&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Primeira Liga",[21:15] Primeira Liga - Tondela vs Rio Ave - Sport Klub 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[00:30] NBA - Oklahoma City Thunder vs Denver Nuggets - Bein Sports Mena 1 🇺🇸 USA
 http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
