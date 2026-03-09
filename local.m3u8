@@ -1,82 +1,175 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-09 02:02:43
-# Total Events: 101
-# Live Events: 7
+# PlayTorrio Sports Events - 2026-03-09 05:56:51
+# Total Events: 103
+# Live Events: 5
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/chile/tnt-sports.png" group-title="Primera Division",[00:30] Primera Division - Palestino vs Cobresal 🔴
-http://192.168.2.139:8383/play?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tennis-channel.png" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Tennis Channel 🇺🇸 USA
+http://192.168.2.139:8383/play?name=tennis+channel&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/telemundo.svg" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets 🔴 - Telemundo 🇺🇸 USA
-http://192.168.2.139:8383/play?name=telemundo&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Bein Sports 2 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets 🔴 - Supersport Action 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+action&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Bein Sports 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-2.svg" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets 🔴 - Tsn 2 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+2&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Bein Sports 3 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets 🔴 - Bein Sports 1 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Sky Sports Arena 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets 🔴 - Sky Sport Mix 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-tennis.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Sky Sports Tennis 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+tennis&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets 🔴 - Sky Sport Top Event 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-1.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Bein Sports 1 🇦🇺 Australia
+http://192.168.2.139:8383/play?name=bein+sports+1&code=au&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets 🔴 - Sport Tv 1 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-2.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Bein Sports 2 🇦🇺 Australia
+http://192.168.2.139:8383/play?name=bein+sports+2&code=au&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets 🔴 - Arena 1 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-2.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Bein Sports 2 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets 🔴 - Sport Klub 1 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Movistar Deportes 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+deportes+1&code=es&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-2.png" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets 🔴 - Nova Sport 2 🇨🇿 Czech Republic
-http://192.168.2.139:8383/play?name=nova+sport+2&code=cz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-2.webp" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Movistar Deportes 2 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+deportes+2&code=es&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-2.png" group-title="NBA",[01:00] NBA - Milwaukee Bucks vs Orlando Magic 🔴
-http://192.168.2.139:8383/play?name=sky+sport+bundesliga+2&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-3.webp" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Movistar Deportes 3 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+deportes+3&code=es&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="NHL",[02:00] NHL - St. Louis Blues vs Anaheim Ducks 🔴 - Sky Sport 251 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Movistar Deportes 4 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+deportes+4&code=es&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="NHL",[02:00] NHL - St. Louis Blues vs Anaheim Ducks 🔴 - Sky Sport 251 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+251&code=it&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Sky Sport Tennis 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+tennis&code=it&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-2.svg" group-title="NCAA",[02:00] NCAA - TBD vs Oregon State 🔴
-http://192.168.2.139:8383/play?name=espn+2&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-tennis.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Sky Sport Tennis 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+tennis&code=de&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NHL",[02:30] NHL - Edmonton Oilers vs Vegas Golden Knights 🔴 - Espn 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-4.png" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Ziggo Sport 4 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+4&code=nl&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[02:30] NHL - Edmonton Oilers vs Vegas Golden Knights 🔴 - Sportsnet West 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5.png" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Ziggo Sport 5 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+5&code=nl&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-premium.png" group-title="NHL",[02:30] NHL - Edmonton Oilers vs Vegas Golden Knights 🔴 - V Sport Premium 🇸🇪 Sweden
-http://192.168.2.139:8383/play?name=v+sport+premium&code=se&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Max Sport 1 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+1&code=bg&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NHL",[02:30] NHL - Edmonton Oilers vs Vegas Golden Knights 🔴 - ESPN 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Max Sport 2 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[02:30] NHL - Edmonton Oilers vs Vegas Golden Knights 🔴 - Sportsnet West 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-2.png.webp" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Sport Klub 2 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-premium.png" group-title="NHL",[02:30] NHL - Edmonton Oilers vs Vegas Golden Knights 🔴 - V Sport Premium 🇸🇪 Sweden
-http://192.168.2.139:8383/play?name=v+sport+premium&code=se&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Tennis",[04:00] Tennis - undefined vs undefined 🔴 - Sport Klub 4 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg" group-title="NBA",[03:00] NBA - Phoenix Suns vs Charlotte Hornets 🔴 - Sky Sports Mix 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[05:00] Golf - LPGA Tour Blue Bay China 🔴 - GOLF TV 🇺🇸 USA
+http://192.168.2.139:8383/play?name=golf+tv&code=us&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NBA",[03:00] NBA - Phoenix Suns vs Charlotte Hornets 🔴 - Sky Sport Mix 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-golf.svg" group-title="Golf",[05:00] Golf - LPGA Tour Blue Bay China 🔴 - Sky Sports Golf 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+golf&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg" group-title="NBA",[03:00] NBA - Phoenix Suns vs Charlotte Hornets 🔴 - Sky Sports Mix 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+mix&code=gb&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-5.png" group-title="Golf",[05:00] Golf - LPGA Tour Blue Bay China 🔴 - Sky Sport 5 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+5&code=nz&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NBA",[03:00] NBA - Phoenix Suns vs Charlotte Hornets 🔴 - Sky Sport Mix 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-golf.webp" group-title="Golf",[05:00] Golf - LPGA Tour Blue Bay China 🔴 - SuperSport Golf 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+golf&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-golf.svg" group-title="Golf",[05:00] Golf - LPGA Tour Blue Bay China 🔴 - Movistar Golf 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+golf&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png" group-title="Golf",[05:00] Golf - LPGA Tour Blue Bay China 🔴 - Ziggo Sport 6 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+6&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/sk-golf.png.webp" group-title="Golf",[05:00] Golf - LPGA Tour Blue Bay China 🔴 - Sport Klub Golf 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=sport+klub+golf&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - beIN SPORTS 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - ESPN Deportes 🇺🇸 USA
+http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - Sky Sports F1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+f1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - Sky Sport 1 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+1&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - TSN 4 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=tsn+4&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - TSN 5 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=tsn+5&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-fr.webp" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - Canal 🇫🇷 France
+http://192.168.2.139:8383/play?name=canal&code=fr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-f1.png" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - DAZN F1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=dazn+f1&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - Sky Sport F1 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+f1&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - Sky Sport F1 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+f1&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-sport.webp" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - TV3 Sport 🇩🇰 Denmark
+http://192.168.2.139:8383/play?name=tv3+sport&code=dk&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/eleven-sport-1.svg" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - Eleven Sports 1 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=eleven+sports+1&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - Sport Klub 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-motor.png" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - V Sport Motor 🇸🇪 Sweden
+http://192.168.2.139:8383/play?name=v+sport+motor&code=se&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/fox-sports.svg" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - FOX Sports 🇲🇽 Mexico
+http://192.168.2.139:8383/play?name=fox+sports&code=mx&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/hungary/m4-sport.svg" group-title="Motorsport",[05:00] Motorsport - Formula 1 : Qatar Airways Australian GP - Race 🔴 - M4 Sports 🇭🇺 Hungary
+http://192.168.2.139:8383/play?name=m4+sports&code=hu&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[06:15] Cricket - undefined vs undefined 🔴 - Willow 2 Cricket 🇺🇸 USA
+http://192.168.2.139:8383/play?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Cricket",[06:15] Cricket - undefined vs undefined 🔴 - Tnt Sports 2 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Cricket",[06:15] Cricket - undefined vs undefined 🔴 - Sky Sport 2 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-select.png" group-title="Cricket",[06:15] Cricket - undefined vs undefined 🔴 - Sky Sport Select 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[06:15] Cricket - undefined vs undefined 🔴 - Supersport Cricket 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="Cricket",[06:15] Cricket - undefined vs undefined 🔴 - Supersport Grandstand 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[06:15] Cricket - Test Series Women Day 3 : Australia W vs India W 🔴 - Willow 2 Cricket 🇺🇸 USA
+http://192.168.2.139:8383/play?name=willow+2+cricket&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Cricket",[06:15] Cricket - Test Series Women Day 3 : Australia W vs India W 🔴 - TNT Sports 2 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Cricket",[06:15] Cricket - Test Series Women Day 3 : Australia W vs India W 🔴 - Sky Sport 2 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+2&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-select.png" group-title="Cricket",[06:15] Cricket - Test Series Women Day 3 : Australia W vs India W 🔴 - Sky Sport Select 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+select&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[06:15] Cricket - Test Series Women Day 3 : Australia W vs India W 🔴 - SuperSport Cricket 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="Cricket",[06:15] Cricket - Test Series Women Day 3 : Australia W vs India W 🔴 - SuperSport Grandstand 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+grandstand&code=za&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-1.webp" group-title="Super Lig",[11:30] Super Lig - Rizespor vs Antalyaspor
 http://192.168.2.139:8383/play?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free
@@ -1344,87 +1437,60 @@ http://192.168.2.139:8383/play?name=sky+sport+bundesliga+5&code=de&user=cdnlivet
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NHL",[00:00] NHL - Detroit Red Wings vs New Jersey Devils
 http://192.168.2.139:8383/play?name=espn&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tennis-channel.png" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Tennis Channel 🇺🇸 USA
-http://192.168.2.139:8383/play?name=tennis+channel&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/chile/tnt-sports.png" group-title="Primera Division",[00:30] Primera Division - Palestino vs Cobresal
+http://192.168.2.139:8383/play?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Bein Sports 2 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/telemundo.svg" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets - Telemundo 🇺🇸 USA
+http://192.168.2.139:8383/play?name=telemundo&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Bein Sports 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets - Supersport Action 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+action&code=za&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Bein Sports 3 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-2.svg" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets - Tsn 2 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=tsn+2&code=ca&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Sky Sports Arena 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets - Bein Sports 1 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-tennis.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Sky Sports Tennis 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+tennis&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets - Sky Sport Mix 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-1.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Bein Sports 1 🇦🇺 Australia
-http://192.168.2.139:8383/play?name=bein+sports+1&code=au&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets - Sky Sport Top Event 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-2.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Bein Sports 2 🇦🇺 Australia
-http://192.168.2.139:8383/play?name=bein+sports+2&code=au&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets - Sport Tv 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-2.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Bein Sports 2 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets - Arena 1 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Movistar Deportes 1 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=movistar+deportes+1&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets - Sport Klub 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-2.webp" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Movistar Deportes 2 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=movistar+deportes+2&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-2.png" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Houston Rockets - Nova Sport 2 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=nova+sport+2&code=cz&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-3.webp" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Movistar Deportes 3 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=movistar+deportes+3&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-2.png" group-title="NBA",[01:00] NBA - Milwaukee Bucks vs Orlando Magic
+http://192.168.2.139:8383/play?name=sky+sport+bundesliga+2&code=de&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Movistar Deportes 4 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=movistar+deportes+4&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="NHL",[02:00] NHL - St. Louis Blues vs Anaheim Ducks
+http://192.168.2.139:8383/play?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Sky Sport Tennis 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+tennis&code=it&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NHL",[02:30] NHL - Edmonton Oilers vs Vegas Golden Knights - Espn 🇺🇸 USA
+http://192.168.2.139:8383/play?name=espn&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-tennis.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Sky Sport Tennis 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+tennis&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[02:30] NHL - Edmonton Oilers vs Vegas Golden Knights - Sportsnet West 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-4.png" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Ziggo Sport 4 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+4&code=nl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-premium.png" group-title="NHL",[02:30] NHL - Edmonton Oilers vs Vegas Golden Knights - V Sport Premium 🇸🇪 Sweden
+http://192.168.2.139:8383/play?name=v+sport+premium&code=se&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5.png" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Ziggo Sport 5 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+5&code=nl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg" group-title="NBA",[03:00] NBA - Phoenix Suns vs Charlotte Hornets - Sky Sports Mix 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Max Sport 1 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+1&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Max Sport 2 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-2.png.webp" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Sport Klub 2 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Sport Klub 4 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NBA",[03:00] NBA - Phoenix Suns vs Charlotte Hornets - Sky Sport Mix 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg" group-title="Liga MX",[04:06] Liga MX - Tijuana vs Santos Laguna
 http://192.168.2.139:8383/play?name=tudn&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[06:15] Cricket - undefined vs undefined - Willow 2 Cricket 🇺🇸 USA
-http://192.168.2.139:8383/play?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Cricket",[06:15] Cricket - undefined vs undefined - Tnt Sports 2 🇬🇧 UK
-http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Cricket",[06:15] Cricket - undefined vs undefined - Sky Sport 2 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-select.png" group-title="Cricket",[06:15] Cricket - undefined vs undefined - Sky Sport Select 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[06:15] Cricket - undefined vs undefined - Supersport Cricket 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="Cricket",[06:15] Cricket - undefined vs undefined - Supersport Grandstand 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
 
