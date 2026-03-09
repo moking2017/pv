@@ -1,13 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-09 17:00:09
+# PlayTorrio Sports Events - 2026-03-09 17:54:30
 # Total Events: 40
-# Live Events: 9
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-10.webp" group-title="Basketball",[16:00] Basketball - KLS : OKK Beograd vs KK Dynamic 🔴 - Arena Sport 10 🇷🇸 Serbia
-https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+10&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-premium.png" group-title="Basketball",[16:00] Basketball - KLS : OKK Beograd vs KK Dynamic 🔴 - V Sport Premium 🇸🇪 Sweden
-https://cdn-live.tv/api/v1/channels/player/?name=v+sport+premium&code=se&user=ntvstream&plan=free
+# Live Events: 11
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Parva Liga",[17:00] Parva Liga - Le vs ki Sofia vs Lokomotiv Plovdiv 🔴 - Diema Sport 1 🇧🇬 Bulgaria
 https://cdn-live.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
@@ -51,6 +45,57 @@ https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+251&code=it&user=ntvs
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-football.png" group-title="Basketball",[17:30] Basketball - Turkish Basketball First League : CO Basket vs Darussafaka 🔴
 https://cdn-live.tv/api/v1/channels/player/?name=v+sport+football&code=se&user=ntvstream&plan=free
 
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-2.svg" group-title="Super Lig",[18:00] Super Lig - Alanyaspor vs Gençlerbirliği 🔴 - Bein Sports 2 🇹🇷 Turkey
+https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=tr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-2.svg" group-title="Super Lig",[18:00] Super Lig - Alanyaspor vs Gençlerbirliği 🔴 - beIN SPORTS 2 🇹🇷 Turkey
+https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=tr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - Bein Sports 2 🇺🇸 USA
+https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - Sport Tv 1 🇵🇹 Portugal
+https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - Match Football 3 🇷🇺 Russia
+https://cdn-live.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - Arena Sport 1 🇷🇸 Serbia
+https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - Sport Klub 1 🇷🇸 Serbia
+https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-1.webp" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - Bein Sports 1 🇹🇷 Turkey
+https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - Bein Sports 4 🇸🇦 Saudi Arabia
+https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - beIN SPORTS 2 🇺🇸 USA
+https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - Sport TV 1 🇵🇹 Portugal
+https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - Match Football 3 🇷🇺 Russia
+https://cdn-live.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - Arena Sport 1 🇷🇸 Serbia
+https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - Sport Klub 1 🇷🇸 Serbia
+https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-1.webp" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - beIN SPORTS 1 🇹🇷 Turkey
+https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor 🔴 - beIN SPORTS 4 🇸🇦 Saudi Arabia
+https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-10.webp" group-title="Futsal",[18:00] Futsal - Prva liga : Winter sport vs SAS 🔴
+https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+10&code=rs&user=ntvstream&plan=free
+
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="FNL",[14:00] FNL - Rotor Volgograd vs Ural
 https://cdn-live.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
 
@@ -62,30 +107,6 @@ https://cdn-live.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnl
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Parva Liga",[14:30] Parva Liga - Montana vs Ludogorets - Sport Klub 1 🇷🇸 Serbia
 https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-2.svg" group-title="Super Lig",[18:00] Super Lig - Alanyaspor vs Gençlerbirliği
-https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=tr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor - Bein Sports 2 🇺🇸 USA
-https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor - Sport Tv 1 🇵🇹 Portugal
-https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor - Match Football 3 🇷🇺 Russia
-https://cdn-live.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor - Arena Sport 1 🇷🇸 Serbia
-https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor - Sport Klub 1 🇷🇸 Serbia
-https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-1.webp" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor - Bein Sports 1 🇹🇷 Turkey
-https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg" group-title="Super Lig",[18:00] Super Lig - Kayserispor vs Trabzonspor - Bein Sports 4 🇸🇦 Saudi Arabia
-https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports.webp" group-title="Ekstraklasa",[19:00] Ekstraklasa - Wisła Płock vs Arka Gdynia - Bein Sports 🇺🇸 USA
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free

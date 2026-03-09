@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-09T17:00:09.614950",
+  "generated_at": "2026-03-09T17:54:30.887159",
   "total_events": 40,
-  "live_events": 9,
+  "live_events": 11,
   "events": [
     {
       "title": "Le vs ki Sofia vs Lokomotiv Plovdiv",
@@ -66,64 +66,6 @@
       "live": true
     },
     {
-      "title": "Rotor Volgograd vs Ural",
-      "league": "FNL",
-      "time": "14:00",
-      "timestamp": 1773061200000,
-      "logo": "https://api.cdn-live.tv/api/v1/team/images/2318.png",
-      "sources": [
-        {
-          "name": "Match Tv 🇷🇺 Russia",
-          "channel": "Match Tv",
-          "country": "🇷🇺 Russia",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free"
-        }
-      ],
-      "live": false
-    },
-    {
-      "title": "Eyüpspor vs Kocaelispor",
-      "league": "Super Lig",
-      "time": "14:00",
-      "timestamp": 1773061200000,
-      "logo": "https://api.cdn-live.tv/api/v1/team/images/7040.png",
-      "sources": [
-        {
-          "name": "Bein Sports 1 🇹🇷 Turkey",
-          "channel": "Bein Sports 1",
-          "country": "🇹🇷 Turkey",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-1.webp",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free"
-        }
-      ],
-      "live": false
-    },
-    {
-      "title": "Montana vs Ludogorets",
-      "league": "Parva Liga",
-      "time": "14:30",
-      "timestamp": 1773063000000,
-      "logo": "https://api.cdn-live.tv/api/v1/team/images/43840.png",
-      "sources": [
-        {
-          "name": "Diema Sport 1 🇧🇬 Bulgaria",
-          "channel": "Diema Sport 1",
-          "country": "🇧🇬 Bulgaria",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free"
-        },
-        {
-          "name": "Sport Klub 1 🇷🇸 Serbia",
-          "channel": "Sport Klub 1",
-          "country": "🇷🇸 Serbia",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free"
-        }
-      ],
-      "live": false
-    },
-    {
       "title": "Alanyaspor vs Gençlerbirliği",
       "league": "Super Lig",
       "time": "18:00",
@@ -136,9 +78,16 @@
           "country": "🇹🇷 Turkey",
           "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-2.svg",
           "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=tr&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "beIN SPORTS 2 🇹🇷 Turkey",
+          "channel": "beIN SPORTS 2",
+          "country": "🇹🇷 Turkey",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-2.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=tr&user=ntvstream&plan=free"
         }
       ],
-      "live": false
+      "live": true
     },
     {
       "title": "Kayserispor vs Trabzonspor",
@@ -195,6 +144,113 @@
           "country": "🇸🇦 Saudi Arabia",
           "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg",
           "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "beIN SPORTS 2 🇺🇸 USA",
+          "channel": "beIN SPORTS 2",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Sport TV 1 🇵🇹 Portugal",
+          "channel": "Sport TV 1",
+          "country": "🇵🇹 Portugal",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Match Football 3 🇷🇺 Russia",
+          "channel": "Match Football 3",
+          "country": "🇷🇺 Russia",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Arena Sport 1 🇷🇸 Serbia",
+          "channel": "Arena Sport 1",
+          "country": "🇷🇸 Serbia",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Sport Klub 1 🇷🇸 Serbia",
+          "channel": "Sport Klub 1",
+          "country": "🇷🇸 Serbia",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=ntvstream&plan=free"
+        },
+        {
+          "name": "beIN SPORTS 1 🇹🇷 Turkey",
+          "channel": "beIN SPORTS 1",
+          "country": "🇹🇷 Turkey",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-1.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=ntvstream&plan=free"
+        },
+        {
+          "name": "beIN SPORTS 4 🇸🇦 Saudi Arabia",
+          "channel": "beIN SPORTS 4",
+          "country": "🇸🇦 Saudi Arabia",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Rotor Volgograd vs Ural",
+      "league": "FNL",
+      "time": "14:00",
+      "timestamp": 1773061200000,
+      "logo": "https://api.cdn-live.tv/api/v1/team/images/2318.png",
+      "sources": [
+        {
+          "name": "Match Tv 🇷🇺 Russia",
+          "channel": "Match Tv",
+          "country": "🇷🇺 Russia",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
+    {
+      "title": "Eyüpspor vs Kocaelispor",
+      "league": "Super Lig",
+      "time": "14:00",
+      "timestamp": 1773061200000,
+      "logo": "https://api.cdn-live.tv/api/v1/team/images/7040.png",
+      "sources": [
+        {
+          "name": "Bein Sports 1 🇹🇷 Turkey",
+          "channel": "Bein Sports 1",
+          "country": "🇹🇷 Turkey",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-1.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
+    {
+      "title": "Montana vs Ludogorets",
+      "league": "Parva Liga",
+      "time": "14:30",
+      "timestamp": 1773063000000,
+      "logo": "https://api.cdn-live.tv/api/v1/team/images/43840.png",
+      "sources": [
+        {
+          "name": "Diema Sport 1 🇧🇬 Bulgaria",
+          "channel": "Diema Sport 1",
+          "country": "🇧🇬 Bulgaria",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Sport Klub 1 🇷🇸 Serbia",
+          "channel": "Sport Klub 1",
+          "country": "🇷🇸 Serbia",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free"
         }
       ],
       "live": false
@@ -1565,30 +1621,6 @@
       "live": true
     },
     {
-      "title": "KLS : OKK Beograd vs KK Dynamic",
-      "league": "Basketball",
-      "time": "16:00",
-      "timestamp": 1773068400000,
-      "logo": "https://iptv.playtorrio.xyz/logo.ico",
-      "sources": [
-        {
-          "name": "Arena Sport 10 🇷🇸 Serbia",
-          "channel": "Arena Sport 10",
-          "country": "🇷🇸 Serbia",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-10.webp",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+10&code=rs&user=ntvstream&plan=free"
-        },
-        {
-          "name": "V Sport Premium 🇸🇪 Sweden",
-          "channel": "V Sport Premium",
-          "country": "🇸🇪 Sweden",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-premium.png",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=v+sport+premium&code=se&user=ntvstream&plan=free"
-        }
-      ],
-      "live": true
-    },
-    {
       "title": "Liga Nationala : BC Mures Targu vs Dinamo Bucharest",
       "league": "Basketball",
       "time": "17:00",
@@ -1666,6 +1698,23 @@
           "country": "🇸🇪 Sweden",
           "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-football.png",
           "url": "https://cdn-live.tv/api/v1/channels/player/?name=v+sport+football&code=se&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Prva liga : Winter sport vs SAS",
+      "league": "Futsal",
+      "time": "18:00",
+      "timestamp": 1773075600000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Arena Sport 10 🇷🇸 Serbia",
+          "channel": "Arena Sport 10",
+          "country": "🇷🇸 Serbia",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-10.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+10&code=rs&user=ntvstream&plan=free"
         }
       ],
       "live": true
