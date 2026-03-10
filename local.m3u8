@@ -1,22 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-10 08:40:30
+# PlayTorrio Sports Events - 2026-03-10 09:42:22
 # Total Events: 33
-# Live Events: 1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[06:15] Cricket - undefined vs undefined 🔴 - Willow Cricket 🇺🇸 USA
-http://192.168.2.139:8383/play?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Cricket",[06:15] Cricket - undefined vs undefined 🔴 - Tnt Sports 2 🇬🇧 UK
-http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Cricket",[06:15] Cricket - undefined vs undefined 🔴 - Sky Sport 2 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[06:15] Cricket - undefined vs undefined 🔴 - Supersport Cricket 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="Cricket",[06:15] Cricket - undefined vs undefined 🔴 - Supersport Grandstand 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+# Live Events: 0
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="FNL",[14:00] FNL - Rotor Volgograd vs Ural
 http://192.168.2.139:8383/play?name=match+tv&code=ru&user=cdnlivetv&plan=free
@@ -506,4 +491,19 @@ http://192.168.2.139:8383/play?name=sport+klub+2&code=rs&user=cdnlivetv&plan=fre
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Tennis",[04:00] Tennis - undefined vs undefined - Sport Klub 4 🇷🇸 Serbia
 http://192.168.2.139:8383/play?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[06:15] Cricket - undefined vs undefined - Willow Cricket 🇺🇸 USA
+http://192.168.2.139:8383/play?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Cricket",[06:15] Cricket - undefined vs undefined - Tnt Sports 2 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Cricket",[06:15] Cricket - undefined vs undefined - Sky Sport 2 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[06:15] Cricket - undefined vs undefined - Supersport Cricket 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="Cricket",[06:15] Cricket - undefined vs undefined - Supersport Grandstand 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
 
