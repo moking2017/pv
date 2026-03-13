@@ -1,187 +1,43 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-13 01:58:46
-# Total Events: 45
-# Live Events: 16
+# PlayTorrio Sports Events - 2026-03-13 04:18:59
+# Total Events: 37
+# Live Events: 2
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/yes.png" group-title="NBA",[00:30] NBA - Atlanta Hawks vs Brooklyn Nets 🔴 - Yes Network 🇺🇸 USA
-http://192.168.2.139:8383/play?name=yes+network&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NBA",[00:30] NBA - Atlanta Hawks vs Brooklyn Nets 🔴 - Sport 5 Stars 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/sportv-2.png" group-title="Volleyball",[01:00] Volleyball - Brazil Superliga, Wome : Flor de Ypê Paulistano Barueri vs Tijuca Tênis Clube 🔴
-http://192.168.2.139:8383/play?name=sportv+2&code=br&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[01:10] Motorsport - F1 Academy, Training 🔴 - Sky Sports F1 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+f1&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.png" group-title="Motorsport",[01:10] Motorsport - F1 Academy, Training 🔴 - Sky Sport 3 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+3&code=nz&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport.svg" group-title="Motorsport",[01:10] Motorsport - F1 Academy, Training 🔴 - Canal Sport 🇫🇷 France
-http://192.168.2.139:8383/play?name=canal+sport&code=fr&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-f1.png" group-title="Motorsport",[01:10] Motorsport - F1 Academy, Training 🔴 - DAZN F1 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=dazn+f1&code=es&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg" group-title="Motorsport",[01:10] Motorsport - F1 Academy, Training 🔴 - Sky Sport F1 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+f1&code=it&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[01:10] Motorsport - F1 Academy, Training 🔴 - Sky Sport F1 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+f1&code=de&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-plus.webp" group-title="Motorsport",[01:10] Motorsport - F1 Academy, Training 🔴 - TV3 Puls 🇩🇰 Denmark
-http://192.168.2.139:8383/play?name=tv3+puls&code=dk&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Motorsport",[01:10] Motorsport - F1 Academy, Training 🔴 - Sport Klub 1 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-motor.png" group-title="Motorsport",[01:10] Motorsport - F1 Academy, Training 🔴 - V Sport Motor 🇸🇪 Sweden
-http://192.168.2.139:8383/play?name=v+sport+motor&code=se&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/fox-sports.svg" group-title="Motorsport",[01:10] Motorsport - F1 Academy, Training 🔴 - FOX Sports 🇲🇽 Mexico
-http://192.168.2.139:8383/play?name=fox+sports&code=mx&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/hungary/m4-sport.svg" group-title="Motorsport",[01:10] Motorsport - F1 Academy, Training 🔴 - M4 Sports 🇭🇺 Hungary
-http://192.168.2.139:8383/play?name=m4+sports&code=hu&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports.webp" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud 🔴 - Bein Sports 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud 🔴 - Bein Sports Mena 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-n.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud 🔴 - Bein Sports N 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/fox-sports-2.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud 🔴 - Fox Sports 2 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud 🔴 - Bein Sports 2 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports.webp" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud 🔴 - beIN SPORTS 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud 🔴 - beIN SPORTS MENA 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-n.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud 🔴 - beIN SPORTS N 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=bein+sports+n&code=es&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/fox-sports-2.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud 🔴 - FOX Sports 2 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=fox+sports+2&code=ar&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud 🔴 - beIN SPORTS 2 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate 🔴 - M Liga De Campeones 1 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate 🔴 - Sport Tv 2 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate 🔴 - Arena 2 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate 🔴 - Arena Sport 1 🇭🇷 Croatia
-http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate 🔴 - Tnt Sports 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-1.png" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate 🔴 - Sport 1 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+1&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate 🔴 - M Liga de Campeones 1 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=m+liga+de+campeones+1&code=es&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate 🔴 - Sport TV 2 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate 🔴 - Arena 2 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate 🔴 - Arena Sport 1 🇭🇷 Croatia
-http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate 🔴 - TNT Sports 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=tnt+sports&code=ar&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-1.png" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate 🔴 - Sport 1 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+1&code=il&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[01:30] Brasileirão - Grêmio vs RB Bragantino 🔴 - Sportdigital Fussball 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/canal-11.png" group-title="Brasileirão",[01:30] Brasileirão - Grêmio vs RB Bragantino 🔴 - Canal 11 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=canal+11&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Brasileirão",[01:30] Brasileirão - Grêmio vs RB Bragantino 🔴 - Match Football 3 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[01:30] Brasileirão - Grêmio vs RB Bragantino 🔴 - SportDigital Fussball 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sportdigital+fussball&code=de&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/canal-11.png" group-title="Brasileirão",[01:30] Brasileirão - Grêmio vs RB Bragantino 🔴 - Canal 11 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=canal+11&code=pt&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Brasileirão",[01:30] Brasileirão - Grêmio vs RB Bragantino 🔴 - Match Football 3 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="Golf",[01:30] Golf - LIV Golf Singapore | Day 2 🔴
-http://192.168.2.139:8383/play?name=tnt+sports+1&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-2.svg" group-title="NBA",[02:00] NBA - San Antonio Spurs vs Denver Nuggets 🔴 - Tsn 2 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+2&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="NBA",[02:00] NBA - San Antonio Spurs vs Denver Nuggets 🔴 - Sky Sport 251 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg" group-title="NBA",[02:00] NBA - San Antonio Spurs vs Denver Nuggets 🔴 - Tvp Sport 🇵🇱 Poland
-http://192.168.2.139:8383/play?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-2.svg" group-title="NBA",[02:00] NBA - San Antonio Spurs vs Denver Nuggets 🔴 - TSN 2 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+2&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="NBA",[02:00] NBA - San Antonio Spurs vs Denver Nuggets 🔴 - Sky Sport 251 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+251&code=it&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg" group-title="NBA",[02:00] NBA - San Antonio Spurs vs Denver Nuggets 🔴 - TVP Sport 🇵🇱 Poland
-http://192.168.2.139:8383/play?name=tvp+sport&code=pl&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/cbs-sports-network.svg" group-title="NCAA",[02:00] NCAA - TBD vs San Diego State 🔴
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/cbs-sports-network.svg" group-title="NCAA",[04:30] NCAA - TBD vs New Mexico 🔴
 http://192.168.2.139:8383/play?name=cbs+sports+network&code=us&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/btn.webp" group-title="NCAA",[02:00] NCAA - TBD vs UCLA 🔴
-http://192.168.2.139:8383/play?name=btn&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[04:30] Motorsport - Formula 1 : Heineken Chinese GP - Practice 1 🔴 - Sky Sports F1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+f1&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-360.png" group-title="NBA",[02:30] NBA - Oklahoma City Thunder vs Boston Celtics 🔴 - Sportsnet 360 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+360&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.png" group-title="Motorsport",[04:30] Motorsport - Formula 1 : Heineken Chinese GP - Practice 1 🔴 - Sky Sport 3 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+3&code=nz&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-2.webp" group-title="NBA",[02:30] NBA - Oklahoma City Thunder vs Boston Celtics 🔴 - M Liga De Campeones 2 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=m+liga+de+campeones+2&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport.svg" group-title="Motorsport",[04:30] Motorsport - Formula 1 : Heineken Chinese GP - Practice 1 🔴 - Canal Sport 🇫🇷 France
+http://192.168.2.139:8383/play?name=canal+sport&code=fr&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-360.png" group-title="NBA",[02:30] NBA - Oklahoma City Thunder vs Boston Celtics 🔴 - Sportsnet 360 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+360&code=ca&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-f1.png" group-title="Motorsport",[04:30] Motorsport - Formula 1 : Heineken Chinese GP - Practice 1 🔴 - DAZN F1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=dazn+f1&code=es&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-2.webp" group-title="NBA",[02:30] NBA - Oklahoma City Thunder vs Boston Celtics 🔴 - M Liga de Campeones 2 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=m+liga+de+campeones+2&code=es&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg" group-title="Motorsport",[04:30] Motorsport - Formula 1 : Heineken Chinese GP - Practice 1 🔴 - Sky Sport F1 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+f1&code=it&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NCAA",[02:30] NCAA - TBD vs North Carolina 🔴
-http://192.168.2.139:8383/play?name=espn&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[04:30] Motorsport - Formula 1 : Heineken Chinese GP - Practice 1 🔴 - Sky Sport F1 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+f1&code=de&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/sec-network.svg" group-title="NCAA",[02:30] NCAA - TBD vs Texas A&M 🔴
-http://192.168.2.139:8383/play?name=sec+network&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-plus.webp" group-title="Motorsport",[04:30] Motorsport - Formula 1 : Heineken Chinese GP - Practice 1 🔴 - TV3 Puls 🇩🇰 Denmark
+http://192.168.2.139:8383/play?name=tv3+puls&code=dk&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="NCAA",[02:30] NCAA - TBD vs Villanova 🔴
-http://192.168.2.139:8383/play?name=fox+sports+1&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Motorsport",[04:30] Motorsport - Formula 1 : Heineken Chinese GP - Practice 1 🔴 - Sport Klub 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-2.svg" group-title="NCAA",[02:30] NCAA - TBD vs Kansas 🔴
-http://192.168.2.139:8383/play?name=espn+2&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-motor.png" group-title="Motorsport",[04:30] Motorsport - Formula 1 : Heineken Chinese GP - Practice 1 🔴 - V Sport Motor 🇸🇪 Sweden
+http://192.168.2.139:8383/play?name=v+sport+motor&code=se&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-u.svg" group-title="NCAA",[02:30] NCAA - TBD vs North Texas 🔴
-http://192.168.2.139:8383/play?name=espn+u&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/fox-sports.svg" group-title="Motorsport",[04:30] Motorsport - Formula 1 : Heineken Chinese GP - Practice 1 🔴 - FOX Sports 🇲🇽 Mexico
+http://192.168.2.139:8383/play?name=fox+sports&code=mx&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/hungary/m4-sport.svg" group-title="Motorsport",[04:30] Motorsport - Formula 1 : Heineken Chinese GP - Practice 1 🔴 - M4 Sports 🇭🇺 Hungary
+http://192.168.2.139:8383/play?name=m4+sports&code=hu&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[11:00] Cricket - undefined vs undefined
 http://192.168.2.139:8383/play?name=willow+cricket&code=us&user=cdnlivetv&plan=free
@@ -776,4 +632,67 @@ http://192.168.2.139:8383/play?name=sport+1&code=il&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="NBA",[00:00] NBA - Detroit Pistons vs Philadelphia 76ers
 http://192.168.2.139:8383/play?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/yes.png" group-title="NBA",[00:30] NBA - Atlanta Hawks vs Brooklyn Nets - Yes Network 🇺🇸 USA
+http://192.168.2.139:8383/play?name=yes+network&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NBA",[00:30] NBA - Atlanta Hawks vs Brooklyn Nets - Sport 5 Stars 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports.webp" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud - Bein Sports 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud - Bein Sports Mena 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-n.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud - Bein Sports N 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/fox-sports-2.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud - Fox Sports 2 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="Copa Libertadores",[01:30] Copa Libertadores - Medellín vs Juventud - Bein Sports 2 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate - M Liga De Campeones 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate - Sport Tv 2 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate - Arena 2 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate - Arena Sport 1 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate - Tnt Sports 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-1.png" group-title="Primera División",[01:30] Primera División - Huracán vs River Plate - Sport 1 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+1&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[01:30] Brasileirão - Grêmio vs RB Bragantino - Sportdigital Fussball 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/canal-11.png" group-title="Brasileirão",[01:30] Brasileirão - Grêmio vs RB Bragantino - Canal 11 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=canal+11&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Brasileirão",[01:30] Brasileirão - Grêmio vs RB Bragantino - Match Football 3 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-2.svg" group-title="NBA",[02:00] NBA - San Antonio Spurs vs Denver Nuggets - Tsn 2 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=tsn+2&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="NBA",[02:00] NBA - San Antonio Spurs vs Denver Nuggets - Sky Sport 251 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg" group-title="NBA",[02:00] NBA - San Antonio Spurs vs Denver Nuggets - Tvp Sport 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-360.png" group-title="NBA",[02:30] NBA - Oklahoma City Thunder vs Boston Celtics - Sportsnet 360 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+360&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-2.webp" group-title="NBA",[02:30] NBA - Oklahoma City Thunder vs Boston Celtics - M Liga De Campeones 2 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+2&code=es&user=cdnlivetv&plan=free
 
