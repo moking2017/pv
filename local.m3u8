@@ -1,112 +1,193 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-14 23:27:07
-# Total Events: 114
-# Live Events: 9
+# PlayTorrio Sports Events - 2026-03-15 02:13:07
+# Total Events: 117
+# Live Events: 12
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/chile/tnt-sports.png" group-title="Primera Division",[22:00] Primera Division - Coquimbo Unido vs Universidad Chile 🔴
-http://192.168.2.139:8383/play?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-9.png" group-title="Cricket",[00:30] Cricket - undefined vs undefined 🔴 - Sky Sport 9 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+9&code=nz&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[22:10] Primera A - Cúcuta Deportivo vs Deportivo Cali 🔴
-http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.png" group-title="Cricket",[00:30] Cricket - undefined vs undefined 🔴 - Sky Sport 3 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-4.svg" group-title="Motorsport",[22:30] Motorsport - NASCAR O'Reilly Auto Parts Series The LiUNA! 🔴 - Sport TV 4 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+4&code=pt&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-3.png" group-title="NBA",[01:00] NBA - Miami Heat vs Orlando Magic 🔴
+http://192.168.2.139:8383/play?name=sky+sport+bundesliga+3&code=de&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-3.png" group-title="Motorsport",[22:30] Motorsport - NASCAR O'Reilly Auto Parts Series The LiUNA! 🔴 - Ziggo Sport 3 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+3&code=nl&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/abc.png" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Abc 🇺🇸 USA
+http://192.168.2.139:8383/play?name=abc&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-tv.svg" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - Nba Tv 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nba+tv&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Espn Deportes 🇺🇸 USA
+http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - Bein Sports 1 🇫🇷 France
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Tsn 4 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=tsn+4&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Tsn 5 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=tsn+5&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Bein Sports 1 🇫🇷 France
 http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-5.png" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - Sky Sport Bundesliga 5 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+bundesliga+5&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-4.png" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Sky Sport Bundesliga 4 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+bundesliga+4&code=de&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - Sport Tv 2 🇵🇹 Portugal
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Sport Tv 2 🇵🇹 Portugal
 http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - Diema Sport 1 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Espn 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=espn&code=nl&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-5.png" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - Nova Sport 5 🇨🇿 Czech Republic
-http://192.168.2.139:8383/play?name=nova+sport+5&code=cz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Cosmote Sport 4 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+4&code=gr&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - Sport 5 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Arena 1 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - Bein Sports 8 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Sport Klub 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-tv.svg" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - NBA TV 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nba+tv&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-3.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Espn 3 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn+3&code=ar&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - beIN SPORTS 1 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-5.png" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - Sky Sport Bundesliga 5 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+bundesliga+5&code=de&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - Sport TV 2 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - Diema Sport 1 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-5.png" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - Nova Sport 5 🇨🇿 Czech Republic
-http://192.168.2.139:8383/play?name=nova+sport+5&code=cz&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - Sport 5 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5&code=il&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards 🔴 - beIN SPORTS 8 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Motorsport",[23:00] Motorsport - Ferrari Challenge North America 2026: Coppa Shell Race 1 🔴
-http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn.svg" group-title="Liga MX",[00:00] Liga MX - Atlético San Luis vs Pachuca 🔴 - Espn 🇲🇽 Mexico
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Espn 🇲🇽 Mexico
 http://192.168.2.139:8383/play?name=espn&code=mx&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn.svg" group-title="Liga MX",[00:00] Liga MX - Atlético San Luis vs Pachuca 🔴 - ESPN 🇲🇽 Mexico
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Sport 5 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Bein Sports 8 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/abc.png" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - ABC 🇺🇸 USA
+http://192.168.2.139:8383/play?name=abc&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - ESPN Deportes 🇺🇸 USA
+http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - TSN 4 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=tsn+4&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - TSN 5 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=tsn+5&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - beIN SPORTS 1 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-4.png" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Sky Sport Bundesliga 4 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+bundesliga+4&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Sport TV 2 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - ESPN 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=espn&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Cosmote Sport 4 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+4&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Arena 1 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Sport Klub 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-3.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - ESPN 3 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn+3&code=ar&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - ESPN 🇲🇽 Mexico
 http://192.168.2.139:8383/play?name=espn&code=mx&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-5.svg" group-title="Primera División",[00:00] Primera División - Rosario Central vs Banfield 🔴 - Sport Tv 5 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+5&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - Sport 5 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5&code=il&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="Primera División",[00:00] Primera División - Rosario Central vs Banfield 🔴 - Arena Sport 1 🇭🇷 Croatia
-http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets 🔴 - beIN SPORTS 8 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[00:00] Primera División - Rosario Central vs Banfield 🔴 - Tnt Sports 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Golf",[01:30] Golf - LIV Golf Singapore | Day 4 🔴 - FOX Sports 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=fox+sports+1&code=us&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-5.svg" group-title="Primera División",[00:00] Primera División - Rosario Central vs Banfield 🔴 - Sport TV 5 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+5&code=pt&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="Golf",[01:30] Golf - LIV Golf Singapore | Day 4 🔴 - TNT Sports 1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+1&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="Primera División",[00:00] Primera División - Rosario Central vs Banfield 🔴 - Arena Sport 1 🇭🇷 Croatia
-http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-golf.webp" group-title="Golf",[01:30] Golf - LIV Golf Singapore | Day 4 🔴 - SuperSport Golf 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+golf&code=za&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[00:00] Primera División - Rosario Central vs Banfield 🔴 - TNT Sports 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=tnt+sports&code=ar&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-golf.svg" group-title="Golf",[01:30] Golf - LIV Golf Singapore | Day 4 🔴 - Movistar Golf 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+golf&code=es&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nbc.png" group-title="Liga MX",[00:07] Liga MX - Guadalajara vs Santos Laguna 🔴 - Nbc 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nbc&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg" group-title="Liga MX",[02:00] Liga MX - Toluca vs Atlas 🔴 - Tudn 🇺🇸 USA
+http://192.168.2.139:8383/play?name=tudn&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/telemundo.svg" group-title="Liga MX",[00:07] Liga MX - Guadalajara vs Santos Laguna 🔴 - Telemundo 🇺🇸 USA
-http://192.168.2.139:8383/play?name=telemundo&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/unvision.svg" group-title="Liga MX",[02:00] Liga MX - Toluca vs Atlas 🔴 - Univision 🇺🇸 USA
+http://192.168.2.139:8383/play?name=univision&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nbc.png" group-title="Liga MX",[00:07] Liga MX - Guadalajara vs Santos Laguna 🔴 - NBC 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nbc&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/tudn.svg" group-title="Liga MX",[02:00] Liga MX - Toluca vs Atlas 🔴 - Tudn 🇲🇽 Mexico
+http://192.168.2.139:8383/play?name=tudn&code=mx&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/telemundo.svg" group-title="Liga MX",[00:07] Liga MX - Guadalajara vs Santos Laguna 🔴 - Telemundo 🇺🇸 USA
-http://192.168.2.139:8383/play?name=telemundo&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg" group-title="Liga MX",[02:00] Liga MX - Toluca vs Atlas 🔴 - TUDN 🇺🇸 USA
+http://192.168.2.139:8383/play?name=tudn&code=us&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[00:20] Primera A - Boyacá Chicó vs Millonarios 🔴 - Win Futbol 🇨🇴 Colombia
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/unvision.svg" group-title="Liga MX",[02:00] Liga MX - Toluca vs Atlas 🔴 - Univision 🇺🇸 USA
+http://192.168.2.139:8383/play?name=univision&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/tudn.svg" group-title="Liga MX",[02:00] Liga MX - Toluca vs Atlas 🔴 - TUDN 🇲🇽 Mexico
+http://192.168.2.139:8383/play?name=tudn&code=mx&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[02:00] Cricket - undefined vs undefined 🔴
+http://192.168.2.139:8383/play?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[02:00] Cricket - Battle of Bats 2026: VTEX India Squad vs. AWS World Squad 🔴
+http://192.168.2.139:8383/play?name=willow+cricket&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-1.svg" group-title="WinterSports",[02:00] WinterSports - 2026 World Women's Curling Championship : United States vs. Canada 🔴 - TSN 1 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=tsn+1&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-3.svg" group-title="WinterSports",[02:00] WinterSports - 2026 World Women's Curling Championship : United States vs. Canada 🔴 - TSN 3 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=tsn+3&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[02:00] Golf - Ladies European Tour Women's Australian Open 🔴 - GOLF TV 🇺🇸 USA
+http://192.168.2.139:8383/play?name=golf+tv&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-golf.svg" group-title="Golf",[02:00] Golf - Ladies European Tour Women's Australian Open 🔴 - Sky Sports Golf 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+golf&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-5.png" group-title="Golf",[02:00] Golf - Ladies European Tour Women's Australian Open 🔴 - Sky Sport 5 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+5&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-golf.webp" group-title="Golf",[02:00] Golf - Ladies European Tour Women's Australian Open 🔴 - SuperSport Golf 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+golf&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-golf.svg" group-title="Golf",[02:00] Golf - Ladies European Tour Women's Australian Open 🔴 - Movistar Golf 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+golf&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png" group-title="Golf",[02:00] Golf - Ladies European Tour Women's Australian Open 🔴 - Ziggo Sport 6 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+6&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/sk-golf.png.webp" group-title="Golf",[02:00] Golf - Ladies European Tour Women's Australian Open 🔴 - Sport Klub Golf 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=sport+klub+golf&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[02:30] Primera A - Santa Fe vs Alianza 🔴 - Win Futbol 🇨🇴 Colombia
 http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[00:20] Primera A - Boyacá Chicó vs Millonarios 🔴 - Win Futbol 🇨🇴 Colombia
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[02:30] Primera A - Santa Fe vs Alianza 🔴 - Win Futbol 🇨🇴 Colombia
 http://192.168.2.139:8383/play?name=win+futbol&code=co&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-4.png" group-title="Cricket",[02:30] Cricket - undefined vs undefined 🔴 - Tnt Sports 4 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[02:30] Cricket - undefined vs undefined 🔴 - Supersport Cricket 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="Cricket",[02:30] Cricket - undefined vs undefined 🔴 - Supersport Grandstand 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-4.png" group-title="Cricket",[02:30] Cricket - 1st Women's T20 : New Zealand W vs South Africa W 🔴 - TNT Sports 4 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+4&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[02:30] Cricket - 1st Women's T20 : New Zealand W vs South Africa W 🔴 - SuperSport Cricket 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="Cricket",[02:30] Cricket - 1st Women's T20 : New Zealand W vs South Africa W 🔴 - SuperSport Grandstand 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+grandstand&code=za&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[09:00] Cricket - undefined vs undefined
 http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
@@ -1629,6 +1710,57 @@ http://192.168.2.139:8383/play?name=arena+sport+3&code=rs&user=cdnlivetv&plan=fr
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Primeira Liga",[21:30] Primeira Liga - Arouca vs Benfica - Sport Klub 4 🇷🇸 Serbia
 http://192.168.2.139:8383/play?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
 
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/chile/tnt-sports.png" group-title="Primera Division",[22:00] Primera Division - Coquimbo Unido vs Universidad Chile
+http://192.168.2.139:8383/play?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[22:10] Primera A - Cúcuta Deportivo vs Deportivo Cali
+http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-tv.svg" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards - Nba Tv 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nba+tv&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards - Bein Sports 1 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-5.png" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards - Sky Sport Bundesliga 5 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+bundesliga+5&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards - Sport Tv 2 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards - Diema Sport 1 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-5.png" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards - Nova Sport 5 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=nova+sport+5&code=cz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards - Sport 5 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[23:00] NBA - Boston Celtics vs Washington Wizards - Bein Sports 8 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn.svg" group-title="Liga MX",[00:00] Liga MX - Atlético San Luis vs Pachuca
+http://192.168.2.139:8383/play?name=espn&code=mx&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-5.svg" group-title="Primera División",[00:00] Primera División - Rosario Central vs Banfield - Sport Tv 5 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+5&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="Primera División",[00:00] Primera División - Rosario Central vs Banfield - Arena Sport 1 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[00:00] Primera División - Rosario Central vs Banfield - Tnt Sports 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nbc.png" group-title="Liga MX",[00:07] Liga MX - Guadalajara vs Santos Laguna - Nbc 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nbc&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/telemundo.svg" group-title="Liga MX",[00:07] Liga MX - Guadalajara vs Santos Laguna - Telemundo 🇺🇸 USA
+http://192.168.2.139:8383/play?name=telemundo&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[00:20] Primera A - Boyacá Chicó vs Millonarios
+http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
+
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/chile/tnt-sports.png" group-title="Primera Division",[00:30] Primera Division - Universidad Católica vs Everton
 http://192.168.2.139:8383/play?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 
@@ -1652,84 +1784,6 @@ http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=cdnlivetv&plan=
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-2.png" group-title="Brasileirão",[00:30] Brasileirão - Botafogo vs Flamengo - Sport 2 🇮🇱 Israel
 http://192.168.2.139:8383/play?name=sport+2&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-9.png" group-title="Cricket",[00:30] Cricket - undefined vs undefined - Sky Sport 9 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+9&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.png" group-title="Cricket",[00:30] Cricket - undefined vs undefined - Sky Sport 3 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-3.png" group-title="NBA",[01:00] NBA - Miami Heat vs Orlando Magic
-http://192.168.2.139:8383/play?name=sky+sport+bundesliga+3&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/abc.png" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Abc 🇺🇸 USA
-http://192.168.2.139:8383/play?name=abc&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Espn Deportes 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Tsn 4 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+4&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Tsn 5 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+5&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Bein Sports 1 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-4.png" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Sky Sport Bundesliga 4 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+bundesliga+4&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Sport Tv 2 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Espn 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=espn&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Cosmote Sport 4 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+4&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Arena 1 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Sport Klub 1 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-3.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Espn 3 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn+3&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Espn 🇲🇽 Mexico
-http://192.168.2.139:8383/play?name=espn&code=mx&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Sport 5 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[01:30] NBA - Los Angeles Lakers vs Denver Nuggets - Bein Sports 8 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg" group-title="Liga MX",[02:00] Liga MX - Toluca vs Atlas - Tudn 🇺🇸 USA
-http://192.168.2.139:8383/play?name=tudn&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/unvision.svg" group-title="Liga MX",[02:00] Liga MX - Toluca vs Atlas - Univision 🇺🇸 USA
-http://192.168.2.139:8383/play?name=univision&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/tudn.svg" group-title="Liga MX",[02:00] Liga MX - Toluca vs Atlas - Tudn 🇲🇽 Mexico
-http://192.168.2.139:8383/play?name=tudn&code=mx&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[02:00] Cricket - undefined vs undefined
-http://192.168.2.139:8383/play?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[02:30] Primera A - Santa Fe vs Alianza
-http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-4.png" group-title="Cricket",[02:30] Cricket - undefined vs undefined - Tnt Sports 4 🇬🇧 UK
-http://192.168.2.139:8383/play?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[02:30] Cricket - undefined vs undefined - Supersport Cricket 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="Cricket",[02:30] Cricket - undefined vs undefined - Supersport Grandstand 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NBA",[03:30] NBA - Los Angeles Clippers vs Sacramento Kings - Espn 🇺🇸 USA
 http://192.168.2.139:8383/play?name=espn&code=us&user=cdnlivetv&plan=free
