@@ -1,7 +1,10 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-18 04:55:21
-# Total Events: 35
-# Live Events: 0
+# PlayTorrio Sports Events - 2026-03-18 06:02:19
+# Total Events: 36
+# Live Events: 1
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-variety-1.webp" group-title="Cycling",[06:00] Cycling - Absa Cape Epic '26: Stage 2 🔴
+http://192.168.2.139:8383/play?name=supersport+variety+1&code=za&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Cricket",[07:00] Cricket - undefined vs undefined - Tnt Sports 2 🇬🇧 UK
 http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
