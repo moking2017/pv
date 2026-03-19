@@ -1,25 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-19 15:53:56
-# Total Events: 44
-# Live Events: 7
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-max.svg" group-title="Volleyball",[15:00] Volleyball - Champions League Women : Fenerbahce W vs Scandicci W 🔴 - Sky Sport Max 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+max&code=it&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-9.webp" group-title="Volleyball",[15:00] Volleyball - Champions League Women : Fenerbahce W vs Scandicci W 🔴 - Cosmote Sport 9 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+9&code=gr&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="Volleyball",[15:00] Volleyball - Champions League Women : Fenerbahce W vs Scandicci W 🔴 - Polsat Sport 🇵🇱 Poland
-http://192.168.2.139:8383/play?name=polsat+sport&code=pl&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg" group-title="Volleyball",[15:00] Volleyball - Champions League Women : Fenerbahce W vs Scandicci W 🔴 - Max Sport 3 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+3&code=bg&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Volleyball",[15:00] Volleyball - Champions League Women : Fenerbahce W vs Scandicci W 🔴 - Arena 2 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-4.svg" group-title="Motorsport",[15:45] Motorsport - Extreme E : Rally Raid Portugal SS3 Albuquerque 🔴
-http://192.168.2.139:8383/play?name=sport+tv+4&code=pt&user=ntvstream&plan=free
+# PlayTorrio Sports Events - 2026-03-19 17:53:42
+# Total Events: 58
+# Live Events: 21
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tennis-channel.png" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Tennis Channel 🇺🇸 USA
 http://192.168.2.139:8383/play?name=tennis+channel&code=us&user=cdnlivetv&plan=free
@@ -84,86 +66,629 @@ http://192.168.2.139:8383/play?name=sport+klub+2&code=rs&user=cdnlivetv&plan=fre
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Sport Klub 4 🇷🇸 Serbia
 http://192.168.2.139:8383/play?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-1.svg" group-title="WinterSports",[16:00] WinterSports - 2026 World Women's Curling Championship : Canada vs. Republic of Korea 🔴
-http://192.168.2.139:8383/play?name=tsn+1&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tennis-channel.png" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Tennis Channel 🇺🇸 USA
-http://192.168.2.139:8383/play?name=tennis+channel&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - beIN SPORTS 2 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+2&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - beIN SPORTS 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - beIN SPORTS 3 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+3&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Sky Sports Arena 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+arena&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-tennis.svg" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Sky Sports Tennis 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+tennis&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-1.svg" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - beIN SPORTS 1 🇦🇺 Australia
-http://192.168.2.139:8383/play?name=bein+sports+1&code=au&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-2.svg" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - beIN SPORTS 2 🇦🇺 Australia
-http://192.168.2.139:8383/play?name=bein+sports+2&code=au&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-2.svg" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - beIN SPORTS 2 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+2&code=fr&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Movistar Deportes 1 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=movistar+deportes+1&code=es&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-2.webp" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Movistar Deportes 2 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=movistar+deportes+2&code=es&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-3.webp" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Movistar Deportes 3 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=movistar+deportes+3&code=es&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Movistar Deportes 4 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=movistar+deportes+4&code=es&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Sky Sport Tennis 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+tennis&code=it&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-tennis.svg" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Sky Sport Tennis 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+tennis&code=de&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-4.png" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Ziggo Sport 4 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+4&code=nl&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5.png" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Ziggo Sport 5 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+5&code=nl&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Max Sport 1 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+1&code=bg&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Max Sport 2 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-2.png.webp" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Sport Klub 2 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+2&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Tennis",[16:00] Tennis - 2026 Miami Open Tennis WTA First Round 🔴 - Sport Klub 4 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+4&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/cbs.png" group-title="NCAA",[16:15] NCAA - TCU vs Ohio State 🔴
-http://192.168.2.139:8383/play?name=cbs&code=us&user=ntvstream&plan=free
-
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="Russian Cup",[16:30] Russian Cup - Krylya Sovetov vs Lokomotiv Moskva 🔴 - Match Premier 🇷🇺 Russia
 http://192.168.2.139:8383/play?name=match+premier&code=ru&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Russian Cup",[16:30] Russian Cup - Krylya Sovetov vs Lokomotiv Moskva 🔴 - Match Tv 🇷🇺 Russia
 http://192.168.2.139:8383/play?name=match+tv&code=ru&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="Russian Cup",[16:30] Russian Cup - Krylya Sovetov vs Lokomotiv Moskva 🔴 - Match Premier 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+premier&code=ru&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Parva Liga",[17:00] Parva Liga - Spartak Varna vs Ludogorets 🔴 - Diema Sport 1 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Russian Cup",[16:30] Russian Cup - Krylya Sovetov vs Lokomotiv Moskva 🔴 - Match TV 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+tv&code=ru&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Parva Liga",[17:00] Parva Liga - Spartak Varna vs Ludogorets 🔴 - Diema Sport 1 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-2.webp" group-title="Volleyball",[17:00] Volleyball - Greek Cup : OFI vs Panathinaikos 🔴
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+2&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="Volleyball",[17:30] Volleyball - Orlen Liga Women : Opole W vs Radom W 🔴
+http://192.168.2.139:8383/play?name=polsat+sport+2&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-2.svg" group-title="Super Lig",[18:00] Super Lig - Konyaspor vs Gençlerbirliği 🔴 - Bein Sports 2 🇹🇷 Turkey
+http://192.168.2.139:8383/play?name=bein+sports+2&code=tr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-2.svg" group-title="Super Lig",[18:00] Super Lig - Konyaspor vs Gençlerbirliği 🔴 - beIN SPORTS 2 🇹🇷 Turkey
+http://192.168.2.139:8383/play?name=bein+sports+2&code=tr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports.webp" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - Bein Sports 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - Bein Sports Max 4 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-n.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - Bein Sports N 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - Sport Tv 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - Match Football 3 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-4.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - Espn 4 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=espn+4&code=br&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/fox-sports-2.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - Fox Sports 2 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-1.webp" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - Bein Sports 1 🇹🇷 Turkey
+http://192.168.2.139:8383/play?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports.webp" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - beIN SPORTS 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - beIN SPORTS MAX 4 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+max+4&code=fr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-n.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - beIN SPORTS N 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=bein+sports+n&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - Sport TV 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - Match Football 3 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-4.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - ESPN 4 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=espn+4&code=br&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/fox-sports-2.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - FOX Sports 2 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=fox+sports+2&code=ar&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-1.webp" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa 🔴 - beIN SPORTS 1 🇹🇷 Turkey
+http://192.168.2.139:8383/play?name=bein+sports+1&code=tr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/dazn-1.png" group-title="Volleyball",[18:00] Volleyball - Champions League Women : Vakifbank W vs Monza W 🔴
+http://192.168.2.139:8383/play?name=dazn+1&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/vamos-spain.svg" group-title="Basketball",[18:00] Basketball - Euroleague : Valencia vs Barcelona 🔴 - Vamos Spain 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=vamos+spain&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="Basketball",[18:00] Basketball - Euroleague : Valencia vs Barcelona 🔴 - Sport TV 2 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-4.png" group-title="Basketball",[18:00] Basketball - Euroleague : Valencia vs Barcelona 🔴 - Nova Sports 4 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+4&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Basketball",[18:00] Basketball - Euroleague : Valencia vs Barcelona 🔴 - Arena 1 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/oneplay-sports-1.webp" group-title="Basketball",[18:00] Basketball - Euroleague : Valencia vs Barcelona 🔴 - Oneplay Sport 1 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=oneplay+sport+1&code=cz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-plus.png" group-title="Basketball",[18:00] Basketball - Euroleague : Valencia vs Barcelona 🔴 - Sport 5 Plus 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5+plus&code=il&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-10.webp" group-title="Basketball",[18:00] Basketball - ABA League : KK Krka Novo Mesto vs Mega Soccerbet 🔴
+http://192.168.2.139:8383/play?name=arena+sport+10&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="NCAA",[18:30] NCAA - South Florida vs Louisville 🔴
+http://192.168.2.139:8383/play?name=tnt&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp" group-title="Basketball",[18:30] Basketball - Euroleague : Anadolu Efes vs Monaco 🔴 - Movistar Deportes 4 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+deportes+4&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-start.png" group-title="Basketball",[18:30] Basketball - Euroleague : Anadolu Efes vs Monaco 🔴 - Nova Sports Start 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+start&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Basketball",[18:30] Basketball - Euroleague : Anadolu Efes vs Monaco 🔴 - Arena 2 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Paramount Event 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+1&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Tnt Sports 7 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-6.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - M Liga De Campeones 6 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+6&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-3.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Dazn 3 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+3&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-3.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Ziggo Sport 3 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-9.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Cosmote Sport 9 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+9&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-3.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Polsat Sport 3 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-2.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Arena Sport 2 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-3.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Espn 3 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn+3&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Bein Sports 8 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Paramount Event 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+1&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - TNT Sports 7 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+7&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-6.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - M Liga de Campeones 6 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+6&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-3.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - DAZN 3 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+3&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-3.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Ziggo Sport 3 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+3&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-9.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Cosmote Sport 9 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+9&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-3.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Polsat Sport 3 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=polsat+sport+3&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-2.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - Arena Sport 2 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+2&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-3.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - ESPN 3 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn+3&code=ar&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk 🔴 - beIN SPORTS 8 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Paramount Event 2 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+2&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Bein Sports 2 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-4.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Tnt Sports 4 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-football.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Supersport Football 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+football&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-foot.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Canal Foot 🇫🇷 France
+http://192.168.2.139:8383/play?name=canal+foot&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - M Liga De Campeones 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Dazn 2 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+2&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Ziggo Sport 1 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Ziggo Sport 2 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Cosmote Sport 8 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+8&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Polsat Sport 2 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Max Sport 3 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Arena 3 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-2.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Arena Sport 2 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+2&code=hr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Espn 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-3.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Digi Sport 3 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Prima Sport 2 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Bein Sports 2 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Paramount Event 2 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+2&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - beIN SPORTS 2 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+2&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-4.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - TNT Sports 4 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+4&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-football.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - SuperSport Football 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+football&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-foot.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Canal Foot 🇫🇷 France
+http://192.168.2.139:8383/play?name=canal+foot&code=fr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - M Liga de Campeones 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+1&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - DAZN 2 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+2&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Ziggo Sport 1 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+1&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Ziggo Sport 2 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+2&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Cosmote Sport 8 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+8&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Polsat Sport 2 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=polsat+sport+2&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Max Sport 3 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+3&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Arena 3 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+3+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-2.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Arena Sport 2 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+2&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - ESPN 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn&code=ar&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-3.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Digi Sport 3 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=digi+sport+3&code=ro&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - Prima Sport 2 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=prima+sport+2&code=ro&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo 🔴 - beIN SPORTS 2 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Paramount Event 3 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+3&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/cbs-sports-network.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Cbs Sports Network 🇺🇸 USA
+http://192.168.2.139:8383/play?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Bein Sports 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Tudn 🇺🇸 USA
+http://192.168.2.139:8383/play?name=tudn&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Bein Sports Mena 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Tnt Sports 2 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-premier-league.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Supersport Premier League 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Canal Sport 🇫🇷 France
+http://192.168.2.139:8383/play?name=canal+sport&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/italia-1.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Italia 1 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=italia+1&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Sky Sport 257 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+257&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Sky Sport Top Event 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Sky Sport Mix 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Dazn 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Ziggo Sport 5 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+5&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-7.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Cosmote Sport 7 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+7&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/b-action.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Btv Action 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=btv+action&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Arena Sport 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Arena Sport 3 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Espn 2 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn+2&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Digi Sport 2 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-3.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Prima Sport 3 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Sport 2 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+2&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Bein Sports 3 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Paramount Event 3 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+3&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/cbs-sports-network.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - CBS Sports Network 🇺🇸 USA
+http://192.168.2.139:8383/play?name=cbs+sports+network&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - beIN SPORTS 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - TUDN 🇺🇸 USA
+http://192.168.2.139:8383/play?name=tudn&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - beIN SPORTS MENA 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - TNT Sports 2 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-premier-league.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - SuperSport Premier League 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+premier+league&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Canal Sport 🇫🇷 France
+http://192.168.2.139:8383/play?name=canal+sport&code=fr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/italia-1.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Italia 1 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=italia+1&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Sky Sport 257 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+257&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Sky Sport Top Event 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Sky Sport Mix 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - DAZN 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+1&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Ziggo Sport 5 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+5&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-7.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Cosmote Sport 7 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+7&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/b-action.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - bTV Action 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=btv+action&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Arena Sport 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+1&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Arena Sport 3 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+3&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - ESPN 2 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn+2&code=ar&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Digi Sport 2 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=digi+sport+2&code=ro&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-3.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Prima Sport 3 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=prima+sport+3&code=ro&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - Sport 2 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+2&code=il&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest 🔴 - beIN SPORTS 3 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+3&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Mainz 05 vs Sigma Olomouc 🔴 - Paramount Event 4 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+4&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-9.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Mainz 05 vs Sigma Olomouc 🔴 - Tnt Sports 9 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-10.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - Mainz 05 vs Sigma Olomouc 🔴 - M Liga De Campeones 10 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+10&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-xtra.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - Mainz 05 vs Sigma Olomouc 🔴 - Bein Sports Xtra 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-7.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - Mainz 05 vs Sigma Olomouc 🔴 - Arena Sport 7 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+7&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Mainz 05 vs Sigma Olomouc 🔴 - Paramount Event 4 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+4&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-9.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Mainz 05 vs Sigma Olomouc 🔴 - TNT Sports 9 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+9&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-10.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - Mainz 05 vs Sigma Olomouc 🔴 - M Liga de Campeones 10 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+10&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-xtra.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - Mainz 05 vs Sigma Olomouc 🔴 - beIN SPORTS XTRA 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=bein+sports+xtra&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-7.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - Mainz 05 vs Sigma Olomouc 🔴 - Arena Sport 7 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+7&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Paramount Event 5 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+5&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Tnt Sports 8 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+8&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-7.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - M Liga De Campeones 7 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+7&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Sky Sport 253 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+253&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Sky Sport Uno 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Polsat Sport 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/ring.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Ring 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=ring&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-6.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Arena Sport 6 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+6&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-4.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Sport 4 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+4&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-5.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Bein Sports 5 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+5&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Paramount Event 5 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+5&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - TNT Sports 8 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+8&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-7.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - M Liga de Campeones 7 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+7&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Sky Sport 253 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+253&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Sky Sport Uno 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+uno&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Polsat Sport 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=polsat+sport&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/ring.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Ring 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=ring&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-6.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Arena Sport 6 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+6&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-4.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - Sport 4 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+4&code=il&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-5.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina 🔴 - beIN SPORTS 5 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+5&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Paramount Event 6 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+6&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Bein Sports 3 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Tnt Sports 3 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-laliga.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Supersport Laliga 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-8.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - M Liga De Campeones 8 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+8&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-4.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Dazn 4 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+4&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Ziggo Sport 6 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+6&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Cosmote Sport 5 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+5&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Max Sport 4 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-4.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Arena Sport 4 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-4.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Prima Sport 4 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=prima+sport+4&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Bein Sports 4 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Paramount Event 6 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+6&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - beIN SPORTS 3 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+3&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - TNT Sports 3 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+3&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-laliga.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - SuperSport LaLiga 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+laliga&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-8.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - M Liga de Campeones 8 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+8&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-4.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - DAZN 4 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+4&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Ziggo Sport 6 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+6&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Cosmote Sport 5 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+5&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Max Sport 4 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+4&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-4.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Arena Sport 4 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+4&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-4.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - Prima Sport 4 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=prima+sport+4&code=ro&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace 🔴 - beIN SPORTS 4 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+4&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - Paramount Event 7 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+7&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-10.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - Tnt Sports 10 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+10&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-9.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - M Liga De Campeones 9 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+9&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-3.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - Cosmote Sport 3 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-3.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - Arena Sport 3 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-4.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - Arena Sport 4 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-2.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - Espn 2 🇲🇽 Mexico
+http://192.168.2.139:8383/play?name=espn+2&code=mx&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - Paramount Event 7 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+7&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-10.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - TNT Sports 10 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+10&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-9.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - M Liga de Campeones 9 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+9&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-3.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - Cosmote Sport 3 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+3&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-3.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - Arena Sport 3 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+3&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-4.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - Arena Sport 4 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+4&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-2.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje 🔴 - ESPN 2 🇲🇽 Mexico
+http://192.168.2.139:8383/play?name=espn+2&code=mx&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tbs.png" group-title="NCAA",[18:50] NCAA - High Point vs Wisconsin 🔴
+http://192.168.2.139:8383/play?name=tbs&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/cbs.png" group-title="NCAA",[18:50] NCAA - Siena vs Duke 🔴
+http://192.168.2.139:8383/play?name=cbs&code=us&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[12:00] Cricket - undefined vs undefined - Supersport Cricket 🇿🇦 South Africa
 http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
@@ -174,242 +699,14 @@ http://192.168.2.139:8383/play?name=supersport+grandstand&code=za&user=cdnlivetv
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-1.webp" group-title="Super Lig",[14:00] Super Lig - Kayserispor vs Fatih Karagümrük
 http://192.168.2.139:8383/play?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Parva Liga",[17:00] Parva Liga - Spartak Varna vs Ludogorets
-http://192.168.2.139:8383/play?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-2.svg" group-title="Super Lig",[18:00] Super Lig - Konyaspor vs Gençlerbirliği
-http://192.168.2.139:8383/play?name=bein+sports+2&code=tr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports.webp" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa - Bein Sports 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa - Bein Sports Max 4 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-n.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa - Bein Sports N 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa - Sport Tv 1 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa - Match Football 3 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-4.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa - Espn 4 🇧🇷 Brazil
-http://192.168.2.139:8383/play?name=espn+4&code=br&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/fox-sports-2.svg" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa - Fox Sports 2 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-1.webp" group-title="Super Lig",[18:00] Super Lig - Beşiktaş vs Kasımpaşa - Bein Sports 1 🇹🇷 Turkey
-http://192.168.2.139:8383/play?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-3.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk - Dazn 3 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=dazn+3&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-3.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk - Ziggo Sport 3 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-9.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk - Cosmote Sport 9 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+9&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-3.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk - Polsat Sport 3 🇵🇱 Poland
-http://192.168.2.139:8383/play?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-2.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk - Arena Sport 2 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-3.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk - Espn 3 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn+3&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Freiburg vs Genk - Bein Sports 8 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Bein Sports 2 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-4.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Tnt Sports 4 🇬🇧 UK
-http://192.168.2.139:8383/play?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-football.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Supersport Football 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+football&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-foot.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Canal Foot 🇫🇷 France
-http://192.168.2.139:8383/play?name=canal+foot&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - M Liga De Campeones 1 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Dazn 2 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=dazn+2&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Ziggo Sport 1 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Ziggo Sport 2 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Cosmote Sport 8 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+8&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Polsat Sport 2 🇵🇱 Poland
-http://192.168.2.139:8383/play?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Max Sport 3 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Arena 3 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-2.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Arena Sport 2 🇭🇷 Croatia
-http://192.168.2.139:8383/play?name=arena+sport+2&code=hr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Espn 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-3.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Digi Sport 3 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Prima Sport 2 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Olympique Lyonnais vs Celta de Vigo - Bein Sports 2 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/cbs-sports-network.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Cbs Sports Network 🇺🇸 USA
-http://192.168.2.139:8383/play?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Bein Sports 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Tudn 🇺🇸 USA
-http://192.168.2.139:8383/play?name=tudn&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Bein Sports Mena 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Tnt Sports 2 🇬🇧 UK
-http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-premier-league.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Supersport Premier League 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Canal Sport 🇫🇷 France
-http://192.168.2.139:8383/play?name=canal+sport&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/italia-1.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Italia 1 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=italia+1&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Sky Sport Top Event 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Sky Sport Mix 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Dazn 1 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=dazn+1&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Ziggo Sport 5 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+5&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-7.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Cosmote Sport 7 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+7&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/b-action.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Btv Action 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=btv+action&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Arena Sport 1 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Arena Sport 3 🇭🇷 Croatia
-http://192.168.2.139:8383/play?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-2.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Espn 2 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn+2&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Digi Sport 2 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-3.svg" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Prima Sport 3 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-2.png" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Sport 2 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+2&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="UEFA Europa League",[18:45] UEFA Europa League - Midtjylland vs Nottingham Forest - Bein Sports 3 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-xtra.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - Mainz 05 vs Sigma Olomouc - Bein Sports Xtra 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-7.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - Mainz 05 vs Sigma Olomouc - Arena Sport 7 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+sport+7&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina - Sky Sport Uno 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina - Polsat Sport 🇵🇱 Poland
-http://192.168.2.139:8383/play?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/ring.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina - Ring 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=ring&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-6.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina - Arena Sport 6 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+sport+6&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-4.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina - Sport 4 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+4&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-5.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - Raków Częstochowa vs Fiorentina - Bein Sports 5 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+5&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace - Bein Sports 3 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace - Tnt Sports 3 🇬🇧 UK
-http://192.168.2.139:8383/play?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-laliga.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace - Supersport Laliga 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-4.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace - Dazn 4 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=dazn+4&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace - Ziggo Sport 6 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+6&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace - Cosmote Sport 5 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+5&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace - Max Sport 4 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-4.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace - Arena Sport 4 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-4.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace - Prima Sport 4 🇷🇴 Romania
-http://192.168.2.139:8383/play?name=prima+sport+4&code=ro&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Larnaca vs Crystal Palace - Bein Sports 4 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-3.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje - Cosmote Sport 3 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-3.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje - Arena Sport 3 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-4.webp" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje - Arena Sport 4 🇭🇷 Croatia
-http://192.168.2.139:8383/play?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-2.svg" group-title="UEFA Conference League",[18:45] UEFA Conference League - AEK Athens vs Celje - Espn 2 🇲🇽 Mexico
-http://192.168.2.139:8383/play?name=espn+2&code=mx&user=cdnlivetv&plan=free
-
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Liga I",[19:30] Liga I - Dinamo Bucureşti vs CSU Craiova - Digi Sport 1 🇷🇴 Romania
 http://192.168.2.139:8383/play?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-1.svg" group-title="Liga I",[19:30] Liga I - Dinamo Bucureşti vs CSU Craiova - Prima Sport 1 🇷🇴 Romania
 http://192.168.2.139:8383/play?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Europa League",[21:00] UEFA Europa League - Roma vs Bologna - Paramount Event 8 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+8&code=us&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Roma vs Bologna - Tudn 🇺🇸 USA
 http://192.168.2.139:8383/play?name=tudn&code=us&user=cdnlivetv&plan=free
@@ -428,6 +725,12 @@ http://192.168.2.139:8383/play?name=supersport+football&code=za&user=cdnlivetv&p
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Roma vs Bologna - Canal Sport 🇫🇷 France
 http://192.168.2.139:8383/play?name=canal+sport&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-6.webp" group-title="UEFA Europa League",[21:00] UEFA Europa League - Roma vs Bologna - M Liga De Campeones 6 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+6&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Roma vs Bologna - Sky Sport 252 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Roma vs Bologna - Sky Sport Uno 🇮🇹 Italy
 http://192.168.2.139:8383/play?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
@@ -465,6 +768,9 @@ http://192.168.2.139:8383/play?name=sport+2&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Roma vs Bologna - Bein Sports 2 🇸🇦 Saudi Arabia
 http://192.168.2.139:8383/play?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Europa League",[21:00] UEFA Europa League - Porto vs Stuttgart - Paramount Event 9 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+9&code=us&user=cdnlivetv&plan=free
+
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Porto vs Stuttgart - Bein Sports 2 🇺🇸 USA
 http://192.168.2.139:8383/play?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
 
@@ -479,6 +785,9 @@ http://192.168.2.139:8383/play?name=supersport+maximo+1&code=za&user=cdnlivetv&p
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/italia-1.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Porto vs Stuttgart - Italia 1 🇮🇹 Italy
 http://192.168.2.139:8383/play?name=italia+1&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Porto vs Stuttgart - Sky Sport 255 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+255&code=it&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/rtl.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Porto vs Stuttgart - Rtl 🇩🇪 Germany
 http://192.168.2.139:8383/play?name=rtl&code=de&user=cdnlivetv&plan=free
@@ -507,14 +816,23 @@ http://192.168.2.139:8383/play?name=arena+sport+4&code=hr&user=cdnlivetv&plan=fr
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="UEFA Europa League",[21:00] UEFA Europa League - Porto vs Stuttgart - Bein Sports 3 🇸🇦 Saudi Arabia
 http://192.168.2.139:8383/play?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
 
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Europa League",[21:00] UEFA Europa League - Real Betis vs Panathinaikos - Paramount Event 10 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+10&code=us&user=cdnlivetv&plan=free
+
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-4.png" group-title="UEFA Europa League",[21:00] UEFA Europa League - Real Betis vs Panathinaikos - Tnt Sports 4 🇬🇧 UK
 http://192.168.2.139:8383/play?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-laliga.webp" group-title="UEFA Europa League",[21:00] UEFA Europa League - Real Betis vs Panathinaikos - Supersport Laliga 🇿🇦 South Africa
 http://192.168.2.139:8383/play?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
 
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-3.webp" group-title="UEFA Europa League",[21:00] UEFA Europa League - Real Betis vs Panathinaikos - M Liga De Campeones 3 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+3&code=es&user=cdnlivetv&plan=free
+
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Real Betis vs Panathinaikos - M Liga De Campeones 1 🇪🇸 Spain
 http://192.168.2.139:8383/play?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Real Betis vs Panathinaikos - Sky Sport 256 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+256&code=it&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="UEFA Europa League",[21:00] UEFA Europa League - Real Betis vs Panathinaikos - Sky Sport Top Event 🇩🇪 Germany
 http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
@@ -549,6 +867,9 @@ http://192.168.2.139:8383/play?name=prima+sport+3&code=ro&user=cdnlivetv&plan=fr
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Real Betis vs Panathinaikos - Bein Sports 4 🇸🇦 Saudi Arabia
 http://192.168.2.139:8383/play?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
 
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Europa League",[21:00] UEFA Europa League - Aston Villa vs Lille - Paramount Event 11 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+11&code=us&user=cdnlivetv&plan=free
+
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/cbs-sports-network.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Aston Villa vs Lille - Cbs Sports Network 🇺🇸 USA
 http://192.168.2.139:8383/play?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
 
@@ -566,6 +887,12 @@ http://192.168.2.139:8383/play?name=supersport+premier+league&code=za&user=cdnli
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-fr.webp" group-title="UEFA Europa League",[21:00] UEFA Europa League - Aston Villa vs Lille - Canal 🇫🇷 France
 http://192.168.2.139:8383/play?name=canal&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-7.webp" group-title="UEFA Europa League",[21:00] UEFA Europa League - Aston Villa vs Lille - M Liga De Campeones 7 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+7&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Aston Villa vs Lille - Sky Sport 254 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+254&code=it&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-max.svg" group-title="UEFA Europa League",[21:00] UEFA Europa League - Aston Villa vs Lille - Sky Sport Max 🇮🇹 Italy
 http://192.168.2.139:8383/play?name=sky+sport+max&code=it&user=cdnlivetv&plan=free
@@ -603,14 +930,26 @@ http://192.168.2.139:8383/play?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-1.webp" group-title="UEFA Europa League",[21:00] UEFA Europa League - Aston Villa vs Lille - Bein Sports 1 🇸🇦 Saudi Arabia
 http://192.168.2.139:8383/play?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
 
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-10.png" group-title="UEFA Conference League",[21:00] UEFA Conference League - Shakhtar Donetsk vs Lech Poznań - Tnt Sports 10 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+10&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-10.webp" group-title="UEFA Conference League",[21:00] UEFA Conference League - Shakhtar Donetsk vs Lech Poznań - M Liga De Campeones 10 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+10&code=es&user=cdnlivetv&plan=free
+
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="UEFA Conference League",[21:00] UEFA Conference League - Shakhtar Donetsk vs Lech Poznań - Polsat Sport 🇵🇱 Poland
 http://192.168.2.139:8383/play?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-9.webp" group-title="UEFA Conference League",[21:00] UEFA Conference League - Shakhtar Donetsk vs Lech Poznań - Arena Sport 9 🇷🇸 Serbia
 http://192.168.2.139:8383/play?name=arena+sport+9&code=rs&user=cdnlivetv&plan=free
 
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png" group-title="UEFA Conference League",[21:00] UEFA Conference League - Strasbourg vs Rijeka - Tnt Sports 8 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+8&code=gb&user=cdnlivetv&plan=free
+
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-foot.svg" group-title="UEFA Conference League",[21:00] UEFA Conference League - Strasbourg vs Rijeka - Canal Foot 🇫🇷 France
 http://192.168.2.139:8383/play?name=canal+foot&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-9.webp" group-title="UEFA Conference League",[21:00] UEFA Conference League - Strasbourg vs Rijeka - M Liga De Campeones 9 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+9&code=es&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-6.webp" group-title="UEFA Conference League",[21:00] UEFA Conference League - Strasbourg vs Rijeka - Arena Sport 6 🇷🇸 Serbia
 http://192.168.2.139:8383/play?name=arena+sport+6&code=rs&user=cdnlivetv&plan=free
@@ -620,6 +959,9 @@ http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=cdnlivetv&plan=fr
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="UEFA Conference League",[21:00] UEFA Conference League - Strasbourg vs Rijeka - Bein Sports 8 🇸🇦 Saudi Arabia
 http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-8.webp" group-title="UEFA Conference League",[21:00] UEFA Conference League - Sparta Praha vs AZ - M Liga De Campeones 8 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+8&code=es&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-4.png" group-title="UEFA Conference League",[21:00] UEFA Conference League - Sparta Praha vs AZ - Dazn 4 🇵🇹 Portugal
 http://192.168.2.139:8383/play?name=dazn+4&code=pt&user=cdnlivetv&plan=free
@@ -638,6 +980,15 @@ http://192.168.2.139:8383/play?name=nova+sport+5&code=cz&user=cdnlivetv&plan=fre
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-5.svg" group-title="UEFA Conference League",[21:00] UEFA Conference League - Sparta Praha vs AZ - Bein Sports 5 🇸🇦 Saudi Arabia
 http://192.168.2.139:8383/play?name=bein+sports+5&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/paramount-events.png" group-title="UEFA Conference League",[21:00] UEFA Conference League - Rayo Vallecano vs Samsunspor - Paramount Event 13 🇺🇸 USA
+http://192.168.2.139:8383/play?name=paramount+event+13&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-9.png" group-title="UEFA Conference League",[21:00] UEFA Conference League - Rayo Vallecano vs Samsunspor - Tnt Sports 9 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-2.webp" group-title="UEFA Conference League",[21:00] UEFA Conference League - Rayo Vallecano vs Samsunspor - M Liga De Campeones 2 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+2&code=es&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp" group-title="UEFA Conference League",[21:00] UEFA Conference League - Rayo Vallecano vs Samsunspor - Cosmote Sport 8 🇬🇷 Greece
 http://192.168.2.139:8383/play?name=cosmote+sport+8&code=gr&user=cdnlivetv&plan=free
@@ -660,17 +1011,38 @@ http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=cdnlivetv&plan
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[23:30] Cricket - undefined vs undefined
 http://192.168.2.139:8383/play?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-tv.svg" group-title="NBA",[00:00] NBA - Charlotte Hornets vs Orlando Magic
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="NBA",[00:00] NBA - Charlotte Hornets vs Orlando Magic - Nba League Pass 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nba+league+pass+1&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-tv.svg" group-title="NBA",[00:00] NBA - Charlotte Hornets vs Orlando Magic - Nba Tv 🇺🇸 USA
 http://192.168.2.139:8383/play?name=nba+tv&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="NHL",[00:00] NHL - New York Islanders vs Ottawa Senators
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="NBA",[00:00] NBA - Washington Wizards vs Detroit Pistons
+http://192.168.2.139:8383/play?name=nba+league+pass+2&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[00:00] NHL - New York Islanders vs Ottawa Senators - Nhl League Pass 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nhl+league+pass+1&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="NHL",[00:00] NHL - New York Islanders vs Ottawa Senators - Tsn 5 🇨🇦 Canada
 http://192.168.2.139:8383/play?name=tsn+5&code=ca&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-3.svg" group-title="NHL",[00:00] NHL - Winnipeg Jets vs Boston Bruins
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[00:00] NHL - Winnipeg Jets vs Boston Bruins - Nhl League Pass 2 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nhl+league+pass+2&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-3.svg" group-title="NHL",[00:00] NHL - Winnipeg Jets vs Boston Bruins - Tsn 3 🇨🇦 Canada
 http://192.168.2.139:8383/play?name=tsn+3&code=ca&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/msg.png" group-title="NHL",[00:00] NHL - New York Rangers vs Columbus Blue Jackets
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[00:00] NHL - New York Rangers vs Columbus Blue Jackets - Nhl League Pass 3 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nhl+league+pass+3&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/msg.png" group-title="NHL",[00:00] NHL - New York Rangers vs Columbus Blue Jackets - Msg 🇺🇸 USA
 http://192.168.2.139:8383/play?name=msg&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="NHL",[00:00] NHL - New York Rangers vs Columbus Blue Jackets - Sky Sport 256 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+256&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[00:00] NHL - Montreal Canadiens vs Detroit Red Wings - Nhl League Pass 4 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nhl+league+pass+4&code=us&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox.png" group-title="NHL",[00:00] NHL - Montreal Canadiens vs Detroit Red Wings - Fox 🇺🇸 USA
 http://192.168.2.139:8383/play?name=fox&code=us&user=cdnlivetv&plan=free
@@ -681,14 +1053,23 @@ http://192.168.2.139:8383/play?name=tsn+2&code=ca&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg" group-title="NHL",[00:00] NHL - Montreal Canadiens vs Detroit Red Wings - Bein Sports Max 4 🇫🇷 France
 http://192.168.2.139:8383/play?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
 
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="NHL",[00:00] NHL - Montreal Canadiens vs Detroit Red Wings - Sky Sport 254 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+254&code=it&user=cdnlivetv&plan=free
+
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[00:20] Primera A - Deportes Tolima vs Fortaleza CEIF
 http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[00:30] NHL - Chicago Blackhawks vs Minnesota Wild - Nhl League Pass 5 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nhl+league+pass+5&code=us&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="NHL",[00:30] NHL - Chicago Blackhawks vs Minnesota Wild - Viaplay Sports 2 🇬🇧 UK
 http://192.168.2.139:8383/play?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NHL",[00:30] NHL - Chicago Blackhawks vs Minnesota Wild - Sport 5 Stars 🇮🇱 Israel
 http://192.168.2.139:8383/play?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="NBA",[01:00] NBA - Miami Heat vs Los Angeles Lakers - Nba League Pass 3 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nba+league+pass+3&code=us&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NBA",[01:00] NBA - Miami Heat vs Los Angeles Lakers - Sportsnet Ontario 🇨🇦 Canada
 http://192.168.2.139:8383/play?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
@@ -708,14 +1089,32 @@ http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[01:00] NBA - Miami Heat vs Los Angeles Lakers - Sport 5 🇮🇱 Israel
 http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Phoenix Suns
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="NBA",[01:00] NBA - Chicago Bulls vs Cleveland Cavaliers
+http://192.168.2.139:8383/play?name=nba+league+pass+4&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="NBA",[01:00] NBA - New Orleans Pelicans vs Los Angeles Clippers
+http://192.168.2.139:8383/play?name=nba+league+pass+5&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Phoenix Suns - Nba League Pass 6 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nba+league+pass+6&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp" group-title="NBA",[01:00] NBA - San Antonio Spurs vs Phoenix Suns - Cosmote Sport 4 🇬🇷 Greece
 http://192.168.2.139:8383/play?name=cosmote+sport+4&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[01:00] NHL - Seattle Kraken vs Nashville Predators
+http://192.168.2.139:8383/play?name=nhl+league+pass+6&code=us&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/canal-11.png" group-title="Brasileirão",[01:30] Brasileirão - Chapecoense vs Corinthians - Canal 11 🇵🇹 Portugal
 http://192.168.2.139:8383/play?name=canal+11&code=pt&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Brasileirão",[01:30] Brasileirão - Chapecoense vs Corinthians - Match Football 3 🇷🇺 Russia
 http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="NBA",[02:00] NBA - Utah Jazz vs Milwaukee Bucks
+http://192.168.2.139:8383/play?name=nba+league+pass+7&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[02:00] NHL - Florida Panthers vs Edmonton Oilers - Nhl League Pass 7 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nhl+league+pass+7&code=us&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="NHL",[02:00] NHL - Florida Panthers vs Edmonton Oilers - Viaplay Sports 1 🇬🇧 UK
 http://192.168.2.139:8383/play?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
@@ -740,4 +1139,19 @@ http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Cricket",[02:30] Cricket - undefined vs undefined
 http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="NBA",[03:00] NBA - Sacramento Kings vs Philadelphia 76ers
+http://192.168.2.139:8383/play?name=nba+league+pass+8&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - Buffalo Sabres vs San Jose Sharks
+http://192.168.2.139:8383/play?name=nhl+league+pass+8&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - Tampa Bay Lightning vs Vancouver Canucks
+http://192.168.2.139:8383/play?name=nhl+league+pass+9&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - Utah Mammoth vs Vegas Golden Knights
+http://192.168.2.139:8383/play?name=nhl+league+pass+10&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:30] NHL - Philadelphia Flyers vs Los Angeles Kings
+http://192.168.2.139:8383/play?name=nhl+league+pass+11&code=us&user=cdnlivetv&plan=free
 
