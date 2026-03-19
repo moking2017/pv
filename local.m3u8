@@ -1,178 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-19 02:06:40
-# Total Events: 34
-# Live Events: 11
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/yes.png" group-title="NBA",[00:30] NBA - Brooklyn Nets vs Oklahoma City Thunder 🔴 - Yes Network 🇺🇸 USA
-http://192.168.2.139:8383/play?name=yes+network&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-live.png" group-title="NBA",[00:30] NBA - Brooklyn Nets vs Oklahoma City Thunder 🔴 - Sport 5 Live 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5+live&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NBA",[00:30] NBA - Indiana Pacers vs Portland Trail Blazers 🔴
-http://192.168.2.139:8383/play?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[00:30] NHL - Ottawa Senators vs Washington Capitals 🔴 - Sportsnet Ontario 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[00:30] NHL - Ottawa Senators vs Washington Capitals 🔴 - Sportsnet West 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[00:30] NHL - Ottawa Senators vs Washington Capitals 🔴 - Sportsnet East 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+east&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[01:00] NBA - Chicago Bulls vs Toronto Raptors 🔴
-http://192.168.2.139:8383/play?name=tsn+4&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="Brasileirão",[01:30] Brasileirão - Santos vs Internacional 🔴 - M Liga De Campeones 1 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[01:30] Brasileirão - Santos vs Internacional 🔴 - Sportdigital Fussball 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/canal-11.png" group-title="Brasileirão",[01:30] Brasileirão - Santos vs Internacional 🔴 - Canal 11 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=canal+11&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Brasileirão",[01:30] Brasileirão - Santos vs Internacional 🔴 - Match Football 3 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="Brasileirão",[01:30] Brasileirão - Santos vs Internacional 🔴 - M Liga de Campeones 1 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=m+liga+de+campeones+1&code=es&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[01:30] Brasileirão - Santos vs Internacional 🔴 - SportDigital Fussball 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sportdigital+fussball&code=de&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/canal-11.png" group-title="Brasileirão",[01:30] Brasileirão - Santos vs Internacional 🔴 - Canal 11 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=canal+11&code=pt&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Brasileirão",[01:30] Brasileirão - Santos vs Internacional 🔴 - Match Football 3 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-1.svg" group-title="WinterSports",[02:00] WinterSports - 2026 World Women's Curling Championship : Scotland vs. Canada 🔴 - TSN 1 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+1&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-3.svg" group-title="WinterSports",[02:00] WinterSports - 2026 World Women's Curling Championship : Scotland vs. Canada 🔴 - TSN 3 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+3&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[02:30] Primera A - Deportivo Cali vs Santa Fe 🔴 - Win Futbol 🇨🇴 Colombia
-http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[02:30] Primera A - Deportivo Cali vs Santa Fe 🔴 - Win Futbol 🇨🇴 Colombia
-http://192.168.2.139:8383/play?name=win+futbol&code=co&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Espn 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Espn Deportes 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Bein Sports Mena 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Bein Sports 1 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-3.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Espn 3 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=espn+3&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Cosmote Sport 5 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+5&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Arena 1 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Sport Klub 1 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-3.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Espn 3 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn+3&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-2.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Espn 2 🇲🇽 Mexico
-http://192.168.2.139:8383/play?name=espn+2&code=mx&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Sport 5 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Bein Sports 8 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - ESPN 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - ESPN Deportes 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - beIN SPORTS MENA 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - beIN SPORTS 1 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-3.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - ESPN 3 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=espn+3&code=nl&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Cosmote Sport 5 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+5&code=gr&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Arena 1 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Sport Klub 1 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-3.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - ESPN 3 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn+3&code=ar&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-2.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - ESPN 2 🇲🇽 Mexico
-http://192.168.2.139:8383/play?name=espn+2&code=mx&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - Sport 5 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5&code=il&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers 🔴 - beIN SPORTS 8 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="NHL",[02:30] NHL - Dallas Stars vs Colorado Avalanche 🔴 - Tnt 🇺🇸 USA
-http://192.168.2.139:8383/play?name=tnt&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="NHL",[02:30] NHL - Dallas Stars vs Colorado Avalanche 🔴 - Viaplay Sports 1 🇬🇧 UK
-http://192.168.2.139:8383/play?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-4.svg" group-title="NHL",[02:30] NHL - Dallas Stars vs Colorado Avalanche 🔴 - Sport Tv 4 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+4&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="NHL",[02:30] NHL - Dallas Stars vs Colorado Avalanche 🔴 - TNT 🇺🇸 USA
-http://192.168.2.139:8383/play?name=tnt&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="NHL",[02:30] NHL - Dallas Stars vs Colorado Avalanche 🔴 - Viaplay Sports 1 🇬🇧 UK
-http://192.168.2.139:8383/play?name=viaplay+sports+1&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-4.svg" group-title="NHL",[02:30] NHL - Dallas Stars vs Colorado Avalanche 🔴 - Sport TV 4 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+4&code=pt&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[02:30] NHL - St. Louis Blues vs Calgary Flames 🔴 - Sportsnet Ontario 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[02:30] NHL - St. Louis Blues vs Calgary Flames 🔴 - Sportsnet West 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[02:30] NHL - St. Louis Blues vs Calgary Flames 🔴 - Sportsnet East 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+east&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[02:30] NHL - St. Louis Blues vs Calgary Flames 🔴 - Sportsnet Ontario 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+ontario&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[02:30] NHL - St. Louis Blues vs Calgary Flames 🔴 - Sportsnet West 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[02:30] NHL - St. Louis Blues vs Calgary Flames 🔴 - Sportsnet East 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+east&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="NHL",[03:00] NHL - Philadelphia Flyers vs Anaheim Ducks 🔴 - Max Sport 2 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="NHL",[03:00] NHL - Philadelphia Flyers vs Anaheim Ducks 🔴 - Max Sport 2 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=ntvstream&plan=free
+# PlayTorrio Sports Events - 2026-03-19 04:52:58
+# Total Events: 33
+# Live Events: 0
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[12:00] Cricket - undefined vs undefined - Supersport Cricket 🇿🇦 South Africa
 http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
@@ -713,6 +542,99 @@ http://192.168.2.139:8383/play?name=fox+deportes&code=us&user=cdnlivetv&plan=fre
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[00:20] Primera A - Inter Bogotá vs Deportivo Pereira
 http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/yes.png" group-title="NBA",[00:30] NBA - Brooklyn Nets vs Oklahoma City Thunder - Yes Network 🇺🇸 USA
+http://192.168.2.139:8383/play?name=yes+network&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-live.png" group-title="NBA",[00:30] NBA - Brooklyn Nets vs Oklahoma City Thunder - Sport 5 Live 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NBA",[00:30] NBA - Indiana Pacers vs Portland Trail Blazers
+http://192.168.2.139:8383/play?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[00:30] NHL - Ottawa Senators vs Washington Capitals - Sportsnet Ontario 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[00:30] NHL - Ottawa Senators vs Washington Capitals - Sportsnet West 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[00:30] NHL - Ottawa Senators vs Washington Capitals - Sportsnet East 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+east&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[01:00] NBA - Chicago Bulls vs Toronto Raptors
+http://192.168.2.139:8383/play?name=tsn+4&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="Brasileirão",[01:30] Brasileirão - Santos vs Internacional - M Liga De Campeones 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[01:30] Brasileirão - Santos vs Internacional - Sportdigital Fussball 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/canal-11.png" group-title="Brasileirão",[01:30] Brasileirão - Santos vs Internacional - Canal 11 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=canal+11&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Brasileirão",[01:30] Brasileirão - Santos vs Internacional - Match Football 3 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[02:30] Primera A - Deportivo Cali vs Santa Fe
+http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers - Espn 🇺🇸 USA
+http://192.168.2.139:8383/play?name=espn&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers - Espn Deportes 🇺🇸 USA
+http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers - Bein Sports Mena 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers - Bein Sports 1 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-3.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers - Espn 3 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=espn+3&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers - Cosmote Sport 5 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+5&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers - Arena 1 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers - Sport Klub 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-3.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers - Espn 3 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn+3&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-2.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers - Espn 2 🇲🇽 Mexico
+http://192.168.2.139:8383/play?name=espn+2&code=mx&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers - Sport 5 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[02:30] NBA - Houston Rockets vs Los Angeles Lakers - Bein Sports 8 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="NHL",[02:30] NHL - Dallas Stars vs Colorado Avalanche - Tnt 🇺🇸 USA
+http://192.168.2.139:8383/play?name=tnt&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="NHL",[02:30] NHL - Dallas Stars vs Colorado Avalanche - Viaplay Sports 1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-4.svg" group-title="NHL",[02:30] NHL - Dallas Stars vs Colorado Avalanche - Sport Tv 4 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+4&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[02:30] NHL - St. Louis Blues vs Calgary Flames - Sportsnet Ontario 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[02:30] NHL - St. Louis Blues vs Calgary Flames - Sportsnet West 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[02:30] NHL - St. Louis Blues vs Calgary Flames - Sportsnet East 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+east&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="NHL",[03:00] NHL - Philadelphia Flyers vs Anaheim Ducks
+http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nbc.png" group-title="Liga MX",[03:07] Liga MX - Guadalajara vs León - Nbc 🇺🇸 USA
 http://192.168.2.139:8383/play?name=nbc&code=us&user=cdnlivetv&plan=free
