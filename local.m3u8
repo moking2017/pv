@@ -1,25 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-20 04:21:08
+# PlayTorrio Sports Events - 2026-03-20 06:54:11
 # Total Events: 49
-# Live Events: 6
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Cricket",[02:30] Cricket - undefined vs undefined 🔴
-http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="NBA",[03:00] NBA - Sacramento Kings vs Philadelphia 76ers 🔴
-http://192.168.2.139:8383/play?name=nba+league+pass+8&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - Buffalo Sabres vs San Jose Sharks 🔴
-http://192.168.2.139:8383/play?name=nhl+league+pass+8&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - Tampa Bay Lightning vs Vancouver Canucks 🔴
-http://192.168.2.139:8383/play?name=nhl+league+pass+9&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - Utah Mammoth vs Vegas Golden Knights 🔴
-http://192.168.2.139:8383/play?name=nhl+league+pass+10&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:30] NHL - Philadelphia Flyers vs Los Angeles Kings 🔴
-http://192.168.2.139:8383/play?name=nhl+league+pass+11&code=us&user=cdnlivetv&plan=free
+# Live Events: 0
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[12:00] Cricket - undefined vs undefined - Supersport Cricket 🇿🇦 South Africa
 http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
@@ -821,4 +803,22 @@ http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[02:30] Primera A - Medellín vs Junior
 http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Cricket",[02:30] Cricket - undefined vs undefined
+http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="NBA",[03:00] NBA - Sacramento Kings vs Philadelphia 76ers
+http://192.168.2.139:8383/play?name=nba+league+pass+8&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - Buffalo Sabres vs San Jose Sharks
+http://192.168.2.139:8383/play?name=nhl+league+pass+8&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - Tampa Bay Lightning vs Vancouver Canucks
+http://192.168.2.139:8383/play?name=nhl+league+pass+9&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - Utah Mammoth vs Vegas Golden Knights
+http://192.168.2.139:8383/play?name=nhl+league+pass+10&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:30] NHL - Philadelphia Flyers vs Los Angeles Kings
+http://192.168.2.139:8383/play?name=nhl+league+pass+11&code=us&user=cdnlivetv&plan=free
 
