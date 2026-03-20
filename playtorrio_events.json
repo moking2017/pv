@@ -1,110 +1,8 @@
 {
-  "generated_at": "2026-03-20T04:21:08.232071",
+  "generated_at": "2026-03-20T05:51:48.647352",
   "total_events": 49,
-  "live_events": 6,
+  "live_events": 0,
   "events": [
-    {
-      "title": "undefined vs undefined",
-      "league": "Cricket",
-      "time": "02:30",
-      "timestamp": 1773970200000,
-      "logo": "https://iptv.playtorrio.xyz/logo.ico",
-      "sources": [
-        {
-          "name": "Tnt Sports 2 🇬🇧 UK",
-          "channel": "Tnt Sports 2",
-          "country": "🇬🇧 UK",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free"
-        }
-      ],
-      "live": true
-    },
-    {
-      "title": "Sacramento Kings vs Philadelphia 76ers",
-      "league": "NBA",
-      "time": "03:00",
-      "timestamp": 1773972000000,
-      "logo": "https://api.cdn-live.tv/api/v1/team/images/3413.png",
-      "sources": [
-        {
-          "name": "Nba League Pass 8 🇺🇸 USA",
-          "channel": "Nba League Pass 8",
-          "country": "🇺🇸 USA",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-league-pass.png",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nba+league+pass+8&code=us&user=cdnlivetv&plan=free"
-        }
-      ],
-      "live": true
-    },
-    {
-      "title": "Buffalo Sabres vs San Jose Sharks",
-      "league": "NHL",
-      "time": "03:00",
-      "timestamp": 1773972000000,
-      "logo": "https://api.cdn-live.tv/api/v1/team/images/3678.png",
-      "sources": [
-        {
-          "name": "Nhl League Pass 8 🇺🇸 USA",
-          "channel": "Nhl League Pass 8",
-          "country": "🇺🇸 USA",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nhl+league+pass+8&code=us&user=cdnlivetv&plan=free"
-        }
-      ],
-      "live": true
-    },
-    {
-      "title": "Tampa Bay Lightning vs Vancouver Canucks",
-      "league": "NHL",
-      "time": "03:00",
-      "timestamp": 1773972000000,
-      "logo": "https://api.cdn-live.tv/api/v1/team/images/3694.png",
-      "sources": [
-        {
-          "name": "Nhl League Pass 9 🇺🇸 USA",
-          "channel": "Nhl League Pass 9",
-          "country": "🇺🇸 USA",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nhl+league+pass+9&code=us&user=cdnlivetv&plan=free"
-        }
-      ],
-      "live": true
-    },
-    {
-      "title": "Utah Mammoth vs Vegas Golden Knights",
-      "league": "NHL",
-      "time": "03:00",
-      "timestamp": 1773972000000,
-      "logo": "https://api.cdn-live.tv/api/v1/team/images/530472.png",
-      "sources": [
-        {
-          "name": "Nhl League Pass 10 🇺🇸 USA",
-          "channel": "Nhl League Pass 10",
-          "country": "🇺🇸 USA",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nhl+league+pass+10&code=us&user=cdnlivetv&plan=free"
-        }
-      ],
-      "live": true
-    },
-    {
-      "title": "Philadelphia Flyers vs Los Angeles Kings",
-      "league": "NHL",
-      "time": "03:30",
-      "timestamp": 1773973800000,
-      "logo": "https://api.cdn-live.tv/api/v1/team/images/3699.png",
-      "sources": [
-        {
-          "name": "Nhl League Pass 11 🇺🇸 USA",
-          "channel": "Nhl League Pass 11",
-          "country": "🇺🇸 USA",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nhl+league+pass+11&code=us&user=cdnlivetv&plan=free"
-        }
-      ],
-      "live": true
-    },
     {
       "title": "undefined vs undefined",
       "league": "Cricket",
@@ -2400,6 +2298,108 @@
           "country": "🇨🇴 Colombia",
           "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp",
           "url": "https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
+    {
+      "title": "undefined vs undefined",
+      "league": "Cricket",
+      "time": "02:30",
+      "timestamp": 1773970200000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Tnt Sports 2 🇬🇧 UK",
+          "channel": "Tnt Sports 2",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
+    {
+      "title": "Sacramento Kings vs Philadelphia 76ers",
+      "league": "NBA",
+      "time": "03:00",
+      "timestamp": 1773972000000,
+      "logo": "https://api.cdn-live.tv/api/v1/team/images/3413.png",
+      "sources": [
+        {
+          "name": "Nba League Pass 8 🇺🇸 USA",
+          "channel": "Nba League Pass 8",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-league-pass.png",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nba+league+pass+8&code=us&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
+    {
+      "title": "Buffalo Sabres vs San Jose Sharks",
+      "league": "NHL",
+      "time": "03:00",
+      "timestamp": 1773972000000,
+      "logo": "https://api.cdn-live.tv/api/v1/team/images/3678.png",
+      "sources": [
+        {
+          "name": "Nhl League Pass 8 🇺🇸 USA",
+          "channel": "Nhl League Pass 8",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nhl+league+pass+8&code=us&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
+    {
+      "title": "Tampa Bay Lightning vs Vancouver Canucks",
+      "league": "NHL",
+      "time": "03:00",
+      "timestamp": 1773972000000,
+      "logo": "https://api.cdn-live.tv/api/v1/team/images/3694.png",
+      "sources": [
+        {
+          "name": "Nhl League Pass 9 🇺🇸 USA",
+          "channel": "Nhl League Pass 9",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nhl+league+pass+9&code=us&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
+    {
+      "title": "Utah Mammoth vs Vegas Golden Knights",
+      "league": "NHL",
+      "time": "03:00",
+      "timestamp": 1773972000000,
+      "logo": "https://api.cdn-live.tv/api/v1/team/images/530472.png",
+      "sources": [
+        {
+          "name": "Nhl League Pass 10 🇺🇸 USA",
+          "channel": "Nhl League Pass 10",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nhl+league+pass+10&code=us&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
+    {
+      "title": "Philadelphia Flyers vs Los Angeles Kings",
+      "league": "NHL",
+      "time": "03:30",
+      "timestamp": 1773973800000,
+      "logo": "https://api.cdn-live.tv/api/v1/team/images/3699.png",
+      "sources": [
+        {
+          "name": "Nhl League Pass 11 🇺🇸 USA",
+          "channel": "Nhl League Pass 11",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nhl+league+pass+11&code=us&user=cdnlivetv&plan=free"
         }
       ],
       "live": false
