@@ -1,64 +1,19 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-21 01:54:37
+# PlayTorrio Sports Events - 2026-03-21 04:05:28
 # Total Events: 54
-# Live Events: 13
+# Live Events: 2
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-7.png" group-title="Cricket",[00:00] Cricket - undefined vs undefined 🔴
-http://192.168.2.139:8383/play?name=sky+sport+7&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs Utah Mammoth 🔴 - Tnt Sports 8 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+8&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/yes.png" group-title="NBA",[00:30] NBA - Brooklyn Nets vs New York Knicks 🔴 - Yes Network 🇺🇸 USA
-http://192.168.2.139:8383/play?name=yes+network&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NHL",[03:00] NHL - Anaheim Ducks vs Utah Mammoth 🔴 - Sky Sport Mix 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/msg.png" group-title="NBA",[00:30] NBA - Brooklyn Nets vs New York Knicks 🔴 - Msg 🇺🇸 USA
-http://192.168.2.139:8383/play?name=msg&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs Utah Mammoth 🔴 - Sky Sport Top Event 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png" group-title="NBA",[00:30] NBA - Brooklyn Nets vs New York Knicks 🔴 - Tnt Sports 7 🇬🇧 UK
-http://192.168.2.139:8383/play?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NBA",[00:30] NBA - Brooklyn Nets vs New York Knicks 🔴 - Sport 5 Stars 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-tv.svg" group-title="NBA",[00:30] NBA - Detroit Pistons vs Golden State Warriors 🔴 - Nba Tv 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nba+tv&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp" group-title="NBA",[00:30] NBA - Detroit Pistons vs Golden State Warriors 🔴 - Cosmote Sport 4 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+4&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[01:00] Primera División - Banfield vs Tigre 🔴
-http://192.168.2.139:8383/play?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn.svg" group-title="Primera División",[01:00] Primera División - Atlético Tucumán vs Gimnasia La Plata 🔴 - Espn 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Primera División",[01:00] Primera División - Atlético Tucumán vs Gimnasia La Plata 🔴 - Espn Premium 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-tv.svg" group-title="NBA",[01:00] NBA - Houston Rockets vs Atlanta Hawks 🔴 - Nba Tv 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nba+tv&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[01:00] NBA - Houston Rockets vs Atlanta Hawks 🔴 - Bein Sports 1 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="NBA",[01:00] NBA - Memphis Grizzlies vs Boston Celtics 🔴
-http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[01:00] NBA - Minnesota Timberwolves vs Portland Trail Blazers 🔴
-http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Primera Division",[01:30] Primera Division - Cienciano vs FC Cajamarca 🔴
-http://192.168.2.139:8383/play?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="NHL",[01:30] NHL - Colorado Avalanche vs Chicago Blackhawks 🔴
-http://192.168.2.139:8383/play?name=sky+sport+255&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg" group-title="Liga MX",[02:00] Liga MX - Necaxa vs Tijuana 🔴
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg" group-title="Liga MX",[04:06] Liga MX - Mazatlán vs Cruz Azul 🔴
 http://192.168.2.139:8383/play?name=tudn&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[02:00] NBA - Denver Nuggets vs Toronto Raptors 🔴
-http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[02:00] NHL - Florida Panthers vs Calgary Flames 🔴
-http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Cricket",[07:00] Cricket - undefined vs undefined - Tnt Sports 2 🇬🇧 UK
 http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
@@ -711,15 +666,60 @@ http://192.168.2.139:8383/play?name=sky+sport+253&code=it&user=cdnlivetv&plan=fr
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg" group-title="NHL",[00:00] NHL - Carolina Hurricanes vs Toronto Maple Leafs - Tvp Sport 🇵🇱 Poland
 http://192.168.2.139:8383/play?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs Utah Mammoth - Tnt Sports 8 🇬🇧 UK
-http://192.168.2.139:8383/play?name=tnt+sports+8&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-7.png" group-title="Cricket",[00:00] Cricket - undefined vs undefined
+http://192.168.2.139:8383/play?name=sky+sport+7&code=nz&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NHL",[03:00] NHL - Anaheim Ducks vs Utah Mammoth - Sky Sport Mix 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/yes.png" group-title="NBA",[00:30] NBA - Brooklyn Nets vs New York Knicks - Yes Network 🇺🇸 USA
+http://192.168.2.139:8383/play?name=yes+network&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs Utah Mammoth - Sky Sport Top Event 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/msg.png" group-title="NBA",[00:30] NBA - Brooklyn Nets vs New York Knicks - Msg 🇺🇸 USA
+http://192.168.2.139:8383/play?name=msg&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg" group-title="Liga MX",[04:06] Liga MX - Mazatlán vs Cruz Azul
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png" group-title="NBA",[00:30] NBA - Brooklyn Nets vs New York Knicks - Tnt Sports 7 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NBA",[00:30] NBA - Brooklyn Nets vs New York Knicks - Sport 5 Stars 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-tv.svg" group-title="NBA",[00:30] NBA - Detroit Pistons vs Golden State Warriors - Nba Tv 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nba+tv&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp" group-title="NBA",[00:30] NBA - Detroit Pistons vs Golden State Warriors - Cosmote Sport 4 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+4&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[01:00] Primera División - Banfield vs Tigre
+http://192.168.2.139:8383/play?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn.svg" group-title="Primera División",[01:00] Primera División - Atlético Tucumán vs Gimnasia La Plata - Espn 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Primera División",[01:00] Primera División - Atlético Tucumán vs Gimnasia La Plata - Espn Premium 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn+premium&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-tv.svg" group-title="NBA",[01:00] NBA - Houston Rockets vs Atlanta Hawks - Nba Tv 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nba+tv&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[01:00] NBA - Houston Rockets vs Atlanta Hawks - Bein Sports 1 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="NBA",[01:00] NBA - Memphis Grizzlies vs Boston Celtics
+http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[01:00] NBA - Minnesota Timberwolves vs Portland Trail Blazers
+http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="Primera Division",[01:30] Primera Division - Cienciano vs FC Cajamarca
+http://192.168.2.139:8383/play?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg" group-title="NHL",[01:30] NHL - Colorado Avalanche vs Chicago Blackhawks
+http://192.168.2.139:8383/play?name=sky+sport+255&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tudn.svg" group-title="Liga MX",[02:00] Liga MX - Necaxa vs Tijuana
 http://192.168.2.139:8383/play?name=tudn&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[02:00] NBA - Denver Nuggets vs Toronto Raptors
+http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[02:00] NHL - Florida Panthers vs Calgary Flames
+http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
 
