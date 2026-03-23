@@ -1,103 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-23 02:07:55
-# Total Events: 100
-# Live Events: 9
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/canal-11.png" group-title="Brasileirão",[00:30] Brasileirão - Corinthians vs Flamengo 🔴 - Canal 11 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=canal+11&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Brasileirão",[00:30] Brasileirão - Corinthians vs Flamengo 🔴 - Match Football 3 🇷🇺 Russia
-http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/telemundo.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves 🔴 - Telemundo 🇺🇸 USA
-http://192.168.2.139:8383/play?name=telemundo&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves 🔴 - Bein Sports Mena 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves 🔴 - Sky Sports Mix 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves 🔴 - Sky Sports Arena 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-action.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves 🔴 - Sky Sports Action 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves 🔴 - Supersport Action 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+action&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves 🔴 - Bein Sports 1 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves 🔴 - Sky Sport Mix 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves 🔴 - Sport Tv 2 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves 🔴 - Sport 5 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves 🔴 - Bein Sports 8 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[01:00] NHL - Tampa Bay Lightning vs Calgary Flames 🔴
-http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-10.png" group-title="NHL",[01:00] NHL - Buffalo Sabres vs Anaheim Ducks 🔴
-http://192.168.2.139:8383/play?name=tnt+sports+10&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nbc.png" group-title="Liga MX",[02:00] Liga MX - Juárez vs Tigres UANL 🔴 - Nbc 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nbc&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-deportes.svg" group-title="Liga MX",[02:00] Liga MX - Juárez vs Tigres UANL 🔴 - Fox Deportes 🇺🇸 USA
-http://192.168.2.139:8383/play?name=fox+deportes&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nbc.png" group-title="Liga MX",[02:00] Liga MX - Juárez vs Tigres UANL 🔴 - NBC 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nbc&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-deportes.svg" group-title="Liga MX",[02:00] Liga MX - Juárez vs Tigres UANL 🔴 - FOX Deportes 🇺🇸 USA
-http://192.168.2.139:8383/play?name=fox+deportes&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="NHL",[02:00] NHL - Los Angeles Kings vs Utah Mammoth 🔴 - Viaplay Sports 2 🇬🇧 UK
-http://192.168.2.139:8383/play?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-360.png" group-title="NHL",[02:00] NHL - Los Angeles Kings vs Utah Mammoth 🔴 - Sportsnet 360 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+360&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[02:00] NHL - Los Angeles Kings vs Utah Mammoth 🔴 - Sportsnet Ontario 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[02:00] NHL - Los Angeles Kings vs Utah Mammoth 🔴 - Sportsnet East 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+east&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="NHL",[02:00] NHL - Los Angeles Kings vs Utah Mammoth 🔴 - Viaplay Sports 2 🇬🇧 UK
-http://192.168.2.139:8383/play?name=viaplay+sports+2&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-360.png" group-title="NHL",[02:00] NHL - Los Angeles Kings vs Utah Mammoth 🔴 - Sportsnet 360 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+360&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[02:00] NHL - Los Angeles Kings vs Utah Mammoth 🔴 - Sportsnet Ontario 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+ontario&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[02:00] NHL - Los Angeles Kings vs Utah Mammoth 🔴 - Sportsnet East 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+east&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Golf",[02:00] Golf - Ladies European Tour Australian WPGA Championship 🔴
-http://192.168.2.139:8383/play?name=sky+sports+main+event&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[02:15] Primera División - Argentinos Juniors vs Platense 🔴 - Tnt Sports 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[02:15] Primera División - Argentinos Juniors vs Platense 🔴 - TNT Sports 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=tnt+sports&code=ar&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Primera División",[02:15] Primera División - Independiente Rivadavia vs Rosario Central 🔴 - Espn Premium 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Primera División",[02:15] Primera División - Independiente Rivadavia vs Rosario Central 🔴 - ESPN Premium 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn+premium&code=ar&user=ntvstream&plan=free
+# PlayTorrio Sports Events - 2026-03-23 05:02:15
+# Total Events: 99
+# Live Events: 0
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Cricket",[07:00] Cricket - undefined vs undefined - Tnt Sports 2 🇬🇧 UK
 http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
@@ -1574,4 +1478,73 @@ http://192.168.2.139:8383/play?name=sportsnet+ontario&code=ca&user=cdnlivetv&pla
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[00:00] NHL - Vegas Golden Knights vs Dallas Stars - Sportsnet East 🇨🇦 Canada
 http://192.168.2.139:8383/play?name=sportsnet+east&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/canal-11.png" group-title="Brasileirão",[00:30] Brasileirão - Corinthians vs Flamengo - Canal 11 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=canal+11&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Brasileirão",[00:30] Brasileirão - Corinthians vs Flamengo - Match Football 3 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/telemundo.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves - Telemundo 🇺🇸 USA
+http://192.168.2.139:8383/play?name=telemundo&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves - Bein Sports Mena 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves - Sky Sports Mix 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves - Sky Sports Arena 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-action.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves - Sky Sports Action 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves - Supersport Action 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+action&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves - Bein Sports 1 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves - Sky Sport Mix 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves - Sport Tv 2 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves - Sport 5 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[01:00] NBA - Boston Celtics vs Minnesota Timberwolves - Bein Sports 8 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[01:00] NHL - Tampa Bay Lightning vs Calgary Flames
+http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-10.png" group-title="NHL",[01:00] NHL - Buffalo Sabres vs Anaheim Ducks
+http://192.168.2.139:8383/play?name=tnt+sports+10&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nbc.png" group-title="Liga MX",[02:00] Liga MX - Juárez vs Tigres UANL - Nbc 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nbc&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-deportes.svg" group-title="Liga MX",[02:00] Liga MX - Juárez vs Tigres UANL - Fox Deportes 🇺🇸 USA
+http://192.168.2.139:8383/play?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="NHL",[02:00] NHL - Los Angeles Kings vs Utah Mammoth - Viaplay Sports 2 🇬🇧 UK
+http://192.168.2.139:8383/play?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-360.png" group-title="NHL",[02:00] NHL - Los Angeles Kings vs Utah Mammoth - Sportsnet 360 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+360&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[02:00] NHL - Los Angeles Kings vs Utah Mammoth - Sportsnet Ontario 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[02:00] NHL - Los Angeles Kings vs Utah Mammoth - Sportsnet East 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+east&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Primera División",[02:15] Primera División - Argentinos Juniors vs Platense
+http://192.168.2.139:8383/play?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Primera División",[02:15] Primera División - Independiente Rivadavia vs Rosario Central
+http://192.168.2.139:8383/play?name=espn+premium&code=ar&user=cdnlivetv&plan=free
 
