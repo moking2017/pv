@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-03-23T15:59:15.587300",
-  "total_events": 94,
+  "generated_at": "2026-03-23T21:35:44.788780",
+  "total_events": 99,
   "live_events": 0,
   "events": [
+    {
+      "title": "undefined vs undefined",
+      "league": "Cricket",
+      "time": "07:00",
+      "timestamp": 1774159200000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Tnt Sports 2 🇬🇧 UK",
+          "channel": "Tnt Sports 2",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Supersport Cricket 🇿🇦 South Africa",
+          "channel": "Supersport Cricket",
+          "country": "🇿🇦 South Africa",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Supersport Grandstand 🇿🇦 South Africa",
+          "channel": "Supersport Grandstand",
+          "country": "🇿🇦 South Africa",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
+    {
+      "title": "undefined vs undefined",
+      "league": "Cricket",
+      "time": "09:00",
+      "timestamp": 1774166400000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Supersport Variety 2 🇿🇦 South Africa",
+          "channel": "Supersport Variety 2",
+          "country": "🇿🇦 South Africa",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-variety-2.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=supersport+variety+2&code=za&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
     {
       "title": "Van BB vs Sarıyer",
       "league": "1. Lig",
@@ -4034,6 +4082,100 @@
       "live": false
     },
     {
+      "title": "Denver Nuggets vs Portland Trail Blazers",
+      "league": "NBA",
+      "time": "22:00",
+      "timestamp": 1774213200000,
+      "logo": "https://api.cdn-live.tv/api/v1/team/images/3417.png",
+      "sources": [
+        {
+          "name": "Nba Tv 🇺🇸 USA",
+          "channel": "Nba Tv",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-tv.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nba+tv&code=us&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Sky Sports Arena 🇬🇧 UK",
+          "channel": "Sky Sports Arena",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Sky Sports Action 🇬🇧 UK",
+          "channel": "Sky Sports Action",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-action.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Tnt Sports 8 🇬🇧 UK",
+          "channel": "Tnt Sports 8",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+8&code=gb&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Bein Sports 2 🇫🇷 France",
+          "channel": "Bein Sports 2",
+          "country": "🇫🇷 France",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-2.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Sky Sport Top Event 🇩🇪 Germany",
+          "channel": "Sky Sport Top Event",
+          "country": "🇩🇪 Germany",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Sport Tv 2 🇵🇹 Portugal",
+          "channel": "Sport Tv 2",
+          "country": "🇵🇹 Portugal",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Espn 3 🇳🇱 Netherlands",
+          "channel": "Espn 3",
+          "country": "🇳🇱 Netherlands",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-3.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=espn+3&code=nl&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Cosmote Sport 4 🇬🇷 Greece",
+          "channel": "Cosmote Sport 4",
+          "country": "🇬🇷 Greece",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=cosmote+sport+4&code=gr&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Tvp Sport 🇵🇱 Poland",
+          "channel": "Tvp Sport",
+          "country": "🇵🇱 Poland",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Sport Klub 3 🇷🇸 Serbia",
+          "channel": "Sport Klub 3",
+          "country": "🇷🇸 Serbia",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-3.png.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Bein Sports 8 🇸🇦 Saudi Arabia",
+          "channel": "Bein Sports 8",
+          "country": "🇸🇦 Saudi Arabia",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
+    {
       "title": "Internacional vs Chapecoense",
       "league": "Brasileirão",
       "time": "22:30",
@@ -4046,6 +4188,23 @@
           "country": "🇷🇺 Russia",
           "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg",
           "url": "https://cdn-live.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
+    {
+      "title": "Sacramento Kings vs Brooklyn Nets",
+      "league": "NBA",
+      "time": "23:00",
+      "timestamp": 1774216800000,
+      "logo": "https://api.cdn-live.tv/api/v1/team/images/3413.png",
+      "sources": [
+        {
+          "name": "Yes Network 🇺🇸 USA",
+          "channel": "Yes Network",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/yes.png",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=yes+network&code=us&user=cdnlivetv&plan=free"
         }
       ],
       "live": false
@@ -4218,6 +4377,93 @@
           "country": "🇷🇺 Russia",
           "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg",
           "url": "https://cdn-live.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": false
+    },
+    {
+      "title": "Boston Celtics vs Minnesota Timberwolves",
+      "league": "NBA",
+      "time": "01:00",
+      "timestamp": 1774224000000,
+      "logo": "https://api.cdn-live.tv/api/v1/team/images/3422.png",
+      "sources": [
+        {
+          "name": "Telemundo 🇺🇸 USA",
+          "channel": "Telemundo",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/telemundo.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=telemundo&code=us&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Bein Sports Mena 1 🇺🇸 USA",
+          "channel": "Bein Sports Mena 1",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Sky Sports Mix 🇬🇧 UK",
+          "channel": "Sky Sports Mix",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Sky Sports Arena 🇬🇧 UK",
+          "channel": "Sky Sports Arena",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Sky Sports Action 🇬🇧 UK",
+          "channel": "Sky Sports Action",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-action.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Supersport Action 🇿🇦 South Africa",
+          "channel": "Supersport Action",
+          "country": "🇿🇦 South Africa",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Bein Sports 1 🇫🇷 France",
+          "channel": "Bein Sports 1",
+          "country": "🇫🇷 France",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Sky Sport Mix 🇩🇪 Germany",
+          "channel": "Sky Sport Mix",
+          "country": "🇩🇪 Germany",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Sport Tv 2 🇵🇹 Portugal",
+          "channel": "Sport Tv 2",
+          "country": "🇵🇹 Portugal",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Sport 5 🇮🇱 Israel",
+          "channel": "Sport 5",
+          "country": "🇮🇱 Israel",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Bein Sports 8 🇸🇦 Saudi Arabia",
+          "channel": "Bein Sports 8",
+          "country": "🇸🇦 Saudi Arabia",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free"
         }
       ],
       "live": false
