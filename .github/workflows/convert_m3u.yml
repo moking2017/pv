@@ -1,0 +1,33 @@
+name: Convert M3U Links
+
+on:
+  # 每小时自动运行一次（比原文件刷新更频繁，保证及时更新）
+  schedule:
+    - cron: '5 * * * *'   # 每小时第5分钟运行
+  # 也可以手动触发
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run conversion script
+        run: python3 convert_m3u.py
+
+      - name: Commit and push converted file
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add playtorrio_converted.m3u
+          # 只有文件有变化才提交
+          git diff --cached --quiet || git commit -m "Auto-convert m3u links [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
