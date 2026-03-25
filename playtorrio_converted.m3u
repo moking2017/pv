@@ -1,13 +1,25 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-25 21:38:20
+# PlayTorrio Sports Events - 2026-03-25 22:35:01
 # Total Events: 18
-# Live Events: 1
+# Live Events: 2
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-3.svg" group-title="Tennis",[20:00] Tennis - undefined vs undefined 🔴
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tsn+3&code=ca&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ca/tsn-3
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Primera División",[23:00] Primera División - Deportivo Riestra vs San Lorenzo 🔴 - Espn Premium 🇦🇷 Argentina
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/ar/espn-premium
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Primera División",[23:00] Primera División - Deportivo Riestra vs San Lorenzo 🔴 - ESPN Premium 🇦🇷 Argentina
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=ntvstream&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/ar/espn-premium
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="Cricket",[07:00] Cricket - undefined vs undefined - Tnt Sports 1 🇬🇧 UK
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
@@ -176,12 +188,6 @@ http://cdnlivetv.168.us.kg/live/rs/sport-klub-4
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ca/tsn-3
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Primera División",[23:00] Primera División - Deportivo Riestra vs San Lorenzo
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ar/espn-premium
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NBA",[00:00] NBA - Detroit Pistons vs Atlanta Hawks - Espn 🇺🇸 USA
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=espn&code=us&user=cdnlivetv&plan=free
