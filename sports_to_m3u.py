@@ -93,6 +93,8 @@ def build_m3u(data: dict) -> str:
     skipped = 0
 
     for sport, games in events_data.items():
+        if not isinstance(games, list):
+            continue
         for game in games:
             status = game.get("status", "")
 
@@ -147,8 +149,9 @@ def main():
     raw = fetch_json(SPORTS_API)
 
     sports = raw.get("cdn-live-tv", {})
-    total_games = sum(len(v) for v in sports.values())
-    print(f"[*] Sports categories: {list(sports.keys())}")
+    total_games = sum(len(v) for v in sports.values() if isinstance(v, list))
+    sport_keys = [k for k, v in sports.items() if isinstance(v, list)]
+    print(f"[*] Sports categories: {sport_keys}")
     print(f"[*] Total games found: {total_games}")
 
     m3u = build_m3u(raw)
