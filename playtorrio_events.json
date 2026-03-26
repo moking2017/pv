@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T19:54:19.563130",
-  "total_events": 42,
+  "generated_at": "2026-03-26T20:34:58.288614",
+  "total_events": 41,
   "live_events": 21,
   "events": [
     {
@@ -1159,6 +1159,23 @@
     },
     {
       "title": "undefined vs undefined",
+      "league": "MMA",
+      "time": "21:00",
+      "timestamp": 1774555200000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Rmc Sport 1 🇫🇷 France",
+          "channel": "Rmc Sport 1",
+          "country": "🇫🇷 France",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/france/rmc-sport-1.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=rmc+sport+1&code=fr&user=cdnlivetv&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "undefined vs undefined",
       "league": "Cricket",
       "time": "15:00",
       "timestamp": 1774533600000,
@@ -1466,23 +1483,6 @@
           "country": "🇸🇦 Saudi Arabia",
           "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-1.webp",
           "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free"
-        }
-      ],
-      "live": false
-    },
-    {
-      "title": "undefined vs undefined",
-      "league": "MMA",
-      "time": "21:00",
-      "timestamp": 1774555200000,
-      "logo": "https://iptv.playtorrio.xyz/logo.ico",
-      "sources": [
-        {
-          "name": "Rmc Sport 1 🇫🇷 France",
-          "channel": "Rmc Sport 1",
-          "country": "🇫🇷 France",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/france/rmc-sport-1.svg",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=rmc+sport+1&code=fr&user=cdnlivetv&plan=free"
         }
       ],
       "live": false
@@ -2204,58 +2204,6 @@
       "live": true
     },
     {
-      "title": "Premier League Darts : Luke Humphries vs Michael van Gerwen",
-      "league": "Darts",
-      "time": "19:40",
-      "timestamp": 1774550400000,
-      "logo": "https://iptv.playtorrio.xyz/logo.ico",
-      "sources": [
-        {
-          "name": "Sky Sports Action 🇬🇧 UK",
-          "channel": "Sky Sports Action",
-          "country": "🇬🇧 UK",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-action.svg",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+action&code=gb&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Sky Sports Main Event 🇬🇧 UK",
-          "channel": "Sky Sports Main Event",
-          "country": "🇬🇧 UK",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Sky Sport 1 🇳🇿 New Zealand",
-          "channel": "Sky Sport 1",
-          "country": "🇳🇿 New Zealand",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=ntvstream&plan=free"
-        },
-        {
-          "name": "See 🇩🇰 Denmark",
-          "channel": "See",
-          "country": "🇩🇰 Denmark",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/denmark/see.webp",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=see&code=dk&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Canal Sport 5 🇵🇱 Poland",
-          "channel": "Canal Sport 5",
-          "country": "🇵🇱 Poland",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/poland/canal-sport-5.svg",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=canal+sport+5&code=pl&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Arena Sport 5 🇷🇸 Serbia",
-          "channel": "Arena Sport 5",
-          "country": "🇷🇸 Serbia",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-5.webp",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+5&code=rs&user=ntvstream&plan=free"
-        }
-      ],
-      "live": true
-    },
-    {
       "title": "Premier League Darts : Luke Littler vs Stephen Bunting",
       "league": "Darts",
       "time": "20:10",
@@ -2360,18 +2308,18 @@
       "live": true
     },
     {
-      "title": "Liga SportZone : Famalicao vs Benfica",
-      "league": "Futsal",
-      "time": "20:00",
-      "timestamp": 1774551600000,
+      "title": "Hexagon MMA 42",
+      "league": "MMA",
+      "time": "21:00",
+      "timestamp": 1774555200000,
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
-          "name": "Canal 11 🇵🇹 Portugal",
-          "channel": "Canal 11",
-          "country": "🇵🇹 Portugal",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/portugal/canal-11.png",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=canal+11&code=pt&user=ntvstream&plan=free"
+          "name": "RMC Sport 1 🇫🇷 France",
+          "channel": "RMC Sport 1",
+          "country": "🇫🇷 France",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/france/rmc-sport-1.svg",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=rmc+sport+1&code=fr&user=ntvstream&plan=free"
         }
       ],
       "live": true
