@@ -15,6 +15,13 @@ BASE_STREAM = "http://cdnlivetv.168.us.kg/live/{code}/{slug}"
 CDN_PLAYER_PATTERN = re.compile(
     r"https://cdn-live\.tv/api/v1/channels/player/\?(.+)"
 )
+TIME_PATTERN = re.compile(r'\[(\d{2}):(\d{2})\]')
+
+def shift_time(match) -> str:
+    """把 [HH:MM] 时间 +7 小时（跨天自动处理）"""
+    h = (int(match.group(1)) + 7) % 24
+    m = int(match.group(2))
+    return f"[{h:02d}:{m:02d}]"
 
 def name_to_slug(name: str) -> str:
     """'tnt+sports+2'  →  'tnt-sports-2'"""
@@ -37,6 +44,10 @@ def convert(content: str) -> str:
     i = 0
     while i < len(lines):
         line = lines[i]
+
+        # EXTINF 行：替换时间为 +7
+        if line.startswith("#EXTINF"):
+            line = TIME_PATTERN.sub(shift_time, line)
 
         # 检测是否是 cdn-live player URL
         m = CDN_PLAYER_PATTERN.match(line.strip())
