@@ -1,16 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-26 05:04:58
+# PlayTorrio Sports Events - 2026-03-26 07:07:04
 # Total Events: 18
-# Live Events: 1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-1.svg" group-title="NBA",[03:30] NBA - Los Angeles Clippers vs Toronto Raptors 🔴 - Tsn 1 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+1&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[03:30] NBA - Los Angeles Clippers vs Toronto Raptors 🔴 - Tsn 4 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+4&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="NBA",[03:30] NBA - Los Angeles Clippers vs Toronto Raptors 🔴 - Tsn 5 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+5&code=ca&user=cdnlivetv&plan=free
+# Live Events: 0
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="Cricket",[07:00] Cricket - undefined vs undefined - Tnt Sports 1 🇬🇧 UK
 http://192.168.2.139:8383/play?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
@@ -242,4 +233,13 @@ http://192.168.2.139:8383/play?name=tnt+sports+8&code=gb&user=cdnlivetv&plan=fre
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[03:00] NBA - Portland Trail Blazers vs Milwaukee Bucks - Sport 5 🇮🇱 Israel
 http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-1.svg" group-title="NBA",[03:30] NBA - Los Angeles Clippers vs Toronto Raptors - Tsn 1 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=tsn+1&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[03:30] NBA - Los Angeles Clippers vs Toronto Raptors - Tsn 4 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=tsn+4&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="NBA",[03:30] NBA - Los Angeles Clippers vs Toronto Raptors - Tsn 5 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=tsn+5&code=ca&user=cdnlivetv&plan=free
 
