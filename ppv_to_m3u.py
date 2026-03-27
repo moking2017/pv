@@ -14,7 +14,7 @@ from datetime import datetime, timezone, timedelta
 API_URL     = "https://api.ppv.to/api/streams"
 OUTPUT_FILE = "ppv_events.m3u"
 BASE_STREAM = "https://ppv2.168.us.kg/stream?uri={uri}"
-TZ_OFFSET   = timedelta(hours=7)   # UTC → UTC+7
+TZ_OFFSET   = timedelta(hours=8)   # UTC → UTC+8
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
