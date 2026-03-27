@@ -1,0 +1,31 @@
+name: Update ppv26 Sports M3U (Every 3h)
+
+on:
+  schedule:
+    - cron: '10 */3 * * *'   # 每4小时整点后10分运行 (0,3,6,9,12,15,18,21点)
+  workflow_dispatch:           # 允许手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch sports events & generate m3u
+        run: python3 ppv_to_m3u.py
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ppv_events.m3u
+          git diff --cached --quiet \
+            || git commit -m "Sports m3u update [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
