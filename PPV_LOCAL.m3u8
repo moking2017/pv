@@ -1,30 +1,56 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 http://192.168.2.139:8090/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a8f92f0ce5116917ed6c4eadee065258-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Los Angeles Dodgers
-http://192.168.2.139:8090/stream?uri=mlb/2026-03-26/ari-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1a453027868090c58276e843a4eaeda-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Seattle Mariners
 http://192.168.2.139:8090/stream?uri=mlb/2026-03-26/cle-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c005d00d65b8b3550bfd21e08a836434-thumbnail.jpg" group-title="Basketball",Arkansas Razorbacks vs. Arizona Wildcats
-http://192.168.2.139:8090/stream?uri=march-madness/2026-03-26/ark-ariz
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97192f365cfe90fc9b94db31931e720f-thumbnail.jpg" group-title="Basketball",Illinois Fighting Illini vs. Houston Cougars
-http://192.168.2.139:8090/stream?uri=march-madness/2026-03-26/ill-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f93423c0c4251e29c9f074340cf9a756-thumbnail.jpg" group-title="Ice Hockey",San Jose Sharks vs. St. Louis Blues
-http://192.168.2.139:8090/stream?uri=nhl/2026-03-26/sj-stl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4441e12fe2ed20c108fb2f63bf442ac7-thumbnail.jpg" group-title="Ice Hockey",New Jersey Devils vs. Nashville Predators
-http://192.168.2.139:8090/stream?uri=nhl/2026-03-26/nj-nsh
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e1d78e0c9706e626412268ab2a49691-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Winnipeg Jets
-http://192.168.2.139:8090/stream?uri=nhl/2026-03-26/col-wpg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/990dea7f8ea3cf6045747ce5a0aba3a1-thumbnail.jpg" group-title="Ice Hockey",Washington Capitals vs. Utah Mammoth
-http://192.168.2.139:8090/stream?uri=nhl/2026-03-26/wsh-uta
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d5250eea70106c8e410064b5355e000c-thumbnail.jpg" group-title="Ice Hockey",Anaheim Ducks vs. Calgary Flames
-http://192.168.2.139:8090/stream?uri=nhl/2026-03-26/ana-cgy
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e2016fed0d1d9d9e1f063ee9d4c5045-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. Vegas Golden Knights
-http://192.168.2.139:8090/stream?uri=nhl/2026-03-26/edm-vgk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4fa3cb1ff2a0a5940ba49fd9b991ceb1-thumbnail.jpg" group-title="Ice Hockey",Los Angeles Kings vs. Vancouver Canucks
-http://192.168.2.139:8090/stream?uri=nhl/2026-03-26/la-van
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/06219a5ae0c0d20e9196fcbe14d88f61-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Practice 1
-http://192.168.2.139:8090/stream?uri=f1/2026/japan/fp1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/beba9bbb57386fbed86ebfa80621fbc5-thumbnail.jpg" group-title="Baseball",New York Yankees vs. San Francisco Giants
+http://192.168.2.139:8090/stream?uri=mlb/2026-03-27/nyy-sf
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9cdee95bbcfb94cabbbba7da7f07173-thumbnail.jpg" group-title="Baseball",Athletics vs. Toronto Blue Jays
+http://192.168.2.139:8090/stream?uri=mlb/2026-03-27/ath-tor
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e0ad84fd4a36a1de6a81dff6a9105a9-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Miami Marlins
+http://192.168.2.139:8090/stream?uri=mlb/2026-03-27/col-mia
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2612a90ada8a2e3b8f99948f3f4a84f0-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Atlanta Braves
+http://192.168.2.139:8090/stream?uri=mlb/2026-03-27/kc-atl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ea3829f7e7427a77ccacc5bdd8978d2-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Houston Astros
+http://192.168.2.139:8090/stream?uri=mlb/2026-03-27/laa-hou
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1a453027868090c58276e843a4eaeda-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Seattle Mariners
+http://192.168.2.139:8090/stream?uri=mlb/2026-03-27/cle-sea
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a829107110def23cc6751119af8448d-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. San Diego Padres
+http://192.168.2.139:8090/stream?uri=mlb/2026-03-27/det-sd
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a8f92f0ce5116917ed6c4eadee065258-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Los Angeles Dodgers
+http://192.168.2.139:8090/stream?uri=mlb/2026-03-27/ari-lad
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ed659b632e78ef1ac5baf33aef735ed7-thumbnail.jpg" group-title="Basketball",LA Clippers vs. Indiana Pacers
+http://192.168.2.139:8090/stream?uri=nba/2026-03-27/lac-ind
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ea810fa4e06283a375fe565a34d388de-thumbnail.jpg" group-title="Basketball",St. John's Red Storm vs. Duke Blue Devils
+http://192.168.2.139:8090/stream?uri=march-madness/2026-03-27/sju-duke
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/29027383351bc7d4e314dee1396199d3-thumbnail.jpg" group-title="Basketball",Atlanta Hawks vs. Boston Celtics
+http://192.168.2.139:8090/stream?uri=nba/2026-03-27/atl-bos
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/17aaaf01bf945dd722308e64e92dcc97-thumbnail.jpg" group-title="Basketball",Miami Heat vs. Cleveland Cavaliers
+http://192.168.2.139:8090/stream?uri=nba/2026-03-27/mia-cle
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/05ace55bc7e4e927dc523fc1b4ba33ed-thumbnail.jpg" group-title="Basketball",Alabama Crimson Tide vs. Michigan Wolverines
+http://192.168.2.139:8090/stream?uri=march-madness/2026-03-27/ala-mich
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/551a8f77a06dd64014339db55cfc0913-thumbnail.jpg" group-title="Basketball",Houston Rockets vs. Memphis Grizzlies
+http://192.168.2.139:8090/stream?uri=nba/2026-03-27/hou-mem
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2a3d88467648c54f5160e0a06cb2d6d5-thumbnail.jpg" group-title="Basketball",Chicago Bulls vs. Oklahoma City Thunder
+http://192.168.2.139:8090/stream?uri=nba/2026-03-27/chi-okc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b33757a9fd84f3dec26188cf0f0aea8c-thumbnail.jpg" group-title="Basketball",New Orleans Pelicans vs. Toronto Raptors
+http://192.168.2.139:8090/stream?uri=nba/2026-03-27/no-tor
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dfcf07865d6f2989523074aa8855894c-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Denver Nuggets
+http://192.168.2.139:8090/stream?uri=nba/2026-03-27/utah-den
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3e0ea671cdc262c53a2617aa14d9957-thumbnail.jpg" group-title="Basketball",Michigan State Spartans vs. UConn Huskies
+http://192.168.2.139:8090/stream?uri=march-madness/2026-03-27/msu-conn
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f952e926e0472e1533d8bd0928bcfafd-thumbnail.jpg" group-title="Basketball",Washington Wizards vs. Golden State Warriors
+http://192.168.2.139:8090/stream?uri=nba/2026-03-27/wsh-gs
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/70ff39de2f27ef9d4edfe7afc3d5bc31-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Portland Trail Blazers
+http://192.168.2.139:8090/stream?uri=nba/2026-03-27/dal-por
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a4fa6849d7635987685d7e353ee0465f-thumbnail.jpg" group-title="Basketball",Tennessee Volunteers vs. Iowa State Cyclones
+http://192.168.2.139:8090/stream?uri=march-madness/2026-03-27/tenn-isu
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a09af54d540d5c27ea07953a6ea5ed4f-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Los Angeles Lakers
+http://192.168.2.139:8090/stream?uri=nba/2026-03-27/bkn-lal
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/543311baf6dea8a43744a88ef90a4cc3-thumbnail.jpg" group-title="Ice Hockey",Detroit Red Wings vs. Buffalo Sabres
+http://192.168.2.139:8090/stream?uri=nhl/2026-03-27/det-buf
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3a9a6b6ea7938a296f8408e2eb9b0a2a-thumbnail.jpg" group-title="Ice Hockey",Chicago Blackhawks vs. New York Rangers
+http://192.168.2.139:8090/stream?uri=nhl/2026-03-27/chi-nyr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e983cb31456e7c0de34892546006a15-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Practice 2
 http://192.168.2.139:8090/stream?uri=f1/2026/japan/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/950e827fc923f4cbaad74650735323b1-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Practice 3
@@ -37,8 +63,6 @@ http://192.168.2.139:8090/stream?uri=mxgp-of-switzerland-day-1
 http://192.168.2.139:8090/stream?uri=f1/2026/japan/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5f7ef029ca1b05034166fad5d5e00bfc-thumbnail.jpg" group-title="Motorsports",MXGP of Switzerland: Day 2
 http://192.168.2.139:8090/stream?uri=mxgp-of-switzerland-day-2
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
-http://192.168.2.139:8090/stream?uri=tna/impact/2026-03-26
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
 http://192.168.2.139:8090/stream?uri=wwe/smackdown/2026-03-27
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
