@@ -28,7 +28,7 @@ def fetch_json(url: str) -> dict:
         return json.loads(r.read().decode("utf-8"))
 
 def ts_to_local(ts: int) -> str:
-    """Unix timestamp → UTC+7 时间字符串 HH:MM"""
+    """Unix timestamp → UTC+8 时间字符串 HH:MM"""
     dt = datetime.fromtimestamp(ts, tz=timezone.utc) + TZ_OFFSET
     return dt.strftime("%H:%M")
 
@@ -45,7 +45,7 @@ def build_m3u(data: dict) -> str:
     lines = [
         "#EXTM3U",
         f"# Source: ppv.to API",
-        f"# UTC+7 | Generated: {now_local.strftime('%Y-%m-%d %H:%M')}",
+        f"# UTC+8 | Generated: {now_local.strftime('%Y-%m-%d %H:%M')}",
         f"# Total: 0",   # placeholder, updated below
         "",
     ]
