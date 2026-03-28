@@ -1,70 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-28 18:40:17
-# Total Events: 33
-# Live Events: 6
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tennis-channel.png" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Tennis Channel 🇺🇸 USA
-http://192.168.2.139:8383/play?name=tennis+channel&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Bein Sports 2 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Bein Sports 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Bein Sports 3 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Sky Sports Arena 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-tennis.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Sky Sports Tennis 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+tennis&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-1.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Bein Sports 1 🇦🇺 Australia
-http://192.168.2.139:8383/play?name=bein+sports+1&code=au&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-2.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Bein Sports 2 🇦🇺 Australia
-http://192.168.2.139:8383/play?name=bein+sports+2&code=au&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-2.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Bein Sports 2 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Movistar Deportes 1 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=movistar+deportes+1&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-2.webp" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Movistar Deportes 2 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=movistar+deportes+2&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-3.webp" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Movistar Deportes 3 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=movistar+deportes+3&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Movistar Deportes 4 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=movistar+deportes+4&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Sky Sport Tennis 🇮🇹 Italy
-http://192.168.2.139:8383/play?name=sky+sport+tennis&code=it&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-tennis.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Sky Sport Tennis 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+tennis&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-4.png" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Ziggo Sport 4 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+4&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5.png" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Ziggo Sport 5 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=ziggo+sport+5&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Max Sport 1 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+1&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Max Sport 2 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-2.png.webp" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Sport Klub 2 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Tennis",[16:00] Tennis - undefined vs undefined 🔴 - Sport Klub 4 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
+# PlayTorrio Sports Events - 2026-03-28 19:29:01
+# Total Events: 50
+# Live Events: 23
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/vamos-spain.svg" group-title="MMA",[17:30] MMA - undefined vs undefined 🔴 - Vamos Spain 🇪🇸 Spain
 http://192.168.2.139:8383/play?name=vamos+spain&code=es&user=cdnlivetv&plan=free
@@ -114,8 +51,182 @@ http://192.168.2.139:8383/play?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/tv4-football.png" group-title="Segunda Division",[18:30] Segunda Division - Málaga vs Leganés 🔴 - Tv4 Football 🇸🇪 Sweden
 http://192.168.2.139:8383/play?name=tv4+football&code=se&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="Eerste Divisie",[18:45] Eerste Divisie - Willem II vs De Graafschap 🔴
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Segunda Division",[18:30] Segunda Division - Málaga vs Leganés 🔴 - beIN SPORTS 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-6.svg" group-title="Segunda Division",[18:30] Segunda Division - Málaga vs Leganés 🔴 - beIN SPORTS MAX 6 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+max+6&code=fr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/laliga-tv-hypermotion.svg" group-title="Segunda Division",[18:30] Segunda Division - Málaga vs Leganés 🔴 - LaLiga TV Hypermotion 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=laliga+tv+hypermotion+1&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="Segunda Division",[18:30] Segunda Division - Málaga vs Leganés 🔴 - DAZN 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=dazn+1&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-1.png" group-title="Segunda Division",[18:30] Segunda Division - Málaga vs Leganés 🔴 - Nova Sports 1 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+1&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Segunda Division",[18:30] Segunda Division - Málaga vs Leganés 🔴 - Match Football 3 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+football+3&code=ru&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="Segunda Division",[18:30] Segunda Division - Málaga vs Leganés 🔴 - Max Sport 4 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+4&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/tv4-football.png" group-title="Segunda Division",[18:30] Segunda Division - Málaga vs Leganés 🔴 - TV4 Football 🇸🇪 Sweden
+http://192.168.2.139:8383/play?name=tv4+football&code=se&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp" group-title="Basketball",[18:30] Basketball - Lega A : Varese vs Tortona 🔴 - Cosmote Sport 4 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+4&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-6.webp" group-title="Basketball",[18:30] Basketball - Lega A : Varese vs Tortona 🔴 - Arena Sport 6 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+6&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - TNT Sports 2 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport-360.svg" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - Canal Sport360 🇫🇷 France
+http://192.168.2.139:8383/play?name=canal+sport360&code=fr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-1.png" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - DAZN 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=dazn+1&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - Sky Sport Moto GP 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+moto+gp&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - Sky Sport Mix 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - Sky Sport Top Event 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-4.svg" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - Sport TV 4 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+4&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - Ziggo Sport 1 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+1&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - Cosmote Sport 5 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+5&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - Max Sport 3 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+3&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/cyprus/cytavision-sports-6.png" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - Cytavision Sports 6 CY
+http://192.168.2.139:8383/play?name=cytavision+sports+6&code=cy&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - Sport Klub 3 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+3&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-4.svg" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - ESPN 4 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=espn+4&code=br&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn.svg" group-title="Motorsport",[18:30] Motorsport - MotoGP : United States GP (T2026): Saturday Sprint 🔴 - ESPN 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn&code=ar&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="Eerste Divisie",[18:45] Eerste Divisie - Willem II vs De Graafschap 🔴 - Espn 🇳🇱 Netherlands
 http://192.168.2.139:8383/play?name=espn&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="Eerste Divisie",[18:45] Eerste Divisie - Willem II vs De Graafschap 🔴 - ESPN 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=espn&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-3.webp" group-title="Basketball",[19:00] Basketball - LEB Oro : Alicante vs Estudiantes 🔴
+http://192.168.2.139:8383/play?name=movistar+deportes+3&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-1.png" group-title="Basketball",[19:00] Basketball - ACB : Murcia vs Bilbao 🔴
+http://192.168.2.139:8383/play?name=sport+1&code=il&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/porto-canal.png" group-title="Handball",[19:00] Handball - Andebol 1 : Porto vs Sporting 🔴
+http://192.168.2.139:8383/play?name=porto+canal&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp" group-title="Handball",[19:30] Handball - Serbian Cup final : Partizan vs Dinamo 🔴
+http://192.168.2.139:8383/play?name=arena+sport+1&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Motorsport",[19:30] Motorsport - IndyCar Barber Motorsports Park: Qualifying 🔴 - FOX Sports 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=fox+sports+1&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[19:30] Motorsport - IndyCar Barber Motorsports Park: Qualifying 🔴 - Sky Sports F1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+f1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-5.png" group-title="Motorsport",[19:30] Motorsport - IndyCar Barber Motorsports Park: Qualifying 🔴 - Sky Sport 5 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+5&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[19:30] Motorsport - IndyCar Barber Motorsports Park: Qualifying 🔴 - Sky Sport F1 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+f1&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.png" group-title="Motorsport",[19:30] Motorsport - IndyCar Barber Motorsports Park: Qualifying 🔴 - Ziggo Sport 2 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+2&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Motorsport",[19:40] Motorsport - Moto3 : Round 3 | United States Qualifying 🔴 - TNT Sports 2 🇬🇧 UK
+http://192.168.2.139:8383/play?name=tnt+sports+2&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport-360.svg" group-title="Motorsport",[19:40] Motorsport - Moto3 : Round 3 | United States Qualifying 🔴 - Canal Sport360 🇫🇷 France
+http://192.168.2.139:8383/play?name=canal+sport360&code=fr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg" group-title="Motorsport",[19:40] Motorsport - Moto3 : Round 3 | United States Qualifying 🔴 - Sky Sport Moto GP 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+moto+gp&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="Motorsport",[19:40] Motorsport - Moto3 : Round 3 | United States Qualifying 🔴 - Sky Sport Mix 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="Motorsport",[19:40] Motorsport - Moto3 : Round 3 | United States Qualifying 🔴 - Sky Sport Top Event 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-4.svg" group-title="Motorsport",[19:40] Motorsport - Moto3 : Round 3 | United States Qualifying 🔴 - Sport TV 4 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+4&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png" group-title="Motorsport",[19:40] Motorsport - Moto3 : Round 3 | United States Qualifying 🔴 - Ziggo Sport 1 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+1&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp" group-title="Motorsport",[19:40] Motorsport - Moto3 : Round 3 | United States Qualifying 🔴 - Cosmote Sport 5 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+5&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/cyprus/cytavision-sports-6.png" group-title="Motorsport",[19:40] Motorsport - Moto3 : Round 3 | United States Qualifying 🔴 - Cytavision Sports 6 CY
+http://192.168.2.139:8383/play?name=cytavision+sports+6&code=cy&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="Motorsport",[19:40] Motorsport - Moto3 : Round 3 | United States Qualifying 🔴 - Sport Klub 3 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+3&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-4.svg" group-title="Motorsport",[19:40] Motorsport - Moto3 : Round 3 | United States Qualifying 🔴 - ESPN 4 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=espn+4&code=br&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn.svg" group-title="Motorsport",[19:40] Motorsport - Moto3 : Round 3 | United States Qualifying 🔴 - ESPN 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn&code=ar&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/canal-sport-5.svg" group-title="MMA",[20:00] MMA - undefined vs undefined 🔴
+http://192.168.2.139:8383/play?name=canal+sport+5&code=pl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[20:00] Golf - PGA Korn Ferry Tour Golf Club Car Championship, Third Round 🔴
+http://192.168.2.139:8383/play?name=golf+tv&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="Volleyball",[20:00] Volleyball - PlusLiga : Politechnika Lublin vs Belchatow Skra 🔴
+http://192.168.2.139:8383/play?name=polsat+sport&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Volleyball",[20:00] Volleyball - Camp. Nacional : Sporting de Espinho vs Benfica 🔴
+http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-10.webp" group-title="Basketball",[20:00] Basketball - KLS : Vojvodina Novi Sad vs Sloga 🔴
+http://192.168.2.139:8383/play?name=arena+sport+10&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Basketball",[20:00] Basketball - ACB : Granada vs Forca Lleida 🔴
+http://192.168.2.139:8383/play?name=sport+klub+4&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Basketball",[20:00] Basketball - ABA League : Cedevita Olimpija vs Cluj Napoca 🔴 - Arena 2 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-4.webp" group-title="Basketball",[20:00] Basketball - ABA League : Cedevita Olimpija vs Cluj Napoca 🔴 - Arena Sport 4 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+4&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-3.svg" group-title="Handball",[20:00] Handball - Starligue : Aix vs Nantes 🔴
+http://192.168.2.139:8383/play?name=bein+sports+3&code=fr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-5.webp" group-title="Handball",[20:00] Handball - EHF European League Women : Dijon W vs Lok. Zagreb W 🔴 - Arena Sport 5 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+5&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="Handball",[20:00] Handball - EHF European League Women : Dijon W vs Lok. Zagreb W 🔴 - Arena Sport 1 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/canal-sport-5.svg" group-title="MMA",[20:00] MMA - FEN 62 in Częstochowa 🔴
+http://192.168.2.139:8383/play?name=canal+sport+5&code=pl&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[10:30] Cricket - undefined vs undefined
 http://192.168.2.139:8383/play?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
@@ -150,11 +261,71 @@ http://192.168.2.139:8383/play?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[15:00] Cricket - undefined vs undefined - Supersport Cricket 🇿🇦 South Africa
 http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tennis-channel.png" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Tennis Channel 🇺🇸 USA
+http://192.168.2.139:8383/play?name=tennis+channel&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Bein Sports 2 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Bein Sports 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Bein Sports 3 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Sky Sports Arena 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-tennis.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Sky Sports Tennis 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+tennis&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-1.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Bein Sports 1 🇦🇺 Australia
+http://192.168.2.139:8383/play?name=bein+sports+1&code=au&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-2.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Bein Sports 2 🇦🇺 Australia
+http://192.168.2.139:8383/play?name=bein+sports+2&code=au&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-2.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Bein Sports 2 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Movistar Deportes 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+deportes+1&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-2.webp" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Movistar Deportes 2 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+deportes+2&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-3.webp" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Movistar Deportes 3 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+deportes+3&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Movistar Deportes 4 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+deportes+4&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Sky Sport Tennis 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+tennis&code=it&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-tennis.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Sky Sport Tennis 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+tennis&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-4.png" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Ziggo Sport 4 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+4&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5.png" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Ziggo Sport 5 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=ziggo+sport+5&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Max Sport 1 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+1&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Max Sport 2 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-2.png.webp" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Sport Klub 2 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Tennis",[16:00] Tennis - undefined vs undefined - Sport Klub 4 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
+
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/laliga-tv-hypermotion.svg" group-title="Segunda Division",[16:15] Segunda Division - Real Valladolid vs Burgos
 http://192.168.2.139:8383/play?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/canal-sport-5.svg" group-title="MMA",[20:00] MMA - undefined vs undefined
-http://192.168.2.139:8383/play?name=canal+sport+5&code=pl&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[20:30] NHL - Anaheim Ducks vs Edmonton Oilers - Sportsnet West 🇨🇦 Canada
 http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
