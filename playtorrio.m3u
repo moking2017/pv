@@ -1,37 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-29 22:31:43
+# PlayTorrio Sports Events - 2026-03-29 23:31:45
 # Total Events: 35
-# Live Events: 11
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-2.svg" group-title="NHL",[23:00] NHL - Montreal Canadiens vs Carolina Hurricanes 🔴 - Tsn 2 🇨🇦 Canada
-https://cdn-live.tv/api/v1/channels/player/?name=tsn+2&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="NHL",[23:00] NHL - Montreal Canadiens vs Carolina Hurricanes 🔴 - Arena Sport 1 🇭🇷 Croatia
-https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-10.png" group-title="NHL",[23:00] NHL - Nashville Predators vs Tampa Bay Lightning 🔴 - Tnt Sports 10 🇬🇧 UK
-https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+10&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="NHL",[23:00] NHL - Nashville Predators vs Tampa Bay Lightning 🔴 - Viaplay Sports 1 🇬🇧 UK
-https://cdn-live.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="NHL",[23:00] NHL - Nashville Predators vs Tampa Bay Lightning 🔴 - Max Sport 4 🇧🇬 Bulgaria
-https://cdn-live.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png" group-title="NHL",[23:00] NHL - Boston Bruins vs Columbus Blue Jackets 🔴 - Tnt Sports 8 🇬🇧 UK
-https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+8&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[23:00] NHL - Boston Bruins vs Columbus Blue Jackets 🔴 - Sportsnet Ontario 🇨🇦 Canada
-https://cdn-live.tv/api/v1/channels/player/?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[23:00] NHL - Boston Bruins vs Columbus Blue Jackets 🔴 - Sportsnet West 🇨🇦 Canada
-https://cdn-live.tv/api/v1/channels/player/?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/trt-spor.svg" group-title="NHL",[23:00] NHL - Boston Bruins vs Columbus Blue Jackets 🔴 - Trt Spor 🇹🇷 Turkey
-https://cdn-live.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[23:10] Primera A - Inter Bogotá vs Junior 🔴
-https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+# Live Events: 8
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/yes.png" group-title="NBA",[00:00] NBA - Brooklyn Nets vs Sacramento Kings 🔴 - Yes Network 🇺🇸 USA
 https://cdn-live.tv/api/v1/channels/player/?name=yes+network&code=us&user=cdnlivetv&plan=free
@@ -59,6 +29,36 @@ https://cdn-live.tv/api/v1/channels/player/?name=nhl+network&code=us&user=cdnliv
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[01:20] Primera A - Deportivo Pasto vs Atlético Nacional 🔴
 https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Bein Sports Mena 1 🇺🇸 USA
+https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-action.svg" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Sky Sports Action 🇬🇧 UK
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Supersport Grandstand 🇿🇦 South Africa
+https://cdn-live.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Supersport Action 🇿🇦 South Africa
+https://cdn-live.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Bein Sports 1 🇫🇷 France
+https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Sky Sport Mix 🇩🇪 Germany
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Sky Sport Top Event 🇩🇪 Germany
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Espn 🇳🇱 Netherlands
+https://cdn-live.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Arena 1 Premium 🇷🇸 Serbia
+https://cdn-live.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-plus.png" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Sport 5 Plus 🇮🇱 Israel
+https://cdn-live.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[11:30] Cricket - undefined vs undefined
 https://cdn-live.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
@@ -351,35 +351,35 @@ https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnli
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-plus.png" group-title="NBA",[21:30] NBA - Milwaukee Bucks vs Los Angeles Clippers - Sport 5 Plus 🇮🇱 Israel
 https://cdn-live.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks - Bein Sports Mena 1 🇺🇸 USA
-https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-2.svg" group-title="NHL",[23:00] NHL - Montreal Canadiens vs Carolina Hurricanes - Tsn 2 🇨🇦 Canada
+https://cdn-live.tv/api/v1/channels/player/?name=tsn+2&code=ca&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-action.svg" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks - Sky Sports Action 🇬🇧 UK
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="NHL",[23:00] NHL - Montreal Canadiens vs Carolina Hurricanes - Arena Sport 1 🇭🇷 Croatia
+https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks - Supersport Grandstand 🇿🇦 South Africa
-https://cdn-live.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-10.png" group-title="NHL",[23:00] NHL - Nashville Predators vs Tampa Bay Lightning - Tnt Sports 10 🇬🇧 UK
+https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+10&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks - Supersport Action 🇿🇦 South Africa
-https://cdn-live.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="NHL",[23:00] NHL - Nashville Predators vs Tampa Bay Lightning - Viaplay Sports 1 🇬🇧 UK
+https://cdn-live.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks - Bein Sports 1 🇫🇷 France
-https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="NHL",[23:00] NHL - Nashville Predators vs Tampa Bay Lightning - Max Sport 4 🇧🇬 Bulgaria
+https://cdn-live.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks - Sky Sport Mix 🇩🇪 Germany
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png" group-title="NHL",[23:00] NHL - Boston Bruins vs Columbus Blue Jackets - Tnt Sports 8 🇬🇧 UK
+https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+8&code=gb&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks - Sky Sport Top Event 🇩🇪 Germany
-https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[23:00] NHL - Boston Bruins vs Columbus Blue Jackets - Sportsnet Ontario 🇨🇦 Canada
+https://cdn-live.tv/api/v1/channels/player/?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks - Espn 🇳🇱 Netherlands
-https://cdn-live.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[23:00] NHL - Boston Bruins vs Columbus Blue Jackets - Sportsnet West 🇨🇦 Canada
+https://cdn-live.tv/api/v1/channels/player/?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks - Arena 1 Premium 🇷🇸 Serbia
-https://cdn-live.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/trt-spor.svg" group-title="NHL",[23:00] NHL - Boston Bruins vs Columbus Blue Jackets - Trt Spor 🇹🇷 Turkey
+https://cdn-live.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-plus.png" group-title="NBA",[01:30] NBA - Oklahoma City Thunder vs New York Knicks - Sport 5 Plus 🇮🇱 Israel
-https://cdn-live.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[23:10] Primera A - Inter Bogotá vs Junior
+https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[03:30] Primera A - Llaneros vs Once Caldas
 https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
