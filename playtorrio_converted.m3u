@@ -1,85 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-29 21:31:48
-# Total Events: 41
-# Live Events: 15
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[04:45] Golf - PGA Tour Texas Children's Houston Open 🔴 - GOLF TV 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=golf+tv&code=us&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/golf-tv
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-golf.svg" group-title="Golf",[04:45] Golf - PGA Tour Texas Children's Houston Open 🔴 - Sky Sports Golf 🇬🇧 UK
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+golf&code=gb&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Golf",[04:45] Golf - PGA Tour Texas Children's Houston Open 🔴 - Sky Sport 1 🇳🇿 New Zealand
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-golf.webp" group-title="Golf",[04:45] Golf - PGA Tour Texas Children's Houston Open 🔴 - SuperSport Golf 🇿🇦 South Africa
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=supersport+golf&code=za&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/za/supersport-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-golf.svg" group-title="Golf",[04:45] Golf - PGA Tour Texas Children's Houston Open 🔴 - Movistar Golf 🇪🇸 Spain
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=movistar+golf&code=es&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/movistar-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png" group-title="Golf",[04:45] Golf - PGA Tour Texas Children's Houston Open 🔴 - Ziggo Sport 6 🇳🇱 Netherlands
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=ziggo+sport+6&code=nl&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-6
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/sk-golf.png.webp" group-title="Golf",[04:45] Golf - PGA Tour Texas Children's Houston Open 🔴 - Sport Klub Golf 🇭🇷 Croatia
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+golf&code=hr&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/hr/sport-klub-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg" group-title="HorseRacing",[05:00] HorseRacing - America's Day At the Races 🔴
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Motorsport",[05:30] Motorsport - NASCAR Cup Series Motorsports Cook Out 400: Carrera 🔴 - FOX Sports 1 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-deportes.svg" group-title="Motorsport",[05:30] Motorsport - NASCAR Cup Series Motorsports Cook Out 400: Carrera 🔴 - FOX Deportes 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-deportes
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-3.svg" group-title="Motorsport",[05:30] Motorsport - NASCAR Cup Series Motorsports Cook Out 400: Carrera 🔴 - Sport TV 3 🇵🇹 Portugal
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pt/sport-tv-3
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-3.png" group-title="Motorsport",[05:30] Motorsport - NASCAR Cup Series Motorsports Cook Out 400: Carrera 🔴 - Ziggo Sport 3 🇳🇱 Netherlands
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-3
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg" group-title="Motorsport",[05:30] Motorsport - NASCAR Cup Series Motorsports Cook Out 400: Carrera 🔴 - Max Sport 1 🇧🇬 Bulgaria
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=max+sport+1&code=bg&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/bg/max-sport-1
+# PlayTorrio Sports Events - 2026-03-29 22:31:43
+# Total Events: 35
+# Live Events: 11
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-2.svg" group-title="NHL",[06:00] NHL - Montreal Canadiens vs Carolina Hurricanes 🔴 - Tsn 2 🇨🇦 Canada
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tsn+2&code=ca&user=cdnlivetv&plan=free
@@ -89,18 +11,6 @@ http://cdnlivetv.168.us.kg/live/ca/tsn-2
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="NHL",[06:00] NHL - Montreal Canadiens vs Carolina Hurricanes 🔴 - Arena Sport 1 🇭🇷 Croatia
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/hr/arena-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-2.svg" group-title="NHL",[06:00] NHL - Montreal Canadiens vs Carolina Hurricanes 🔴 - TSN 2 🇨🇦 Canada
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tsn+2&code=ca&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/tsn-2
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="NHL",[06:00] NHL - Montreal Canadiens vs Carolina Hurricanes 🔴 - Arena Sport 1 🇭🇷 Croatia
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=ntvstream&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/hr/arena-sport-1
@@ -119,24 +29,6 @@ http://cdnlivetv.168.us.kg/live/gb/viaplay-sports-1
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="NHL",[06:00] NHL - Nashville Predators vs Tampa Bay Lightning 🔴 - Max Sport 4 🇧🇬 Bulgaria
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/bg/max-sport-4
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-10.png" group-title="NHL",[06:00] NHL - Nashville Predators vs Tampa Bay Lightning 🔴 - TNT Sports 10 🇬🇧 UK
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+10&code=gb&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/tnt-sports-10
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="NHL",[06:00] NHL - Nashville Predators vs Tampa Bay Lightning 🔴 - Viaplay Sports 1 🇬🇧 UK
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/viaplay-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="NHL",[06:00] NHL - Nashville Predators vs Tampa Bay Lightning 🔴 - Max Sport 4 🇧🇬 Bulgaria
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=ntvstream&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/bg/max-sport-4
@@ -165,56 +57,8 @@ http://cdnlivetv.168.us.kg/live/ca/sportsnet-west
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/tr/trt-spor
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png" group-title="NHL",[06:00] NHL - Boston Bruins vs Columbus Blue Jackets 🔴 - TNT Sports 8 🇬🇧 UK
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+8&code=gb&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/tnt-sports-8
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[06:00] NHL - Boston Bruins vs Columbus Blue Jackets 🔴 - Sportsnet Ontario 🇨🇦 Canada
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sportsnet+ontario&code=ca&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/sportsnet-ontario
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[06:00] NHL - Boston Bruins vs Columbus Blue Jackets 🔴 - Sportsnet West 🇨🇦 Canada
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sportsnet+west&code=ca&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/sportsnet-west
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/trt-spor.svg" group-title="NHL",[06:00] NHL - Boston Bruins vs Columbus Blue Jackets 🔴 - TRT Spor 🇹🇷 Turkey
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/tr/trt-spor
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-1.svg" group-title="WinterSports",[06:00] WinterSports - 2026 World Men's Curling Championship : Canada vs. United States 🔴
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tsn+1&code=ca&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/tsn-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[06:00] Golf - PGA Tour Champions Golf Hoag Classic Newport Beach, Final Round 🔴
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=golf+tv&code=us&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/golf-tv
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/sportv-3.png" group-title="Volleyball",[06:00] Volleyball - Beach Volleyball World Tour Challenge: Nayarit, Mexico - Men's Final 🔴
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sportv+3&code=br&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/br/sportv-3
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[06:10] Primera A - Inter Bogotá vs Junior 🔴 - Win Futbol 🇨🇴 Colombia
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[06:10] Primera A - Inter Bogotá vs Junior 🔴
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/co/win-futbol
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[06:10] Primera A - Inter Bogotá vs Junior 🔴 - Win Futbol 🇨🇴 Colombia
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=ntvstream&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/co/win-futbol
@@ -231,65 +75,47 @@ http://cdnlivetv.168.us.kg/live/us/yes-network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/il/sport-5-stars
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/yes.png" group-title="NBA",[07:00] NBA - Brooklyn Nets vs Sacramento Kings 🔴 - Yes Network 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=yes+network&code=us&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/yes-network
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NBA",[07:00] NBA - Brooklyn Nets vs Sacramento Kings 🔴 - Sport 5 Stars 🇮🇱 Israel
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-5-stars
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp" group-title="NBA",[07:00] NBA - Charlotte Hornets vs Boston Celtics 🔴 - Cosmote Sport 8 🇬🇷 Greece
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp" group-title="NBA",[07:00] NBA - Charlotte Hornets vs Boston Celtics 🔴
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=cosmote+sport+8&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/gr/cosmote-sport-8
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp" group-title="NBA",[07:00] NBA - Charlotte Hornets vs Boston Celtics 🔴 - Cosmote Sport 8 🇬🇷 Greece
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=cosmote+sport+8&code=gr&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gr/cosmote-sport-8
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[07:00] NBA - Portland Trail Blazers vs Washington Wizards 🔴 - Sport 5 🇮🇱 Israel
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[07:00] NBA - Portland Trail Blazers vs Washington Wizards 🔴
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/il/sport-5
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[07:00] NBA - Portland Trail Blazers vs Washington Wizards 🔴 - Sport 5 🇮🇱 Israel
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5&code=il&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-5
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[07:00] NBA - Toronto Raptors vs Orlando Magic 🔴 - Tsn 4 🇨🇦 Canada
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[07:00] NBA - Toronto Raptors vs Orlando Magic 🔴
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tsn+4&code=ca&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ca/tsn-4
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[07:00] NBA - Toronto Raptors vs Orlando Magic 🔴 - TSN 4 🇨🇦 Canada
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tsn+4&code=ca&user=ntvstream&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/tsn-4
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[07:30] Brasileirão - Athletico-PR vs Botafogo 🔴 - Sportdigital Fussball 🇩🇪 Germany
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[07:30] Brasileirão - Athletico-PR vs Botafogo 🔴
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/de/sportdigital-fussball
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[07:30] Brasileirão - Athletico-PR vs Botafogo 🔴 - SportDigital Fussball 🇩🇪 Germany
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/msg.png" group-title="NHL",[08:00] NHL - Chicago Blackhawks vs New Jersey Devils 🔴 - Msg 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=msg&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sportdigital-fussball
+http://cdnlivetv.168.us.kg/live/us/msg
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-network.svg" group-title="NHL",[08:00] NHL - Chicago Blackhawks vs New Jersey Devils 🔴 - Nhl Network 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=nhl+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/nhl-network
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[08:20] Primera A - Deportivo Pasto vs Atlético Nacional 🔴
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/co/win-futbol
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[18:30] Cricket - undefined vs undefined
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
@@ -872,24 +698,6 @@ http://cdnlivetv.168.us.kg/live/rs/sport-klub-1
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/il/sport-5-plus
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/msg.png" group-title="NHL",[08:00] NHL - Chicago Blackhawks vs New Jersey Devils - Msg 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=msg&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/msg
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-network.svg" group-title="NHL",[08:00] NHL - Chicago Blackhawks vs New Jersey Devils - Nhl Network 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=nhl+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/nhl-network
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[08:20] Primera A - Deportivo Pasto vs Atlético Nacional
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/co/win-futbol
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks - Bein Sports Mena 1 🇺🇸 USA
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
