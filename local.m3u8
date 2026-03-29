@@ -1,34 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-29 05:09:51
-# Total Events: 42
-# Live Events: 2
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-2.svg" group-title="MMA",[05:00] MMA - undefined vs undefined 🔴 - Espn 2 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn+2&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="MMA",[05:00] MMA - undefined vs undefined 🔴 - Espn Deportes 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-6.png" group-title="MMA",[05:00] MMA - undefined vs undefined 🔴 - Sky Sport 6 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="MMA",[05:00] MMA - undefined vs undefined 🔴 - Supersport Action 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+action&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/rmc-sport-2.svg" group-title="MMA",[05:00] MMA - undefined vs undefined 🔴 - Rmc Sport 2 🇫🇷 France
-http://192.168.2.139:8383/play?name=rmc+sport+2&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/vamos-spain.svg" group-title="MMA",[05:00] MMA - undefined vs undefined 🔴 - Vamos Spain 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=vamos+spain&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg" group-title="MMA",[05:00] MMA - undefined vs undefined 🔴 - Movistar Deportes 1 🇪🇸 Spain
-http://192.168.2.139:8383/play?name=movistar+deportes+1&code=es&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-3.png" group-title="MMA",[05:00] MMA - undefined vs undefined 🔴 - Sport 3 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+3&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Basketball",[05:30] Basketball - Australian League: Playoffs FINALE (G3): Sydney vs Adelaide 🔴
-http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=ntvstream&plan=free
+# PlayTorrio Sports Events - 2026-03-29 07:02:24
+# Total Events: 41
+# Live Events: 0
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[10:30] Cricket - undefined vs undefined
 http://192.168.2.139:8383/play?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
@@ -491,4 +464,28 @@ http://192.168.2.139:8383/play?name=tv3+sport&code=dk&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="NHL",[04:30] NHL - Washington Capitals vs Vegas Golden Knights
 http://192.168.2.139:8383/play?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-2.svg" group-title="MMA",[05:00] MMA - undefined vs undefined - Espn 2 🇺🇸 USA
+http://192.168.2.139:8383/play?name=espn+2&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="MMA",[05:00] MMA - undefined vs undefined - Espn Deportes 🇺🇸 USA
+http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-6.png" group-title="MMA",[05:00] MMA - undefined vs undefined - Sky Sport 6 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="MMA",[05:00] MMA - undefined vs undefined - Supersport Action 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+action&code=za&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/rmc-sport-2.svg" group-title="MMA",[05:00] MMA - undefined vs undefined - Rmc Sport 2 🇫🇷 France
+http://192.168.2.139:8383/play?name=rmc+sport+2&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/vamos-spain.svg" group-title="MMA",[05:00] MMA - undefined vs undefined - Vamos Spain 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=vamos+spain&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg" group-title="MMA",[05:00] MMA - undefined vs undefined - Movistar Deportes 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+deportes+1&code=es&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-3.png" group-title="MMA",[05:00] MMA - undefined vs undefined - Sport 3 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+3&code=il&user=cdnlivetv&plan=free
 
