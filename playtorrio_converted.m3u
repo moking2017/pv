@@ -1,19 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-30 15:02:37
+# PlayTorrio Sports Events - 2026-03-30 16:54:53
 # Total Events: 21
-# Live Events: 7
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-live.png" group-title="Liga Leumit",[22:30] Liga Leumit - Maccabi Herzliya vs Hapoel Hadera 🔴
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-5-live
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="Liga Leumit",[22:30] Liga Leumit - Hapoel Rishon LeZion vs Kafr Qasim 🔴
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-5-stars
+# Live Events: 5
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[23:00] Cricket - undefined vs undefined 🔴 - Willow Cricket 🇺🇸 USA
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
@@ -62,18 +50,6 @@ http://cdnlivetv.168.us.kg/live/nz/sky-sport-1
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/za/supersport-cricket
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.svg" group-title="Friendly",[00:00] Friendly - Azerbaijan vs Sierra Leone *FIFA Series 🔴 - Fox Soccer Plus 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-soccer-plus
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="Friendly",[00:00] Friendly - Azerbaijan vs Sierra Leone *FIFA Series 🔴 - Sport Klub 3 🇷🇸 Serbia
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/sport-klub-3
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tennis-channel.png" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Tennis Channel 🇺🇸 USA
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tennis+channel&code=us&user=cdnlivetv&plan=free
@@ -291,11 +267,35 @@ http://cdnlivetv.168.us.kg/live/es/tve-la-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/eg/on-time-sports
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="FNL",[01:30] FNL - Torpedo Moskva vs SKA Khabarovsk
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="FNL",[01:30] FNL - Torpedo Moskva vs SKA Khabarovsk 🔴
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ru/match-premier
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-live.png" group-title="Liga Leumit",[22:30] Liga Leumit - Maccabi Herzliya vs Hapoel Hadera
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/il/sport-5-live
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="Liga Leumit",[22:30] Liga Leumit - Hapoel Rishon LeZion vs Kafr Qasim
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/il/sport-5-stars
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.svg" group-title="Friendly",[00:00] Friendly - Azerbaijan vs Sierra Leone *FIFA Series - Fox Soccer Plus 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/fox-soccer-plus
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="Friendly",[00:00] Friendly - Azerbaijan vs Sierra Leone *FIFA Series - Sport Klub 3 🇷🇸 Serbia
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/rs/sport-klub-3
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/rai-sport.webp" group-title="Serie C",[03:30] Serie C - Arezzo vs Ascoli
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=rai+sport&code=it&user=cdnlivetv&plan=free
