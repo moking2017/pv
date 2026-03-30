@@ -1,121 +1,97 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-29 23:31:45
+# PlayTorrio Sports Events - 2026-03-30 02:25:36
 # Total Events: 35
-# Live Events: 8
+# Live Events: 3
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/yes.png" group-title="NBA",[07:00] NBA - Brooklyn Nets vs Sacramento Kings 🔴 - Yes Network 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=yes+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/yes-network
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NBA",[07:00] NBA - Brooklyn Nets vs Sacramento Kings 🔴 - Sport 5 Stars 🇮🇱 Israel
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-5-stars
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp" group-title="NBA",[07:00] NBA - Charlotte Hornets vs Boston Celtics 🔴
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=cosmote+sport+8&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gr/cosmote-sport-8
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[07:00] NBA - Portland Trail Blazers vs Washington Wizards 🔴
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-5
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[07:00] NBA - Toronto Raptors vs Orlando Magic 🔴
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tsn+4&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/tsn-4
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[07:30] Brasileirão - Athletico-PR vs Botafogo 🔴
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sportdigital-fussball
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/msg.png" group-title="NHL",[08:00] NHL - Chicago Blackhawks vs New Jersey Devils 🔴 - Msg 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=msg&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/msg
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-network.svg" group-title="NHL",[08:00] NHL - Chicago Blackhawks vs New Jersey Devils 🔴 - Nhl Network 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=nhl+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/nhl-network
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[08:20] Primera A - Deportivo Pasto vs Atlético Nacional 🔴
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[10:30] Primera A - Llaneros vs Once Caldas 🔴
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/co/win-futbol
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Bein Sports Mena 1 🇺🇸 USA
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/telemundo.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors 🔴 - Telemundo 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=telemundo&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/telemundo
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors 🔴 - Bein Sports Mena 1 🇺🇸 USA
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/bein-sports-mena-1
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-action.svg" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Sky Sports Action 🇬🇧 UK
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-9.png" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors 🔴 - Tnt Sports 9 🇬🇧 UK
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/gb/tnt-sports-9
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-action.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors 🔴 - Sky Sports Action 🇬🇧 UK
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/gb/sky-sports-action
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Supersport Grandstand 🇿🇦 South Africa
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors 🔴 - Supersport Grandstand 🇿🇦 South Africa
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/za/supersport-grandstand
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Supersport Action 🇿🇦 South Africa
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors 🔴 - Supersport Action 🇿🇦 South Africa
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/za/supersport-action
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Bein Sports 1 🇫🇷 France
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors 🔴 - Bein Sports 1 🇫🇷 France
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/fr/bein-sports-1
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Sky Sport Mix 🇩🇪 Germany
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors 🔴 - Sky Sport Mix 🇩🇪 Germany
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/de/sky-sport-mix
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Sky Sport Top Event 🇩🇪 Germany
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors 🔴 - Sky Sport Top Event 🇩🇪 Germany
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/de/sky-sport-top-event
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Espn 🇳🇱 Netherlands
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors 🔴 - Sport Tv 1 🇵🇹 Portugal
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/pt/sport-tv-1
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors 🔴 - Espn 🇳🇱 Netherlands
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/nl/espn
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Arena 1 Premium 🇷🇸 Serbia
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors 🔴 - Arena 1 Premium 🇷🇸 Serbia
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/rs/arena-1-premium
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-plus.png" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks 🔴 - Sport 5 Plus 🇮🇱 Israel
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors 🔴 - Sport 5 🇮🇱 Israel
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-5-plus
+http://cdnlivetv.168.us.kg/live/il/sport-5
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png" group-title="Friendly",[11:50] Friendly - Cape Verde Islands vs Finland *FIFA Series 🔴
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/gb/tnt-sports-7
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[18:30] Cricket - undefined vs undefined
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
@@ -759,92 +735,116 @@ http://cdnlivetv.168.us.kg/live/tr/trt-spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/co/win-futbol
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[10:30] Primera A - Llaneros vs Once Caldas
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/yes.png" group-title="NBA",[07:00] NBA - Brooklyn Nets vs Sacramento Kings - Yes Network 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=yes+network&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/co/win-futbol
+http://cdnlivetv.168.us.kg/live/us/yes-network
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/telemundo.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors - Telemundo 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=telemundo&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NBA",[07:00] NBA - Brooklyn Nets vs Sacramento Kings - Sport 5 Stars 🇮🇱 Israel
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/telemundo
+http://cdnlivetv.168.us.kg/live/il/sport-5-stars
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors - Bein Sports Mena 1 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp" group-title="NBA",[07:00] NBA - Charlotte Hornets vs Boston Celtics
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=cosmote+sport+8&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/bein-sports-mena-1
+http://cdnlivetv.168.us.kg/live/gr/cosmote-sport-8
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-9.png" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors - Tnt Sports 9 🇬🇧 UK
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/tnt-sports-9
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-action.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors - Sky Sports Action 🇬🇧 UK
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-action
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors - Supersport Grandstand 🇿🇦 South Africa
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/za/supersport-grandstand
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors - Supersport Action 🇿🇦 South Africa
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/za/supersport-action
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors - Bein Sports 1 🇫🇷 France
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/fr/bein-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors - Sky Sport Mix 🇩🇪 Germany
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sky-sport-mix
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors - Sky Sport Top Event 🇩🇪 Germany
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sky-sport-top-event
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors - Sport Tv 1 🇵🇹 Portugal
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pt/sport-tv-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors - Espn 🇳🇱 Netherlands
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/espn
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors - Arena 1 Premium 🇷🇸 Serbia
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/arena-1-premium
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[11:00] NBA - Denver Nuggets vs Golden State Warriors - Sport 5 🇮🇱 Israel
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[07:00] NBA - Portland Trail Blazers vs Washington Wizards
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/il/sport-5
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png" group-title="Friendly",[11:50] Friendly - Cape Verde Islands vs Finland *FIFA Series
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[07:00] NBA - Toronto Raptors vs Orlando Magic
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tsn+4&code=ca&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/tnt-sports-7
+http://cdnlivetv.168.us.kg/live/ca/tsn-4
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[07:30] Brasileirão - Athletico-PR vs Botafogo
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/de/sportdigital-fussball
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/msg.png" group-title="NHL",[08:00] NHL - Chicago Blackhawks vs New Jersey Devils - Msg 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=msg&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/msg
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-network.svg" group-title="NHL",[08:00] NHL - Chicago Blackhawks vs New Jersey Devils - Nhl Network 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=nhl+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/nhl-network
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[08:20] Primera A - Deportivo Pasto vs Atlético Nacional
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/co/win-futbol
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks - Bein Sports Mena 1 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/bein-sports-mena-1
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-action.svg" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks - Sky Sports Action 🇬🇧 UK
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/gb/sky-sports-action
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks - Supersport Grandstand 🇿🇦 South Africa
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/za/supersport-grandstand
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks - Supersport Action 🇿🇦 South Africa
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/za/supersport-action
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks - Bein Sports 1 🇫🇷 France
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/fr/bein-sports-1
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks - Sky Sport Mix 🇩🇪 Germany
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/de/sky-sport-mix
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks - Sky Sport Top Event 🇩🇪 Germany
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/de/sky-sport-top-event
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks - Espn 🇳🇱 Netherlands
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/nl/espn
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks - Arena 1 Premium 🇷🇸 Serbia
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/rs/arena-1-premium
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-plus.png" group-title="NBA",[08:30] NBA - Oklahoma City Thunder vs New York Knicks - Sport 5 Plus 🇮🇱 Israel
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/il/sport-5-plus
