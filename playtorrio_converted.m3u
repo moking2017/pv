@@ -1,277 +1,133 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-03-30 16:54:53
+# PlayTorrio Sports Events - 2026-03-30 18:58:18
 # Total Events: 21
-# Live Events: 5
+# Live Events: 3
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[23:00] Cricket - undefined vs undefined 🔴 - Willow Cricket 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/rai-sport.webp" group-title="Serie C",[03:30] Serie C - Arezzo vs Ascoli 🔴
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=rai+sport&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/willow-cricket
+http://cdnlivetv.168.us.kg/live/it/rai-sport
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[23:00] Cricket - undefined vs undefined 🔴 - Willow 2 Cricket 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-arena.svg" group-title="Serie C",[03:30] Serie C - Casertana vs Sorrento 🔴
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+arena&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/willow-2-cricket
+http://cdnlivetv.168.us.kg/live/it/sky-sport-arena
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-cricket.svg" group-title="Cricket",[23:00] Cricket - undefined vs undefined 🔴 - Fox Cricket 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Fox Sports 1 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-cricket
+http://cdnlivetv.168.us.kg/live/us/fox-sports-1
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-cricket.webp" group-title="Cricket",[23:00] Cricket - undefined vs undefined 🔴 - Astro Cricket 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/astro-cricket
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg" group-title="Cricket",[23:00] Cricket - undefined vs undefined 🔴 - Sky Sports Cricket 🇬🇧 UK
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-cricket
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Cricket",[23:00] Cricket - undefined vs undefined 🔴 - Sky Sports Main Event 🇬🇧 UK
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-main-event
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Cricket",[23:00] Cricket - undefined vs undefined 🔴 - Sky Sport 1 🇳🇿 New Zealand
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[23:00] Cricket - undefined vs undefined 🔴 - Supersport Cricket 🇿🇦 South Africa
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/za/supersport-cricket
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tennis-channel.png" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Tennis Channel 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tennis+channel&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/tennis-channel
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Bein Sports 2 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/bein-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Bein Sports 1 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/bein-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Bein Sports 3 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/bein-sports-3
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Sky Sports Arena 🇬🇧 UK
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-arena
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-tennis.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Sky Sports Tennis 🇬🇧 UK
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+tennis&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-tennis
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-1.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Bein Sports 1 🇦🇺 Australia
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/au/bein-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-2.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Bein Sports 2 🇦🇺 Australia
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/au/bein-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-2.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Bein Sports 2 🇫🇷 France
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/fr/bein-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Movistar Deportes 1 🇪🇸 Spain
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=movistar+deportes+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/movistar-deportes-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-2.webp" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Movistar Deportes 2 🇪🇸 Spain
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=movistar+deportes+2&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/movistar-deportes-2
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-3.webp" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Movistar Deportes 3 🇪🇸 Spain
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=movistar+deportes+3&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/movistar-deportes-3
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Movistar Deportes 4 🇪🇸 Spain
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=movistar+deportes+4&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/movistar-deportes-4
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Sky Sport Tennis 🇮🇹 Italy
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+tennis&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/it/sky-sport-tennis
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-tennis.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Sky Sport Tennis 🇩🇪 Germany
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+tennis&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sky-sport-tennis
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Ziggo Sport 1 🇳🇱 Netherlands
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-4.png" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Ziggo Sport 4 🇳🇱 Netherlands
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=ziggo+sport+4&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-4
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5.png" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Ziggo Sport 5 🇳🇱 Netherlands
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=ziggo+sport+5&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-5
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Max Sport 1 🇧🇬 Bulgaria
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=max+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/bg/max-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Max Sport 2 🇧🇬 Bulgaria
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/bg/max-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-2.png.webp" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Sport Klub 2 🇷🇸 Serbia
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/sport-klub-2
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Tennis",[00:00] Tennis - undefined vs undefined 🔴 - Sport Klub 4 🇷🇸 Serbia
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/sport-klub-4
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova 🔴 - Fox Sports 2 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova 🔴 - Bein Sports Mena 1 🇺🇸 USA
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Bein Sports Mena 1 🇺🇸 USA
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/bein-sports-mena-1
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova 🔴 - Sky Sport 2 🇳🇿 New Zealand
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Sky Sport 1 🇳🇿 New Zealand
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-2
+http://cdnlivetv.168.us.kg/live/nz/sky-sport-1
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova 🔴 - Dazn 2 🇩🇪 Germany
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/l-equipe.webp" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - L Equipe 🇫🇷 France
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=l+equipe&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/dazn-2
+http://cdnlivetv.168.us.kg/live/fr/l-equipe
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova 🔴 - Sport Tv 2 🇵🇹 Portugal
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/das-erste.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Das Erste 🇩🇪 Germany
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=das+erste&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pt/sport-tv-2
+http://cdnlivetv.168.us.kg/live/de/das-erste
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-start.png" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova 🔴 - Nova Sports Start 🇬🇷 Greece
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Sport Tv 1 🇵🇹 Portugal
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gr/nova-sports-start
+http://cdnlivetv.168.us.kg/live/pt/sport-tv-1
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv2-sports-x.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova 🔴 - Tv2 Sport X 🇩🇰 Denmark
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-prime.png" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Nova Sports Prime 🇬🇷 Greece
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/gr/nova-sports-prime
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv2-sports-x.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Tv2 Sport X 🇩🇰 Denmark
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/dk/tv2-sport-x
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova 🔴 - Polsat Sport 2 🇵🇱 Poland
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Tvp Sport 🇵🇱 Poland
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/polsat-sport-2
+http://cdnlivetv.168.us.kg/live/pl/tvp-sport
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/sportv-3.png" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova 🔴 - Sportv 3 🇧🇷 Brazil
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sportv+3&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Polsat Sport 🇵🇱 Poland
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/br/sportv-3
+http://cdnlivetv.168.us.kg/live/pl/polsat-sport
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-3.png" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova 🔴 - Digi Sport 3 🇷🇴 Romania
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-3.png" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Diema Sport 3 🇧🇬 Bulgaria
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ro/digi-sport-3
+http://cdnlivetv.168.us.kg/live/bg/diema-sport-3
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-1.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova 🔴 - Prima Sport 1 🇷🇴 Romania
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Arena 2 Premium 🇷🇸 Serbia
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/rs/arena-2-premium
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Sport Klub 1 🇷🇸 Serbia
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/rs/sport-klub-1
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/sportv-1.png" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Sportv 1 🇧🇷 Brazil
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/br/sportv-1
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Espn 🇦🇷 Argentina
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/ar/espn
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Digi Sport 1 🇷🇴 Romania
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/ro/digi-sport-1
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-1.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Prima Sport 1 🇷🇴 Romania
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ro/prima-sport-1
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova 🔴 - Bein Sports 2 🇸🇦 Saudi Arabia
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-2.png" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Sport 2 🇮🇱 Israel
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/sa/bein-sports-2
+http://cdnlivetv.168.us.kg/live/il/sport-2
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/tve-la-1.webp" group-title="Friendly",[01:00] Friendly - Spain vs Egypt 🔴 - Tve La 1 🇪🇸 Spain
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tve+la+1&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-1.webp" group-title="Friendly",[03:45] Friendly - Germany vs Ghana 🔴 - Bein Sports 1 🇸🇦 Saudi Arabia
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/tve-la-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/egypt/on-time-sport.webp" group-title="Friendly",[01:00] Friendly - Spain vs Egypt 🔴 - On Time Sports 🇪🇬 Egypt
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=on+time+sports&code=eg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/eg/on-time-sports
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="FNL",[01:30] FNL - Torpedo Moskva vs SKA Khabarovsk 🔴
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ru/match-premier
+http://cdnlivetv.168.us.kg/live/sa/bein-sports-1
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-live.png" group-title="Liga Leumit",[22:30] Liga Leumit - Maccabi Herzliya vs Hapoel Hadera
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
@@ -285,6 +141,54 @@ http://cdnlivetv.168.us.kg/live/il/sport-5-live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/il/sport-5-stars
 
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[23:00] Cricket - undefined vs undefined - Willow Cricket 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/willow-cricket
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[23:00] Cricket - undefined vs undefined - Willow 2 Cricket 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/willow-2-cricket
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-cricket.svg" group-title="Cricket",[23:00] Cricket - undefined vs undefined - Fox Cricket 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/fox-cricket
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-cricket.webp" group-title="Cricket",[23:00] Cricket - undefined vs undefined - Astro Cricket 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/astro-cricket
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg" group-title="Cricket",[23:00] Cricket - undefined vs undefined - Sky Sports Cricket 🇬🇧 UK
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/gb/sky-sports-cricket
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Cricket",[23:00] Cricket - undefined vs undefined - Sky Sports Main Event 🇬🇧 UK
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/gb/sky-sports-main-event
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Cricket",[23:00] Cricket - undefined vs undefined - Sky Sport 1 🇳🇿 New Zealand
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/nz/sky-sport-1
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[23:00] Cricket - undefined vs undefined - Supersport Cricket 🇿🇦 South Africa
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/za/supersport-cricket
+
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.svg" group-title="Friendly",[00:00] Friendly - Azerbaijan vs Sierra Leone *FIFA Series - Fox Soccer Plus 🇺🇸 USA
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
@@ -297,131 +201,227 @@ http://cdnlivetv.168.us.kg/live/us/fox-soccer-plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/rs/sport-klub-3
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/rai-sport.webp" group-title="Serie C",[03:30] Serie C - Arezzo vs Ascoli
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=rai+sport&code=it&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tennis-channel.png" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Tennis Channel 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tennis+channel&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/it/rai-sport
+http://cdnlivetv.168.us.kg/live/us/tennis-channel
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-arena.svg" group-title="Serie C",[03:30] Serie C - Casertana vs Sorrento
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+arena&code=it&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Bein Sports 2 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/it/sky-sport-arena
+http://cdnlivetv.168.us.kg/live/us/bein-sports-2
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Fox Sports 1 🇺🇸 USA
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Bein Sports 1 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-sports-1
+http://cdnlivetv.168.us.kg/live/us/bein-sports-1
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Bein Sports Mena 1 🇺🇸 USA
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Bein Sports 3 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/bein-sports-3
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Sky Sports Arena 🇬🇧 UK
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/gb/sky-sports-arena
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-tennis.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Sky Sports Tennis 🇬🇧 UK
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+tennis&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/gb/sky-sports-tennis
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-1.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Bein Sports 1 🇦🇺 Australia
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/au/bein-sports-1
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/bein-sports-2.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Bein Sports 2 🇦🇺 Australia
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/au/bein-sports-2
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-2.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Bein Sports 2 🇫🇷 France
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/fr/bein-sports-2
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Movistar Deportes 1 🇪🇸 Spain
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=movistar+deportes+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/es/movistar-deportes-1
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-2.webp" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Movistar Deportes 2 🇪🇸 Spain
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=movistar+deportes+2&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/es/movistar-deportes-2
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-3.webp" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Movistar Deportes 3 🇪🇸 Spain
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=movistar+deportes+3&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/es/movistar-deportes-3
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Movistar Deportes 4 🇪🇸 Spain
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=movistar+deportes+4&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/es/movistar-deportes-4
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Sky Sport Tennis 🇮🇹 Italy
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+tennis&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/it/sky-sport-tennis
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-tennis.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Sky Sport Tennis 🇩🇪 Germany
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+tennis&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/de/sky-sport-tennis
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Ziggo Sport 1 🇳🇱 Netherlands
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-1
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-4.png" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Ziggo Sport 4 🇳🇱 Netherlands
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=ziggo+sport+4&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-4
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5.png" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Ziggo Sport 5 🇳🇱 Netherlands
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=ziggo+sport+5&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-5
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Max Sport 1 🇧🇬 Bulgaria
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=max+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/bg/max-sport-1
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Max Sport 2 🇧🇬 Bulgaria
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/bg/max-sport-2
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-2.png.webp" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Sport Klub 2 🇷🇸 Serbia
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/rs/sport-klub-2
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Tennis",[00:00] Tennis - undefined vs undefined - Sport Klub 4 🇷🇸 Serbia
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/rs/sport-klub-4
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova - Fox Sports 2 🇺🇸 USA
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/fox-sports-2
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova - Bein Sports Mena 1 🇺🇸 USA
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/bein-sports-mena-1
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Sky Sport 1 🇳🇿 New Zealand
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova - Sky Sport 2 🇳🇿 New Zealand
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-1
+http://cdnlivetv.168.us.kg/live/nz/sky-sport-2
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/l-equipe.webp" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - L Equipe 🇫🇷 France
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=l+equipe&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova - Dazn 2 🇩🇪 Germany
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/fr/l-equipe
+http://cdnlivetv.168.us.kg/live/de/dazn-2
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/das-erste.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Das Erste 🇩🇪 Germany
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=das+erste&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova - Sport Tv 2 🇵🇹 Portugal
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/das-erste
+http://cdnlivetv.168.us.kg/live/pt/sport-tv-2
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Sport Tv 1 🇵🇹 Portugal
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-start.png" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova - Nova Sports Start 🇬🇷 Greece
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pt/sport-tv-1
+http://cdnlivetv.168.us.kg/live/gr/nova-sports-start
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-prime.png" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Nova Sports Prime 🇬🇷 Greece
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gr/nova-sports-prime
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv2-sports-x.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Tv2 Sport X 🇩🇰 Denmark
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv2-sports-x.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova - Tv2 Sport X 🇩🇰 Denmark
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/dk/tv2-sport-x
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Tvp Sport 🇵🇱 Poland
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova - Polsat Sport 2 🇵🇱 Poland
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/tvp-sport
+http://cdnlivetv.168.us.kg/live/pl/polsat-sport-2
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Polsat Sport 🇵🇱 Poland
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/sportv-3.png" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova - Sportv 3 🇧🇷 Brazil
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sportv+3&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/polsat-sport
+http://cdnlivetv.168.us.kg/live/br/sportv-3
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-3.png" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Diema Sport 3 🇧🇬 Bulgaria
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-3.png" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova - Digi Sport 3 🇷🇴 Romania
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/bg/diema-sport-3
+http://cdnlivetv.168.us.kg/live/ro/digi-sport-3
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Arena 2 Premium 🇷🇸 Serbia
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/arena-2-premium
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Sport Klub 1 🇷🇸 Serbia
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/sport-klub-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/sportv-1.png" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Sportv 1 🇧🇷 Brazil
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/br/sportv-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Espn 🇦🇷 Argentina
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ar/espn
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Digi Sport 1 🇷🇴 Romania
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ro/digi-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-1.svg" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Prima Sport 1 🇷🇴 Romania
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-1.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova - Prima Sport 1 🇷🇴 Romania
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ro/prima-sport-1
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-2.png" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Sport 2 🇮🇱 Israel
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="Friendly",[01:00] Friendly - Cyprus vs Moldova - Bein Sports 2 🇸🇦 Saudi Arabia
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-2
+http://cdnlivetv.168.us.kg/live/sa/bein-sports-2
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-1.webp" group-title="Friendly",[03:45] Friendly - Germany vs Ghana - Bein Sports 1 🇸🇦 Saudi Arabia
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/tve-la-1.webp" group-title="Friendly",[01:00] Friendly - Spain vs Egypt - Tve La 1 🇪🇸 Spain
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tve+la+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/sa/bein-sports-1
+http://cdnlivetv.168.us.kg/live/es/tve-la-1
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/egypt/on-time-sport.webp" group-title="Friendly",[01:00] Friendly - Spain vs Egypt - On Time Sports 🇪🇬 Egypt
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=on+time+sports&code=eg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/eg/on-time-sports
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="FNL",[01:30] FNL - Torpedo Moskva vs SKA Khabarovsk
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/ru/match-premier
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[08:00] NBA - Miami Heat vs Philadelphia 76ers - Bein Sports Mena 1 🇺🇸 USA
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
