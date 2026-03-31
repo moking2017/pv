@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 http://192.168.2.139:8090/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb39ab9672f6e7ff07c08f0bd05385a3-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Los Angeles Dodgers
-http://192.168.2.139:8090/stream?uri=mlb/2026-03-30/cle-lad
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f68988d3dcaf40ee1e37de77391d0bea-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Arizona Diamondbacks
-http://192.168.2.139:8090/stream?uri=mlb/2026-03-30/det-ari
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9271869ff1f1c4b8f99b8581de7835e3-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Baltimore Orioles
 http://192.168.2.139:8090/stream?uri=mlb/2026-03-31/tex-bal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3cc942a8fd5832e95d02814e3d757abc-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Miami Marlins
