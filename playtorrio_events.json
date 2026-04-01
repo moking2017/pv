@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-01T20:00:36.067580",
-  "total_events": 31,
-  "live_events": 5,
+  "generated_at": "2026-04-01T20:57:14.302408",
+  "total_events": 28,
+  "live_events": 3,
   "events": [
     {
       "title": "Racing Santander vs Sporting Gijón",
@@ -163,6 +163,30 @@
           "country": "🇸🇪 Sweden",
           "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/sweden/tv4-football.png",
           "url": "https://cdn-live.tv/api/v1/channels/player/?name=tv4+football&code=se&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Alianza vs Deportivo Pasto",
+      "league": "Primera A",
+      "time": "23:10",
+      "timestamp": 1775077800000,
+      "logo": "https://api.cdn-live.tv/api/v1/team/images/504899.png",
+      "sources": [
+        {
+          "name": "Win Futbol 🇨🇴 Colombia",
+          "channel": "Win Futbol",
+          "country": "🇨🇴 Colombia",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free"
+        },
+        {
+          "name": "Win Futbol 🇨🇴 Colombia",
+          "channel": "Win Futbol",
+          "country": "🇨🇴 Colombia",
+          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp",
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=ntvstream&plan=free"
         }
       ],
       "live": true
@@ -444,23 +468,6 @@
           "country": "🇸🇦 Saudi Arabia",
           "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp",
           "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free"
-        }
-      ],
-      "live": false
-    },
-    {
-      "title": "Alianza vs Deportivo Pasto",
-      "league": "Primera A",
-      "time": "23:10",
-      "timestamp": 1775077800000,
-      "logo": "https://api.cdn-live.tv/api/v1/team/images/504899.png",
-      "sources": [
-        {
-          "name": "Win Futbol 🇨🇴 Colombia",
-          "channel": "Win Futbol",
-          "country": "🇨🇴 Colombia",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free"
         }
       ],
       "live": false
@@ -1168,99 +1175,6 @@
           "country": "🇮🇹 Italy",
           "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/italy/euro-sport-2.png",
           "url": "https://cdn-live.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=ntvstream&plan=free"
-        }
-      ],
-      "live": true
-    },
-    {
-      "title": "Champions League : Unicaja Malaga vs Alba Berlin",
-      "league": "Basketball",
-      "time": "20:30",
-      "timestamp": 1775068200000,
-      "logo": "https://iptv.playtorrio.xyz/logo.ico",
-      "sources": [
-        {
-          "name": "Sport TV 3 🇵🇹 Portugal",
-          "channel": "Sport TV 3",
-          "country": "🇵🇹 Portugal",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-3.svg",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Arena 3 Premium 🇷🇸 Serbia",
-          "channel": "Arena 3 Premium",
-          "country": "🇷🇸 Serbia",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Arena Sport 3 🇭🇷 Croatia",
-          "channel": "Arena Sport 3",
-          "country": "🇭🇷 Croatia",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Nova Sport 2 🇨🇿 Czech Republic",
-          "channel": "Nova Sport 2",
-          "country": "🇨🇿 Czech Republic",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-2.png",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nova+sport+2&code=cz&user=ntvstream&plan=free"
-        }
-      ],
-      "live": true
-    },
-    {
-      "title": "ACB : Baskonia Vitoria-Gasteiz vs. Zaragoza",
-      "league": "Basketball",
-      "time": "20:30",
-      "timestamp": 1775068200000,
-      "logo": "https://iptv.playtorrio.xyz/logo.ico",
-      "sources": [
-        {
-          "name": "Nova Sport 🇧🇬 Bulgaria",
-          "channel": "Nova Sport",
-          "country": "🇧🇬 Bulgaria",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/nova-sport.png",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nova+sport&code=bg&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Sport Klub 1 🇷🇸 Serbia",
-          "channel": "Sport Klub 1",
-          "country": "🇷🇸 Serbia",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=ntvstream&plan=free"
-        }
-      ],
-      "live": true
-    },
-    {
-      "title": "Champions League : Tenerife vs Galatasaray",
-      "league": "Basketball",
-      "time": "21:00",
-      "timestamp": 1775070000000,
-      "logo": "https://iptv.playtorrio.xyz/logo.ico",
-      "sources": [
-        {
-          "name": "Cosmote Sport 5 🇬🇷 Greece",
-          "channel": "Cosmote Sport 5",
-          "country": "🇬🇷 Greece",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=cosmote+sport+5&code=gr&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Arena 1 Premium 🇷🇸 Serbia",
-          "channel": "Arena 1 Premium",
-          "country": "🇷🇸 Serbia",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Nova Sport 1 🇨🇿 Czech Republic",
-          "channel": "Nova Sport 1",
-          "country": "🇨🇿 Czech Republic",
-          "logo": "https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-1.png",
-          "url": "https://cdn-live.tv/api/v1/channels/player/?name=nova+sport+1&code=cz&user=ntvstream&plan=free"
         }
       ],
       "live": true
