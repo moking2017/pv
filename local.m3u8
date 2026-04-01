@@ -1,34 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-04-01 20:00:36
-# Total Events: 31
-# Live Events: 5
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-3.svg" group-title="Basketball",[20:30] Basketball - Champions League : Unicaja Malaga vs Alba Berlin 🔴 - Sport TV 3 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+3&code=pt&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp" group-title="Basketball",[20:30] Basketball - Champions League : Unicaja Malaga vs Alba Berlin 🔴 - Arena 3 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+3+premium&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp" group-title="Basketball",[20:30] Basketball - Champions League : Unicaja Malaga vs Alba Berlin 🔴 - Arena Sport 3 🇭🇷 Croatia
-http://192.168.2.139:8383/play?name=arena+sport+3&code=hr&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-2.png" group-title="Basketball",[20:30] Basketball - Champions League : Unicaja Malaga vs Alba Berlin 🔴 - Nova Sport 2 🇨🇿 Czech Republic
-http://192.168.2.139:8383/play?name=nova+sport+2&code=cz&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/nova-sport.png" group-title="Basketball",[20:30] Basketball - ACB : Baskonia Vitoria-Gasteiz vs. Zaragoza 🔴 - Nova Sport 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=nova+sport&code=bg&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Basketball",[20:30] Basketball - ACB : Baskonia Vitoria-Gasteiz vs. Zaragoza 🔴 - Sport Klub 1 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp" group-title="Basketball",[21:00] Basketball - Champions League : Tenerife vs Galatasaray 🔴 - Cosmote Sport 5 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+5&code=gr&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Basketball",[21:00] Basketball - Champions League : Tenerife vs Galatasaray 🔴 - Arena 1 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-1.png" group-title="Basketball",[21:00] Basketball - Champions League : Tenerife vs Galatasaray 🔴 - Nova Sport 1 🇨🇿 Czech Republic
-http://192.168.2.139:8383/play?name=nova+sport+1&code=cz&user=ntvstream&plan=free
+# PlayTorrio Sports Events - 2026-04-01 20:57:14
+# Total Events: 28
+# Live Events: 3
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Segunda Division",[21:30] Segunda Division - Racing Santander vs Sporting Gijón 🔴 - Bein Sports 2 🇺🇸 USA
 http://192.168.2.139:8383/play?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
@@ -107,6 +80,12 @@ http://192.168.2.139:8383/play?name=euro+sport+2&code=es&user=ntvstream&plan=fre
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/euro-sport-2.png" group-title="WinterSports",[22:00] WinterSports - Men's World Curling Championship : Sweden vs Germany 🔴 - Euro Sport 2 🇮🇹 Italy
 http://192.168.2.139:8383/play?name=euro+sport+2&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[23:10] Primera A - Alianza vs Deportivo Pasto 🔴 - Win Futbol 🇨🇴 Colombia
+http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[23:10] Primera A - Alianza vs Deportivo Pasto 🔴 - Win Futbol 🇨🇴 Colombia
+http://192.168.2.139:8383/play?name=win+futbol&code=co&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[16:00] Cricket - undefined vs undefined - Willow Cricket 🇺🇸 USA
 http://192.168.2.139:8383/play?name=willow+cricket&code=us&user=cdnlivetv&plan=free
@@ -206,9 +185,6 @@ http://192.168.2.139:8383/play?name=bein+sports+xtra&code=es&user=cdnlivetv&plan
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="Segunda Division",[20:00] Segunda Division - Huesca vs Cultural Leonesa
 http://192.168.2.139:8383/play?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[23:10] Primera A - Alianza vs Deportivo Pasto
-http://192.168.2.139:8383/play?name=win+futbol&code=co&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="Brasileirão",[00:30] Brasileirão - Internacional vs São Paulo - M Liga De Campeones 1 🇪🇸 Spain
 http://192.168.2.139:8383/play?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
