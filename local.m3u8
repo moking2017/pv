@@ -1,73 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-04-01 15:03:24
-# Total Events: 36
-# Live Events: 11
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[16:00] Cricket - undefined vs undefined 🔴 - Willow Cricket 🇺🇸 USA
-http://192.168.2.139:8383/play?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[16:00] Cricket - undefined vs undefined 🔴 - Willow 2 Cricket 🇺🇸 USA
-http://192.168.2.139:8383/play?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-cricket.svg" group-title="Cricket",[16:00] Cricket - undefined vs undefined 🔴 - Fox Cricket 🇺🇸 USA
-http://192.168.2.139:8383/play?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-cricket.webp" group-title="Cricket",[16:00] Cricket - undefined vs undefined 🔴 - Astro Cricket 🇺🇸 USA
-http://192.168.2.139:8383/play?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg" group-title="Cricket",[16:00] Cricket - undefined vs undefined 🔴 - Sky Sports Cricket 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Cricket",[16:00] Cricket - undefined vs undefined 🔴 - Sky Sports Main Event 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Cricket",[16:00] Cricket - undefined vs undefined 🔴 - Sky Sport 1 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[16:00] Cricket - undefined vs undefined 🔴 - Supersport Cricket 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[16:00] Cricket - Indian Premier League : Lucknow Super Giants vs Delhi Capitals 🔴 - Willow Cricket 🇺🇸 USA
-http://192.168.2.139:8383/play?name=willow+cricket&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[16:00] Cricket - Indian Premier League : Lucknow Super Giants vs Delhi Capitals 🔴 - Willow 2 Cricket 🇺🇸 USA
-http://192.168.2.139:8383/play?name=willow+2+cricket&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-cricket.svg" group-title="Cricket",[16:00] Cricket - Indian Premier League : Lucknow Super Giants vs Delhi Capitals 🔴 - Fox Cricket 🇺🇸 USA
-http://192.168.2.139:8383/play?name=fox+cricket&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-cricket.webp" group-title="Cricket",[16:00] Cricket - Indian Premier League : Lucknow Super Giants vs Delhi Capitals 🔴 - Astro Cricket 🇺🇸 USA
-http://192.168.2.139:8383/play?name=astro+cricket&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg" group-title="Cricket",[16:00] Cricket - Indian Premier League : Lucknow Super Giants vs Delhi Capitals 🔴 - Sky Sports Cricket 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+cricket&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Cricket",[16:00] Cricket - Indian Premier League : Lucknow Super Giants vs Delhi Capitals 🔴 - Sky Sports Main Event 🇬🇧 UK
-http://192.168.2.139:8383/play?name=sky+sports+main+event&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Cricket",[16:00] Cricket - Indian Premier League : Lucknow Super Giants vs Delhi Capitals 🔴 - Sky Sport 1 🇳🇿 New Zealand
-http://192.168.2.139:8383/play?name=sky+sport+1&code=nz&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[16:00] Cricket - Indian Premier League : Lucknow Super Giants vs Delhi Capitals 🔴 - SuperSport Cricket 🇿🇦 South Africa
-http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-3.svg" group-title="WinterSports",[16:00] WinterSports - Men's World Curling Championship : Poland vs. USA 🔴
-http://192.168.2.139:8383/play?name=polsat+sport+3&code=pl&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nba-tv.svg" group-title="Basketball",[16:00] Basketball - Basketball African League : Petro Atletico vs Nairobi City Thunder 🔴
-http://192.168.2.139:8383/play?name=nba+tv&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="Cycling",[16:15] Cycling - pm - UCI Women's WorldTour Cycling - Dwars door Vlaanderen 🔴
-http://192.168.2.139:8383/play?name=tnt+sports+1&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-1.svg" group-title="WinterSports",[17:00] WinterSports - Men's World Curling Championship : Canada vs. Switzerland 🔴 - TSN 1 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+1&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-3.svg" group-title="WinterSports",[17:00] WinterSports - Men's World Curling Championship : Canada vs. Switzerland 🔴 - TSN 3 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+3&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="WinterSports",[17:00] WinterSports - Men's World Curling Championship : Canada vs. Switzerland 🔴 - Polsat Sport 2 🇵🇱 Poland
-http://192.168.2.139:8383/play?name=polsat+sport+2&code=pl&user=ntvstream&plan=free
+# PlayTorrio Sports Events - 2026-04-01 17:50:30
+# Total Events: 41
+# Live Events: 18
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tennis-channel.png" group-title="Tennis",[18:00] Tennis - undefined vs undefined 🔴 - Tennis Channel 🇺🇸 USA
 http://192.168.2.139:8383/play?name=tennis+channel&code=us&user=cdnlivetv&plan=free
@@ -195,32 +129,176 @@ http://192.168.2.139:8383/play?name=sport+klub+2&code=rs&user=ntvstream&plan=fre
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Tennis",[18:00] Tennis - 2026 Charleston Open Tennis Early Rounds 🔴 - Sport Klub 4 🇷🇸 Serbia
 http://192.168.2.139:8383/play?name=sport+klub+4&code=rs&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="Volleyball",[18:00] Volleyball - Champions League : Lkps Lublin vs. Projekt Warsaw 🔴 - Polsat Sport 🇵🇱 Poland
-http://192.168.2.139:8383/play?name=polsat+sport&code=pl&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Volleyball",[18:00] Volleyball - Champions League : Lkps Lublin vs. Projekt Warsaw 🔴 - Max Sport 2 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-2.png" group-title="Basketball",[18:00] Basketball - Czech Republic, ZBL : DSK Levharti Chomutov vs. SBS Ostrava (W) 🔴
-http://192.168.2.139:8383/play?name=nova+sport+2&code=cz&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-2.webp" group-title="Basketball",[18:00] Basketball - ABA League : Ilirija vs Split 🔴 - Arena Sport 2 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+sport+2&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="Basketball",[18:00] Basketball - ABA League : Ilirija vs Split 🔴 - Arena Sport 1 🇭🇷 Croatia
-http://192.168.2.139:8383/play?name=arena+sport+1&code=hr&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="FNL",[18:30] FNL - Neftekhimik vs Fakel
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="FNL",[18:30] FNL - Neftekhimik vs Fakel 🔴 - Match Premier 🇷🇺 Russia
 http://192.168.2.139:8383/play?name=match+premier&code=ru&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/laliga-tv-hypermotion.svg" group-title="Segunda Division",[19:00] Segunda Division - FC Andorra vs Málaga - Laliga Tv Hypermotion 1 🇪🇸 Spain
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg" group-title="FNL",[18:30] FNL - Neftekhimik vs Fakel 🔴 - Match Premier 🇷🇺 Russia
+http://192.168.2.139:8383/play?name=match+premier&code=ru&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp" group-title="Basketball",[18:30] Basketball - Champions League : AEK Athens vs Joventut Badalona 🔴 - Cosmote Sport 4 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+4&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp" group-title="Basketball",[18:30] Basketball - Champions League : AEK Athens vs Joventut Badalona 🔴 - Arena 3 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+3+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp" group-title="Basketball",[18:30] Basketball - Champions League : AEK Athens vs Joventut Badalona 🔴 - Arena Sport 3 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+3&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-4.png" group-title="Basketball",[18:30] Basketball - Champions League : AEK Athens vs Joventut Badalona 🔴 - Nova Sport 4 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=nova+sport+4&code=cz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-3.webp" group-title="Basketball",[18:30] Basketball - Champions League : Lietuvos Rytas vs Nymburk 🔴 - Arena Sport 3 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+3&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-4.webp" group-title="Basketball",[18:30] Basketball - Champions League : Lietuvos Rytas vs Nymburk 🔴 - Arena Sport 4 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+4&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-1.png" group-title="Basketball",[18:30] Basketball - Champions League : Lietuvos Rytas vs Nymburk 🔴 - Nova Sport 1 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=nova+sport+1&code=cz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/laliga-tv-hypermotion.svg" group-title="Segunda Division",[19:00] Segunda Division - FC Andorra vs Málaga 🔴 - Laliga Tv Hypermotion 1 🇪🇸 Spain
 http://192.168.2.139:8383/play?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-xtra.webp" group-title="Segunda Division",[19:00] Segunda Division - FC Andorra vs Málaga - Bein Sports Xtra 🇪🇸 Spain
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-xtra.webp" group-title="Segunda Division",[19:00] Segunda Division - FC Andorra vs Málaga 🔴 - Bein Sports Xtra 🇪🇸 Spain
 http://192.168.2.139:8383/play?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="Segunda Division",[20:00] Segunda Division - Huesca vs Cultural Leonesa
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/laliga-tv-hypermotion.svg" group-title="Segunda Division",[19:00] Segunda Division - FC Andorra vs Málaga 🔴 - LaLiga TV Hypermotion 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=laliga+tv+hypermotion+1&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-xtra.webp" group-title="Segunda Division",[19:00] Segunda Division - FC Andorra vs Málaga 🔴 - beIN SPORTS XTRA 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=bein+sports+xtra&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Basketball",[19:00] Basketball - VTB United League : CSKA Moscow vs Enisey 🔴
+http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg" group-title="Basketball",[19:00] Basketball - Euroleague : Bayern vs Fenerbahce 🔴 - Movistar Deportes 1 🇪🇸 Spain
+http://192.168.2.139:8383/play?name=movistar+deportes+1&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-prime.png" group-title="Basketball",[19:00] Basketball - Euroleague : Bayern vs Fenerbahce 🔴 - Nova Sports Prime 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=nova+sports+prime&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg" group-title="Basketball",[19:00] Basketball - Euroleague : Bayern vs Fenerbahce 🔴 - Max Sport 1 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+1&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Basketball",[19:00] Basketball - Euroleague : Bayern vs Fenerbahce 🔴 - Arena 1 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="Basketball",[19:00] Basketball - Euroleague : Bayern vs Fenerbahce 🔴 - Sport Klub 3 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+3&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/oneplay-sports-1.webp" group-title="Basketball",[19:00] Basketball - Euroleague : Bayern vs Fenerbahce 🔴 - Oneplay Sport 1 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=oneplay+sport+1&code=cz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="Basketball",[19:00] Basketball - Euroleague : Bayern vs Fenerbahce 🔴 - Sport 5 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5&code=il&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[19:30] Golf - 2026 Augusta National Women's Amateur First Round 🔴 - GOLF TV 🇺🇸 USA
+http://192.168.2.139:8383/play?name=golf+tv&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-golf.svg" group-title="Golf",[19:30] Golf - 2026 Augusta National Women's Amateur First Round 🔴 - Sky Sports Golf 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+golf&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-3.svg" group-title="Golf",[19:30] Golf - 2026 Augusta National Women's Amateur First Round 🔴 - ESPN 3 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn+3&code=ar&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="Segunda Division",[20:00] Segunda Division - Huesca vs Cultural Leonesa 🔴 - Bein Sports 3 🇸🇦 Saudi Arabia
 http://192.168.2.139:8383/play?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="Segunda Division",[20:00] Segunda Division - Huesca vs Cultural Leonesa 🔴 - beIN SPORTS 3 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+3&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp" group-title="Volleyball",[20:00] Volleyball - CEV Cup, Women : Chieri 76 Volleyball vs. Galatasaray Istanbul 🔴 - Cosmote Sport 8 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+8&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-2.webp" group-title="Volleyball",[20:00] Volleyball - CEV Cup, Women : Chieri 76 Volleyball vs. Galatasaray Istanbul 🔴 - Arena Sport 2 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+sport+2&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/trt-spor.svg" group-title="Volleyball",[20:00] Volleyball - CEV Cup, Women : Chieri 76 Volleyball vs. Galatasaray Istanbul 🔴 - TRT Spor 🇹🇷 Turkey
+http://192.168.2.139:8383/play?name=trt+spor&code=tr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-1.png" group-title="Volleyball",[20:00] Volleyball - CEV Cup, Women : Chieri 76 Volleyball vs. Galatasaray Istanbul 🔴 - Sport 1 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+1&code=il&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="Handball",[20:00] Handball - France LFH Division 1, Women : Brest Bretagne vs Saint-Amand Handball PH 🔴
+http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/dazn-1.png" group-title="Volleyball",[20:30] Volleyball - Champions League : Perugia Umbria Volley vs. Cv Guaguas 🔴 - DAZN 1 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=dazn+1&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-arena.svg" group-title="Volleyball",[20:30] Volleyball - Champions League : Perugia Umbria Volley vs. Cv Guaguas 🔴 - Sky Sport Arena 🇮🇹 Italy
+http://192.168.2.139:8383/play?name=sky+sport+arena&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="Volleyball",[20:30] Volleyball - Champions League : Perugia Umbria Volley vs. Cv Guaguas 🔴 - Polsat Sport 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=polsat+sport&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Volleyball",[20:30] Volleyball - Champions League : Perugia Umbria Volley vs. Cv Guaguas 🔴 - Max Sport 2 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-7.webp" group-title="Volleyball",[20:30] Volleyball - Challenge Cup : Power Volley Milano vs. Lindemans Aalst t 🔴 - Cosmote Sport 7 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+7&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-3.svg" group-title="Volleyball",[20:30] Volleyball - Challenge Cup : Power Volley Milano vs. Lindemans Aalst t 🔴 - Polsat Sport 3 🇵🇱 Poland
+http://192.168.2.139:8383/play?name=polsat+sport+3&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg" group-title="Volleyball",[20:30] Volleyball - Challenge Cup : Power Volley Milano vs. Lindemans Aalst t 🔴 - Max Sport 3 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+3&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-3.svg" group-title="Basketball",[20:30] Basketball - Champions League : Unicaja Malaga vs Alba Berlin 🔴 - Sport TV 3 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+3&code=pt&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp" group-title="Basketball",[20:30] Basketball - Champions League : Unicaja Malaga vs Alba Berlin 🔴 - Arena 3 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+3+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp" group-title="Basketball",[20:30] Basketball - Champions League : Unicaja Malaga vs Alba Berlin 🔴 - Arena Sport 3 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+3&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/czech-republic/nova-sports-2.png" group-title="Basketball",[20:30] Basketball - Champions League : Unicaja Malaga vs Alba Berlin 🔴 - Nova Sport 2 🇨🇿 Czech Republic
+http://192.168.2.139:8383/play?name=nova+sport+2&code=cz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/nova-sport.png" group-title="Basketball",[20:30] Basketball - ACB : Baskonia Vitoria-Gasteiz vs. Zaragoza 🔴 - Nova Sport 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=nova+sport&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Basketball",[20:30] Basketball - ACB : Baskonia Vitoria-Gasteiz vs. Zaragoza 🔴 - Sport Klub 1 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=sport+klub+1&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv2-sport.svg" group-title="Handball",[20:30] Handball - Bambusa Kvindeligaen : Horsens W vs Esbjerg W 🔴
+http://192.168.2.139:8383/play?name=tv2+sport&code=dk&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/dr-2.svg" group-title="Handball",[20:45] Handball - Champions League : GOG Handbold vs. HBC Nantes 🔴 - DR2 🇩🇰 Denmark
+http://192.168.2.139:8383/play?name=dr2&code=dk&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-2.webp" group-title="Handball",[20:45] Handball - Champions League : GOG Handbold vs. HBC Nantes 🔴 - Arena Sport 2 🇭🇷 Croatia
+http://192.168.2.139:8383/play?name=arena+sport+2&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-3.png" group-title="Handball",[20:45] Handball - Champions League : GOG Handbold vs. HBC Nantes 🔴 - Digi Sport 3 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=digi+sport+3&code=ro&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="Handball",[20:45] Handball - Champions League : GOG Handbold vs. HBC Nantes 🔴 - Prima Sport 2 🇷🇴 Romania
+http://192.168.2.139:8383/play?name=prima+sport+2&code=ro&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[16:00] Cricket - undefined vs undefined - Willow Cricket 🇺🇸 USA
+http://192.168.2.139:8383/play?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[16:00] Cricket - undefined vs undefined - Willow 2 Cricket 🇺🇸 USA
+http://192.168.2.139:8383/play?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-cricket.svg" group-title="Cricket",[16:00] Cricket - undefined vs undefined - Fox Cricket 🇺🇸 USA
+http://192.168.2.139:8383/play?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-cricket.webp" group-title="Cricket",[16:00] Cricket - undefined vs undefined - Astro Cricket 🇺🇸 USA
+http://192.168.2.139:8383/play?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg" group-title="Cricket",[16:00] Cricket - undefined vs undefined - Sky Sports Cricket 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Cricket",[16:00] Cricket - undefined vs undefined - Sky Sports Main Event 🇬🇧 UK
+http://192.168.2.139:8383/play?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Cricket",[16:00] Cricket - undefined vs undefined - Sky Sport 1 🇳🇿 New Zealand
+http://192.168.2.139:8383/play?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[16:00] Cricket - undefined vs undefined - Supersport Cricket 🇿🇦 South Africa
+http://192.168.2.139:8383/play?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Segunda Division",[21:30] Segunda Division - Racing Santander vs Sporting Gijón - Bein Sports 2 🇺🇸 USA
 http://192.168.2.139:8383/play?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
