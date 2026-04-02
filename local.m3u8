@@ -1,205 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-04-02 02:09:23
-# Total Events: 25
-# Live Events: 7
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[02:30] Brasileirão - Fluminense vs Corinthians 🔴 - Sportdigital Fussball 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Brasileirão",[02:30] Brasileirão - Fluminense vs Corinthians 🔴 - Arena 2 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[02:30] Brasileirão - Fluminense vs Corinthians 🔴 - SportDigital Fussball 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sportdigital+fussball&code=de&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Brasileirão",[02:30] Brasileirão - Fluminense vs Corinthians 🔴 - Arena 2 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Nhl League Pass 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nhl+league+pass+1&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Viaplay Sports 2 🇬🇧 UK
-http://192.168.2.139:8383/play?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Sportsnet Ontario 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Sportsnet West 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Sportsnet East 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+east&code=ca&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Sky Sport Top Event 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Sky Sport Mix 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-plus.webp" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Tv3 Puls 🇩🇰 Denmark
-http://192.168.2.139:8383/play?name=tv3+puls&code=dk&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-3.svg" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Espn 3 🇧🇷 Brazil
-http://192.168.2.139:8383/play?name=espn+3&code=br&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - NHL League Pass 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nhl+league+pass+1&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Viaplay Sports 2 🇬🇧 UK
-http://192.168.2.139:8383/play?name=viaplay+sports+2&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Sportsnet Ontario 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+ontario&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Sportsnet West 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Sportsnet East 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=sportsnet+east&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Sky Sport Top Event 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - Sky Sport Mix 🇩🇪 Germany
-http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-plus.webp" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - TV3 Puls 🇩🇰 Denmark
-http://192.168.2.139:8383/play?name=tv3+puls&code=dk&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-3.svg" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche 🔴 - ESPN 3 🇧🇷 Brazil
-http://192.168.2.139:8383/play?name=espn+3&code=br&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - St. Louis Blues vs Los Angeles Kings 🔴 - Nhl League Pass 2 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nhl+league+pass+2&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-sport.webp" group-title="NHL",[03:00] NHL - St. Louis Blues vs Los Angeles Kings 🔴 - Tv3 Sport 🇩🇰 Denmark
-http://192.168.2.139:8383/play?name=tv3+sport&code=dk&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - St. Louis Blues vs Los Angeles Kings 🔴 - NHL League Pass 2 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nhl+league+pass+2&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-sport.webp" group-title="NHL",[03:00] NHL - St. Louis Blues vs Los Angeles Kings 🔴 - TV3 Sport 🇩🇰 Denmark
-http://192.168.2.139:8383/play?name=tv3+sport&code=dk&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks 🔴 - Nhl League Pass 3 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nhl+league+pass+3&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks 🔴 - Tnt 🇺🇸 USA
-http://192.168.2.139:8383/play?name=tnt&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks 🔴 - Viaplay Sports 1 🇬🇧 UK
-http://192.168.2.139:8383/play?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks 🔴 - Max Sport 2 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks 🔴 - Sport 5 Stars 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks 🔴 - NHL League Pass 3 🇺🇸 USA
-http://192.168.2.139:8383/play?name=nhl+league+pass+3&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks 🔴 - TNT 🇺🇸 USA
-http://192.168.2.139:8383/play?name=tnt&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks 🔴 - Viaplay Sports 1 🇬🇧 UK
-http://192.168.2.139:8383/play?name=viaplay+sports+1&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks 🔴 - Max Sport 2 🇧🇬 Bulgaria
-http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks 🔴 - Sport 5 Stars 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5+stars&code=il&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-1.svg" group-title="WinterSports",[03:00] WinterSports - Men's World Curling Championship : Czechia vs. Canada 🔴 - TSN 1 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+1&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-3.svg" group-title="WinterSports",[03:00] WinterSports - Men's World Curling Championship : Czechia vs. Canada 🔴 - TSN 3 🇨🇦 Canada
-http://192.168.2.139:8383/play?name=tsn+3&code=ca&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-deportes.svg" group-title="Liga Nacional",[03:30] Liga Nacional - Victoria vs Motagua 🔴 - Fox Deportes 🇺🇸 USA
-http://192.168.2.139:8383/play?name=fox+deportes&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-deportes.svg" group-title="Liga Nacional",[03:30] Liga Nacional - Victoria vs Motagua 🔴 - FOX Deportes 🇺🇸 USA
-http://192.168.2.139:8383/play?name=fox+deportes&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Espn 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Espn Deportes 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Bein Sports Mena 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Bein Sports 1 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Sport Tv 1 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Espn 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=espn&code=nl&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Cosmote Sport 5 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+5&code=gr&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Arena 1 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-2.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Espn 2 🇧🇷 Brazil
-http://192.168.2.139:8383/play?name=espn+2&code=br&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-2.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Espn 2 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn+2&code=ar&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-2.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Espn 2 🇲🇽 Mexico
-http://192.168.2.139:8383/play?name=espn+2&code=mx&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Sport 5 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Bein Sports 8 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - ESPN 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - ESPN Deportes 🇺🇸 USA
-http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - beIN SPORTS MENA 1 🇺🇸 USA
-http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - beIN SPORTS 1 🇫🇷 France
-http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Sport TV 1 🇵🇹 Portugal
-http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - ESPN 🇳🇱 Netherlands
-http://192.168.2.139:8383/play?name=espn&code=nl&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Cosmote Sport 5 🇬🇷 Greece
-http://192.168.2.139:8383/play?name=cosmote+sport+5&code=gr&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Arena 1 Premium 🇷🇸 Serbia
-http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-2.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - ESPN 2 🇧🇷 Brazil
-http://192.168.2.139:8383/play?name=espn+2&code=br&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-2.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - ESPN 2 🇦🇷 Argentina
-http://192.168.2.139:8383/play?name=espn+2&code=ar&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-2.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - ESPN 2 🇲🇽 Mexico
-http://192.168.2.139:8383/play?name=espn+2&code=mx&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - Sport 5 🇮🇱 Israel
-http://192.168.2.139:8383/play?name=sport+5&code=il&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs 🔴 - beIN SPORTS 8 🇸🇦 Saudi Arabia
-http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=ntvstream&plan=free
+# PlayTorrio Sports Events - 2026-04-02 05:01:49
+# Total Events: 24
+# Live Events: 0
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[16:00] Cricket - undefined vs undefined - Willow Cricket 🇺🇸 USA
 http://192.168.2.139:8383/play?name=willow+cricket&code=us&user=cdnlivetv&plan=free
@@ -416,4 +218,100 @@ http://192.168.2.139:8383/play?name=msg&code=us&user=cdnlivetv&plan=free
 
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[02:00] NBA - Toronto Raptors vs Sacramento Kings
 http://192.168.2.139:8383/play?name=tsn+4&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Brasileirão",[02:30] Brasileirão - Fluminense vs Corinthians - Sportdigital Fussball 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Brasileirão",[02:30] Brasileirão - Fluminense vs Corinthians - Arena 2 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche - Nhl League Pass 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nhl+league+pass+1&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche - Viaplay Sports 2 🇬🇧 UK
+http://192.168.2.139:8383/play?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche - Sportsnet Ontario 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche - Sportsnet West 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche - Sportsnet East 🇨🇦 Canada
+http://192.168.2.139:8383/play?name=sportsnet+east&code=ca&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche - Sky Sport Top Event 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche - Sky Sport Mix 🇩🇪 Germany
+http://192.168.2.139:8383/play?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-plus.webp" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche - Tv3 Puls 🇩🇰 Denmark
+http://192.168.2.139:8383/play?name=tv3+puls&code=dk&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-3.svg" group-title="NHL",[02:30] NHL - Vancouver Canucks vs Colorado Avalanche - Espn 3 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=espn+3&code=br&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - St. Louis Blues vs Los Angeles Kings - Nhl League Pass 2 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nhl+league+pass+2&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-sport.webp" group-title="NHL",[03:00] NHL - St. Louis Blues vs Los Angeles Kings - Tv3 Sport 🇩🇰 Denmark
+http://192.168.2.139:8383/play?name=tv3+sport&code=dk&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks - Nhl League Pass 3 🇺🇸 USA
+http://192.168.2.139:8383/play?name=nhl+league+pass+3&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks - Tnt 🇺🇸 USA
+http://192.168.2.139:8383/play?name=tnt&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks - Viaplay Sports 1 🇬🇧 UK
+http://192.168.2.139:8383/play?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks - Max Sport 2 🇧🇬 Bulgaria
+http://192.168.2.139:8383/play?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NHL",[03:00] NHL - Anaheim Ducks vs San Jose Sharks - Sport 5 Stars 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-deportes.svg" group-title="Liga Nacional",[03:30] Liga Nacional - Victoria vs Motagua
+http://192.168.2.139:8383/play?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs - Espn 🇺🇸 USA
+http://192.168.2.139:8383/play?name=espn&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs - Espn Deportes 🇺🇸 USA
+http://192.168.2.139:8383/play?name=espn+deportes&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs - Bein Sports Mena 1 🇺🇸 USA
+http://192.168.2.139:8383/play?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs - Bein Sports 1 🇫🇷 France
+http://192.168.2.139:8383/play?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs - Sport Tv 1 🇵🇹 Portugal
+http://192.168.2.139:8383/play?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs - Espn 🇳🇱 Netherlands
+http://192.168.2.139:8383/play?name=espn&code=nl&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs - Cosmote Sport 5 🇬🇷 Greece
+http://192.168.2.139:8383/play?name=cosmote+sport+5&code=gr&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs - Arena 1 Premium 🇷🇸 Serbia
+http://192.168.2.139:8383/play?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-2.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs - Espn 2 🇧🇷 Brazil
+http://192.168.2.139:8383/play?name=espn+2&code=br&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-2.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs - Espn 2 🇦🇷 Argentina
+http://192.168.2.139:8383/play?name=espn+2&code=ar&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-2.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs - Espn 2 🇲🇽 Mexico
+http://192.168.2.139:8383/play?name=espn+2&code=mx&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs - Sport 5 🇮🇱 Israel
+http://192.168.2.139:8383/play?name=sport+5&code=il&user=cdnlivetv&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[04:00] NBA - Golden State Warriors vs San Antonio Spurs - Bein Sports 8 🇸🇦 Saudi Arabia
+http://192.168.2.139:8383/play?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
 
