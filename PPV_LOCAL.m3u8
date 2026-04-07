@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 http://192.168.2.139:8090/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/88039154555c7ba4d98024600c54d020-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. San Francisco Giants
-http://192.168.2.139:8090/stream?uri=mlb/2026-04-06/phi-sf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/803c0fc45f64e5d49a6ddf1d612b86f8-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Cleveland Guardians
 http://192.168.2.139:8090/stream?uri=mlb/2026-04-07/kc-cle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3fe6d2cdbc612de3c650cf41d03efcbc-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Chicago White Sox
@@ -211,8 +209,6 @@ http://192.168.2.139:8090/stream?uri=seriea/2026-04-13/fio-laz
 http://192.168.2.139:8090/stream?uri=laliga/2026-04-13/lev-get
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d91df7e51fe1c2650922606ce1485dad-thumbnail.jpg" group-title="Football",Manchester United vs. Leeds United
 http://192.168.2.139:8090/stream?uri=pl/2026-04-13/man-lee
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5af8848a4c24e8f7b28683031532920-thumbnail.jpg" group-title="Ice Hockey",Nashville Predators vs. Los Angeles Kings
-http://192.168.2.139:8090/stream?uri=nhl/2026-04-06/nsh-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4b63a1f4ceaed68fbd8366e19c0ce7f7-thumbnail.jpg" group-title="Ice Hockey",Florida Panthers vs. Montreal Canadiens
 http://192.168.2.139:8090/stream?uri=nhl/2026-04-07/fla-mtl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00f2eb4682f58e0753b909c8b712bfd2-thumbnail.jpg" group-title="Ice Hockey",Tampa Bay Lightning vs. Ottawa Senators
