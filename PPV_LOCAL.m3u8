@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 http://192.168.2.139:8090/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf476c7d0b087d032c86baa16eb1f284-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Detroit Tigers
-http://192.168.2.139:8090/stream?uri=mlb/2026-04-11/mia-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d9f82a53e13200b1cae86480685d8d24-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Chicago Cubs
 http://192.168.2.139:8090/stream?uri=mlb/2026-04-11/pit-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e374a9005ab1573ef1868f4146a648c9-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Toronto Blue Jays
@@ -43,16 +41,6 @@ http://192.168.2.139:8090/stream?uri=rizin-landmark-13
 http://192.168.2.139:8090/stream?uri=ipl/2026-04-12/lsg-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4dc5efb23fe4ce97385ebd503dc0255a-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Royal Challengers Bengaluru
 http://192.168.2.139:8090/stream?uri=ipl/2026-04-12/mi-rcb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/46dbafa2d7b2254290beec65ce33cc39-thumbnail.jpg" group-title="Football",Austin FC vs. LA Galaxy
-http://192.168.2.139:8090/stream?uri=mls/2026-04-11/atx-la
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bd9cfe95336245057bb902ea4566f7b-thumbnail.jpg" group-title="Football",CF Montréal vs. Philadelphia Union
-http://192.168.2.139:8090/stream?uri=mls/2026-04-11/mtl-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a09c209a9939b726843079a493a40830-thumbnail.jpg" group-title="Football",Atalanta vs. Juventus
-http://192.168.2.139:8090/stream?uri=seriea/2026-04-11/ata-juv
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f309dbd30373b3ba537f61d8591bf102-thumbnail.jpg" group-title="Football",Sevilla vs. Atlético Madrid
-http://192.168.2.139:8090/stream?uri=laliga/2026-04-11/sev-atm
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b0c017f57f3c9ea490760592e00d8b03-thumbnail.jpg" group-title="Football",Stade Rennais vs. Angers
-http://192.168.2.139:8090/stream?uri=ligue1/2026-04-11/ren-ang
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bfe003e38450c9c3cd182087900f9e25-thumbnail.jpg" group-title="Football",Portland Timbers vs. LAFC
 http://192.168.2.139:8090/stream?uri=mls/2026-04-11/por-lafc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/45b776138c61fde017c5941e6424fdad-thumbnail.jpg" group-title="Football",Charlotte FC vs. Nashville SC
