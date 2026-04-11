@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 http://192.168.2.139:8090/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d9f82a53e13200b1cae86480685d8d24-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Chicago Cubs
-http://192.168.2.139:8090/stream?uri=mlb/2026-04-11/pit-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e374a9005ab1573ef1868f4146a648c9-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Toronto Blue Jays
 http://192.168.2.139:8090/stream?uri=mlb/2026-04-11/min-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fab14356d53f6a071d704a848462c437-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Cincinnati Reds
@@ -27,8 +25,6 @@ http://192.168.2.139:8090/stream?uri=mlb/2026-04-11/col-sd
 http://192.168.2.139:8090/stream?uri=mlb/2026-04-11/tex-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5b93b5290c6ef5912ec0129f02d17fd9-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Seattle Mariners
 http://192.168.2.139:8090/stream?uri=mlb/2026-04-11/hou-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78a82b4d73fbccacb1b4d048aaaf6b81-thumbnail.jpg" group-title="Combat Sports",OKTAGON 86
-http://192.168.2.139:8090/stream?uri=oktagon-86
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f73e4e5651003347a7ec4a4c99a4ce7-thumbnail.jpg" group-title="Combat Sports",Tyson Fury vs. Arslanbek Makhmudov
 http://192.168.2.139:8090/stream?uri=tyson-fury-vs.-arslanbek-makhmudov
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6ec7d5877146ee0946f9bf5a0267570-thumbnail.jpg" group-title="Combat Sports",UFC 327: Procházka vs. Ulberg
@@ -123,8 +119,6 @@ http://192.168.2.139:8090/stream?uri=masters-iac
 http://192.168.2.139:8090/stream?uri=masters-1516
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/999f507f116d69ef58bd323206edba09-thumbnail.jpg" group-title="Golf",Masters: Broadcast
 http://192.168.2.139:8090/stream?uri=masters-simul
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b572ac8f03fc8cd91353a8af9f90f1d5-thumbnail.jpg" group-title="Ice Hockey",Washington Capitals vs. Pittsburgh Penguins
-http://192.168.2.139:8090/stream?uri=nhl/2026-04-11/wsh-pit
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/01d5b495bfe3d03cd3300e4dd10585d9-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. Los Angeles Kings
 http://192.168.2.139:8090/stream?uri=nhl/2026-04-11/edm-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/754cb20ea4b1dad2462b660d089dccfe-thumbnail.jpg" group-title="Ice Hockey",New Jersey Devils vs. Detroit Red Wings
