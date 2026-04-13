@@ -1,19 +1,70 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-04-13 02:34:59
-# Total Events: 4
-# Live Events: 4
+# PlayTorrio Sports Events - 2026-04-13 14:47:31
+# Total Events: 8
+# Live Events: 8
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tudn.svg" group-title="Liga MX",[10:00] Liga MX - Toluca vs Atlético San Luis 🔴 - TUDN 🇺🇸 USA
-https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/turkey/trt-spor.svg" group-title="1. Lig",[23:00] 1. Lig - BB Erzurumspor vs Boluspor 🔴 - TRT Spor 🇹🇷 Turkey
+https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/mexico/tudn.svg" group-title="Liga MX",[10:00] Liga MX - Toluca vs Atlético San Luis 🔴 - TUDN 🇲🇽 Mexico
-https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/turkey/bein-sports-2.svg" group-title="1. Lig",[23:00] 1. Lig - BB Erzurumspor vs Boluspor 🔴 - beIN SPORTS 2 🇹🇷 Turkey
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=tr&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-stars.png" group-title="NHL",[10:00] NHL - Utah Mammoth vs Calgary Flames 🔴
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[23:00] Cricket - Indian Premier League : Sunrisers Hyderabad vs Rajasthan Royals 🔴 - Willow Cricket 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Primera A",[10:30] Primera A - Inter Bogotá vs Alianza 🔴
-https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[23:00] Cricket - Indian Premier League : Sunrisers Hyderabad vs Rajasthan Royals 🔴 - Willow 2 Cricket 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-deportes.svg" group-title="Liga Nacional",[10:30] Liga Nacional - UPNFM vs Real España 🔴
-https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-cricket.svg" group-title="Cricket",[23:00] Cricket - Indian Premier League : Sunrisers Hyderabad vs Rajasthan Royals 🔴 - Fox Cricket 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/astro-cricket.webp" group-title="Cricket",[23:00] Cricket - Indian Premier League : Sunrisers Hyderabad vs Rajasthan Royals 🔴 - Astro Cricket 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg" group-title="Cricket",[23:00] Cricket - Indian Premier League : Sunrisers Hyderabad vs Rajasthan Royals 🔴 - Sky Sports Cricket 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Cricket",[23:00] Cricket - Indian Premier League : Sunrisers Hyderabad vs Rajasthan Royals 🔴 - Sky Sports Main Event 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Cricket",[23:00] Cricket - Indian Premier League : Sunrisers Hyderabad vs Rajasthan Royals 🔴 - Sky Sport 1 🇳🇿 New Zealand
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[23:00] Cricket - Indian Premier League : Sunrisers Hyderabad vs Rajasthan Royals 🔴 - SuperSport Cricket 🇿🇦 South Africa
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-10.png" group-title="Virsliga",[23:30] Virsliga - Tukums vs Rīgas FS 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+10&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sport-1.svg" group-title="AFC Champions League Elite",[23:45] AFC Champions League Elite - Al-Ahli vs Al Duhail 🔴 - Sport 1 🇩🇪 Germany
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn-2.svg" group-title="AFC Champions League Elite",[23:45] AFC Champions League Elite - Al-Ahli vs Al Duhail 🔴 - ESPN 2 🇳🇱 Netherlands
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/nova-sport.png" group-title="AFC Champions League Elite",[23:45] AFC Champions League Elite - Al-Ahli vs Al Duhail 🔴 - Nova Sport 🇧🇬 Bulgaria
+https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="AFC Champions League Elite",[23:45] AFC Champions League Elite - Al-Ahli vs Al Duhail 🔴 - Sport Klub 1 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-1.webp" group-title="AFC Champions League Elite",[23:45] AFC Champions League Elite - Al-Ahli vs Al Duhail 🔴 - beIN SPORTS 1 🇸🇦 Saudi Arabia
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Liga I",[00:30] Liga I - Rapid Bucureşti vs SCM Argeşul Piteşti 🔴 - Digi Sport 1 🇷🇴 Romania
+https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-1.svg" group-title="Liga I",[00:30] Liga I - Rapid Bucureşti vs SCM Argeşul Piteşti 🔴 - Prima Sport 1 🇷🇴 Romania
+https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-10.png" group-title="Virsliga",[00:30] Virsliga - Ogre United vs Grobiņa 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+10&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="Volleyball",[00:30] Volleyball - Orlen Liga Women : Chemik Police vs. KS Palac Bydgoszcz 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png" group-title="Handball",[00:45] Handball - NB I : Veszprem vs Szeged 🔴 - TNT Sports 8 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+8&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport.svg" group-title="Handball",[00:45] Handball - NB I : Veszprem vs Szeged 🔴 - M4 Sports 🇭🇺 Hungary
+https://cdnlivetv.tv/api/v1/channels/player/?name=m4+sports&code=hu&user=ntvstream&plan=free
