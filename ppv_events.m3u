@@ -1,6 +1,6 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-04-16 00:14
+# UTC+8 | Generated: 2026-04-16 03:41
 # Total: 108
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",[2026-04-19 01:00] East vs West 23: Germany
@@ -57,9 +57,6 @@ https://ppv2.168.us.kg/stream?uri=nba/2026-04-15/orl-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9629640c58200b49cd0c2fd8a25afa69-thumbnail.jpg" group-title="Basketball",[2026-04-16 10:00] Golden State Warriors vs. LA Clippers
 https://ppv2.168.us.kg/stream?uri=nba/2026-04-15/gs-lac
 
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c6c9be5eb1b5043fb328bc02c7c707ac-thumbnail.jpg" group-title="Cricket",[2026-04-15 22:00] Royal Challengers Bengaluru vs. Lucknow Super Giants
-https://ppv2.168.us.kg/stream?uri=ipl/2026-04-15/rcb-lsg
-
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/296a21213f6b0ad5473809e3c794c942-thumbnail.jpg" group-title="Cricket",[2026-04-16 22:00] Mumbai Indians vs. Punjab Kings
 https://ppv2.168.us.kg/stream?uri=ipl/2026-04-16/mi-pbks
 
@@ -68,6 +65,9 @@ https://ppv2.168.us.kg/stream?uri=ucl/2026-04-15/ars-scp
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d93899862a4855d2d8d2c1efa81f191c-thumbnail.jpg" group-title="Football",[2026-04-16 03:00] Bayern Munich vs. Real Madrid
 https://ppv2.168.us.kg/stream?uri=ucl/2026-04-15/mun-rma
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8bc3fb4651ca0a6f10a30d56939a1ed8-thumbnail.jpg" group-title="Football",[2026-04-16 03:00] Multicast (Golazo Show)
+https://ppv2.168.us.kg/stream?uri=ucl/2026-04-15/multi
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4cf43f92bc33cc669c05d310e6ebed1d-thumbnail.jpg" group-title="Football",[2026-04-16 07:00] FC Naples vs. Orlando City SC
 https://ppv2.168.us.kg/stream?uri=us-open-cup/2026-04-16/nap-orl
