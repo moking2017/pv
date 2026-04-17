@@ -1,19 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-04-17 20:58:04
-# Total Events: 9
-# Live Events: 9
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg" group-title="HorseRacing",[19:00] HorseRacing - America's Day At the Races 🔴
-https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox.png" group-title="Golf",[19:30] Golf - LIV Golf Mexico City | Round 2 🔴 - FOX 🇺🇸 USA
-https://cdnlivetv.tv/api/v1/channels/player/?name=fox&code=us&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png" group-title="Golf",[19:30] Golf - LIV Golf Mexico City | Round 2 🔴 - TNT Sports 3 🇬🇧 UK
-https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-golf.svg" group-title="Golf",[19:30] Golf - LIV Golf Mexico City | Round 2 🔴 - Movistar Golf 🇪🇸 Spain
-https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+golf&code=es&user=ntvstream&plan=free
+# PlayTorrio Sports Events - 2026-04-17 21:51:25
+# Total Events: 13
+# Live Events: 13
 
 #EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport.webp" group-title="Motorsport",[20:00] Motorsport - Speedway PGE Ekstraliga : Gezet Stal Gorz?w vs. Betard Sparta Wroc?aw 🔴
 https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=ntvstream&plan=free
@@ -57,12 +45,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=ntvstream&
 #EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2.svg" group-title="Golf",[21:00] Golf - PGA Tour RBC Heritage 🔴 - ESPN 2 🇦🇷 Argentina
 https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg" group-title="Primeira Liga",[21:45] Primeira Liga - Rio Ave vs AVS 🔴 - Sport TV 1 🇵🇹 Portugal
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-9.webp" group-title="Primeira Liga",[21:45] Primeira Liga - Rio Ave vs AVS 🔴 - Cosmote Sport 9 🇬🇷 Greece
-https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+9&code=gr&user=ntvstream&plan=free
-
 #EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport.webp" group-title="Motorsport",[22:00] Motorsport - Motor Sport : PGE Ekstraliga : Gezet Stal Gorzów vs Betard Sparta Wrocław 🔴
 https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=ntvstream&plan=free
 
@@ -71,4 +53,43 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=ntvst
 
 #EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/sec-network.svg" group-title="College Baseball",[23:30] College Baseball - Auburn vs Florida 🔴
 https://cdnlivetv.tv/api/v1/channels/player/?name=sec+network&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[00:00] Golf - LPGA Tour Golf JM Eagle LA Championship, Second Round 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=golf+tv&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Motorsport",[00:00] Motorsport - IndyCar Series Season Streets of Long Beach in California Practice Session 1 🔴 - FOX Sports 1 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[00:00] Motorsport - IndyCar Series Season Streets of Long Beach in California Practice Session 1 🔴 - Sky Sports F1 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+f1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png" group-title="Motorsport",[00:00] Motorsport - IndyCar Series Season Streets of Long Beach in California Practice Session 1 🔴 - Sky Sport 4 🇳🇿 New Zealand
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[00:00] Motorsport - IndyCar Series Season Streets of Long Beach in California Practice Session 1 🔴 - Sky Sport F1 🇩🇪 Germany
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/masn.png" group-title="MLB",[00:10] MLB - Cleveland Guardians vs Baltimore Orioles 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=masn&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2.svg" group-title="Basketball",[00:15] Basketball - NBB : Corinthians Paulista at Caxias do Sul 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=br&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="MLB",[00:40] MLB - Philadelphia Phillies vs Atlanta Braves 🔴 - NBCS Philadelphia 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+philadelphia&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[00:40] MLB - Philadelphia Phillies vs Atlanta Braves 🔴 - MLB Network 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=mlb+network&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="MLB",[00:40] MLB - Philadelphia Phillies vs Atlanta Braves 🔴 - TNT Sports 1 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-7.png" group-title="MLB",[00:40] MLB - Philadelphia Phillies vs Atlanta Braves 🔴 - Sky Sport Bundesliga 7 🇩🇪 Germany
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png" group-title="MLB",[00:40] MLB - Pittsburgh Pirates vs Tampa Bay Rays 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports.png" group-title="MLB",[00:45] MLB - Washington Nationals vs San Francisco Giants 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+bay+area&code=us&user=ntvstream&plan=free
 
