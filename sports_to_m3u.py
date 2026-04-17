@@ -3,7 +3,7 @@
 sports_to_m3u.py
 从 cdn-live.tv Sports Events API 抓取赛事，生成带 EXTVLCOPT 的 m3u 文件
 - 过滤掉 status=finished 的比赛
-- 时间从 UTC 转换为 UTC+7
+- 时间从 UTC 转换为 UTC+8
 - 每个频道独立生成一条 m3u 记录
 """
 
@@ -16,8 +16,8 @@ from datetime import datetime, timezone, timedelta
 
 SPORTS_API  = "https://api.cdnlivetv.tv/api/v1/events/sports/?user=cdnlivetv&plan=free"
 OUTPUT_FILE = "sports_events.m3u"
-BASE_STREAM = "http://cdnlivetv.168.us.kg/live/{code}/{slug}"
-TZ_OFFSET   = timedelta(hours=7)   # UTC → UTC+7
+BASE_STREAM = "http://改你host/live/{code}/{slug}"
+TZ_OFFSET   = timedelta(hours=8)   # UTC → UTC+8
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -35,9 +35,9 @@ def fetch_json(url: str) -> dict:
         return json.loads(r.read().decode("utf-8"))
 
 def utc_to_local(time_str: str) -> str:
-    """'22:00'  (UTC)  →  '05:00'  (UTC+7)，跨天自动处理"""
+    """'22:00'  (UTC)  →  '05:00'  (UTC+8)，跨天自动处理"""
     h, m = map(int, time_str.split(":"))
-    total = h * 60 + m + 7 * 60
+    total = h * 60 + m + 8 * 60
     return f"{(total // 60) % 24:02d}:{total % 60:02d}"
 
 def name_from_url(url_str: str) -> str:
@@ -85,7 +85,7 @@ def build_m3u(data: dict) -> str:
     lines = [
         "#EXTM3U",
         f"# Generated from cdn-live.tv Sports API",
-        f"# UTC+7 timezone | Generated: {(now_utc + TZ_OFFSET).strftime('%Y-%m-%d %H:%M')}",
+        f"# UTC+8 timezone | Generated: {(now_utc + TZ_OFFSET).strftime('%Y-%m-%d %H:%M')}",
         "",
     ]
 
