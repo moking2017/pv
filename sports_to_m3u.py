@@ -14,7 +14,7 @@ import urllib.parse
 import html
 from datetime import datetime, timezone, timedelta
 
-SPORTS_API  = "https://api.cdn-live.tv/api/v1/events/sports/?user=cdnlivetv&plan=free"
+SPORTS_API  = "https://api.cdnlivetv.tv/api/v1/events/sports/?user=cdnlivetv&plan=free"
 OUTPUT_FILE = "sports_events.m3u"
 BASE_STREAM = "http://cdnlivetv.168.us.kg/live/{code}/{slug}"
 TZ_OFFSET   = timedelta(hours=7)   # UTC → UTC+7
@@ -22,8 +22,8 @@ TZ_OFFSET   = timedelta(hours=7)   # UTC → UTC+7
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-    "Referer":  "https://cdn-live.tv/",
-    "Origin":   "https://cdn-live.tv",
+    "Referer":  "https://cdnlivetv.tv/",
+    "Origin":   "https://cdnlivetv.tv",
     "Accept":   "application/json",
 }
 
@@ -70,7 +70,7 @@ def build_stream_block(player_url: str, name_raw: str, code: str) -> str:
     stream_url = BASE_STREAM.format(code=code, slug=slug)
     return (
         f"#EXTVLCOPT:http-referrer={player_url}\n"
-        f"#EXTVLCOPT:http-origin=https://cdn-live.tv\n"
+        f"#EXTVLCOPT:http-origin=https://cdnlivetv.tv\n"
         f"#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         f"AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\n"
         f"{stream_url}"
@@ -148,7 +148,7 @@ def main():
     print(f"[*] Fetching sports events ...")
     raw = fetch_json(SPORTS_API)
 
-    sports = raw.get("cdn-live-tv", {})
+    sports = raw.get("cdnlivetv", {})
     total_games = sum(len(v) for v in sports.values() if isinstance(v, list))
     sport_keys = [k for k, v in sports.items() if isinstance(v, list)]
     print(f"[*] Sports categories: {sport_keys}")
