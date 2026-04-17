@@ -16,7 +16,7 @@ from datetime import datetime, timezone, timedelta
 
 SPORTS_API  = "https://api.cdnlivetv.tv/api/v1/events/sports/?user=cdnlivetv&plan=free"
 OUTPUT_FILE = "sports_events.m3u"
-BASE_STREAM = "http://改你host/live/{code}/{slug}"
+BASE_STREAM = "http://cdnlivetv.168.us.kg/live/{code}/{slug}"
 TZ_OFFSET   = timedelta(hours=8)   # UTC → UTC+8
 
 HEADERS = {
