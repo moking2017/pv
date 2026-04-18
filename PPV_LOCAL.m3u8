@@ -55,8 +55,6 @@ http://192.168.2.139:8090/stream?uri=ksw-117-pawlak-vs.-chalidow
 http://192.168.2.139:8090/stream?uri=whittaker-vs.-suarez
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/918c779bc1db50aeb3d5c23d7650daf0-thumbnail.jpg" group-title="Combat Sports",RAF 08: Dvalishvili vs. Cejudo
 http://192.168.2.139:8090/stream?uri=raf-08-dvalishvili-vs.-cejudo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9443f2ef22e122c4ff50bb836c5668f7-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Delhi Capitals
-http://192.168.2.139:8090/stream?uri=ipl/2026-04-18/rcb-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8806a6bb6fcf778b8abe8671daeb5f84-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Chennai Super Kings
 http://192.168.2.139:8090/stream?uri=ipl/2026-04-18/srh-csk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6366153f47980a946a6987a1a84480cc-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Rajasthan Royals
@@ -71,12 +69,12 @@ http://192.168.2.139:8090/stream?uri=european-darts-grand-prix-|-day-2---evening
 http://192.168.2.139:8090/stream?uri=european-darts-grand-prix-|-day-3---afternoon-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 3 - Evening Session
 http://192.168.2.139:8090/stream?uri=european-darts-grand-prix-|-day-3---evening-session
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2598a0d9bca7834e8a403195ff2b16f8-thumbnail.jpg" group-title="Football",Brentford vs. Fulham
-http://192.168.2.139:8090/stream?uri=pl/2026-04-18/bre-ful
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ebffc21b0d67567b567515628ed0c9fa-thumbnail.jpg" group-title="Football",Udinese vs. Parma
 http://192.168.2.139:8090/stream?uri=seriea/2026-04-18/udi-par
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ead5c6607b63f628198af86564ded1ea-thumbnail.jpg" group-title="Football",IK Sirius vs. Västerås SK
 http://192.168.2.139:8090/stream?uri=swedish-allsvenskan/2026-04-18/sir-vas
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f5ad418de4c84779c21bf97014c23fe-thumbnail.jpg" group-title="Football",Mamelodi Sundowns vs. Esperance Sportive de Tunis
+http://192.168.2.139:8090/stream?uri=caf-champions-league/2026-04-18/msu-est
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6a8282e72a0fd7b47402b1d2d621ee61-thumbnail.jpg" group-title="Football",1. FC Union Berlin vs. VfL Wolfsburg
 http://192.168.2.139:8090/stream?uri=bundesliga/2026-04-18/fcu-wob
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8cf3faed3b3502f191d5dfb263c5d301-thumbnail.jpg" group-title="Football",Bayer Leverkusen vs. FC Augsburg
@@ -89,6 +87,14 @@ http://192.168.2.139:8090/stream?uri=bundesliga/2026-04-18/svw-hsv
 http://192.168.2.139:8090/stream?uri=pl/2026-04-18/lee-wol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/40165511b35ed86d472a957ee58e977d-thumbnail.jpg" group-title="Football",Newcastle United vs. AFC Bournemouth
 http://192.168.2.139:8090/stream?uri=pl/2026-04-18/new-bou
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be1cb7767c66f51520642e06234362da-thumbnail.jpg" group-title="Football",Wrexham vs. Stoke City
+http://192.168.2.139:8090/stream?uri=efl-championship/2026-04-18/wxm-stk
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b0ef66ed3280640dc38c6277d4a3a23f-thumbnail.jpg" group-title="Football",Preston North End vs. West Bromwich Albion
+http://192.168.2.139:8090/stream?uri=efl-championship/2026-04-18/pne-wba
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d15937103ae812b2181346c366eba264-thumbnail.jpg" group-title="Football",Bristol City vs. Norwich City
+http://192.168.2.139:8090/stream?uri=efl-championship/2026-04-18/brc-nor
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6052ac48c832e22ecb807d71a390b2b5-thumbnail.jpg" group-title="Football",Hartlepool United vs. Forest Green Rovers
+http://192.168.2.139:8090/stream?uri=national-league/2026-04-18/har-fgr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ad670e924e79e7fa55eaec5946a070ae-thumbnail.jpg" group-title="Football",Lorient vs. Marseille
 http://192.168.2.139:8090/stream?uri=ligue1/2026-04-18/lor-olm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/de38b36d9a1ee016f15261941f375a61-thumbnail.jpg" group-title="Football",Napoli vs. Lazio
@@ -99,6 +105,8 @@ http://192.168.2.139:8090/stream?uri=bundesliga/2026-04-18/sge-rbl
 http://192.168.2.139:8090/stream?uri=pl/2026-04-18/tot-bha
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5fbd53d080f4e353b967cffd3d2fd037-thumbnail.jpg" group-title="Football",York City vs. Yeovil Town
 http://192.168.2.139:8090/stream?uri=national-league/2026-04-18/york-yeo
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c7a446cc4d410e1234179469be3cfa12-thumbnail.jpg" group-title="Football",Braintree Town vs. Rochdale
+http://192.168.2.139:8090/stream?uri=national-league/2026-04-18/brn-rch
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/168e7420415b8651a88497fd054a29f3-thumbnail.jpg" group-title="Football",Angers vs. Le Havre AC
 http://192.168.2.139:8090/stream?uri=ligue1/2026-04-18/ang-hac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1904627b4897c70de77226df36006650-thumbnail.jpg" group-title="Football",Toronto FC vs. Austin FC
@@ -181,8 +189,6 @@ http://192.168.2.139:8090/stream?uri=nhl/2026-04-18/ott-car
 http://192.168.2.139:8090/stream?uri=nhl/2026-04-18/min-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2ecebe31e833bf91f23f3de82a964d63-thumbnail.jpg" group-title="Ice Hockey",Philadelphia Flyers vs. Pittsburgh Penguins
 http://192.168.2.139:8090/stream?uri=nhl/2026-04-18/phi-pit
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/59f90fec8b32d3aeae120f00a1cc1189-thumbnail.jpg" group-title="Miscellaneous",Adelaide Crows vs. St Kilda
-http://192.168.2.139:8090/stream?uri=afl/2026-04-18/adel-stk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6245aeb536913fcbe24aa1d85e1015c2-thumbnail.jpg" group-title="Motorsports",MXGP of Trentino (ITA) | Day 1
 http://192.168.2.139:8090/stream?uri=mxgp/2026/trentino-ita/day-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Cleveland
