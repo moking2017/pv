@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-04-25 15:43
-# Total: 98
+# UTC+8 | Generated: 2026-04-25 18:02
+# Total: 102
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cba89efff75e0e466a2fdf56a1044a11-thumbnail.jpg" group-title="American Football",[2026-04-26 00:00] 2026 NFL Draft - Day 3
 https://ppv2.168.us.kg/stream?uri=2026-nfl-draft---day-3
@@ -72,6 +72,15 @@ https://ppv2.168.us.kg/stream?uri=nba/2026-04-25/ny-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07a205f85a0e4d037a62bd5d6bf5fb78-thumbnail.jpg" group-title="Basketball",[2026-04-26 08:30] Denver Nuggets vs. Minnesota Timberwolves
 https://ppv2.168.us.kg/stream?uri=nba/2026-04-25/den-min
 
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a2ac5553ad3556097975bb4694bc189b-thumbnail.jpg" group-title="Combat Sports",[2026-04-26 00:00] OKTAGON 87
+https://ppv2.168.us.kg/stream?uri=oktagon-87
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3fcbac02bb167b34f42175bdfe5e0e0f-thumbnail.jpg" group-title="Combat Sports",[2026-04-26 02:00] GLORY 107: Wisse vs. Kwasi
+https://ppv2.168.us.kg/stream?uri=glory-107
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61b473e48d4f520777df5621e025abc8-thumbnail.jpg" group-title="Combat Sports",[2026-04-26 05:00] UFC Fight Night: Sterling vs. Zalal
+https://ppv2.168.us.kg/stream?uri=ufc-fight-night-sterling-vs.-zalal
+
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89bacfed5255aa6099107336cda57998-thumbnail.jpg" group-title="Cricket",[2026-04-25 18:00] Delhi Capitals vs. Punjab Kings
 https://ppv2.168.us.kg/stream?uri=ipl/2026-04-25/dc-pbks
 
@@ -116,6 +125,9 @@ https://ppv2.168.us.kg/stream?uri=bundesliga/2026-04-25/m05-mun
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7e71f8b44a6848b0e618e26830acdbef-thumbnail.jpg" group-title="Football",[2026-04-25 21:30] VfL Wolfsburg vs. Borussia Mönchengladbach
 https://ppv2.168.us.kg/stream?uri=bundesliga/2026-04-25/wob-bmg
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",[2026-04-25 22:00] Goal Rush
+https://ppv2.168.us.kg/stream?uri=pl/goal-rush
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9361160dc079e7e3b6314feb303d8e49-thumbnail.jpg" group-title="Football",[2026-04-25 22:00] Liverpool vs. Crystal Palace
 https://ppv2.168.us.kg/stream?uri=pl/2026-04-25/liv-cry
