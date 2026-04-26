@@ -1,500 +1,56 @@
 #EXTM3U
 # Generated from cdn-live.tv Sports API
-# UTC+8 timezone | Generated: 2026-04-27 03:09
-# Total Entries: 417  |  Skipped (finished): 225
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport.svg" group-title="Soccer",[01:30] 🔴 LIVE Soccer - Debrecen vs Győri ETO - M4 Sports 🌐 HU
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m4+sports&code=hu&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/hu/m4-sports
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-1.png" group-title="Soccer",[02:00] 🔴 LIVE Soccer - Dinamo Bucureşti vs Rapid Bucureşti - Digi Sport 1 🌐 RO
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ro/digi-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-1.svg" group-title="Soccer",[02:00] 🔴 LIVE Soccer - Dinamo Bucureşti vs Rapid Bucureşti - Prima Sport 1 🌐 RO
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ro/prima-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Soccer",[02:00] 🔴 LIVE Soccer - Independiente Rivadavia vs Gimnasia Mendoza - TNT Sports 🌐 AR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ar/tnt-sports
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports.webp" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Olympique Marseille vs Nice - beIN SPORTS 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/bein-sports
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Olympique Marseille vs Nice - beIN SPORTS MENA 2 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/bein-sports-mena-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/canal-sport-africa-2.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Olympique Marseille vs Nice - Canal Sport 2 🌐 ZA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+2&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/za/canal-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/bein-sports-n.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Olympique Marseille vs Nice - beIN SPORTS N 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/bein-sports-n
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Olympique Marseille vs Nice - Sky Sport Calcio 🌐 IT
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/it/sky-sport-calcio
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-3.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Olympique Marseille vs Nice - Sport TV 3 🌐 PT
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pt/sport-tv-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/eleven-sport-3.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Olympique Marseille vs Nice - Eleven Sports 3 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/eleven-sports-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Olympique Marseille vs Nice - Diema Sport 1 🌐 BG
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/bg/diema-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Olympique Marseille vs Nice - Arena Sport 1 🌐 RS
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/arena-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-2.webp" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Olympique Marseille vs Nice - Arena Sport 2 🌐 HR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/hr/arena-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-plus.png" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Olympique Marseille vs Nice - Sport 5 Plus 🌐 IL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-5-plus
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-1.webp" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Olympique Marseille vs Nice - beIN SPORTS 1 🌐 SA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/sa/bein-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/astro-football.webp" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Astro Football 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+football&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/astro-football
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-deportes.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - FOX Deportes 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-deportes
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - TNT Sports 1 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/tnt-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-football.webp" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - SuperSport Football 🌐 ZA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/za/supersport-football
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/dazn-1.png" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - DAZN 1 🌐 IT
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/it/dazn-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - DAZN 2 🌐 DE
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/dazn-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-3.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Sport TV 3 🌐 PT
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pt/sport-tv-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Ziggo Sport 1 🌐 NL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-2.webp" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Cosmote Sport 2 🌐 GR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gr/cosmote-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/denmark/tv2-sports-x.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - TV2 Sport X 🌐 DK
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/dk/tv2-sport-x
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/eleven-sport-1.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Eleven Sports 1 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/eleven-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/russia/match-tv.webp" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Match TV 🌐 RU
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ru/match-tv
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/russia/match-football-1.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Match Football 1 🌐 RU
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+1&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ru/match-football-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Max Sport 3 🌐 BG
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/bg/max-sport-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/cyprus/cytavision-sports-4.png" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Cytavision Sports 4 🌐 CY
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/cy/cytavision-sports-4
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Arena 1 Premium 🌐 RS
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/arena-1-premium
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Arena Sport 1 🌐 HR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/hr/arena-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-football.png" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - TV4 Football 🌐 SE
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/se/tv4-football
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - ESPN 🌐 BR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/br/espn
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - ESPN 2 🌐 AR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ar/espn-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/mexico/espn-2.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - ESPN 2 🌐 MX
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/mx/espn-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-2.png" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Digi Sport 2 🌐 RO
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ro/digi-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Prima Sport 2 🌐 RO
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ro/prima-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1.png" group-title="Soccer",[02:45] 🔴 LIVE Soccer - Milan vs Juventus - Sport 1 🌐 IL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/chile/tnt-sports.png" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Univ. Concepción vs Colo-Colo - TNT Sports 🌐 CL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/cl/tnt-sports
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/laliga-tv-hypermotion.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Ceuta vs Racing Santander - LaLiga TV Hypermotion 1 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/laliga-tv-hypermotion-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/bein-sports-xtra.webp" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Ceuta vs Racing Santander - beIN SPORTS XTRA 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/bein-sports-xtra
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - ESPN Deportes 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/espn-deportes
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - beIN SPORTS 1 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/bein-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - beIN SPORTS MENA 1 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/bein-sports-mena-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/la-liga-tv.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - LaLiga TV 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/laliga-tv
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - Viaplay Sports 1 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/viaplay-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - Premier Sports 1 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/premier-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-laliga.webp" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - SuperSport LaLiga 🌐 ZA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/za/supersport-laliga
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - beIN SPORTS 1 🌐 FR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/fr/bein-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/m-laliga-tv-1.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - M LALIGA 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+laliga&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/m-laliga
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-1.png" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - DAZN 1 🌐 DE
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/dazn-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - DAZN 1 🌐 PT
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pt/dazn-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.png" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - Ziggo Sport 2 🌐 NL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-1.png" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - Nova Sports 1 🌐 GR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+1&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gr/nova-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/russia/match-football-2.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - Match Football 2 🌐 RU
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+2&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ru/match-football-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - Max Sport 4 🌐 BG
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/bg/max-sport-4
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - Arena Sport 3 🌐 HR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/hr/arena-sport-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/czech-republic/nova-sports-4.png" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - Nova Sport 4 🌐 CZ
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+4&code=cz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/cz/nova-sport-4
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-3.png" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - Digi Sport 3 🌐 RO
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ro/digi-sport-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-3.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - Prima Sport 3 🌐 RO
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ro/prima-sport-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Villarreal vs Celta de Vigo - beIN SPORTS 2 🌐 SA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/sa/bein-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Corinthians vs Vasco da Gama - M Liga de Campeones 1 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/m-liga-de-campeones-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/vamos-spain.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Corinthians vs Vasco da Gama - Vamos Spain 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/vamos-spain
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/russia/match-football-3.svg" group-title="Soccer",[03:00] 🔴 LIVE Soccer - Grêmio vs Coritiba - Match Football 3 🌐 RU
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ru/match-football-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-2.svg" group-title="Soccer",[03:30] 🔴 LIVE Soccer - A vs vs Sporting CP - beIN SPORTS 2 🌐 FR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/fr/bein-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Soccer",[03:30] 🔴 LIVE Soccer - A vs vs Sporting CP - SportDigital Fussball 🌐 DE
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sportdigital-fussball
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="Soccer",[03:30] 🔴 LIVE Soccer - A vs vs Sporting CP - Sport TV 2 🌐 PT
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pt/sport-tv-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-3.webp" group-title="Soccer",[03:30] 🔴 LIVE Soccer - A vs vs Sporting CP - Cosmote Sport 3 🌐 GR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gr/cosmote-sport-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/eleven-sport-2.svg" group-title="Soccer",[03:30] 🔴 LIVE Soccer - A vs vs Sporting CP - Eleven Sports 2 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+2&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/eleven-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/ring.png" group-title="Soccer",[03:30] 🔴 LIVE Soccer - A vs vs Sporting CP - Ring 🌐 BG
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ring&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/bg/ring
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/cyprus/cytavision-sports-3.png" group-title="Soccer",[03:30] 🔴 LIVE Soccer - A vs vs Sporting CP - Cytavision Sports 3 🌐 CY
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/cy/cytavision-sports-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-3.png" group-title="Soccer",[03:30] 🔴 LIVE Soccer - A vs vs Sporting CP - Sport 3 🌐 IL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Soccer",[04:30] ⏳ Soccer - Belgrano vs Gimnasia La Plata - ESPN Premium 🌐 AR
+# UTC+8 timezone | Generated: 2026-04-27 05:50
+# Total Entries: 248  |  Skipped (finished): 283
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-premium.svg" group-title="Soccer",[04:30] 🔴 LIVE Soccer - Belgrano vs Gimnasia La Plata - ESPN Premium 🌐 AR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ar/espn-premium
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Soccer",[04:30] ⏳ Soccer - Newell's Old Boys vs Instituto - TNT Sports 🌐 AR
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/tnt-sports.png" group-title="Soccer",[04:30] 🔴 LIVE Soccer - Newell's Old Boys vs Instituto - TNT Sports 🌐 AR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ar/tnt-sports
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Soccer",[05:00] ⏳ Soccer - Rionegro Águilas vs Once Caldas - Win Futbol 🌐 CO
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/colombia/win-futbol.webp" group-title="Soccer",[05:00] 🔴 LIVE Soccer - Rionegro Águilas vs Once Caldas - Win Futbol 🌐 CO
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/co/win-futbol
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Soccer",[05:30] ⏳ Soccer - RB Bragantino vs Palmeiras - SportDigital Fussball 🌐 DE
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg" group-title="Soccer",[05:30] 🔴 LIVE Soccer - RB Bragantino vs Palmeiras - SportDigital Fussball 🌐 DE
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/de/sportdigital-fussball
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/canal-11.png" group-title="Soccer",[05:30] ⏳ Soccer - RB Bragantino vs Palmeiras - Canal 11 🌐 PT
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/canal-11.png" group-title="Soccer",[05:30] 🔴 LIVE Soccer - RB Bragantino vs Palmeiras - Canal 11 🌐 PT
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/pt/canal-11
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Soccer",[05:30] ⏳ Soccer - RB Bragantino vs Palmeiras - Arena 1 Premium 🌐 RS
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Soccer",[05:30] 🔴 LIVE Soccer - RB Bragantino vs Palmeiras - Arena 1 Premium 🌐 RS
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/rs/arena-1-premium
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/sportv-1.png" group-title="Soccer",[05:30] ⏳ Soccer - RB Bragantino vs Palmeiras - SporTV 1 🌐 BR
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/sportv-1.png" group-title="Soccer",[05:30] 🔴 LIVE Soccer - RB Bragantino vs Palmeiras - SporTV 1 🌐 BR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/br/sportv-1
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-3.png" group-title="Soccer",[05:30] ⏳ Soccer - RB Bragantino vs Palmeiras - Sport 3 🌐 IL
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-3.png" group-title="Soccer",[05:30] 🔴 LIVE Soccer - RB Bragantino vs Palmeiras - Sport 3 🌐 IL
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/il/sport-3
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/chile/tnt-sports.png" group-title="Soccer",[05:30] ⏳ Soccer - Everton vs Cobresal - TNT Sports 🌐 CL
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/chile/tnt-sports.png" group-title="Soccer",[05:30] 🔴 LIVE Soccer - Everton vs Cobresal - TNT Sports 🌐 CL
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -583,114 +139,6 @@ http://cdnlivetv.168.us.kg/live/mx/tudn
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/co/win-futbol
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - NBA League Pass 1 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nba+league+pass+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/nba-league-pass-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - ESPN 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/espn
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-action.svg" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - Sky Sports Action 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-action
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - TSN 4 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+4&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/tsn-4
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - RDS 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=rds&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/rds
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-3.svg" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - TSN 3 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+3&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/tsn-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - Sky Sport Top Event 🌐 DE
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sky-sport-top-event
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-6.svg" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - Sport TV 6 🌐 PT
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+6&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pt/sport-tv-6
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn-2.svg" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - ESPN 2 🌐 NL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/espn-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - Cosmote Sport 4 🌐 GR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+4&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gr/cosmote-sport-4
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/diema-sports-2.png" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - Diema Sport 2 🌐 BG
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/bg/diema-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/cyprus/cytavision-sports-7.png" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - Cytavision Sports 7 🌐 CY
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+7&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/cy/cytavision-sports-7
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - Arena 2 Premium 🌐 RS
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/arena-2-premium
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/czech-republic/nova-sports-2.png" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - Nova Sport 2 🌐 CZ
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+2&code=cz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/cz/nova-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4.svg" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - ESPN 4 🌐 BR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/br/espn-4
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-3.svg" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - ESPN 3 🌐 AR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ar/espn-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/mexico/espn-3.svg" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - ESPN 3 🌐 MX
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/mx/espn-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="NBA",[01:00] 🔴 LIVE NBA - Toronto Raptors vs Cleveland Cavaliers - beIN SPORTS 8 🌐 SA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/sa/bein-sports-8
 
 #EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn.svg" group-title="NBA",[03:30] 🔴 LIVE NBA - Portland Trail Blazers vs San Antonio Spurs - ESPN 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=us&user=cdnlivetv&plan=free
@@ -884,127 +332,61 @@ http://cdnlivetv.168.us.kg/live/de/sky-sport-top-event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/il/sport-5
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-6.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - NHL League Pass 3 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nhl+league+pass+3&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/nhl-league-pass-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - NESN 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nesn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/nesn
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - TNT 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/tnt
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - truTV 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=trutv&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/trutv
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - Sportsnet Ontario 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/sportsnet-ontario
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - TVA Sports 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tva+sports&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/tva-sports
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - Sportsnet West 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/sportsnet-west
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - Sportsnet East 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+east&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/sportsnet-east
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-5.svg" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - beIN SPORTS MAX 5 🌐 FR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+5&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/fr/bein-sports-max-5
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - Movistar Deportes 1 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/movistar-deportes-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - Sky Sport Mix 🌐 DE
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sky-sport-mix
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - Altitude 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - Altitude 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=altitude&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/altitude
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - TNT 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - TNT 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/tnt
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - truTV 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - truTV 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=trutv&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/trutv
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-360.png" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - Sportsnet 360 🌐 CA
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-360.png" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - Sportsnet 360 🌐 CA
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+360&code=ca&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ca/sportsnet-360
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - TVA Sports 🌐 CA
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - TVA Sports 🌐 CA
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tva+sports&code=ca&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ca/tva-sports
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - Sportsnet West 🌐 CA
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - Sportsnet West 🌐 CA
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ca/sportsnet-west
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - beIN SPORTS MAX 4 🌐 FR
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - beIN SPORTS MAX 4 🌐 FR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/fr/bein-sports-max-4
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - Sky Sport Mix 🌐 DE
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - Sky Sport Mix 🌐 DE
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/de/sky-sport-mix
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - Sky Sport Top Event 🌐 DE
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - Sky Sport Top Event 🌐 DE
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/de/sky-sport-top-event
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-4.webp" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - Arena Sport 4 🌐 HR
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-4.webp" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - Arena Sport 4 🌐 HR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -1112,127 +494,61 @@ http://cdnlivetv.168.us.kg/live/fr/bein-sports-max-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/de/sky-sport-mix
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-6.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - NHL League Pass 3 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nhl+league+pass+3&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/nhl-league-pass-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - NESN 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nesn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/nesn
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - TNT 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/tnt
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - truTV 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=trutv&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/trutv
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - Sportsnet Ontario 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/sportsnet-ontario
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - TVA Sports 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tva+sports&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/tva-sports
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - Sportsnet West 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/sportsnet-west
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - Sportsnet East 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+east&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/sportsnet-east
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-5.svg" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - beIN SPORTS MAX 5 🌐 FR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+5&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/fr/bein-sports-max-5
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - Movistar Deportes 1 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/movistar-deportes-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NHL",[02:00] 🔴 LIVE NHL - Buffalo Sabres vs Boston Bruins - Sky Sport Mix 🌐 DE
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sky-sport-mix
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - Altitude 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - Altitude 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=altitude&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/altitude
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - TNT 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - TNT 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/tnt
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - truTV 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - truTV 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=trutv&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/trutv
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-360.png" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - Sportsnet 360 🌐 CA
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-360.png" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - Sportsnet 360 🌐 CA
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+360&code=ca&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ca/sportsnet-360
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - TVA Sports 🌐 CA
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - TVA Sports 🌐 CA
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tva+sports&code=ca&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ca/tva-sports
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - Sportsnet West 🌐 CA
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - Sportsnet West 🌐 CA
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+west&code=ca&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ca/sportsnet-west
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - beIN SPORTS MAX 4 🌐 FR
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - beIN SPORTS MAX 4 🌐 FR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/fr/bein-sports-max-4
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - Sky Sport Mix 🌐 DE
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - Sky Sport Mix 🌐 DE
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/de/sky-sport-mix
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - Sky Sport Top Event 🌐 DE
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - Sky Sport Top Event 🌐 DE
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/de/sky-sport-top-event
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-4.webp" group-title="NHL",[04:30] ⏳ NHL - Colorado Avalanche vs Los Angeles Kings - Arena Sport 4 🌐 HR
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-4.webp" group-title="NHL",[04:30] 🔴 LIVE NHL - Colorado Avalanche vs Los Angeles Kings - Arena Sport 4 🌐 HR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -1867,26 +1183,8 @@ http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-6
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ar/espn-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/sec-network.svg" group-title="NCAA",[03:00] 🔴 LIVE NCAA - Kentucky vs South Carolina - SEC Network 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sec+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/sec-network
 
 #EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-u.svg" group-title="NCAA",[04:00] 🔴 LIVE NCAA - Murray State vs Southern Illinois (Carbondale) - ESPN U 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+u&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/espn-u
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/sec-network.svg" group-title="NCAA",[01:00] 🔴 LIVE NCAA - Mississippi vs Auburn - SEC Network 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sec+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/sec-network
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-u.svg" group-title="NCAA",[01:30] 🔴 LIVE NCAA - University of Georgia vs Oklahoma - ESPN U 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+u&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -1898,119 +1196,11 @@ http://cdnlivetv.168.us.kg/live/us/espn-u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/espn-2
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2.webp" group-title="Volleyball",[02:00] 🔴 LIVE Volleyball - Serbia Superliga, Women : Tent Obrenovac vs ŽOK Ub - Arena Sport 2 🌐 RS
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/arena-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="Volleyball",[02:00] 🔴 LIVE Volleyball - Poland 1. Liga : GKS Katowice vs UKS Mickiewicz Kluczbork - Polsat Sport 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/polsat-sport
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2.webp" group-title="Volleyball",[02:00] 🔴 LIVE Volleyball - Serbia Superliga, Women : Tent Obrenovac vs ŽOK Ub - Arena Sport 2 🌐 RS
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/arena-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="Volleyball",[02:00] 🔴 LIVE Volleyball - Poland 1. Liga : GKS Katowice vs UKS Mickiewicz Kluczbork - Polsat Sport 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/polsat-sport
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-4.png" group-title="Cycling",[22:40] 🔴 LIVE Cycling - Liège-Bastogne-Liège Women | Bastogne - Liège (156km) - TNT Sports 4 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/tnt-sports-4
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-2.png" group-title="Cycling",[22:40] 🔴 LIVE Cycling - Liège-Bastogne-Liège Women | Bastogne - Liège (156km) - Euro Sport 2 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/euro-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-7.png" group-title="Cycling",[22:40] 🔴 LIVE Cycling - Liège-Bastogne-Liège Women | Bastogne - Liège (156km) - Sky Sport 7 🌐 NZ
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+7&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-7
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-2.png" group-title="Cycling",[22:40] 🔴 LIVE Cycling - Liège-Bastogne-Liège Women | Bastogne - Liège (156km) - Euro Sport 2 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/euro-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-2.png" group-title="Cycling",[22:40] 🔴 LIVE Cycling - Liège-Bastogne-Liège Women | Bastogne - Liège (156km) - Euro Sport 2 🌐 IT
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/it/euro-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-3.svg" group-title="Cycling",[22:40] 🔴 LIVE Cycling - Liège-Bastogne-Liège Women | Bastogne - Liège (156km) - ESPN 3 🌐 BR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/br/espn-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-4.png" group-title="Cycling",[22:40] 🔴 LIVE Cycling - Liège-Bastogne-Liège Women | Bastogne - Liège (156km) - TNT Sports 4 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/tnt-sports-4
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-2.png" group-title="Cycling",[22:40] 🔴 LIVE Cycling - Liège-Bastogne-Liège Women | Bastogne - Liège (156km) - Euro Sport 2 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/euro-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-7.png" group-title="Cycling",[22:40] 🔴 LIVE Cycling - Liège-Bastogne-Liège Women | Bastogne - Liège (156km) - Sky Sport 7 🌐 NZ
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+7&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-7
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-2.png" group-title="Cycling",[22:40] 🔴 LIVE Cycling - Liège-Bastogne-Liège Women | Bastogne - Liège (156km) - Euro Sport 2 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/euro-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-2.png" group-title="Cycling",[22:40] 🔴 LIVE Cycling - Liège-Bastogne-Liège Women | Bastogne - Liège (156km) - Euro Sport 2 🌐 IT
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/it/euro-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-3.svg" group-title="Cycling",[22:40] 🔴 LIVE Cycling - Liège-Bastogne-Liège Women | Bastogne - Liège (156km) - ESPN 3 🌐 BR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/br/espn-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-4.svg" group-title="Horse Racing",[22:30] 🔴 LIVE Horse Racing - Live racing from Ayr - ITV 4 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=itv+4&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/itv-4
-
 #EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg" group-title="Horse Racing",[01:00] 🔴 LIVE Horse Racing - America's Day At the Races - FOX Sports 2 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/fox-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-4.svg" group-title="Horse Racing",[22:30] 🔴 LIVE Horse Racing - Live racing from Ayr - ITV 4 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=itv+4&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/itv-4
 
 #EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg" group-title="Horse Racing",[01:00] 🔴 LIVE Horse Racing - America's Day At the Races - FOX Sports 2 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
@@ -2024,19 +1214,7 @@ http://cdnlivetv.168.us.kg/live/us/fox-sports-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/rs/arena-2-premium
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-tv.svg" group-title="Basketball",[01:00] 🔴 LIVE Basketball - Basketball African League : Maktown Flyers vs FUS Rabat - NBA TV 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nba+tv&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/nba-tv
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-7.png" group-title="Basketball",[02:00] 🔴 LIVE Basketball - ABA League : Borac vs Mega Soccerbet - Sky Sport Bundesliga 7 🌐 DE
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sky-sport-bundesliga-7
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/sportv-3.png" group-title="Basketball",[06:00] ⏳ Basketball - Brazil NBB : Unifacisa vs Corinthians - SporTV 3 🌐 BR
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/sportv-3.png" group-title="Basketball",[06:00] 🔴 LIVE Basketball - Brazil NBB : Unifacisa vs Corinthians - SporTV 3 🌐 BR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+3&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -2054,19 +1232,7 @@ http://cdnlivetv.168.us.kg/live/nz/sky-sport-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/rs/arena-2-premium
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-tv.svg" group-title="Basketball",[01:00] 🔴 LIVE Basketball - Basketball African League : Maktown Flyers vs FUS Rabat - NBA TV 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nba+tv&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/nba-tv
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-7.png" group-title="Basketball",[02:00] 🔴 LIVE Basketball - ABA League : Borac vs Mega Soccerbet - Sky Sport Bundesliga 7 🌐 DE
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sky-sport-bundesliga-7
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/sportv-3.png" group-title="Basketball",[06:00] ⏳ Basketball - Brazil NBB : Unifacisa vs Corinthians - SporTV 3 🌐 BR
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/sportv-3.png" group-title="Basketball",[06:00] 🔴 LIVE Basketball - Brazil NBB : Unifacisa vs Corinthians - SporTV 3 🌐 BR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+3&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -2077,126 +1243,6 @@ http://cdnlivetv.168.us.kg/live/br/sportv-3
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/nz/sky-sport-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-sportkanalen.png" group-title="Hockey",[02:00] 🔴 LIVE Hockey - Switzerland National League : HC Davos vs Fribourg-Gottéron - TV4 Sportkanalen 🌐 SE
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/se/tv4-sportkanalen
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[01:35] 🔴 LIVE MLB - Baltimore Orioles vs Boston Red Sox - Baltimore Orioles 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=baltimore+orioles&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/baltimore-orioles
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[01:35] 🔴 LIVE MLB - Baltimore Orioles vs Boston Red Sox - Boston Red Sox 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=boston+red+sox&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/boston-red-sox
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[01:35] 🔴 LIVE MLB - Baltimore Orioles vs Boston Red Sox - MLB Network 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=mlb+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/mlb-network
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/masn.png" group-title="MLB",[01:35] 🔴 LIVE MLB - Baltimore Orioles vs Boston Red Sox - MASN 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=masn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/masn
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[01:35] 🔴 LIVE MLB - Atlanta Braves vs Philadelphia Phillies - Atlanta Braves 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=atlanta+braves&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/atlanta-braves
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[01:35] 🔴 LIVE MLB - Atlanta Braves vs Philadelphia Phillies - Philadelphia Phillies 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=philadelphia+phillies&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/philadelphia-phillies
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="MLB",[01:35] 🔴 LIVE MLB - Atlanta Braves vs Philadelphia Phillies - NBCS Philadelphia 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+philadelphia&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/nbcs-philadelphia
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="MLB",[01:35] 🔴 LIVE MLB - Atlanta Braves vs Philadelphia Phillies - TNT Sports 2 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/tnt-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-one.png" group-title="MLB",[01:37] 🔴 LIVE MLB - Toronto Blue Jays vs Cleveland Guardians - Sportsnet One 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+one&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/sportsnet-one
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="MLB",[01:37] 🔴 LIVE MLB - Toronto Blue Jays vs Cleveland Guardians - Sport Klub 4 🌐 RS
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/sport-klub-4
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/sny.png" group-title="MLB",[01:40] 🔴 LIVE MLB - New York Mets vs Colorado Rockies - SportsNet New York 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+new+york&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/sportsnet-new-york
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="MLB",[01:40] 🔴 LIVE MLB - Tampa Bay Rays vs Minnesota Twins - Tampa Bay Rays 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tampa+bay+rays&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/tampa-bay-rays
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="MLB",[01:40] 🔴 LIVE MLB - Tampa Bay Rays vs Minnesota Twins - Minnesota Twins 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=minnesota+twins&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/minnesota-twins
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="MLB",[02:10] 🔴 LIVE MLB - Houston Astros vs New York Yankees - Houston Astros 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=houston+astros&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/houston-astros
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-league-pass.png" group-title="MLB",[02:10] 🔴 LIVE MLB - Houston Astros vs New York Yankees - New York Yankees 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=new+york+yankees&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/new-york-yankees
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/yes.png" group-title="MLB",[02:10] 🔴 LIVE MLB - Houston Astros vs New York Yankees - Yes Network 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=yes+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/yes-network
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/space-city.png" group-title="MLB",[02:10] 🔴 LIVE MLB - Houston Astros vs New York Yankees - Space City Home Network 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=space+city+home+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/space-city-home-network
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-pittsburgh.png" group-title="MLB",[02:10] 🔴 LIVE MLB - Milwaukee Brewers vs Pittsburgh Pirates - SportsNet Pittsburgh 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+pittsburgh&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/sportsnet-pittsburgh
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[02:10] 🔴 LIVE MLB - Chicago White Sox vs Washington Nationals - Chicago Sports Network 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=chicago+sports+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/chicago-sports-network
 
 #EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports.png" group-title="MLB",[02:35] 🔴 LIVE MLB - Texas Rangers vs Oakland Athletics - NBCS California 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+california&code=us&user=cdnlivetv&plan=free
@@ -2216,19 +1262,19 @@ http://cdnlivetv.168.us.kg/live/us/nbcs-bay-area
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/ca/tsn-1
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[04:10] ⏳ MLB - Los Angeles Dodgers vs Chicago Cubs - MLB Network 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[04:10] 🔴 LIVE MLB - Los Angeles Dodgers vs Chicago Cubs - MLB Network 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=mlb+network&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/mlb-network
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee.png" group-title="MLB",[04:10] ⏳ MLB - Los Angeles Dodgers vs Chicago Cubs - Marquee Sports Network 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee.png" group-title="MLB",[04:10] 🔴 LIVE MLB - Los Angeles Dodgers vs Chicago Cubs - Marquee Sports Network 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=marquee+sports+network&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/marquee-sports-network
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet.png" group-title="MLB",[04:10] ⏳ MLB - Los Angeles Dodgers vs Chicago Cubs - Spectrum Sportsnet LA 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet.png" group-title="MLB",[04:10] 🔴 LIVE MLB - Los Angeles Dodgers vs Chicago Cubs - Spectrum Sportsnet LA 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=spectrum+sportsnet+la&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -2294,31 +1340,73 @@ http://cdnlivetv.168.us.kg/live/ar/espn-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/msg
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport.webp" group-title="Motorsport",[22:45] 🔴 LIVE Motorsport - Speedway: PGE Ekstraliga : FOGO Unia Leszno vs Gezet Stal Gorzów - Canal Sport 1 🌐 PL
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport.webp" group-title="Motorsport",[01:15] 🔴 LIVE Motorsport - Speedway: PGE Ekstralig : BAYERSYSTEM GKM Grudziądz vs. Betard Sparta Wrocław - Canal Sport 1 🌐 PL
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/pl/canal-sport-1
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Motorsport",[23:30] 🔴 LIVE Motorsport - Ferrari Challenge Japan 2026 - beIN SPORTS 1 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox.png" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - FOX 🌐 US
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/bein-sports-1
+http://cdnlivetv.168.us.kg/live/us/fox
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[23:30] 🔴 LIVE Motorsport - Ferrari Challenge Japan 2026 - Sky Sports F1 🌐 GB
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - Viaplay Sports 2 🌐 GB
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/gb/viaplay-sports-2
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - TSN 5 🌐 CA
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+5&code=ca&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/ca/tsn-5
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-3.png" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - Ziggo Sport 3 🌐 NL
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-3
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - Max Sport 2 🌐 BG
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/bg/max-sport-2
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-3.svg" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - ESPN 3 🌐 BR
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/br/espn-3
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2.png" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - Sport 2 🌐 IL
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/il/sport-2
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[04:30] 🔴 LIVE Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Coppa Shell - Sky Sports F1 🌐 GB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+f1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/gb/sky-sports-f1
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[00:30] 🔴 LIVE Motorsport - British GT Championship Motor Racing : Silverstone 500: Race - Sky Sports F1 🌐 GB
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[04:30] 🔴 LIVE Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Coppa Shell - Sky Sport F1 🌐 DE
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/de/sky-sport-f1
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[05:30] 🔴 LIVE Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Trofeo Pirelli - Sky Sports F1 🌐 GB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+f1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/gb/sky-sports-f1
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[00:30] 🔴 LIVE Motorsport - British GT Championship Motor Racing : Silverstone 500: Race - Sky Sport F1 🌐 DE
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[05:30] 🔴 LIVE Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Trofeo Pirelli - Sky Sport F1 🌐 DE
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -2372,127 +1460,25 @@ http://cdnlivetv.168.us.kg/live/br/espn-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/il/sport-2
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[04:30] ⏳ Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Coppa Shell - Sky Sports F1 🌐 GB
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[04:30] 🔴 LIVE Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Coppa Shell - Sky Sports F1 🌐 GB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+f1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/gb/sky-sports-f1
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[04:30] ⏳ Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Coppa Shell - Sky Sport F1 🌐 DE
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[04:30] 🔴 LIVE Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Coppa Shell - Sky Sport F1 🌐 DE
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/de/sky-sport-f1
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[05:30] ⏳ Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Trofeo Pirelli - Sky Sports F1 🌐 GB
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[05:30] 🔴 LIVE Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Trofeo Pirelli - Sky Sports F1 🌐 GB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+f1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/gb/sky-sports-f1
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[05:30] ⏳ Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Trofeo Pirelli - Sky Sport F1 🌐 DE
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sky-sport-f1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport.webp" group-title="Motorsport",[22:45] 🔴 LIVE Motorsport - Speedway: PGE Ekstraliga : FOGO Unia Leszno vs Gezet Stal Gorzów - Canal Sport 1 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/canal-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Motorsport",[23:30] 🔴 LIVE Motorsport - Ferrari Challenge Japan 2026 - beIN SPORTS 1 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/bein-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[23:30] 🔴 LIVE Motorsport - Ferrari Challenge Japan 2026 - Sky Sports F1 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+f1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-f1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[00:30] 🔴 LIVE Motorsport - British GT Championship Motor Racing : Silverstone 500: Race - Sky Sports F1 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+f1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-f1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[00:30] 🔴 LIVE Motorsport - British GT Championship Motor Racing : Silverstone 500: Race - Sky Sport F1 🌐 DE
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sky-sport-f1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport.webp" group-title="Motorsport",[01:15] 🔴 LIVE Motorsport - Speedway: PGE Ekstralig : BAYERSYSTEM GKM Grudziądz vs. Betard Sparta Wrocław - Canal Sport 1 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/canal-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox.png" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - FOX 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - Viaplay Sports 2 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/viaplay-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - TSN 5 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+5&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/tsn-5
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-3.png" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - Ziggo Sport 3 🌐 NL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - Max Sport 2 🌐 BG
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+2&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/bg/max-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-3.svg" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - ESPN 3 🌐 BR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/br/espn-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2.png" group-title="Motorsport",[02:30] 🔴 LIVE Motorsport - NASCAR Cup Series: 500 Talladega Superspeedway - Sport 2 🌐 IL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[04:30] ⏳ Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Coppa Shell - Sky Sports F1 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+f1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-f1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[04:30] ⏳ Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Coppa Shell - Sky Sport F1 🌐 DE
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/de/sky-sport-f1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg" group-title="Motorsport",[05:30] ⏳ Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Trofeo Pirelli - Sky Sports F1 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+f1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-f1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[05:30] ⏳ Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Trofeo Pirelli - Sky Sport F1 🌐 DE
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg" group-title="Motorsport",[05:30] 🔴 LIVE Motorsport - Ferrari Challenge Europe Motor Racing : Mugello: Trofeo Pirelli - Sky Sport F1 🌐 DE
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
