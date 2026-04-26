@@ -3,6 +3,24 @@
 http://192.168.2.139:8090/stream?uri=ufl/2026-04-26/clb-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b27cc2b86af541404a5880595cff9b1c-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Dallas Renegades
 http://192.168.2.139:8090/stream?uri=ufl/2026-04-26/lou-dal
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6a57202784f7739362fc4a1b42df82fb-thumbnail.jpg" group-title="Australian Football",Hawthorn vs. Collingwood
+http://192.168.2.139:8090/stream?uri=afl/2026-04-30/coll-haw
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e3dafbdd7e33e2d928c0a87edbae925a-thumbnail.jpg" group-title="Australian Football",Fremantle vs. Western Bulldogs
+http://192.168.2.139:8090/stream?uri=afl/2026-05-01/wb-fre
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/308d7e4ecad55794fa2ae8dd88b8dfd8-thumbnail.jpg" group-title="Australian Football",Port Adelaide vs. Adelaide Crows
+http://192.168.2.139:8090/stream?uri=afl/2026-05-01/adel-port
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1cbdf1e006cd3793f82529533f05d618-thumbnail.jpg" group-title="Australian Football",Brisbane Lions vs. Essendon
+http://192.168.2.139:8090/stream?uri=afl/2026-05-02/ess-bl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3843dad25d91f69dbd96bbc98f7a0aab-thumbnail.jpg" group-title="Australian Football",Richmond vs. West Coast Eagles
+http://192.168.2.139:8090/stream?uri=afl/2026-05-02/wce-rich
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be72617c750394fe2666f38c30120f60-thumbnail.jpg" group-title="Australian Football",North Melbourne vs. Geelong Cats
+http://192.168.2.139:8090/stream?uri=afl/2026-05-02/geel-nmfc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a37278e03df77ac2d222879a7fc1b543-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Carlton
+http://192.168.2.139:8090/stream?uri=afl/2026-05-02/carl-stk
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/43dddce7b6c11be047a2bd90ac9c3ccd-thumbnail.jpg" group-title="Australian Football",Melbourne vs. Sydney Swans
+http://192.168.2.139:8090/stream?uri=afl/2026-05-03/syd-melb
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
+http://192.168.2.139:8090/stream?uri=afl/2026-05-03/gcfc-gws
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6554f1fdccdc23a352086aa35b74f67b-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Baltimore Orioles
 http://192.168.2.139:8090/stream?uri=mlb/2026-04-26/bos-bal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/59acd7a9d74c165f4b5945ab92bdc5c5-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Atlanta Braves
@@ -43,36 +61,12 @@ http://192.168.2.139:8090/stream?uri=nba/2026-04-26/sa-por
 http://192.168.2.139:8090/stream?uri=nba/2026-04-26/bos-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f58fd4bde56202e7e3ad5798ef9dc3d-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Houston Rockets
 http://192.168.2.139:8090/stream?uri=nba/2026-04-26/lal-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bc004230bdc9f66e7fb57a1d202dadc9-thumbnail.jpg" group-title="Cricket",Chennai Super Kings vs. Gujarat Titans
-http://192.168.2.139:8090/stream?uri=ipl/2026-04-26/csk-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e64c9d29523142b8d4d9ae59578d41d5-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Kolkata Knight Riders
 http://192.168.2.139:8090/stream?uri=ipl/2026-04-26/lsg-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f76c1e2a1c0ef52bb6ed09b9c87764c2-thumbnail.jpg" group-title="Cricket",Delhi Capitals vs. Royal Challengers Bengaluru
 http://192.168.2.139:8090/stream?uri=ipl/2026-04-27/dc-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
 http://192.168.2.139:8090/stream?uri=darts/2026/players-championship-12
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/46795f52c5defd694a957c3a3fce4d9c-thumbnail.jpg" group-title="Football",Fiorentina vs. Sassuolo
-http://192.168.2.139:8090/stream?uri=seriea/2026-04-26/fio-sas
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bb89e3abad2405d40b901fbf54953e5f-thumbnail.jpg" group-title="Football",Coventry City vs. Wrexham
-http://192.168.2.139:8090/stream?uri=efl-championship/2026-04-26/cov-wxm
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a1a2e1df4a9927b61183c8e846225b0b-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Real Sociedad
-http://192.168.2.139:8090/stream?uri=laliga/2026-04-26/ray-rso
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8f79f477d7c0b97a3cc17a4ab3e88915-thumbnail.jpg" group-title="Football",Djurgården vs. Hammarby IF
-http://192.168.2.139:8090/stream?uri=swedish-allsvenskan/2026-04-26/dju-ham
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e138391f67d0a163df8ff1fce2ae69fe-thumbnail.jpg" group-title="Football",Genoa vs. Como
-http://192.168.2.139:8090/stream?uri=seriea/2026-04-26/gen-como
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0a674c34baadf4e73331e667e3be8d80-thumbnail.jpg" group-title="Football",Lorient vs. Strasbourg
-http://192.168.2.139:8090/stream?uri=ligue1/2026-04-26/lor-str
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0476bb04eb799866c049e099052cd5c0-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. Werder Bremen
-http://192.168.2.139:8090/stream?uri=bundesliga/2026-04-26/vfb-svw
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9ac80f1dddc5507b2e8462317a2e598-thumbnail.jpg" group-title="Football",Chelsea vs. Leeds United
-http://192.168.2.139:8090/stream?uri=english-fa-cup/2026-04-26/che-lee
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bdefa8499dbcb3c05dccb93e30e7346f-thumbnail.jpg" group-title="Football",Real Oviedo vs. Elche
-http://192.168.2.139:8090/stream?uri=laliga/2026-04-26/ovi-elc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b6a8cad866413c48d3fcafe27cef70cf-thumbnail.jpg" group-title="Football",IF Brommapojkarna vs. Västerås SK
-http://192.168.2.139:8090/stream?uri=swedish-allsvenskan/2026-04-26/bro-vas
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e9888da5702377f010d9665c6ec08aa5-thumbnail.jpg" group-title="Football",IFK Göteborg vs. GAIS
-http://192.168.2.139:8090/stream?uri=swedish-allsvenskan/2026-04-26/got-gais
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bcbc26a1eefcd19aa0206904b61973aa-thumbnail.jpg" group-title="Football",Le Havre AC vs. Metz
 http://192.168.2.139:8090/stream?uri=ligue1/2026-04-26/hac-metz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/045f90df2715ab1edc45184ab84229cc-thumbnail.jpg" group-title="Football",Paris FC vs. Lille
@@ -85,6 +79,8 @@ http://192.168.2.139:8090/stream?uri=bundesliga/2026-04-26/dor-scf
 http://192.168.2.139:8090/stream?uri=seriea/2026-04-26/tor-int
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5d4b82834e642c554e7b915d08130591-thumbnail.jpg" group-title="Football",Osasuna vs. Sevilla
 http://192.168.2.139:8090/stream?uri=laliga/2026-04-26/osa-sev
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3b525b81584cf72291ae18d036c3ddc8-thumbnail.jpg" group-title="Football",Galatasaray vs. Fenerbahce
+http://192.168.2.139:8090/stream?uri=turkish-super-lig/2026-04-26/gal-fen
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6946fcc5946d5394399a93284c7b2e0e-thumbnail.jpg" group-title="Football",AC Milan vs. Juventus
 http://192.168.2.139:8090/stream?uri=seriea/2026-04-26/mil-juv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/64992c0f5a83401cedebe44728a81455-thumbnail.jpg" group-title="Football",Marseille vs. Nice
@@ -113,6 +109,8 @@ http://192.168.2.139:8090/stream?uri=nhl/2026-04-26/col-la
 http://192.168.2.139:8090/stream?uri=nhl/2026-04-26/tb-mtl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3d0013e05d75776ec74b6981c7aefd17-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. Anaheim Ducks
 http://192.168.2.139:8090/stream?uri=nhl/2026-04-26/edm-ana
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5824156851a3607b2739900ffb980eb4-thumbnail.jpg" group-title="Motorsports",NASCAR Cup Series: Jack Links 500
+http://192.168.2.139:8090/stream?uri=nascar-cup-series-jack-links-500
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 http://192.168.2.139:8090/stream?uri=247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
