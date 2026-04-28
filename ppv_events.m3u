@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-04-29 01:01
-# Total: 125
+# UTC+8 | Generated: 2026-04-29 03:54
+# Total: 129
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f0cd9111485647a6c758b17f5121a70-thumbnail.jpg" group-title="American Football",[2026-05-01 08:00] St. Louis Battlehawks vs. Louisville Kings
 https://ppv2.168.us.kg/stream?uri=ufl/2026-04-30/stl-lou
@@ -101,9 +101,6 @@ https://ppv2.168.us.kg/stream?uri=naoya-inoue-vs.-junto-nakatani
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61fe2a76d9920106c0e61996715be250-thumbnail.jpg" group-title="Combat Sports",[2026-05-03 09:00] Benavidez vs. Zurdo
 https://ppv2.168.us.kg/stream?uri=benavidez-vs.-zurdo
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f53af9759aaa55fa3b1be5631e31bfe2-thumbnail.jpg" group-title="Cricket",[2026-04-28 22:00] Punjab Kings vs. Rajasthan Royals
-https://ppv2.168.us.kg/stream?uri=ipl/2026-04-28/pbks-rr
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97982fec1adef05519b059a2f3491a02-thumbnail.jpg" group-title="Cricket",[2026-04-29 22:00] Mumbai Indians vs. Sunrisers Hyderabad
 https://ppv2.168.us.kg/stream?uri=ipl/2026-04-29/mi-srh
@@ -344,6 +341,21 @@ https://ppv2.168.us.kg/stream?uri=nhl/2026-04-28/min-dal
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/70ef44bef5b3dbce8f898a1682f611f9-thumbnail.jpg" group-title="Ice Hockey",[2026-04-29 10:00] Anaheim Ducks vs. Edmonton Oilers
 https://ppv2.168.us.kg/stream?uri=nhl/2026-04-28/ana-edm
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6740b036fa454eb4102ff40178dca46a-thumbnail.jpg" group-title="Motorsports",[2026-05-02 00:00] Miami Grand Prix - Practice 1
+https://ppv2.168.us.kg/stream?uri=f1/2026/miami/fp1
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ddc6ac1f159677d1e156322cccc2900e-thumbnail.jpg" group-title="Motorsports",[2026-05-02 04:30] Miami Grand Prix - Sprint Qualifying
+https://ppv2.168.us.kg/stream?uri=f1/2026/miami/sprint-q
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3dba24eace61b79d6621684efc22198f-thumbnail.jpg" group-title="Motorsports",[2026-05-03 00:00] Miami Grand Prix - Sprint
+https://ppv2.168.us.kg/stream?uri=f1/2026/miami/sprint
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/444c4fec6f75524679609fad579f3cba-thumbnail.jpg" group-title="Motorsports",[2026-05-03 04:00] Miami Grand Prix - Qualifying
+https://ppv2.168.us.kg/stream?uri=f1/2026/miami/qualifying
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/159f45aebeb6d51319e72ef2042f4b6e-thumbnail.jpg" group-title="Motorsports",[2026-05-04 04:00] Miami Grand Prix - Race
+https://ppv2.168.us.kg/stream?uri=f1/2026/miami/race
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",[2026-04-29 08:00] WWE: NXT
 https://ppv2.168.us.kg/stream?uri=wwe/nxt/2026-04-28
