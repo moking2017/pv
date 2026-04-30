@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-04-30T08:29:26.444583",
-  "total_events": 3,
-  "live_events": 3,
+  "generated_at": "2026-04-30T10:54:37.421437",
+  "total_events": 4,
+  "live_events": 4,
   "events": [
+    {
+      "title": "DP World Tour Turkish Airlines Open",
+      "league": "Golf",
+      "time": "13:00",
+      "timestamp": 1777546800000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "GOLF TV 🇺🇸 USA",
+          "channel": "GOLF TV",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=golf+tv&code=us&user=ntvstream&plan=free"
+        },
+        {
+          "name": "ESPN Deportes 🇺🇸 USA",
+          "channel": "ESPN Deportes",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Sky Sports Golf 🇬🇧 UK",
+          "channel": "Sky Sports Golf",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-golf.svg",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+golf&code=gb&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Sky Sports Arena 🇬🇧 UK",
+          "channel": "Sky Sports Arena",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Sky Sports Main Event 🇬🇧 UK",
+          "channel": "Sky Sports Main Event",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=ntvstream&plan=free"
+        },
+        {
+          "name": "SuperSport Golf 🇿🇦 South Africa",
+          "channel": "SuperSport Golf",
+          "country": "🇿🇦 South Africa",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-golf.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+golf&code=za&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Movistar Golf 🇪🇸 Spain",
+          "channel": "Movistar Golf",
+          "country": "🇪🇸 Spain",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-golf.svg",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+golf&code=es&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Ziggo Sport 6 🇳🇱 Netherlands",
+          "channel": "Ziggo Sport 6",
+          "country": "🇳🇱 Netherlands",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+6&code=nl&user=ntvstream&plan=free"
+        },
+        {
+          "name": "ESPN 2 🇦🇷 Argentina",
+          "channel": "ESPN 2",
+          "country": "🇦🇷 Argentina",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2.svg",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
     {
       "title": "ATP Quarterfinal 3 & 4; WTA Semifinals; ATP Doubles Quarterfinals",
       "league": "Tennis",
@@ -182,35 +255,56 @@
       "live": true
     },
     {
-      "title": "NBL : Wellington Saints vs Taranaki Mountainairs",
-      "league": "Basketball",
-      "time": "09:00",
-      "timestamp": 1777532400000,
+      "title": "ATP Masters Madrid: 1/4 Final 3",
+      "league": "Tennis",
+      "time": "13:00",
+      "timestamp": 1777546800000,
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
-          "name": "Sky Sport 3 🇳🇿 New Zealand",
-          "channel": "Sky Sport 3",
-          "country": "🇳🇿 New Zealand",
-          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.png",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=ntvstream&plan=free"
+          "name": "Sport Klub 2 🇷🇸 Serbia",
+          "channel": "Sport Klub 2",
+          "country": "🇷🇸 Serbia",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=ntvstream&plan=free"
         }
       ],
       "live": true
     },
     {
-      "title": "Champions League Final Stari Grad",
-      "league": "Futsal",
-      "time": "10:00",
-      "timestamp": 1777536000000,
+      "title": "Tour of Türkiye | Stage 5 Men | Patara – Kemer (185.9km)",
+      "league": "Cycling",
+      "time": "13:30",
+      "timestamp": 1777548600000,
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
-          "name": "Arena 1 Premium 🇷🇸 Serbia",
-          "channel": "Arena 1 Premium",
-          "country": "🇷🇸 Serbia",
-          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=ntvstream&plan=free"
+          "name": "TNT Sports 2 🇬🇧 UK",
+          "channel": "TNT Sports 2",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Euro Sport 2 🇬🇧 UK",
+          "channel": "Euro Sport 2",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-2.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=gb&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Euro Sport 2 🇪🇸 Spain",
+          "channel": "Euro Sport 2",
+          "country": "🇪🇸 Spain",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-2.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=es&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Euro Sport 2 🇮🇹 Italy",
+          "channel": "Euro Sport 2",
+          "country": "🇮🇹 Italy",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-2.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=ntvstream&plan=free"
         }
       ],
       "live": true
