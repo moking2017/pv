@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-05-09 00:43
-# Total: 117
+# UTC+8 | Generated: 2026-05-09 03:43
+# Total: 121
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ab6216d6168fa79e5ffd514431aadf21-thumbnail.jpg" group-title="American Football",[2026-05-09 08:00] Columbus Aviators vs. St. Louis Battlehawks
 https://ppv2.168.us.kg/stream?uri=ufl/2026-05-08/clb-stl
@@ -96,11 +96,23 @@ https://ppv2.168.us.kg/stream?uri=wnba/2026-05-08/gs-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/65c5acb9006e4336a9d897500bb8ad6b-thumbnail.jpg" group-title="Combat Sports",[2026-05-10 04:00] UFC 328: Chimaev vs. Strickland
 https://ppv2.168.us.kg/stream?uri=ufc-328
 
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf325bcc83a2afce5bbebdc0483cd324-thumbnail.jpg" group-title="Cricket",[2026-05-08 22:00] Delhi Capitals vs. Kolkata Knight Riders
-https://ppv2.168.us.kg/stream?uri=ipl/2026-05-08/dc-kkr
-
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/24817f9dbb45e1959c5e9f99374876af-thumbnail.jpg" group-title="Cricket",[2026-05-09 22:00] Rajasthan Royals vs. Gujarat Titans
 https://ppv2.168.us.kg/stream?uri=ipl/2026-05-09/rr-gt
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[2026-05-09 01:00] Austrian Darts Open | Day 1 -  Evening
+https://ppv2.168.us.kg/stream?uri=austrian-darts-open--day-1---evening
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[2026-05-09 19:00] Austrian Darts Open | Day 2 - Afternoon
+https://ppv2.168.us.kg/stream?uri=austrian-darts-open--day-2---afternoon
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[2026-05-10 01:00] Austrian Darts Open | Day 2 - Evening
+https://ppv2.168.us.kg/stream?uri=austrian-darts-open--day-2---evening
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[2026-05-10 19:00] Austrian Darts Open | Day 3 - Afternoon
+https://ppv2.168.us.kg/stream?uri=austrian-darts-open--day-3---afternoon
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[2026-05-11 01:00] Austrian Darts Open | Day 3 - Evening
+https://ppv2.168.us.kg/stream?uri=austrian-darts-open--day-3---evening
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5dbc5233aa6a878cd07354ee62de5442-thumbnail.jpg" group-title="Football",[2026-05-09 02:30] Borussia Dortmund vs. Eintracht Frankfurt
 https://ppv2.168.us.kg/stream?uri=bundesliga/2026-05-08/dor-sge
