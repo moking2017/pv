@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/01d5b90b7aa95ce013423d0e59d3df4a-thumbnail.jpg" group-title="American Football",Louisville Kings vs. DC Defenders
-http://192.168.2.139:8090/stream?uri=ufl/2026-05-09/lou-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6dbe0bdec0872d37c6a00a0a45273b7b-thumbnail.jpg" group-title="American Football",Dallas Renegades vs. Birmingham Stallions
 http://192.168.2.139:8090/stream?uri=ufl/2026-05-09/dal-bham
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ca01809ed9f1ddd3401e2c9673370422-thumbnail.jpg" group-title="American Football",Orlando Storm vs. Houston Gamblers
@@ -59,8 +57,6 @@ http://192.168.2.139:8090/stream?uri=rizin53
 http://192.168.2.139:8090/stream?uri=ipl/2026-05-10/csk-lsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/48f28d1607caf145523e02de04d9394f-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Mumbai Indians
 http://192.168.2.139:8090/stream?uri=ipl/2026-05-10/rcb-mi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 2 - Evening
-http://192.168.2.139:8090/stream?uri=austrian-darts-open--day-2---evening
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Afternoon
 http://192.168.2.139:8090/stream?uri=austrian-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Evening
