@@ -5,10 +5,6 @@ http://192.168.2.139:8090/stream?uri=ufl/2026-05-16/dc-lou
 http://192.168.2.139:8090/stream?uri=ufl/2026-05-16/hou-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f59b0be892c1fdbeb9c70610eb1e9ed0-thumbnail.jpg" group-title="American Football",Columbus Aviators vs. Birmingham Stallions
 http://192.168.2.139:8090/stream?uri=ufl/2026-05-17/clb-bham
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99b596e8d4a80c1f87c393af6f12c526-thumbnail.jpg" group-title="Australian Football",Melbourne vs. Hawthorn
-http://192.168.2.139:8090/stream?uri=afl/2026-05-16/melb-haw
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/119e82def881a34831e2e407b46d5496-thumbnail.jpg" group-title="Australian Football",Carlton vs. Western Bulldogs
-http://192.168.2.139:8090/stream?uri=afl/2026-05-16/carl-wb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3f88e7c01f2340d41e714ad8b2e57335-thumbnail.jpg" group-title="Australian Football",Essendon vs. Fremantle
 http://192.168.2.139:8090/stream?uri=afl/2026-05-17/ess-fre
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0ab436eb216716a80710b6f2944f05a3-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Richmond
@@ -47,8 +43,12 @@ http://192.168.2.139:8090/stream?uri=mlb/2026-05-16/lad-laa
 http://192.168.2.139:8090/stream?uri=mlb/2026-05-16/sf-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8600442965486e5125d322a67678da0f-thumbnail.jpg" group-title="Combat Sports",Allen vs. Hrgovic
 http://192.168.2.139:8090/stream?uri=allen-vs-hrgovic
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73768945d595822a075d8bd909e35902-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Allen vs. Costa
+http://192.168.2.139:8090/stream?uri=ufc-fight-night-allen-vs-costa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3a2fa204fbf08160cf5235ea8515a25-thumbnail.jpg" group-title="Combat Sports",Davis vs. Albright 2
 http://192.168.2.139:8090/stream?uri=davis-vs-albright-2
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d4a591cdcf40790a128f4ab26e5a886a-thumbnail.jpg" group-title="Combat Sports",MVP MMA 1: Rousey vs. Carano
+http://192.168.2.139:8090/stream?uri=mvp-mma-1-rousey-vs-carano
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/456faa308899b53b050027a257526b4e-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Gujarat Titans
 http://192.168.2.139:8090/stream?uri=ipl/2026-05-16/kkr-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb0c700143643d53a9ee569362ca7e46-thumbnail.jpg" group-title="Cricket",Punjab Kings vs. Royal Challengers Bengaluru
@@ -191,6 +191,8 @@ http://192.168.2.139:8090/stream?uri=iihf-world-championship/2026-05-16/ita-can
 http://192.168.2.139:8090/stream?uri=iihf-world-championship/2026-05-16/sui-lat
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/17d10a2a3a80243b549bce7a0f178ff1-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. Montreal Canadiens
 http://192.168.2.139:8090/stream?uri=nhl/2026-05-16/buf-mtl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/190ecd4cd0ce408577b7b4f68a27814d-thumbnail.jpg" group-title="Motorsports",Indy 500 - Qualifying Day 1
+http://192.168.2.139:8090/stream?uri=indy-500---qualifying-day-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9a1aab5af5943859aea10a6f08b2690-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Practice 1
 http://192.168.2.139:8090/stream?uri=f1/2026/canada/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5993eb28bc6ac1da6710687870edc81d-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Sprint Qualifying
@@ -201,10 +203,8 @@ http://192.168.2.139:8090/stream?uri=f1/2026/canada/sprint
 http://192.168.2.139:8090/stream?uri=f1/2026/canada/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00c080d7f37993761eb0d27042c515af-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Race
 http://192.168.2.139:8090/stream?uri=f1/2026/canada/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e997f4914b63f374dd66ad7782ac8f8-thumbnail.jpg" group-title="Rugby",Roosters vs. Cowboys
-http://192.168.2.139:8090/stream?uri=nrl/2026-05-16/syd-nor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0fcc826832b0cb86b8e0ce25a53dba82-thumbnail.jpg" group-title="Rugby",Eels vs. Storm
-http://192.168.2.139:8090/stream?uri=nrl/2026-05-16/par-mel
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
+http://192.168.2.139:8090/stream?uri=smx-wk17
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/74dfc26d38bb1bf10623aa7ab1e351d8-thumbnail.jpg" group-title="Rugby",Titans vs. Knights
 http://192.168.2.139:8090/stream?uri=nrl/2026-05-17/gol-new
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ee2d91d03e2aec72e12742ae762adc4f-thumbnail.jpg" group-title="Rugby",Warriors vs. Broncos
