@@ -13,28 +13,8 @@ http://192.168.2.139:8090/stream?uri=afl/2026-05-30/wb-coll
 http://192.168.2.139:8090/stream?uri=afl/2026-05-31/melb-gws
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99bbdd99fbc9767d4ebde02eb9c51c95-thumbnail.jpg" group-title="Australian Football",Waalitj Marawar vs. Essendon
 http://192.168.2.139:8090/stream?uri=afl/2026-05-31/wce-ess
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/576d1de8de04cabcbf1802495d5fd01d-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Kansas City Royals
-http://192.168.2.139:8090/stream?uri=mlb/2026-05-25/nyy-kc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3893a768e7780350398daef91b8359f-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. New York Mets
-http://192.168.2.139:8090/stream?uri=mlb/2026-05-25/cin-nym
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7b3fb1b4f0bbee30cf5b5e872db4c624-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. San Francisco Giants
-http://192.168.2.139:8090/stream?uri=mlb/2026-05-25/ari-sf
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6b9af8644029bf9c358e6db7505ec730-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Cleveland Guardians
-http://192.168.2.139:8090/stream?uri=mlb/2026-05-25/wsh-cle
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dde3352d68cff23f1991134c627a846d-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. San Diego Padres
-http://192.168.2.139:8090/stream?uri=mlb/2026-05-25/phi-sd
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d29bd91341877c6028f14d509a51d41-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Texas Rangers
-http://192.168.2.139:8090/stream?uri=mlb/2026-05-25/hou-tex
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e6b2e63e715d7fe281fe33f06a41726b-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Toronto Blue Jays
-http://192.168.2.139:8090/stream?uri=mlb/2026-05-25/mia-tor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/618379565ab1c203760affc29a86d3f5-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Los Angeles Dodgers
-http://192.168.2.139:8090/stream?uri=mlb/2026-05-25/col-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/88c1e06a289a18c786ff144242b6021b-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Athletics
 http://192.168.2.139:8090/stream?uri=mlb/2026-05-25/sea-ath
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9367a07816518337387830d4dfb543fa-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Cleveland Cavaliers
-http://192.168.2.139:8090/stream?uri=nba/2026-05-25/ny-cle
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9d0ea6f593be99cf33a3520605e16ca7-thumbnail.jpg" group-title="Basketball",Portland Fire vs. New York Liberty
-http://192.168.2.139:8090/stream?uri=wnba/2026-05-25/por-ny
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d2fcd03859c051ff61151ad1c536a7f7-thumbnail.jpg" group-title="Basketball",Connecticut Sun vs. Golden State Valkyries
 http://192.168.2.139:8090/stream?uri=wnba/2026-05-25/con-gs
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c2dc67c4664061d4fbe8d8e15cb4aa1-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Gujarat Titans
@@ -43,8 +23,6 @@ http://192.168.2.139:8090/stream?uri=ipl/2026-05-26/rcb-gt
 http://192.168.2.139:8090/stream?uri=uecl/2026-05-27/cry-ray
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04dde5bde80cfea592f10c44e7273252-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Arsenal
 http://192.168.2.139:8090/stream?uri=ucl/2026-05-30/psg-ars
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6fc004a7df4ddb50e198717ed4cec741-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Montreal Canadiens
-http://192.168.2.139:8090/stream?uri=nhl/2026-05-25/car-mtl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 http://192.168.2.139:8090/stream?uri=smx-wk17
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cbc6203b659a7f2f4c594fd49a467d05-thumbnail.jpg" group-title="Rugby",New South Wales vs. Queensland
@@ -63,8 +41,6 @@ http://192.168.2.139:8090/stream?uri=nrl/2026-05-31/bri-st.
 http://192.168.2.139:8090/stream?uri=nrl/2026-05-31/can-nor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/95556d96bf54506ffd4bbb20b2a8c1c2-thumbnail.jpg" group-title="Rugby",Panthers vs. Warriors
 http://192.168.2.139:8090/stream?uri=nrl/2026-05-31/pen-new
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling",WWE: Monday Night RAW
-http://192.168.2.139:8090/stream?uri=wwe/raw/2026-05-25
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
 http://192.168.2.139:8090/stream?uri=wwe/nxt/2026-05-26
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
