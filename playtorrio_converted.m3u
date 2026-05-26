@@ -1,13 +1,121 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-05-26 05:02:30
-# Total Events: 1
-# Live Events: 1
+# PlayTorrio Sports Events - 2026-05-26 16:41:36
+# Total Events: 16
+# Live Events: 16
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[10:40] MLB - Oakland Athletics vs Seattle Mariners 🔴 - MLB Network 🇺🇸 USA
-https://cdnlivetv.tv/api/v1/channels/player/?name=mlb+network&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="Cycling",[21:00] Cycling - Giro d'Italia | Men | Stage 16 🔴 - truTV 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=trutv&code=us&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports.png" group-title="MLB",[10:40] MLB - Oakland Athletics vs Seattle Mariners 🔴 - NBCS California 🇺🇸 USA
-https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+california&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png" group-title="Cycling",[21:00] Cycling - Giro d'Italia | Men | Stage 16 🔴 - TNT Sports 3 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png" group-title="MLB",[10:40] MLB - Oakland Athletics vs Seattle Mariners 🔴 - TNT Sports 8 🇬🇧 UK
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png" group-title="Cycling",[21:00] Cycling - Giro d'Italia | Men | Stage 16 🔴 - TNT Sports 8 🇬🇧 UK
 https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+8&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.png" group-title="Cycling",[21:00] Cycling - Giro d'Italia | Men | Stage 16 🔴 - Euro Sport 1 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-1.png" group-title="Cycling",[21:00] Cycling - Giro d'Italia | Men | Stage 16 🔴 - Euro Sport 1 🇪🇸 Spain
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-2.svg" group-title="Cycling",[21:00] Cycling - Giro d'Italia | Men | Stage 16 🔴 - Rai 2 🇮🇹 Italy
+https://cdnlivetv.tv/api/v1/channels/player/?name=rai+2&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png" group-title="Cycling",[21:00] Cycling - Giro d'Italia | Men | Stage 16 🔴 - Euro Sport 1 🇮🇹 Italy
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-racing.svg" group-title="HorseRacing",[21:00] HorseRacing - Live racing from around the UK 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+racing&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg" group-title="Cricket",[23:00] Cricket - Women's Vitality Blast : Hampshire vs Essex 🔴 - Sky Sports Mix 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg" group-title="Cricket",[23:00] Cricket - Women's Vitality Blast : Hampshire vs Essex 🔴 - Sky Sports Arena 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png" group-title="Cricket",[23:00] Cricket - Women's Vitality Blast : Hampshire vs Essex 🔴 - Sky Sport 4 🇳🇿 New Zealand
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[23:00] Cricket - IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans 🔴 - Willow Cricket 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp" group-title="Cricket",[23:00] Cricket - IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans 🔴 - Willow 2 Cricket 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-cricket.svg" group-title="Cricket",[23:00] Cricket - IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans 🔴 - Fox Cricket 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/astro-cricket.webp" group-title="Cricket",[23:00] Cricket - IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans 🔴 - Astro Cricket 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg" group-title="Cricket",[23:00] Cricket - IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans 🔴 - Sky Sports Cricket 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Cricket",[23:00] Cricket - IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans 🔴 - Sky Sports Main Event 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/hub-premier-1.png" group-title="Cricket",[23:00] Cricket - IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans 🔴 - Hub Premier 1 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Cricket",[23:00] Cricket - IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans 🔴 - Sky Sport 1 🇳🇿 New Zealand
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[23:00] Cricket - IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans 🔴 - SuperSport Cricket 🇿🇦 South Africa
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Basketball",[23:30] Basketball - Israeli Basketball Super League : Maccabi Urban Ramat Gan vs Hapoel Netanel Holon 🔴 - Sport Klub 1 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="Basketball",[23:30] Basketball - Israeli Basketball Super League : Maccabi Urban Ramat Gan vs Hapoel Netanel Holon 🔴 - Sport 5 🇮🇱 Israel
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp" group-title="Premijer Liga",[00:00] Premijer Liga - Sloga Doboj vs Rudar Prijedor 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Basketball",[00:00] Basketball - Süper Ligi : Bahcesehir Koleji vs Trabzonspor 🔴 - Arena 1 Premium 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/turkey/bein-sports-5.svg" group-title="Basketball",[00:00] Basketball - Süper Ligi : Bahcesehir Koleji vs Trabzonspor 🔴 - beIN SPORTS 5 🇹🇷 Turkey
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+5&code=tr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-7.png" group-title="Premijer Liga",[01:00] Premijer Liga - Borac Banja Luka vs Posušje 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png" group-title="Friendly",[01:00] Friendly - Morocco vs Burundi 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-2.svg" group-title="Basketball",[01:00] Basketball - Liga Nationala : Cluj Napoca vs CSM Oradea 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/denmark/tv2-sport.svg" group-title="Handball",[01:30] Handball - 888ligaen : Skanderborg vs GOG 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport&code=dk&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-football.png" group-title="Superettan",[02:00] Superettan - Örebro vs Helsingborg 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[02:00] Golf - Women's College Golf 2026 NCAA Women's Team Match Play, Quarterfinals 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=golf+tv&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-6.png" group-title="Basketball",[02:00] Basketball - LNB : Lyon-Villeurbanne vs Cholet 🔴 - Sky Sport Bundesliga 6 🇩🇪 Germany
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp" group-title="Basketball",[02:00] Basketball - LNB : Lyon-Villeurbanne vs Cholet 🔴 - Sport Klub 2 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live.png" group-title="Basketball",[02:00] Basketball - LNB : Lyon-Villeurbanne vs Cholet 🔴 - Sport 5 Live 🇮🇱 Israel
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="Motorsport",[02:00] Motorsport - Swedish Elitserien League Speedway : Pirates Motala vs. Lions 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-6.webp" group-title="Basketball",[02:30] Basketball - Süper Ligi : Besiktas vs Galatasaray 🔴 - Cosmote Sport 6 🇬🇷 Greece
+https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+6&code=gr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Basketball",[02:30] Basketball - Süper Ligi : Besiktas vs Galatasaray 🔴 - Arena 1 Premium 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/turkey/bein-sports-5.svg" group-title="Basketball",[02:30] Basketball - Süper Ligi : Besiktas vs Galatasaray 🔴 - beIN SPORTS 5 🇹🇷 Turkey
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+5&code=tr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-4.png" group-title="Basketball",[02:30] Basketball - Süper Ligi : Besiktas vs Galatasaray 🔴 - Sport 4 🇮🇱 Israel
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=ntvstream&plan=free
