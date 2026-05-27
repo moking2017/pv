@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-05-27 18:17
-# Total: 56
+# UTC+8 | Generated: 2026-05-28 00:10
+# Total: 58
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/af834a60868f883cb69424a691fd6c28-thumbnail.jpg" group-title="American Football",[2026-05-30 08:00] Dallas Renegades vs. St. Louis Battlehawks
 https://ppv2.168.us.kg/stream?uri=ufl/2026-05-29/dal-stl
@@ -96,6 +96,15 @@ https://ppv2.168.us.kg/stream?uri=wnba/2026-05-27/con-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c32b0935a007759e7c85c47c74578f49-thumbnail.jpg" group-title="Basketball",[2026-05-28 10:00] Washington Mystics vs. Seattle Storm
 https://ppv2.168.us.kg/stream?uri=wnba/2026-05-27/wsh-sea
 
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aaf1de0f8b6e8d95ba5d8c481a3b0d98-thumbnail.jpg" group-title="Combat Sports",[2026-05-28 18:00] Road to UFC S5: Day 1
+https://ppv2.168.us.kg/stream?uri=road-to-ufc-s5-day-1
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aaf1de0f8b6e8d95ba5d8c481a3b0d98-thumbnail.jpg" group-title="Combat Sports",[2026-05-29 18:00] Road to UFC S5: Day 2
+https://ppv2.168.us.kg/stream?uri=road-to-ufc-s5-day-2
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/03e5e1f8a89c2b151e99bb77bc99efa8-thumbnail.jpg" group-title="Combat Sports",[2026-05-30 16:00] UFC Fight Night: Song vs. Figueiredo
+https://ppv2.168.us.kg/stream?uri=ufc-fight-night-song-vs-figueiredo
+
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/53c44f69ff52cf671024589ac0b6ddf0-thumbnail.jpg" group-title="Cricket",[2026-05-27 22:00] Rajasthan Royals vs. Sunrisers Hyderabad
 https://ppv2.168.us.kg/stream?uri=ipl/2026-05-27/rr-srh
 
@@ -110,9 +119,6 @@ https://ppv2.168.us.kg/stream?uri=nhl/2026-05-27/car-mtl
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",[2026-05-31 01:00] Pro Motocross: Fox Raceway
 https://ppv2.168.us.kg/stream?uri=smx-wk17
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cbc6203b659a7f2f4c594fd49a467d05-thumbnail.jpg" group-title="Rugby",[2026-05-27 18:05] New South Wales vs. Queensland
-https://ppv2.168.us.kg/stream?uri=nrl/2026-05-27/new-que
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e939c576f8dbb792a817f4c712803c94-thumbnail.jpg" group-title="Rugby",[2026-05-29 18:00] Sharks vs. Sea Eagles
 https://ppv2.168.us.kg/stream?uri=nrl/2026-05-29/cro-man
