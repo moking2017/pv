@@ -1,34 +1,223 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-05-28 02:59:01
-# Total Events: 7
-# Live Events: 7
+# PlayTorrio Sports Events - 2026-05-28 11:00:41
+# Total Events: 9
+# Live Events: 9
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[07:00] Golf - Women's College Golf 2026 NCAA Women's Team Match Play National Championship 🔴
-https://cdnlivetv.tv/api/v1/channels/player/?name=golf+tv&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - truTV 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=trutv&code=us&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/ssc-4.png" group-title="Motorsport",[08:00] Motorsport - FIA World Rally Championship : Rally Japan: Shakedown 🔴
-https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+4&code=sa&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tnt.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - TNT 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt&code=us&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[08:40] MLB - Chicago White Sox vs Minnesota Twins 🔴
-https://cdnlivetv.tv/api/v1/channels/player/?name=chicago+sports+network&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - beIN SPORTS 2 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-9.png" group-title="MLB",[08:40] MLB - Kansas City Royals vs New York Yankees 🔴
-https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - beIN SPORTS 1 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/space-city.png" group-title="MLB",[09:05] MLB - Texas Rangers vs Houston Astros 🔴 - Space City Home Network 🇺🇸 USA
-https://cdnlivetv.tv/api/v1/channels/player/?name=space+city+home+network&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - beIN SPORTS 3 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="MLB",[09:05] MLB - Texas Rangers vs Houston Astros 🔴 - TNT Sports 1 🇬🇧 UK
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - FanDuel Sports Network North 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=fanduel+sports+network+north&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - FanDuel Sports Network SoCal 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=fanduel+sports+network+socal&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - FanDuel Sports Network South 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=fanduel+sports+network+south&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fanduel-sports.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - FanDuel Sports Network West 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=fanduel+sports+network+west&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - FanDuel Sports Network Wisconsin 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=fanduel+sports+network+wisconsin&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - TNT Sports 1 🇬🇧 UK
 https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/denmark/tv2-sport.svg" group-title="Badminton",[11:00] Badminton - BWF World Tour Singapore Open 🔴
-https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport&code=dk&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-4.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - TNT Sports 4 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+4&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[11:10] MLB - Los Angeles Dodgers vs Colorado Rockies 🔴 - MLB Network 🇺🇸 USA
-https://cdnlivetv.tv/api/v1/channels/player/?name=mlb+network&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - Euro Sport 1 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet.png" group-title="MLB",[11:10] MLB - Los Angeles Dodgers vs Colorado Rockies 🔴 - Spectrum Sportsnet LA 🇺🇸 USA
-https://cdnlivetv.tv/api/v1/channels/player/?name=spectrum+sportsnet+la&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - Sky Sport 3 🇳🇿 New Zealand
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/mexico/espn-2.svg" group-title="MLB",[11:10] MLB - Los Angeles Dodgers vs Colorado Rockies 🔴 - ESPN 2 🇲🇽 Mexico
-https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - Sky Sport 4 🇳🇿 New Zealand
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-1.svg" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - TSN 1 🇨🇦 Canada
+https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+1&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - TSN 5 🇨🇦 Canada
+https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+5&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - RDS 🇨🇦 Canada
+https://cdnlivetv.tv/api/v1/channels/player/?name=rds&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-1.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - Euro Sport 1 🇪🇸 Spain
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - Euro Sport 1 🇮🇹 Italy
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-2.webp" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - Canal Sport 2 🇵🇱 Poland
+https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+2&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2.svg" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - ESPN 2 🇧🇷 Brazil
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=br&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn.svg" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - ESPN 🇦🇷 Argentina
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/ssc-1.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - SSC 1 🇸🇦 Saudi Arabia
+https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+1&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/ssc-2.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - SSC 2 🇸🇦 Saudi Arabia
+https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+2&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/ssc-3.png" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - SSC 3 🇸🇦 Saudi Arabia
+https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+3&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-7.svg" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - beIN SPORTS 7 🇸🇦 Saudi Arabia
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+7&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - beIN SPORTS 8 🇸🇦 Saudi Arabia
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+8&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-9.svg" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - beIN SPORTS 9 🇸🇦 Saudi Arabia
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+9&code=sa&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/india/sony-sports-ten-2.webp" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - SONY TEN 2 🇮🇳 India
+https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+2&code=in&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/india/sony-sports-ten-3.webp" group-title="Tennis",[17:30] Tennis - Roland-Garros 360 Day 5 🔴 - SONY TEN 3 🇮🇳 India
+https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+3&code=in&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/canal-sport-360.svg" group-title="Motorsport",[17:45] Motorsport - WRC Rally FORUM8 Rally Japan: Shakedown Kuragaike Park 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport360&code=fr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[19:00] Cricket - 1st Test | Day 2 : Ireland vs New Zealand 🔴 - Willow Cricket 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/astro-cricket.webp" group-title="Cricket",[19:00] Cricket - 1st Test | Day 2 : Ireland vs New Zealand 🔴 - Astro Cricket 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Cricket",[19:00] Cricket - 1st Test | Day 2 : Ireland vs New Zealand 🔴 - TNT Sports 2 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="Cricket",[19:00] Cricket - 1st Test | Day 2 : Ireland vs New Zealand 🔴 - Sky Sport 1 🇳🇿 New Zealand
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="Cricket",[19:00] Cricket - 1st Test | Day 2 : Ireland vs New Zealand 🔴 - SuperSport Action 🇿🇦 South Africa
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[19:00] Cricket - 1st Test | Day 2 : Ireland vs New Zealand 🔴 - SuperSport Cricket 🇿🇦 South Africa
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="Volleyball",[19:00] Volleyball - Beach Volleyball Pro Tour (M): Ostrava 🔴 - Polsat Sport 2 🇵🇱 Poland
+https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="Volleyball",[19:00] Volleyball - Beach Volleyball Pro Tour (M): Ostrava 🔴 - Sport Klub 3 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Volleyball",[19:00] Volleyball - Beach Volleyball Pro Tour (M): Ostrava 🔴 - Sport Klub 4 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[20:00] Golf - DP World Tour Austrian Alpine Open 🔴 - GOLF TV 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=golf+tv&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="Golf",[20:00] Golf - DP World Tour Austrian Alpine Open 🔴 - ESPN Deportes 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-golf.svg" group-title="Golf",[20:00] Golf - DP World Tour Austrian Alpine Open 🔴 - Sky Sports Golf 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+golf&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Golf",[20:00] Golf - DP World Tour Austrian Alpine Open 🔴 - Sky Sports Main Event 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png" group-title="Golf",[20:00] Golf - DP World Tour Austrian Alpine Open 🔴 - Sky Sport 4 🇳🇿 New Zealand
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-golf.webp" group-title="Golf",[20:00] Golf - DP World Tour Austrian Alpine Open 🔴 - SuperSport Golf 🇿🇦 South Africa
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+golf&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-golf.svg" group-title="Golf",[20:00] Golf - DP World Tour Austrian Alpine Open 🔴 - Movistar Golf 🇪🇸 Spain
+https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+golf&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png" group-title="Golf",[20:00] Golf - DP World Tour Austrian Alpine Open 🔴 - Ziggo Sport 6 🇳🇱 Netherlands
+https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+6&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png" group-title="Golf",[20:00] Golf - DP World Tour Austrian Alpine Open 🔴 - Ziggo Sport 1 🇳🇱 Netherlands
+https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg" group-title="Golf",[20:00] Golf - DP World Tour Austrian Alpine Open 🔴 - Max Sport 2 🇧🇬 Bulgaria
+https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+2&code=bg&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/sk-golf.png.webp" group-title="Golf",[20:00] Golf - DP World Tour Austrian Alpine Open 🔴 - Sport Klub Golf 🇭🇷 Croatia
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+golf&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2.svg" group-title="Golf",[20:00] Golf - DP World Tour Austrian Alpine Open 🔴 - ESPN 2 🇦🇷 Argentina
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="Volleyball",[20:00] Volleyball - Beach Volleyball Pro Tour (F): Ostrava 🔴 - Sport Klub 3 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="Volleyball",[20:00] Volleyball - Beach Volleyball Pro Tour (F): Ostrava 🔴 - Sport Klub 4 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="Cycling",[20:00] Cycling - Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km) 🔴 - truTV 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=trutv&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png" group-title="Cycling",[20:00] Cycling - Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km) 🔴 - TNT Sports 3 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.png" group-title="Cycling",[20:00] Cycling - Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km) 🔴 - Euro Sport 1 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-1.png" group-title="Cycling",[20:00] Cycling - Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km) 🔴 - Euro Sport 1 🇪🇸 Spain
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-2.svg" group-title="Cycling",[20:00] Cycling - Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km) 🔴 - Rai 2 🇮🇹 Italy
+https://cdnlivetv.tv/api/v1/channels/player/?name=rai+2&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png" group-title="Cycling",[20:00] Cycling - Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km) 🔴 - Euro Sport 1 🇮🇹 Italy
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[21:00] Golf - PGA Tour Charles Schwab Challenge 🔴 - GOLF TV 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=golf+tv&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="Golf",[21:00] Golf - PGA Tour Charles Schwab Challenge 🔴 - ESPN Deportes 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-golf.svg" group-title="Golf",[21:00] Golf - PGA Tour Charles Schwab Challenge 🔴 - Sky Sports Golf 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+golf&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg" group-title="Golf",[21:00] Golf - PGA Tour Charles Schwab Challenge 🔴 - Sky Sports Arena 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Golf",[21:00] Golf - PGA Tour Charles Schwab Challenge 🔴 - Sky Sports Main Event 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png" group-title="Golf",[21:00] Golf - PGA Tour Charles Schwab Challenge 🔴 - Sky Sport 4 🇳🇿 New Zealand
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-golf.webp" group-title="Golf",[21:00] Golf - PGA Tour Charles Schwab Challenge 🔴 - SuperSport Golf 🇿🇦 South Africa
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+golf&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-golf.svg" group-title="Golf",[21:00] Golf - PGA Tour Charles Schwab Challenge 🔴 - Movistar Golf 🇪🇸 Spain
+https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+golf&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png" group-title="Golf",[21:00] Golf - PGA Tour Charles Schwab Challenge 🔴 - Ziggo Sport 6 🇳🇱 Netherlands
+https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+6&code=nl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/sk-golf.png.webp" group-title="Golf",[21:00] Golf - PGA Tour Charles Schwab Challenge 🔴 - Sport Klub Golf 🇭🇷 Croatia
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+golf&code=hr&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2.svg" group-title="Golf",[21:00] Golf - PGA Tour Charles Schwab Challenge 🔴 - ESPN 2 🇦🇷 Argentina
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-racing.svg" group-title="HorseRacing",[21:00] HorseRacing - Live racing from around the UK 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+racing&code=gb&user=ntvstream&plan=free
