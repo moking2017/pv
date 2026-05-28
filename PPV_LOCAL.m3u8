@@ -37,8 +37,6 @@ http://192.168.2.139:8090/stream?uri=wnba/2026-05-28/lv-dal
 http://192.168.2.139:8090/stream?uri=nba/2026-05-28/okc-sa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/54edfde4a07e032273e6f2f0c4222a35-thumbnail.jpg" group-title="Basketball",Indiana Fever vs. Golden State Valkyries
 http://192.168.2.139:8090/stream?uri=wnba/2026-05-28/ind-gs
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aaf1de0f8b6e8d95ba5d8c481a3b0d98-thumbnail.jpg" group-title="Combat Sports",Road to UFC S5: Day 1
-http://192.168.2.139:8090/stream?uri=road-to-ufc-s5-day-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aaf1de0f8b6e8d95ba5d8c481a3b0d98-thumbnail.jpg" group-title="Combat Sports",Road to UFC S5: Day 2
 http://192.168.2.139:8090/stream?uri=road-to-ufc-s5-day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/03e5e1f8a89c2b151e99bb77bc99efa8-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Song vs. Figueiredo
@@ -49,16 +47,22 @@ http://192.168.2.139:8090/stream?uri=ipl/2026-05-29/gt-rr
 http://192.168.2.139:8090/stream?uri=premier-league-darts-finals
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04dde5bde80cfea592f10c44e7273252-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Arsenal
 http://192.168.2.139:8090/stream?uri=ucl/2026-05-30/psg-ars
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d60ff3bbf259187d5452659a7f86ec74-thumbnail.jpg" group-title="Ice Hockey",Finland vs. Czech Republic
-http://192.168.2.139:8090/stream?uri=iihf-world-championship/2026-05-28/fin-cze
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/509acb3c85b68809d386c1dfd2b6beee-thumbnail.jpg" group-title="Ice Hockey",Canada vs. United States
-http://192.168.2.139:8090/stream?uri=iihf-world-championship/2026-05-28/can-usa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5052adf493794681d8213ccefdec92aa-thumbnail.jpg" group-title="Ice Hockey",Switzerland vs. Sweden
 http://192.168.2.139:8090/stream?uri=iihf-world-championship/2026-05-28/sui-swe
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3cc72fc0be9726c137a875199ea726ae-thumbnail.jpg" group-title="Ice Hockey",Norway vs. Latvia
 http://192.168.2.139:8090/stream?uri=iihf-world-championship/2026-05-28/nor-lat
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 http://192.168.2.139:8090/stream?uri=smx-wk17
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07ca74a650a329183adcfed95a667f16-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 1
+http://192.168.2.139:8090/stream?uri=f1/2026/monaco/fp1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e86534a424dc4a31d9b0e93409f70773-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 2
+http://192.168.2.139:8090/stream?uri=f1/2026/monaco/fp2
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ecca83b07fb621777f164edd1aa1f3b3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 3
+http://192.168.2.139:8090/stream?uri=f1/2026/monaco/fp3
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/31cf91a6a29df3131ca4172bf394da66-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Qualifying
+http://192.168.2.139:8090/stream?uri=f1/2026/monaco/qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Race
+http://192.168.2.139:8090/stream?uri=f1/2026/monaco/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e939c576f8dbb792a817f4c712803c94-thumbnail.jpg" group-title="Rugby",Sharks vs. Sea Eagles
 http://192.168.2.139:8090/stream?uri=nrl/2026-05-29/cro-man
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/79343fa7fcfc09c88c8caec651bfbb39-thumbnail.jpg" group-title="Rugby",Knights vs. Eels
