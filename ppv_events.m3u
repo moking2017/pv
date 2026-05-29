@@ -1,13 +1,22 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-05-30 04:37
-# Total: 57
+# UTC+8 | Generated: 2026-05-30 06:41
+# Total: 59
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e7ad0179e315d8b174e93d2f1254313b-thumbnail.jpg" group-title="American Football",[2026-05-30 07:00] Montreal Alouettes vs. Ottawa RedBlacks
 https://ppv2.168.us.kg/stream?uri=cfl/2026-05-29/mtl-ott
 
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c76bb31afb08923cefa89d5e330a455-thumbnail.jpg" group-title="American Football",[2026-05-30 07:00] Hamilton Tiger-Cats vs. Toronto Argonauts
+https://ppv2.168.us.kg/stream?uri=cfl/2026-05-29/ham-tor
+
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/af834a60868f883cb69424a691fd6c28-thumbnail.jpg" group-title="American Football",[2026-05-30 08:00] Dallas Renegades vs. St. Louis Battlehawks
 https://ppv2.168.us.kg/stream?uri=ufl/2026-05-29/dal-stl
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/230dab6bdc6ef6e8e765916f00fe5398-thumbnail.jpg" group-title="American Football",[2026-05-30 08:30] BC Lions vs. Winnipeg Blue Bombers
+https://ppv2.168.us.kg/stream?uri=cfl/2026-05-29/bc-wpg
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98c0d89f8b8fb0caa44c2a41c86bc7f3-thumbnail.jpg" group-title="American Football",[2026-05-30 09:00] Calgary Stampeders vs. Edmonton Elks
+https://ppv2.168.us.kg/stream?uri=cfl/2026-05-29/cgy-edm
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/550e0326f0d99ae2ea2f0ae90b21fd81-thumbnail.jpg" group-title="American Football",[2026-05-31 03:00] Houston Gamblers vs. Birmingham Stallions
 https://ppv2.168.us.kg/stream?uri=ufl/2026-05-30/hou-bham
@@ -149,9 +158,6 @@ https://ppv2.168.us.kg/stream?uri=roland-garros-tnt-sports-1
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 4
 https://ppv2.168.us.kg/stream?uri=roland-garros-tnt-sports-4
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",[2026-05-30 02:00] WWE: Friday Night Smackdown
-https://ppv2.168.us.kg/stream?uri=wwe/smackdown/2026-05-29
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",[2026-05-31 08:00] AEW: Saturday Night Collision
 https://ppv2.168.us.kg/stream?uri=aew/collision/2026-05-30
