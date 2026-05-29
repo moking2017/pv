@@ -1,12 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e7ad0179e315d8b174e93d2f1254313b-thumbnail.jpg" group-title="American Football",Montreal Alouettes vs. Ottawa RedBlacks
+http://192.168.2.139:8090/stream?uri=cfl/2026-05-29/mtl-ott
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c76bb31afb08923cefa89d5e330a455-thumbnail.jpg" group-title="American Football",Hamilton Tiger-Cats vs. Toronto Argonauts
+http://192.168.2.139:8090/stream?uri=cfl/2026-05-29/ham-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/af834a60868f883cb69424a691fd6c28-thumbnail.jpg" group-title="American Football",Dallas Renegades vs. St. Louis Battlehawks
 http://192.168.2.139:8090/stream?uri=ufl/2026-05-29/dal-stl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/230dab6bdc6ef6e8e765916f00fe5398-thumbnail.jpg" group-title="American Football",BC Lions vs. Winnipeg Blue Bombers
+http://192.168.2.139:8090/stream?uri=cfl/2026-05-29/bc-wpg
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98c0d89f8b8fb0caa44c2a41c86bc7f3-thumbnail.jpg" group-title="American Football",Calgary Stampeders vs. Edmonton Elks
+http://192.168.2.139:8090/stream?uri=cfl/2026-05-29/cgy-edm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/550e0326f0d99ae2ea2f0ae90b21fd81-thumbnail.jpg" group-title="American Football",Houston Gamblers vs. Birmingham Stallions
 http://192.168.2.139:8090/stream?uri=ufl/2026-05-30/hou-bham
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be3a8091b0132cb86dcb8f8191cb725e-thumbnail.jpg" group-title="American Football",Orlando Storm vs. DC Defenders
 http://192.168.2.139:8090/stream?uri=ufl/2026-05-31/orl-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/362039a02f9e41cf73bfe3cb7ab7a470-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Columbus Aviators
 http://192.168.2.139:8090/stream?uri=ufl/2026-05-31/lou-clb
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07aaa43adf4d866a3aaf2274768e036c-thumbnail.jpg" group-title="American Football",Montreal Alouettes vs. Hamilton Tiger-Cats
+http://192.168.2.139:8090/stream?uri=cfl/2026-06-04/mtl-ham
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3f604c7bfb003e5389a96cdd5956670-thumbnail.jpg" group-title="Australian Football",Sydney Swans vs. Richmond
 http://192.168.2.139:8090/stream?uri=afl/2026-05-30/syd-rich
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b68541caa367577815f0d9b6ff8de06-thumbnail.jpg" group-title="Australian Football",Brisbane Lions vs. Fremantle
@@ -55,14 +65,12 @@ http://192.168.2.139:8090/stream?uri=wnba/2026-05-29/la-wsh
 http://192.168.2.139:8090/stream?uri=wnba/2026-05-29/min-chi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/736327e1c2d37e7b8c83befbc44f512a-thumbnail.jpg" group-title="Basketball",Atlanta Dream vs. Portland Fire
 http://192.168.2.139:8090/stream?uri=wnba/2026-05-29/atl-por
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aaf1de0f8b6e8d95ba5d8c481a3b0d98-thumbnail.jpg" group-title="Combat Sports",Road to UFC S5: Day 2
-http://192.168.2.139:8090/stream?uri=road-to-ufc-s5-day-2
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0ef5d2126d3e2db57fec4c685c8bbb86-thumbnail.jpg" group-title="Combat Sports",ONE Friday Fights 156 & The Inner Circle
-http://192.168.2.139:8090/stream?uri=one-friday-fights-156--the-inner-circle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/03e5e1f8a89c2b151e99bb77bc99efa8-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Song vs. Figueiredo
 http://192.168.2.139:8090/stream?uri=ufc-fight-night-song-vs-figueiredo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/900b374391c107fbfbe8675874cabff3-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Rajasthan Royals
-http://192.168.2.139:8090/stream?uri=ipl/2026-05-29/gt-rr
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e2a972d1c6b07abdb33c1721f748fa9-thumbnail.jpg" group-title="Combat Sports",Dmitry Bivol vs. Michael Eifert
+http://192.168.2.139:8090/stream?uri=bivol-vs-eifert
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba40c428d0b9238582b4c46159bbe32a-thumbnail.jpg" group-title="Combat Sports",O'Shaquie Foster vs. Raymond Ford
+http://192.168.2.139:8090/stream?uri=oshaquie-foster-vs-raymond-ford
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04dde5bde80cfea592f10c44e7273252-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Arsenal
 http://192.168.2.139:8090/stream?uri=ucl/2026-05-30/psg-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e1e6ca4d566e8a23de197b510169769-thumbnail.jpg" group-title="Ice Hockey",Montreal Canadiens vs. Carolina Hurricanes
@@ -95,8 +103,6 @@ http://192.168.2.139:8090/stream?uri=nrl/2026-05-31/pen-new
 http://192.168.2.139:8090/stream?uri=roland-garros-tnt-sports-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 4
 http://192.168.2.139:8090/stream?uri=roland-garros-tnt-sports-4
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
-http://192.168.2.139:8090/stream?uri=wwe/smackdown/2026-05-29
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
 http://192.168.2.139:8090/stream?uri=aew/collision/2026-05-30
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
