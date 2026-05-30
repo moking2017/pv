@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-05-31 03:39
-# Total: 49
+# UTC+8 | Generated: 2026-05-31 06:10
+# Total: 54
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/550e0326f0d99ae2ea2f0ae90b21fd81-thumbnail.jpg" group-title="American Football",[2026-05-31 03:00] Houston Gamblers vs. Birmingham Stallions
 https://ppv2.168.us.kg/stream?uri=ufl/2026-05-30/hou-bham
@@ -20,9 +20,6 @@ https://ppv2.168.us.kg/stream?uri=afl/2026-05-31/melb-gws
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99bbdd99fbc9767d4ebde02eb9c51c95-thumbnail.jpg" group-title="Australian Football",[2026-05-31 17:20] West Coast Eagles vs. Essendon
 https://ppv2.168.us.kg/stream?uri=afl/2026-05-31/wce-ess
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d8f4f428467d51326e516ede66bd3cc0-thumbnail.jpg" group-title="Baseball",[2026-05-31 02:10] Detroit Tigers vs. Chicago White Sox
-https://ppv2.168.us.kg/stream?uri=mlb/2026-05-30/det-chw
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b15f6e3569fa646b5a074e5ecc9221d0-thumbnail.jpg" group-title="Baseball",[2026-05-31 04:05] Minnesota Twins vs. Pittsburgh Pirates
 https://ppv2.168.us.kg/stream?uri=mlb/2026-05-30/min-pit
@@ -66,9 +63,6 @@ https://ppv2.168.us.kg/stream?uri=mlb/2026-05-30/ari-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2132c0278366d3d94a1c230970d995cb-thumbnail.jpg" group-title="Baseball",[2026-05-31 10:10] Philadelphia Phillies vs. Los Angeles Dodgers
 https://ppv2.168.us.kg/stream?uri=mlb/2026-05-30/phi-lad
 
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93e5bbab3e7495373d58728e654e0260-thumbnail.jpg" group-title="Basketball",[2026-05-31 01:00] Seattle Storm vs. Toronto Tempo
-https://ppv2.168.us.kg/stream?uri=wnba/2026-05-30/sea-tor
-
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b1eb1f7876f72fb850a07601467c860a-thumbnail.jpg" group-title="Basketball",[2026-05-31 06:00] Los Angeles Sparks vs. Connecticut Sun
 https://ppv2.168.us.kg/stream?uri=wnba/2026-05-30/la-con
 
@@ -87,14 +81,35 @@ https://ppv2.168.us.kg/stream?uri=bkfc-90-tierney-vs-franco
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba40c428d0b9238582b4c46159bbe32a-thumbnail.jpg" group-title="Combat Sports",[2026-05-31 08:00] O'Shaquie Foster vs. Raymond Ford
 https://ppv2.168.us.kg/stream?uri=oshaquie-foster-vs-raymond-ford
 
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c85d2aa04bc8470f1c49f018b7cb90da-thumbnail.jpg" group-title="Combat Sports",[2026-05-31 08:00] RAF 09: Steveson vs. Romanov
+https://ppv2.168.us.kg/stream?uri=raf-09
+
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2a49bc6cc8c5b5ef7b7db1fa93c7566c-thumbnail.jpg" group-title="Cricket",[2026-05-31 22:00] Gujarat Titans vs. Royal Challengers Bengaluru
 https://ppv2.168.us.kg/stream?uri=ipl/2026-05-31/gt-rcb
 
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04dde5bde80cfea592f10c44e7273252-thumbnail.jpg" group-title="Football",[2026-05-31 00:00] Paris Saint-Germain vs. Arsenal
-https://ppv2.168.us.kg/stream?uri=ucl/2026-05-30/psg-ars
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/832f4cc7ce0802aaaba5b990170f8b71-thumbnail.jpg" group-title="Football",[2026-05-31 21:00] Switzerland vs. Jordan
+https://ppv2.168.us.kg/stream?uri=mens-international-friendly/2026-05-31/sui-jor
 
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8530274229747a7565002f0f7deb1b32-thumbnail.jpg" group-title="Ice Hockey",[2026-05-31 02:00] Canada vs. Finland
-https://ppv2.168.us.kg/stream?uri=iihf-world-championship/2026-05-30/can-fin
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f4afb3018c9bdf6675d8a8f10b1674b-thumbnail.jpg" group-title="Football",[2026-05-31 22:00] Brighton & Hove Albion vs. Manchester City
+https://ppv2.168.us.kg/stream?uri=womens-fa-cup/2026-05-31/bha-mci
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d3ad0f75ce54911ef6dbf5775a8cb0be-thumbnail.jpg" group-title="Football",[2026-05-31 22:00] Czechia vs. Kosovo
+https://ppv2.168.us.kg/stream?uri=mens-international-friendly/2026-05-31/cze-kos
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c90d8b337d41ddf28fe006ab91e73eac-thumbnail.jpg" group-title="Football",[2026-05-31 23:30] Poland vs. Ukraine
+https://ppv2.168.us.kg/stream?uri=mens-international-friendly/2026-05-31/pol-ukr
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/765750636cf8651bd66b2585481dcf1c-thumbnail.jpg" group-title="Football",[2026-06-01 02:45] Germany vs. Finland
+https://ppv2.168.us.kg/stream?uri=mens-international-friendly/2026-05-31/ger-fin
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/651b0cc363a24d05593c1cf3ae3e63da-thumbnail.jpg" group-title="Football",[2026-06-01 03:30] United States vs. Senegal
+https://ppv2.168.us.kg/stream?uri=mens-international-friendly/2026-05-31/usa-sen
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0538ffe471086a9d189adacf591c83d7-thumbnail.jpg" group-title="Football",[2026-06-12 03:00] Mexico vs. South Africa
+https://ppv2.168.us.kg/stream?uri=wc/2026-06-11/mex-rsa
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",[2026-06-12 10:00] South Korea vs. Czechia
+https://ppv2.168.us.kg/stream?uri=wc/2026-06-11/kor-cze
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",[2026-05-31 01:00] Pro Motocross: Fox Raceway
 https://ppv2.168.us.kg/stream?uri=smx-wk17
