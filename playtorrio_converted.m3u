@@ -1,7 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-06-01 22:10:19
-# Total Events: 7
-# Live Events: 7
+# PlayTorrio Sports Events - 2026-06-02 00:12:44
+# Total Events: 11
+# Live Events: 11
 
 #EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[06:30] Golf - College Golf 2026 NCAA Men's Individual National Championship 🔴
 https://cdnlivetv.tv/api/v1/channels/player/?name=golf+tv&code=us&user=ntvstream&plan=free
@@ -38,3 +38,48 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+8&code=gb&user=ntvs
 
 #EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-7.png" group-title="MLB",[08:10] MLB - Cincinnati Reds vs Kansas City Royals 🔴
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[08:40] MLB - Minnesota Twins vs Chicago White Sox 🔴 - Chicago Sports Network 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=chicago+sports+network&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-6.png" group-title="MLB",[08:40] MLB - Minnesota Twins vs Chicago White Sox 🔴 - Sky Sport Bundesliga 6 🇩🇪 Germany
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports.png" group-title="MLB",[08:40] MLB - Milwaukee Brewers vs San Francisco Giants 🔴 - NBCS Bay Area 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+bay+area&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="MLB",[08:40] MLB - Milwaukee Brewers vs San Francisco Giants 🔴 - FOX Sports 1 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="MLB",[08:40] MLB - Milwaukee Brewers vs San Francisco Giants 🔴 - TNT Sports 1 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="MLB",[08:40] MLB - Milwaukee Brewers vs San Francisco Giants 🔴 - TNT Sports 2 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp" group-title="WWE",[09:00] WWE - WWE Monday Night RAW 🔴 - SuperSport Grandstand 🇿🇦 South Africa
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-action.webp" group-title="WWE",[09:00] WWE - WWE Monday Night RAW 🔴 - SuperSport Action 🇿🇦 South Africa
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg" group-title="Friendly",[10:00] Friendly - Canada vs Uzbekistan 🔴 - FOX Sports 2 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-1.svg" group-title="Friendly",[10:00] Friendly - Canada vs Uzbekistan 🔴 - TSN 1 🇨🇦 Canada
+https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+1&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="Friendly",[10:00] Friendly - Canada vs Uzbekistan 🔴 - RDS 🇨🇦 Canada
+https://cdnlivetv.tv/api/v1/channels/player/?name=rds&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-3.svg" group-title="Friendly",[10:00] Friendly - Canada vs Uzbekistan 🔴 - TSN 3 🇨🇦 Canada
+https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+3&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-4.svg" group-title="Friendly",[10:00] Friendly - Canada vs Uzbekistan 🔴 - TSN 4 🇨🇦 Canada
+https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+4&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-5.svg" group-title="Friendly",[10:00] Friendly - Canada vs Uzbekistan 🔴 - TSN 5 🇨🇦 Canada
+https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+5&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg" group-title="Friendly",[10:00] Friendly - Canada vs Uzbekistan 🔴 - Sport TV 2 🇵🇹 Portugal
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=ntvstream&plan=free
