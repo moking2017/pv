@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-03T08:57:44.471607",
-  "total_events": 4,
-  "live_events": 4,
+  "generated_at": "2026-06-03T13:20:07.395428",
+  "total_events": 9,
+  "live_events": 9,
   "events": [
     {
       "title": "Roland-Garros 360 Day 9 | Quarter-Final Roland-Garros",
@@ -217,10 +217,10 @@
       "live": true
     },
     {
-      "title": "League of Nations : Thailand vs Serbia",
+      "title": "League of Nations : China vs Czech Republic",
       "league": "Volleyball",
-      "time": "09:00",
-      "timestamp": 1780470000000,
+      "time": "13:30",
+      "timestamp": 1780486200000,
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
@@ -229,13 +229,6 @@
           "country": "🇵🇱 Poland",
           "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport.svg",
           "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Arena 2 Premium 🇷🇸 Serbia",
-          "channel": "Arena 2 Premium",
-          "country": "🇷🇸 Serbia",
-          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=ntvstream&plan=free"
         },
         {
           "name": "Sport Klub 1 🇷🇸 Serbia",
@@ -248,35 +241,155 @@
       "live": true
     },
     {
-      "title": "NBL : Auckland Tuatara vs Canterbury Rams",
-      "league": "Basketball",
-      "time": "09:00",
-      "timestamp": 1780470000000,
+      "title": "Mercan'Tour Classic I | Puget-Théniers – Valberg (152km)",
+      "league": "Cycling",
+      "time": "14:00",
+      "timestamp": 1780488000000,
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
-          "name": "Sky Sport 3 🇳🇿 New Zealand",
-          "channel": "Sky Sport 3",
-          "country": "🇳🇿 New Zealand",
-          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.png",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=ntvstream&plan=free"
+          "name": "TNT Sports 2 🇬🇧 UK",
+          "channel": "TNT Sports 2",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=ntvstream&plan=free"
         }
       ],
       "live": true
     },
     {
-      "title": "Champions League Final Semi-finals - second leg",
-      "league": "Futsal",
-      "time": "10:00",
-      "timestamp": 1780473600000,
+      "title": "Giro d'Italia Women Stage 5 | Longarone - Santo Stefano di Cadore (146km)",
+      "league": "Cycling",
+      "time": "15:30",
+      "timestamp": 1780493400000,
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
-          "name": "Arena 1 Premium 🇷🇸 Serbia",
-          "channel": "Arena 1 Premium",
-          "country": "🇷🇸 Serbia",
-          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=ntvstream&plan=free"
+          "name": "TNT Sports 3 🇬🇧 UK",
+          "channel": "TNT Sports 3",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Euro Sport 2 🇬🇧 UK",
+          "channel": "Euro Sport 2",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-2.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=gb&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Euro Sport 2 🇪🇸 Spain",
+          "channel": "Euro Sport 2",
+          "country": "🇪🇸 Spain",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-2.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=es&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Euro Sport 2 🇮🇹 Italy",
+          "channel": "Euro Sport 2",
+          "country": "🇮🇹 Italy",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-2.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Tour of Wallonie | Stage 3 Men | Habay – Vaux-sur-S?re (176.9km)",
+      "league": "Cycling",
+      "time": "15:30",
+      "timestamp": 1780493400000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "SSC 1 🇸🇦 Saudi Arabia",
+          "channel": "SSC 1",
+          "country": "🇸🇦 Saudi Arabia",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/ssc-1.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+1&code=sa&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Live racing from around the UK",
+      "league": "HorseRacing",
+      "time": "14:00",
+      "timestamp": 1780488000000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Sky Sports Racing 🇬🇧 UK",
+          "channel": "Sky Sports Racing",
+          "country": "🇬🇧 UK",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-racing.svg",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+racing&code=gb&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "World Cup 3x3 : Netherlands 3x3 vs Japan 3x3",
+      "league": "Basketball",
+      "time": "13:20",
+      "timestamp": 1780485600000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "beIN SPORTS 🇺🇸 USA",
+          "channel": "beIN SPORTS",
+          "country": "🇺🇸 USA",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Sky Sport 4 🇳🇿 New Zealand",
+          "channel": "Sky Sport 4",
+          "country": "🇳🇿 New Zealand",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=ntvstream&plan=free"
+        },
+        {
+          "name": "TVP Sport 🇵🇱 Poland",
+          "channel": "TVP Sport",
+          "country": "🇵🇱 Poland",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport.svg",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "World Cup 3x3 : Japan 3x3 vs New Zealand 3x3",
+      "league": "Basketball",
+      "time": "15:35",
+      "timestamp": 1780493700000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Sky Sport 4 🇳🇿 New Zealand",
+          "channel": "Sky Sport 4",
+          "country": "🇳🇿 New Zealand",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Russia Superliga : Tyumen vs Ukhta",
+      "league": "Futsal",
+      "time": "16:00",
+      "timestamp": 1780495200000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Match TV 🇷🇺 Russia",
+          "channel": "Match TV",
+          "country": "🇷🇺 Russia",
+          "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/russia/match-tv.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=match+tv&code=ru&user=ntvstream&plan=free"
         }
       ],
       "live": true
