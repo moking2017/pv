@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-06-05 18:13
-# Total: 70
+# UTC+8 | Generated: 2026-06-05 23:26
+# Total: 67
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bfbf16b638a692fef1a8a0c000d8fc4e-thumbnail.jpg" group-title="American Football",[2026-06-06 09:00] Winnipeg Blue Bombers vs. Calgary Stampeders
 https://ppv2.168.us.kg/stream?uri=cfl/2026-06-05/wpg-cgy
@@ -29,9 +29,6 @@ https://ppv2.168.us.kg/stream?uri=ufl/2026-06-07/lou-stl
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/273e8f79145d4626f689579cab2760dd-thumbnail.jpg" group-title="Arm Wrestling",[2026-06-07 01:00] East vs West 24
 https://ppv2.168.us.kg/stream?uri=east-vs-west-24
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/87cf58eefce0d6ce13b00337b0322a85-thumbnail.jpg" group-title="Australian Football",[2026-06-05 17:40] Hawthorn vs. Western Bulldogs
-https://ppv2.168.us.kg/stream?uri=afl/2026-06-05/haw-wb
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a0cafcebc44cf14a5625a2fe6a8a4811-thumbnail.jpg" group-title="Australian Football",[2026-06-06 12:15] North Melbourne vs. Fremantle
 https://ppv2.168.us.kg/stream?uri=afl/2026-06-06/nmfc-fre
@@ -108,6 +105,9 @@ https://ppv2.168.us.kg/stream?uri=wnba/2026-06-05/dal-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/900b687268fb4e26bb73bdc38aea361e-thumbnail.jpg" group-title="Basketball",[2026-06-06 10:00] Phoenix Mercury vs. Portland Fire
 https://ppv2.168.us.kg/stream?uri=wnba/2026-06-05/phx-por
 
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36127ab2ce99531acc560ed7c14977ba-thumbnail.jpg" group-title="Combat Sports",[2026-06-05 19:30] ONE Friday Fights 157 & The Inner Circle
+https://ppv2.168.us.kg/stream?uri=one-friday-fights-157--the-inner-circle
+
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69a768f5687199a81420aa5f7d6221db-thumbnail.jpg" group-title="Combat Sports",[2026-06-07 00:00] OKTAGON 89: Severino VS. Zhumagulov
 https://ppv2.168.us.kg/stream?uri=oktagon-89
 
@@ -150,9 +150,6 @@ https://ppv2.168.us.kg/stream?uri=wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",[2026-06-12 10:00] South Korea vs. Czechia
 https://ppv2.168.us.kg/stream?uri=wc/2026-06-11/kor-cze
 
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07ca74a650a329183adcfed95a667f16-thumbnail.jpg" group-title="Motorsports",[2026-06-05 19:30] Monaco Grand Prix - Practice 1
-https://ppv2.168.us.kg/stream?uri=f1/2026/monaco/fp1
-
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e86534a424dc4a31d9b0e93409f70773-thumbnail.jpg" group-title="Motorsports",[2026-06-05 23:00] Monaco Grand Prix - Practice 2
 https://ppv2.168.us.kg/stream?uri=f1/2026/monaco/fp2
 
@@ -164,12 +161,6 @@ https://ppv2.168.us.kg/stream?uri=f1/2026/monaco/qualifying
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg" group-title="Motorsports",[2026-06-07 21:00] Monaco Grand Prix - Race
 https://ppv2.168.us.kg/stream?uri=f1/2026/monaco/race
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ce50d4cdd79bc71d34f67c640ccb9a83-thumbnail.jpg" group-title="Rugby",[2026-06-05 16:00] Storm vs. Knights
-https://ppv2.168.us.kg/stream?uri=nrl/2026-06-05/mel-new
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4243b041996e9647dfc801d81e3ad58-thumbnail.jpg" group-title="Rugby",[2026-06-05 18:00] Raiders vs. Roosters
-https://ppv2.168.us.kg/stream?uri=nrl/2026-06-05/can-syd
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3efc8a6b27d1ec485c31114681c966be-thumbnail.jpg" group-title="Rugby",[2026-06-06 15:30] Cowboys vs. Dolphins
 https://ppv2.168.us.kg/stream?uri=nrl/2026-06-06/nor-dol
