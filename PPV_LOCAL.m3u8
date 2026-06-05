@@ -33,14 +33,6 @@ http://192.168.2.139:8090/stream?uri=afl/2026-06-07/syd-stk
 http://192.168.2.139:8090/stream?uri=afl/2026-06-07/ess-carl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73a10a40c4a972ff6cdcd72ebbd36906-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Melbourne
 http://192.168.2.139:8090/stream?uri=afl/2026-06-08/coll-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/411626507ed9841110a2a217f79cd0f2-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Philadelphia Phillies
-http://192.168.2.139:8090/stream?uri=mlb/2026-06-04/sd-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/913170f1dc80c5c0fda3f6084f386fbe-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Boston Red Sox
-http://192.168.2.139:8090/stream?uri=mlb/2026-06-04/bal-bos
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fdae8dbf90c8eb025de8818ff0ecdbb7-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. New York Yankees
-http://192.168.2.139:8090/stream?uri=mlb/2026-06-04/cle-nyy
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6612c8a795208830f140ff7ed745b5ec-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Milwaukee Brewers
-http://192.168.2.139:8090/stream?uri=mlb/2026-06-04/sf-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/242099426aaa2236e495da20a5e8b571-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Atlanta Braves
 http://192.168.2.139:8090/stream?uri=mlb/2026-06-04/tor-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/031acdc8ab0bd2488ddf822cb9ed9542-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Minnesota Twins
@@ -61,14 +53,28 @@ http://192.168.2.139:8090/stream?uri=oktagon-89
 http://192.168.2.139:8090/stream?uri=ufc-fight-night-muhammad-vs-bonfim
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1555dc2c7108f95597bd14c9eb341e47-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
 http://192.168.2.139:8090/stream?uri=cricket/2026-06-04/eng-nzl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/65e44e7f4c34af7a088cef8667c841ad-thumbnail.jpg" group-title="Football",Spain vs. Iraq
-http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-04/esp-irq
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c027a2f20aa94111e1e4c249f8c738d-thumbnail.jpg" group-title="Football",France vs. Ivory Coast
-http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-04/fra-civ
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3a871da17a64e09d708e033b22b15430-thumbnail.jpg" group-title="Football",Czechia vs. Guatemala
 http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-05/cze-gua
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/81349ffe10cd389c7109398a54f1cec0-thumbnail.jpg" group-title="Football",Mexico vs. Serbia
 http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-05/mex-srb
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/717141099104a74489ffe4cf183c2c98-thumbnail.jpg" group-title="Football",Belarus vs. Syria
+http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-05/blr-syr
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e2bea8f4d13dff3b81b4a502579fb54-thumbnail.jpg" group-title="Football",Georgia vs. Bahrain
+http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-05/geo-bhr
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/161090faf17c7155768521a93a2ed3a7-thumbnail.jpg" group-title="Football",Slovakia vs. Montenegro
+http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-05/svk-mne
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9f981cb3d3d0e77de787553285c49f86-thumbnail.jpg" group-title="Football",Moldova vs. Bulgaria
+http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-05/mda-bul
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/38328a6ba9f0c37c72a9509b4a439fac-thumbnail.jpg" group-title="Football",San Marino vs. Bangladesh
+http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-05/smr-ban
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0374f7f73ba9b573764e45db3216d1c2-thumbnail.jpg" group-title="Football",Hungary vs. Finland
+http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-05/hun-fin
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/49fed8dfeb48934bef8ae7b1df25e59c-thumbnail.jpg" group-title="Football",Azerbaijan vs. Malta
+http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-05/aze-mlt
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eb0c4ead7ec092702df78414948497ce-thumbnail.jpg" group-title="Football",Canada vs. Republic of Ireland
+http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-05/can-irl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c305e06eef8be3619eef9e69bc2043fa-thumbnail.jpg" group-title="Football",Haiti vs. Peru
+http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-06/hai-per
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0538ffe471086a9d189adacf591c83d7-thumbnail.jpg" group-title="Football",Mexico vs. South Africa
 http://192.168.2.139:8090/stream?uri=wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
