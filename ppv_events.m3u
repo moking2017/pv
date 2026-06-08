@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-06-09 00:15
-# Total: 45
+# UTC+8 | Generated: 2026-06-09 04:30
+# Total: 50
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7aadd3f7a320f42a7b6161569a21f296-thumbnail.jpg" group-title="American Football",[2026-06-12 08:30] Hamilton Tiger-Cats vs. Winnipeg Blue Bombers
 https://ppv2.168.us.kg/stream?uri=cfl/2026-06-11/ham-wpg
@@ -86,6 +86,21 @@ https://ppv2.168.us.kg/stream?uri=wc/2026-06-11/mex-rsa
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",[2026-06-12 10:00] South Korea vs. Czechia
 https://ppv2.168.us.kg/stream?uri=wc/2026-06-11/kor-cze
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2672085826c246200c9e469d7ddcb9e4-thumbnail.jpg" group-title="Motorsports",[2026-06-12 19:30] Barcelona Grand Prix - Practice 1
+https://ppv2.168.us.kg/stream?uri=f1/2026/barcelona-catalunya/fp1
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/74f205943fc868abcb462524e09f9131-thumbnail.jpg" group-title="Motorsports",[2026-06-12 23:00] Barcelona Grand Prix - Practice 2
+https://ppv2.168.us.kg/stream?uri=f1/2026/barcelona-catalunya/fp2
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/386fc3316cd0065b0029f768f7aaa445-thumbnail.jpg" group-title="Motorsports",[2026-06-13 18:30] Barcelona Grand Prix - Practice 3
+https://ppv2.168.us.kg/stream?uri=f1/2026/barcelona-catalunya/fp3
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9453b0794926942676f3eb3d16f5ff58-thumbnail.jpg" group-title="Motorsports",[2026-06-13 22:00] Barcelona Grand Prix - Qualifying
+https://ppv2.168.us.kg/stream?uri=f1/2026/barcelona-catalunya/qualifying
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d988cd730c7e5aa78cf86729bdc2a17e-thumbnail.jpg" group-title="Motorsports",[2026-06-14 21:00] Barcelona Grand Prix - Race
+https://ppv2.168.us.kg/stream?uri=f1/2026/barcelona-catalunya/race
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7611ae1f509fd3e1bf6008e87b1ae75d-thumbnail.jpg" group-title="Rugby",[2026-06-11 17:50] Rabbitohs vs. Broncos
 https://ppv2.168.us.kg/stream?uri=nrl/2026-06-11/sou-bri
