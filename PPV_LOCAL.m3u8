@@ -55,6 +55,16 @@ http://192.168.2.139:8090/stream?uri=mens-international-friendly/2026-06-09/per-
 http://192.168.2.139:8090/stream?uri=wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
 http://192.168.2.139:8090/stream?uri=wc/2026-06-11/kor-cze
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2672085826c246200c9e469d7ddcb9e4-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Practice 1
+http://192.168.2.139:8090/stream?uri=f1/2026/barcelona-catalunya/fp1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/74f205943fc868abcb462524e09f9131-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Practice 2
+http://192.168.2.139:8090/stream?uri=f1/2026/barcelona-catalunya/fp2
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/386fc3316cd0065b0029f768f7aaa445-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Practice 3
+http://192.168.2.139:8090/stream?uri=f1/2026/barcelona-catalunya/fp3
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9453b0794926942676f3eb3d16f5ff58-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Qualifying
+http://192.168.2.139:8090/stream?uri=f1/2026/barcelona-catalunya/qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d988cd730c7e5aa78cf86729bdc2a17e-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Race
+http://192.168.2.139:8090/stream?uri=f1/2026/barcelona-catalunya/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7611ae1f509fd3e1bf6008e87b1ae75d-thumbnail.jpg" group-title="Rugby",Rabbitohs vs. Broncos
 http://192.168.2.139:8090/stream?uri=nrl/2026-06-11/sou-bri
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e76625ba18b9278f66861be0bf587d6-thumbnail.jpg" group-title="Rugby",Dolphins vs. Roosters
@@ -65,8 +75,6 @@ http://192.168.2.139:8090/stream?uri=nrl/2026-06-13/new-cro
 http://192.168.2.139:8090/stream?uri=nrl/2026-06-13/par-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3178028af113e75556d3598c45c03039-thumbnail.jpg" group-title="Rugby",Wests Tigers vs. Titans
 http://192.168.2.139:8090/stream?uri=nrl/2026-06-14/wes-gol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling",WWE: Monday Night RAW
-http://192.168.2.139:8090/stream?uri=wwe/raw/2026-06-08
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
 http://192.168.2.139:8090/stream?uri=wwe/nxt/2026-06-09
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
