@@ -1,37 +1,139 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-06-10 05:16:46
-# Total Events: 3
-# Live Events: 3
+# PlayTorrio Sports Events - 2026-06-10 16:39:30
+# Total Events: 18
+# Live Events: 18
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[11:05] MLB - Oakland Athletics vs Milwaukee Brewers 🔴 - Oakland Athletics 🇺🇸 USA
-https://cdnlivetv.tv/api/v1/channels/player/?name=oakland+athletics&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg" group-title="Cricket",[18:00] Cricket - T20 World Cup Women : England W vs India W 🔴 - Sky Sports Cricket 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[11:05] MLB - Oakland Athletics vs Milwaukee Brewers 🔴 - Milwaukee Brewers 🇺🇸 USA
-https://cdnlivetv.tv/api/v1/channels/player/?name=milwaukee+brewers&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Cricket",[18:00] Cricket - T20 World Cup Women : England W vs India W 🔴 - Sky Sports Main Event 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports.png" group-title="MLB",[11:05] MLB - Oakland Athletics vs Milwaukee Brewers 🔴 - NBCS California 🇺🇸 USA
-https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+california&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg" group-title="Cricket",[18:00] Cricket - T20 World Cup Women : England W vs India W 🔴 - Sky Sports Mix 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-cricket.svg" group-title="Cricket",[13:00] Cricket - Test | Day 4 : India vs Afghanistan 🔴 - Fox Cricket 🇺🇸 USA
-https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="Cricket",[19:30] Cricket - Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions 🔴 - Viaplay Sports 2 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png" group-title="Cricket",[13:00] Cricket - Test | Day 4 : India vs Afghanistan 🔴 - TNT Sports 3 🇬🇧 UK
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.svg" group-title="Cricket",[19:30] Cricket - Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions 🔴 - Premier Sports 2 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png" group-title="Motorsport",[20:45] Motorsport - FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1 🔴 - TNT Sports 3 🇬🇧 UK
 https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="Cricket",[13:00] Cricket - Test | Day 4 : India vs Afghanistan 🔴 - TNT Sports 1 🇬🇧 UK
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-2.png" group-title="Motorsport",[20:45] Motorsport - FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1 🔴 - Euro Sport 2 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/hub-premier-3.png" group-title="Motorsport",[20:45] Motorsport - FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1 🔴 - Hub Premier 3 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+3&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-2.png" group-title="Motorsport",[20:45] Motorsport - FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1 🔴 - Euro Sport 2 🇪🇸 Spain
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-2.png" group-title="Motorsport",[20:45] Motorsport - FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1 🔴 - Euro Sport 2 🇮🇹 Italy
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-racing.svg" group-title="HorseRacing",[21:00] HorseRacing - Live racing from around the UK 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+racing&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="Cycling",[22:00] Cycling - Tour Auvergne Rhone Alpes | Stage 4 Men | Le Puy-en-Velay - Montrond-Les-Bains (165.8km) 🔴
 https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-6.png" group-title="Cricket",[13:00] Cricket - Test | Day 4 : India vs Afghanistan 🔴 - Sky Sport 6 🇳🇿 New Zealand
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[23:00] Cricket - T20 World Cup Women : Australia W vs West Indies W 🔴 - Willow Cricket 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[13:00] Cricket - Test | Day 4 : India vs Afghanistan 🔴 - SuperSport Cricket 🇿🇦 South Africa
-https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg" group-title="Cricket",[23:00] Cricket - T20 World Cup Women : Australia W vs West Indies W 🔴 - Sky Sports Cricket 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-cricket.svg" group-title="Cricket",[13:45] Cricket - 1st ODI : Bangladesh vs Australia 🔴 - Fox Cricket 🇺🇸 USA
-https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Cricket",[23:00] Cricket - T20 World Cup Women : Australia W vs West Indies W 🔴 - Sky Sports Main Event 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png" group-title="Cricket",[13:45] Cricket - 1st ODI : Bangladesh vs Australia 🔴 - TNT Sports 3 🇬🇧 UK
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg" group-title="Cricket",[23:00] Cricket - T20 World Cup Women : Australia W vs West Indies W 🔴 - Sky Sports Mix 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="Cricket",[23:30] Cricket - Cricket : EUT20 Belgium Qualifier : TBC vs TBC 🔴 - Viaplay Sports 2 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.svg" group-title="Cricket",[23:30] Cricket - Cricket : EUT20 Belgium Qualifier : TBC vs TBC 🔴 - Premier Sports 2 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="Cycling",[23:30] Cycling - Franco-Belgian Circuit I | Tournai - Mont de l'Enclus (195.6km) 🔴 - TNT Sports 1 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="Cycling",[23:30] Cycling - Franco-Belgian Circuit I | Tournai - Mont de l'Enclus (195.6km) 🔴 - TNT Sports 2 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.png" group-title="Cycling",[23:30] Cycling - Franco-Belgian Circuit I | Tournai - Mont de l'Enclus (195.6km) 🔴 - Euro Sport 1 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-1.png" group-title="Cycling",[23:30] Cycling - Franco-Belgian Circuit I | Tournai - Mont de l'Enclus (195.6km) 🔴 - Euro Sport 1 🇪🇸 Spain
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png" group-title="Cycling",[23:30] Cycling - Franco-Belgian Circuit I | Tournai - Mont de l'Enclus (195.6km) 🔴 - Euro Sport 1 🇮🇹 Italy
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp" group-title="Volleyball",[00:00] Volleyball - Nations League : Turkey vs USA 🔴 - Arena 2 Premium 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-1.png.webp" group-title="Volleyball",[00:00] Volleyball - Nations League : Turkey vs USA 🔴 - Sport Klub 1 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport.svg" group-title="MMA",[00:00] MMA - Polish Boxing League – Round 7 : CKB Potężnie Ciechocinek vs Royal Kraków 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="Volleyball",[00:45] Volleyball - Nations League : Belgium vs Bulgaria 🔴 - Polsat Sport 🇵🇱 Poland
+https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="Volleyball",[00:45] Volleyball - Nations League : Belgium vs Bulgaria 🔴 - Sport Klub 3 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp" group-title="Basketball",[01:30] Basketball - VTB United League : Unics Kazan vs CSKA Moscow 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png" group-title="Motorsport",[01:30] Motorsport - FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying 🔴 - TNT Sports 3 🇬🇧 UK
 https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Cricket",[13:45] Cricket - 1st ODI : Bangladesh vs Australia 🔴 - Sky Sport 2 🇳🇿 New Zealand
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.png" group-title="Motorsport",[01:30] Motorsport - FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying 🔴 - Euro Sport 1 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/hub-premier-4.png" group-title="Motorsport",[01:30] Motorsport - FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying 🔴 - Hub Premier 4 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+4&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-1.png" group-title="Motorsport",[01:30] Motorsport - FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying 🔴 - Euro Sport 1 🇪🇸 Spain
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=es&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png" group-title="Motorsport",[01:30] Motorsport - FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying 🔴 - Euro Sport 1 🇮🇹 Italy
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-football.png" group-title="Superettan",[02:00] Superettan - Örebro vs GIF Sundsvall 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp" group-title="Basketball",[02:00] Basketball - ABA League : Partizan vs Dubai 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn.png" group-title="MLB",[02:10] MLB - Tampa Bay Rays vs Boston Red Sox 🔴 - NESN 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=nesn&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-one.png" group-title="MLB",[02:10] MLB - Tampa Bay Rays vs Boston Red Sox 🔴 - Sportsnet One 🇨🇦 Canada
+https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+one&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-7.png" group-title="MLB",[02:10] MLB - Tampa Bay Rays vs Boston Red Sox 🔴 - Sky Sport Bundesliga 7 🇩🇪 Germany
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/yes.png" group-title="MLB",[02:10] MLB - Cleveland Guardians vs New York Yankees 🔴 - Yes Network 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=yes+network&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[02:10] MLB - Cleveland Guardians vs New York Yankees 🔴 - MLB Network 🇺🇸 USA
+https://cdnlivetv.tv/api/v1/channels/player/?name=mlb+network&code=us&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png" group-title="MLB",[02:10] MLB - Cleveland Guardians vs New York Yankees 🔴 - TNT Sports 2 🇬🇧 UK
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-east.png" group-title="MLB",[02:10] MLB - Cleveland Guardians vs New York Yankees 🔴 - Sportsnet East 🇨🇦 Canada
+https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+east&code=ca&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-6.png" group-title="MLB",[02:10] MLB - Cleveland Guardians vs New York Yankees 🔴 - Sky Sport Bundesliga 6 🇩🇪 Germany
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5.webp" group-title="Basketball",[02:30] Basketball - Super League : Hapoel Holon vs Maccabi Tel Aviv 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=ntvstream&plan=free
