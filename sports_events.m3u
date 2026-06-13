@@ -1,783 +1,81 @@
 #EXTM3U
 # Generated from cdn-live.tv Sports API
-# UTC+8 timezone | Generated: 2026-06-13 06:42
-# Total Entries: 130  |  Skipped (finished): 92
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/chile/tnt-sports.png" group-title="Soccer",[08:00] ⏳ Soccer - Audax Italiano vs La Serena - TNT Sports 🌐 CL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/cl/tnt-sports
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="Cricket",[22:30] 🔴 LIVE Cricket - Cricket : TBC vs TBC - Viaplay Sports 2 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/viaplay-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.svg" group-title="Cricket",[22:30] 🔴 LIVE Cricket - Cricket : TBC vs TBC - Premier Sports 2 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/premier-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[01:00] 🔴 LIVE Cricket - Women's T20 World Cup : England vs Sri Lanka - Willow Cricket 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/willow-cricket
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg" group-title="Cricket",[01:00] 🔴 LIVE Cricket - Women's T20 World Cup : England vs Sri Lanka - Sky Sports Cricket 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-cricket
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Cricket",[01:00] 🔴 LIVE Cricket - Women's T20 World Cup : England vs Sri Lanka - Sky Sports Main Event 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-main-event
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg" group-title="Cricket",[01:00] 🔴 LIVE Cricket - Women's T20 World Cup : England vs Sri Lanka - Sky Sports Mix 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-mix
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Cricket",[01:00] 🔴 LIVE Cricket - Women's T20 World Cup : England vs Sri Lanka - Sky Sport 2 🌐 NZ
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[01:00] 🔴 LIVE Cricket - Women's T20 World Cup : England vs Sri Lanka - SuperSport Cricket 🌐 ZA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/za/supersport-cricket
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="Cricket",[22:30] 🔴 LIVE Cricket - Cricket : TBC vs TBC - Viaplay Sports 2 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/viaplay-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.svg" group-title="Cricket",[22:30] 🔴 LIVE Cricket - Cricket : TBC vs TBC - Premier Sports 2 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/premier-sports-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg" group-title="Cricket",[01:00] 🔴 LIVE Cricket - Women's T20 World Cup : England vs Sri Lanka - Willow Cricket 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/willow-cricket
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg" group-title="Cricket",[01:00] 🔴 LIVE Cricket - Women's T20 World Cup : England vs Sri Lanka - Sky Sports Cricket 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-cricket
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Cricket",[01:00] 🔴 LIVE Cricket - Women's T20 World Cup : England vs Sri Lanka - Sky Sports Main Event 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-main-event
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg" group-title="Cricket",[01:00] 🔴 LIVE Cricket - Women's T20 World Cup : England vs Sri Lanka - Sky Sports Mix 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-mix
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Cricket",[01:00] 🔴 LIVE Cricket - Women's T20 World Cup : England vs Sri Lanka - Sky Sport 2 🌐 NZ
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp" group-title="Cricket",[01:00] 🔴 LIVE Cricket - Women's T20 World Cup : England vs Sri Lanka - SuperSport Cricket 🌐 ZA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/za/supersport-cricket
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - GOLF TV 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=golf+tv&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/golf-tv
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - FOX Sports 1 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - ESPN Deportes 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/espn-deportes
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-golf.svg" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - Sky Sports Golf 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+golf&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - Sky Sports Main Event 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-main-event
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - Sky Sport 4 🌐 NZ
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-4
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-golf.webp" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - SuperSport Golf 🌐 ZA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+golf&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/za/supersport-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-golf.svg" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - Movistar Golf 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+golf&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/movistar-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - Ziggo Sport 6 🌐 NL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+6&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-6
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/sk-golf.png.webp" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - Sport Klub Golf 🌐 HR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+golf&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/hr/sport-klub-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - GOLF TV 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=golf+tv&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/golf-tv
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - FOX Sports 1 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - ESPN Deportes 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/espn-deportes
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-golf.svg" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - Sky Sports Golf 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+golf&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - Sky Sports Main Event 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-main-event
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - Sky Sport 4 🌐 NZ
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-4
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-golf.webp" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - SuperSport Golf 🌐 ZA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+golf&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/za/supersport-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-golf.svg" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - Movistar Golf 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+golf&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/movistar-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - Ziggo Sport 6 🌐 NL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+6&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-6
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/sk-golf.png.webp" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - Sport Klub Golf 🌐 HR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+golf&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/hr/sport-klub-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - GOLF TV 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=golf+tv&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/golf-tv
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - FOX Sports 1 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - ESPN Deportes 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/espn-deportes
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-golf.svg" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - Sky Sports Golf 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+golf&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - Sky Sports Main Event 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-main-event
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - Sky Sport 4 🌐 NZ
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-4
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-golf.webp" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - SuperSport Golf 🌐 ZA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+golf&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/za/supersport-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-golf.svg" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - Movistar Golf 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+golf&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/movistar-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - Ziggo Sport 6 🌐 NL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+6&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-6
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/sk-golf.png.webp" group-title="Golf",[03:30] 🔴 LIVE Golf - PGA Tour RBC Canadian Open - Sport Klub Golf 🌐 HR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+golf&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/hr/sport-klub-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - GOLF TV 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=golf+tv&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/golf-tv
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - FOX Sports 1 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - ESPN Deportes 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/espn-deportes
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-golf.svg" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - Sky Sports Golf 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+golf&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - Sky Sports Main Event 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports-main-event
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - Sky Sport 4 🌐 NZ
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-4
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-golf.webp" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - SuperSport Golf 🌐 ZA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+golf&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/za/supersport-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-golf.svg" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - Movistar Golf 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+golf&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/movistar-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - Ziggo Sport 6 🌐 NL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+6&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-6
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/sk-golf.png.webp" group-title="Golf",[06:00] 🔴 LIVE Golf - Curtis Cup - Sport Klub Golf 🌐 HR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+golf&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/hr/sport-klub-golf
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-sports-network.svg" group-title="Volleyball",[06:00] 🔴 LIVE Volleyball - AVP Beach Volleyball AVP League Week 3: Miami - CBS Sports Network 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/cbs-sports-network
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="Volleyball",[07:00] 🔴 LIVE Volleyball - Nations League : Iran vs Argentina - Polsat Sport 2 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/polsat-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="Volleyball",[07:00] 🔴 LIVE Volleyball - Nations League : Iran vs Argentina - Sport Klub 3 🌐 RS
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/sport-klub-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="Volleyball",[07:30] 🔴 LIVE Volleyball - Nations League : Turkiye vs France - Polsat Sport 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/polsat-sport
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp" group-title="Volleyball",[07:30] 🔴 LIVE Volleyball - Nations League : Turkiye vs France - Sport Klub 2 🌐 RS
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/sport-klub-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-sports-network.svg" group-title="Volleyball",[06:00] 🔴 LIVE Volleyball - AVP Beach Volleyball AVP League Week 3: Miami - CBS Sports Network 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/cbs-sports-network
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg" group-title="Volleyball",[07:00] 🔴 LIVE Volleyball - Nations League : Iran vs Argentina - Polsat Sport 2 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/polsat-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-3.png.webp" group-title="Volleyball",[07:00] 🔴 LIVE Volleyball - Nations League : Iran vs Argentina - Sport Klub 3 🌐 RS
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/sport-klub-3
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport.svg" group-title="Volleyball",[07:30] 🔴 LIVE Volleyball - Nations League : Turkiye vs France - Polsat Sport 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/polsat-sport
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp" group-title="Volleyball",[07:30] 🔴 LIVE Volleyball - Nations League : Turkiye vs France - Sport Klub 2 🌐 RS
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/rs/sport-klub-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Basketball",[09:30] ⏳ Basketball - NBL : Nelson Giants vs Southland Sharks - Sky Sport 2 🌐 NZ
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png" group-title="Basketball",[09:30] ⏳ Basketball - NBL : Nelson Giants vs Southland Sharks - Sky Sport 2 🌐 NZ
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-2
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-pittsburgh.png" group-title="MLB",[06:40] 🔴 LIVE MLB - Pittsburgh Pirates vs Miami Marlins - SportsNet Pittsburgh 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+pittsburgh&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/sportsnet-pittsburgh
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[06:45] 🔴 LIVE MLB - Washington Nationals vs Seattle Mariners - Washington Nationals 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=washington+nationals&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/washington-nationals
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[06:45] 🔴 LIVE MLB - Washington Nationals vs Seattle Mariners - Seattle Mariners 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=seattle+mariners&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/seattle-mariners
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live.png" group-title="MLB",[06:45] 🔴 LIVE MLB - Washington Nationals vs Seattle Mariners - Sport 5 Live 🌐 IL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-5-live
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:05] 🔴 LIVE MLB - Baltimore Orioles vs San Diego Padres - Baltimore Orioles 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=baltimore+orioles&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/baltimore-orioles
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:05] 🔴 LIVE MLB - Baltimore Orioles vs San Diego Padres - San Diego Padres 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=san+diego+padres&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/san-diego-padres
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/masn.png" group-title="MLB",[07:05] 🔴 LIVE MLB - Baltimore Orioles vs San Diego Padres - MASN 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=masn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/masn
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:10] 🔴 LIVE MLB - Cincinnati Reds vs Arizona Diamondbacks - Cincinnati Reds 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cincinnati+reds&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/cincinnati-reds
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:10] 🔴 LIVE MLB - Cincinnati Reds vs Arizona Diamondbacks - Arizona Diamondbacks 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arizona+diamondbacks&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/arizona-diamondbacks
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:10] 🔴 LIVE MLB - New York Mets vs Atlanta Braves - New York Mets 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=new+york+mets&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/new-york-mets
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:10] 🔴 LIVE MLB - New York Mets vs Atlanta Braves - Atlanta Braves 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=atlanta+braves&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/atlanta-braves
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:10] 🔴 LIVE MLB - Cleveland Guardians vs Detroit Tigers - Cleveland Guardians 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cleveland+guardians&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/cleveland-guardians
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:10] 🔴 LIVE MLB - Cleveland Guardians vs Detroit Tigers - Detroit Tigers 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=detroit+tigers&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/detroit-tigers
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:10] 🔴 LIVE MLB - Boston Red Sox vs Texas Rangers - Boston Red Sox 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=boston+red+sox&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/boston-red-sox
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:10] 🔴 LIVE MLB - Boston Red Sox vs Texas Rangers - Texas Rangers 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=texas+rangers&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/texas-rangers
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn.png" group-title="MLB",[07:10] 🔴 LIVE MLB - Boston Red Sox vs Texas Rangers - NESN 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nesn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/nesn
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:37] 🔴 LIVE MLB - Toronto Blue Jays vs New York Yankees - Toronto Blue Jays 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=toronto+blue+jays&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/toronto-blue-jays
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:37] 🔴 LIVE MLB - Toronto Blue Jays vs New York Yankees - New York Yankees 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=new+york+yankees&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/new-york-yankees
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/yes.png" group-title="MLB",[07:37] 🔴 LIVE MLB - Toronto Blue Jays vs New York Yankees - Yes Network 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=yes+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/yes-network
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-one.png" group-title="MLB",[07:37] 🔴 LIVE MLB - Toronto Blue Jays vs New York Yankees - Sportsnet One 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+one&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/sportsnet-one
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="MLB",[07:37] 🔴 LIVE MLB - Toronto Blue Jays vs New York Yankees - Sportsnet Ontario 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+ontario&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/sportsnet-ontario
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="MLB",[07:37] 🔴 LIVE MLB - Toronto Blue Jays vs New York Yankees - TVA Sports 🌐 CA
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tva+sports&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/ca/tva-sports
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:40] 🔴 LIVE MLB - Chicago White Sox vs Los Angeles Dodgers - Chicago White Sox 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=chicago+white+sox&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/chicago-white-sox
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:40] 🔴 LIVE MLB - Chicago White Sox vs Los Angeles Dodgers - Los Angeles Dodgers 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=los+angeles+dodgers&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/los-angeles-dodgers
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:40] 🔴 LIVE MLB - Chicago White Sox vs Los Angeles Dodgers - Chicago Sports Network 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=chicago+sports+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/chicago-sports-network
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet.png" group-title="MLB",[07:40] 🔴 LIVE MLB - Chicago White Sox vs Los Angeles Dodgers - Spectrum Sportsnet LA 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=spectrum+sportsnet+la&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/spectrum-sportsnet-la
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png" group-title="MLB",[07:40] 🔴 LIVE MLB - Chicago White Sox vs Los Angeles Dodgers - TNT Sports 1 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/tnt-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:40] 🔴 LIVE MLB - Milwaukee Brewers vs Philadelphia Phillies - Milwaukee Brewers 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=milwaukee+brewers&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/milwaukee-brewers
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[07:40] 🔴 LIVE MLB - Milwaukee Brewers vs Philadelphia Phillies - Philadelphia Phillies 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=philadelphia+phillies&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/philadelphia-phillies
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png" group-title="MLB",[07:40] 🔴 LIVE MLB - Milwaukee Brewers vs Philadelphia Phillies - NBCS Philadelphia 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+philadelphia&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/nbcs-philadelphia
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[08:10] ⏳ MLB - Kansas City Royals vs Houston Astros - Kansas City Royals 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=kansas+city+royals&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/kansas-city-royals
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[08:10] ⏳ MLB - Kansas City Royals vs Houston Astros - Houston Astros 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=houston+astros&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/houston-astros
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/space-city.png" group-title="MLB",[08:10] ⏳ MLB - Kansas City Royals vs Houston Astros - Space City Home Network 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=space+city+home+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/space-city-home-network
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[08:10] ⏳ MLB - Minnesota Twins vs St. Louis Cardinals - Minnesota Twins 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=minnesota+twins&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/minnesota-twins
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[08:10] ⏳ MLB - Minnesota Twins vs St. Louis Cardinals - St. Louis Cardinals 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=st+louis+cardinals&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/st-louis-cardinals
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[09:38] ⏳ MLB - Los Angeles Angels vs Tampa Bay Rays - Los Angeles Angels 🌐 US
+# UTC+8 timezone | Generated: 2026-06-13 12:43
+# Total Entries: 13  |  Skipped (finished): 136
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[09:38] 🔴 LIVE MLB - Los Angeles Angels vs Tampa Bay Rays - Los Angeles Angels 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=los+angeles+angels&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/los-angeles-angels
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[09:38] ⏳ MLB - Los Angeles Angels vs Tampa Bay Rays - Tampa Bay Rays 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[09:38] 🔴 LIVE MLB - Los Angeles Angels vs Tampa Bay Rays - Tampa Bay Rays 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tampa+bay+rays&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/tampa-bay-rays
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[10:05] ⏳ MLB - Oakland Athletics vs Colorado Rockies - Oakland Athletics 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[10:05] 🔴 LIVE MLB - Oakland Athletics vs Colorado Rockies - Oakland Athletics 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=oakland+athletics&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/oakland-athletics
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[10:05] ⏳ MLB - Oakland Athletics vs Colorado Rockies - Colorado Rockies 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[10:05] 🔴 LIVE MLB - Oakland Athletics vs Colorado Rockies - Colorado Rockies 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=colorado+rockies&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/colorado-rockies
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports.png" group-title="MLB",[10:05] ⏳ MLB - Oakland Athletics vs Colorado Rockies - NBCS California 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports.png" group-title="MLB",[10:05] 🔴 LIVE MLB - Oakland Athletics vs Colorado Rockies - NBCS California 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+california&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/nbcs-california
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[10:15] ⏳ MLB - San Francisco Giants vs Chicago Cubs - San Francisco Giants 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[10:15] 🔴 LIVE MLB - San Francisco Giants vs Chicago Cubs - San Francisco Giants 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=san+francisco+giants&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/san-francisco-giants
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[10:15] ⏳ MLB - San Francisco Giants vs Chicago Cubs - Chicago Cubs 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[10:15] 🔴 LIVE MLB - San Francisco Giants vs Chicago Cubs - Chicago Cubs 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=chicago+cubs&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/chicago-cubs
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports.png" group-title="MLB",[10:15] ⏳ MLB - San Francisco Giants vs Chicago Cubs - NBCS Bay Area 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports.png" group-title="MLB",[10:15] 🔴 LIVE MLB - San Francisco Giants vs Chicago Cubs - NBCS Bay Area 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+bay+area&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/nbcs-bay-area
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee.png" group-title="MLB",[10:15] ⏳ MLB - San Francisco Giants vs Chicago Cubs - Marquee Sports Network 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee.png" group-title="MLB",[10:15] 🔴 LIVE MLB - San Francisco Giants vs Chicago Cubs - Marquee Sports Network 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=marquee+sports+network&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/marquee-sports-network
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[10:15] ⏳ MLB - San Francisco Giants vs Chicago Cubs - MLB Network 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg" group-title="MLB",[10:15] 🔴 LIVE MLB - San Francisco Giants vs Chicago Cubs - MLB Network 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=mlb+network&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/mlb-network
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-1.svg" group-title="MMA",[03:00] 🔴 LIVE MMA - Hexagone MMA 45 Lyon - RMC Sport 1 🌐 FR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=rmc+sport+1&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Motorsport",[08:00] 🔴 LIVE Motorsport - NHRA Drag Racing Thunder Valley Nationals, Qualifying - FOX Sports 1 🌐 US
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/fr/rmc-sport-1
+http://cdnlivetv.168.us.kg/live/us/fox-sports-1
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-1.svg" group-title="MMA",[03:00] 🔴 LIVE MMA - Hexagone MMA 45 Lyon - RMC Sport 1 🌐 FR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=rmc+sport+1&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Motorsport",[08:00] 🔴 LIVE Motorsport - NHRA Drag Racing Thunder Valley Nationals, Qualifying - FOX Sports 1 🌐 US
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/fr/rmc-sport-1
+http://cdnlivetv.168.us.kg/live/us/fox-sports-1
 
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/msg.png" group-title="MMA",[08:00] ⏳ MMA - TBL Team Boxing League : Nashville Smash vs. Atlanta Attack - MSG 🌐 US
+#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/msg.png" group-title="UFC",[08:00] 🔴 LIVE UFC - TBL Team Boxing League : Nashville Smash vs. Atlanta Attack - MSG 🌐 US
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=msg&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/msg
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-5.svg" group-title="Motorsport",[02:00] 🔴 LIVE Motorsport - Speedway: PGE Ekstraliga: FOGO Unia Leszno - PRES Development Group Toruń - Canal Sport 5 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+5&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/canal-sport-5
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport.webp" group-title="Motorsport",[02:00] 🔴 LIVE Motorsport - Speedway: PGE Ekstraliga: FOGO Unia Leszno - PRES Development Group Toruń - Canal Sport 1 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/canal-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Motorsport",[03:00] 🔴 LIVE Motorsport - ARCA Menards Series Pocono ARCA 200 - FOX Sports 1 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Motorsport",[08:00] ⏳ Motorsport - NHRA Drag Racing Thunder Valley Nationals, Qualifying - FOX Sports 1 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-5.svg" group-title="Motorsport",[02:00] 🔴 LIVE Motorsport - Speedway: PGE Ekstraliga: FOGO Unia Leszno - PRES Development Group Toruń - Canal Sport 5 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+5&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/canal-sport-5
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport.webp" group-title="Motorsport",[02:00] 🔴 LIVE Motorsport - Speedway: PGE Ekstraliga: FOGO Unia Leszno - PRES Development Group Toruń - Canal Sport 1 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/canal-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Motorsport",[03:00] 🔴 LIVE Motorsport - ARCA Menards Series Pocono ARCA 200 - FOX Sports 1 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg" group-title="Motorsport",[08:00] ⏳ Motorsport - NHRA Drag Racing Thunder Valley Nationals, Qualifying - FOX Sports 1 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/fox-sports-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-1.svg" group-title="UFC",[03:00] 🔴 LIVE UFC - Hexagone MMA 45 Lyon - RMC Sport 1 🌐 FR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=rmc+sport+1&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/fr/rmc-sport-1
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/msg.png" group-title="UFC",[08:00] ⏳ UFC - TBL Team Boxing League : Nashville Smash vs. Atlanta Attack - MSG 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=msg&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/msg
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-network.png" group-title="WWE",[08:00] ⏳ WWE - WWE Friday Night SmackDown - USA Network 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/usa-network
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/hub-premier-6.png" group-title="WWE",[08:00] ⏳ WWE - WWE Friday Night SmackDown - Hub Premier 6 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+6&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/hub-premier-6
-
-#EXTINF:-1 tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-plus.png" group-title="WWE",[08:00] ⏳ WWE - WWE Friday Night SmackDown - Sport 5 Plus 🌐 IL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/il/sport-5-plus
