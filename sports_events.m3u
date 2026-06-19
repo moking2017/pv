@@ -1,24 +1,24 @@
 #EXTM3U
 # Generated from cdn-live.tv Sports API
-# UTC+8 timezone | Generated: 2026-06-19 18:53
-# Total Entries: 614  |  Skipped (finished): 0
+# UTC+8 timezone | Generated: 2026-06-19 23:37
+# Total Entries: 685  |  Skipped (finished): 0
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - USA vs Australia - TSN 4 CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-ca
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - USA vs Australia - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - USA vs Australia - TSN 3 HD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-3-hd-ca
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - USA vs Australia - TSN 3 FHD CA 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//tsn-3-fhd-ca
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - USA vs Australia - TSN 4 FHD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
@@ -61,6 +61,12 @@ http://cdnlivetv.168.us.kg/live//bbc-one-yorkshire-and-lincolnshire-fhd-uk
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//bbc-one-east-midlands-uk
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - USA vs Australia - BBC One North East and Cumbria UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//bbc-one-north-east-and-cumbria-uk
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - USA vs Australia - BBC One Wales HD UK 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
@@ -284,6 +290,12 @@ http://cdnlivetv.168.us.kg/live//telemundo-chicago-fhd-lam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//telemundo-atlanta-fhd-lam
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - USA vs Australia - Telemundo FHD LAM 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20FHD%20LAM&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//telemundo-fhd-lam
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - USA vs Australia - Nbc Universo FHD LAM 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Nbc%20Universo%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -361,12 +373,6 @@ http://cdnlivetv.168.us.kg/live//tsn-4-ca
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-3-hd-ca
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Scotland vs Morocco - TSN 3 FHD CA 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//tsn-3-fhd-ca
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Scotland vs Morocco - TSN 4 FHD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
@@ -512,6 +518,12 @@ http://cdnlivetv.168.us.kg/live//telemundo-chicago-fhd-lam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//telemundo-atlanta-fhd-lam
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Scotland vs Morocco - Telemundo FHD LAM 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20FHD%20LAM&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//telemundo-fhd-lam
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Scotland vs Morocco - Telemundo Internacional HD ARG 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Internacional%20HD%20ARG&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -607,6 +619,12 @@ http://cdnlivetv.168.us.kg/live//tvp-1-hd-pl
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//sport-tv-1-fhd-pt
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[08:30] ⏳ Soccer - Brazil vs Haiti - Sport TV 1 HD PT 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20HD%20PT&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//sport-tv-1-hd-pt
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[08:30] ⏳ Soccer - Brazil vs Haiti - Sport TV 1 HD PT 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20HD%20PT&code=&user=cdnlivetv&plan=free
@@ -734,6 +752,12 @@ http://cdnlivetv.168.us.kg/live//telemundo-chicago-fhd-lam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//telemundo-atlanta-fhd-lam
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[08:30] ⏳ Soccer - Brazil vs Haiti - Telemundo FHD LAM 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20FHD%20LAM&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//telemundo-fhd-lam
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[08:30] ⏳ Soccer - Brazil vs Haiti - Telemundo Internacional HD ARG 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Internacional%20HD%20ARG&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -788,17 +812,17 @@ http://cdnlivetv.168.us.kg/live//tsn-5-ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-ca
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Turkey vs Paraguay - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Turkey vs Paraguay - TSN 3 HD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-3-hd-ca
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Turkey vs Paraguay - TSN 3 FHD CA 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//tsn-3-fhd-ca
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Turkey vs Paraguay - TSN 4 FHD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
@@ -932,6 +956,12 @@ http://cdnlivetv.168.us.kg/live//telemundo-chicago-fhd-lam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//telemundo-atlanta-fhd-lam
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Turkey vs Paraguay - Telemundo FHD LAM 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20FHD%20LAM&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//telemundo-fhd-lam
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Turkey vs Paraguay - Telemundo Internacional HD ARG 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Internacional%20HD%20ARG&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1022,6 +1052,12 @@ http://cdnlivetv.168.us.kg/live//bbc-one-yorkshire-and-lincolnshire-fhd-uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//bbc-one-east-midlands-uk
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Netherlands vs Sweden - BBC One North East and Cumbria UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//bbc-one-north-east-and-cumbria-uk
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Netherlands vs Sweden - BBC One Wales HD UK 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1082,12 +1118,6 @@ http://cdnlivetv.168.us.kg/live//tvp-1-fhd-pl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tvp-1-hd-pl
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Netherlands vs Sweden - Canvas FHD BE 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//canvas-fhd-be
-
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Netherlands vs Sweden - ERT 2 GR 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20GR&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1136,18 +1166,6 @@ http://cdnlivetv.168.us.kg/live//dr-1-hd-is
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//rsi-la-1-hd-ch
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Netherlands vs Sweden - Batwoman - S02E05 - Gore on Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Batwoman%20-%20S02E05%20-%20Gore%20on%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//batwoman---s02e05---gore-on-canvas
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Netherlands vs Sweden - Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//robot-chicken---s08e03---zeb-and-kevin-erotic-hot-tub-canvas
-
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Netherlands vs Sweden - BBC One [English] 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1177,6 +1195,12 @@ http://cdnlivetv.168.us.kg/live//tvp-1-hd-pl
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//sport-tv-1-fhd-pt
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Germany vs Ivory Coast - Sport TV 1 HD PT 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20HD%20PT&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//sport-tv-1-hd-pt
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Germany vs Ivory Coast - Sport TV 1 HD PT 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20HD%20PT&code=&user=cdnlivetv&plan=free
@@ -1262,6 +1286,12 @@ http://cdnlivetv.168.us.kg/live//bbc-one-yorkshire-and-lincolnshire-fhd-uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//bbc-one-east-midlands-uk
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[08:00] ⏳ Soccer - Ecuador vs Curaçao - BBC One North East and Cumbria UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//bbc-one-north-east-and-cumbria-uk
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[08:00] ⏳ Soccer - Ecuador vs Curaçao - BBC One Wales HD UK 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1333,6 +1363,12 @@ http://cdnlivetv.168.us.kg/live//bbc-one-yorkshire-and-lincolnshire-fhd-uk
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//bbc-one-east-midlands-uk
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[12:00] ⏳ Soccer - Tunisia vs Japan - BBC One North East and Cumbria UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//bbc-one-north-east-and-cumbria-uk
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[12:00] ⏳ Soccer - Tunisia vs Japan - BBC One Wales HD UK 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
@@ -1406,6 +1442,12 @@ http://cdnlivetv.168.us.kg/live//bbc-one-yorkshire-and-lincolnshire-fhd-uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//bbc-one-east-midlands-uk
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[00:00] ⏳ Soccer - Spain vs Saudi Arabia - BBC One North East and Cumbria UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//bbc-one-north-east-and-cumbria-uk
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[00:00] ⏳ Soccer - Spain vs Saudi Arabia - BBC One Wales HD UK 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1454,12 +1496,6 @@ http://cdnlivetv.168.us.kg/live//canvas-hd-nl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//canvas-fhd-nl
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[00:00] ⏳ Soccer - Spain vs Saudi Arabia - Canvas FHD BE 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//canvas-fhd-be
-
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[00:00] ⏳ Soccer - Spain vs Saudi Arabia - ERT 2 GR 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20GR&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1483,18 +1519,6 @@ http://cdnlivetv.168.us.kg/live//nrk-1-nordnytt-hd-no
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//rsi-la-1-hd-ch
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[00:00] ⏳ Soccer - Spain vs Saudi Arabia - Batwoman - S02E05 - Gore on Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Batwoman%20-%20S02E05%20-%20Gore%20on%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//batwoman---s02e05---gore-on-canvas
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[00:00] ⏳ Soccer - Spain vs Saudi Arabia - Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//robot-chicken---s08e03---zeb-and-kevin-erotic-hot-tub-canvas
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[00:00] ⏳ Soccer - Spain vs Saudi Arabia - BBC One [English] 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
@@ -1580,6 +1604,12 @@ http://cdnlivetv.168.us.kg/live//bbc-one-yorkshire-and-lincolnshire-fhd-uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//bbc-one-east-midlands-uk
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Uruguay vs Cape Verde - BBC One North East and Cumbria UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//bbc-one-north-east-and-cumbria-uk
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Uruguay vs Cape Verde - BBC One Wales HD UK 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1664,6 +1694,12 @@ http://cdnlivetv.168.us.kg/live//bbc-one-yorkshire-and-lincolnshire-fhd-uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//bbc-one-east-midlands-uk
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Argentina vs Austria - BBC One North East and Cumbria UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//bbc-one-north-east-and-cumbria-uk
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Argentina vs Austria - BBC One Wales HD UK 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1712,29 +1748,11 @@ http://cdnlivetv.168.us.kg/live//canvas-hd-nl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//canvas-fhd-nl
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Argentina vs Austria - Canvas FHD BE 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//canvas-fhd-be
-
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Argentina vs Austria - RSI La 1 HD CH 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La%201%20HD%20CH&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//rsi-la-1-hd-ch
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Argentina vs Austria - Batwoman - S02E05 - Gore on Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Batwoman%20-%20S02E05%20-%20Gore%20on%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//batwoman---s02e05---gore-on-canvas
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Argentina vs Austria - Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//robot-chicken---s08e03---zeb-and-kevin-erotic-hot-tub-canvas
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Argentina vs Austria - BBC One [English] 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
@@ -1784,6 +1802,12 @@ http://cdnlivetv.168.us.kg/live//bbc-one-yorkshire-and-lincolnshire-fhd-uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//bbc-one-east-midlands-uk
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[05:00] ⏳ Soccer - France vs Iraq - BBC One North East and Cumbria UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//bbc-one-north-east-and-cumbria-uk
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[05:00] ⏳ Soccer - France vs Iraq - BBC One Wales HD UK 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1826,24 +1850,6 @@ http://cdnlivetv.168.us.kg/live//canvas-hd-nl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//canvas-fhd-nl
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Portugal vs Uzbekistan - Canvas FHD BE 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//canvas-fhd-be
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Portugal vs Uzbekistan - Batwoman - S02E05 - Gore on Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Batwoman%20-%20S02E05%20-%20Gore%20on%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//batwoman---s02e05---gore-on-canvas
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Portugal vs Uzbekistan - Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//robot-chicken---s08e03---zeb-and-kevin-erotic-hot-tub-canvas
-
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Portugal vs Uzbekistan - VRT Canvas [Dutch] 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1885,6 +1891,12 @@ http://cdnlivetv.168.us.kg/live//bbc-one-yorkshire-and-lincolnshire-fhd-uk
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//bbc-one-east-midlands-uk
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - England vs Ghana - BBC One North East and Cumbria UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//bbc-one-north-east-and-cumbria-uk
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - England vs Ghana - BBC One Wales HD UK 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
@@ -1970,6 +1982,12 @@ http://cdnlivetv.168.us.kg/live//bbc-one-yorkshire-and-lincolnshire-fhd-uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//bbc-one-east-midlands-uk
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Panama vs Croatia - BBC One North East and Cumbria UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//bbc-one-north-east-and-cumbria-uk
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Panama vs Croatia - BBC One Wales HD UK 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2012,24 +2030,6 @@ http://cdnlivetv.168.us.kg/live//canvas-hd-nl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//canvas-fhd-nl
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - Bosnia-Herzegovina vs Qatar - Canvas FHD BE 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//canvas-fhd-be
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - Bosnia-Herzegovina vs Qatar - Batwoman - S02E05 - Gore on Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Batwoman%20-%20S02E05%20-%20Gore%20on%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//batwoman---s02e05---gore-on-canvas
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - Bosnia-Herzegovina vs Qatar - Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//robot-chicken---s08e03---zeb-and-kevin-erotic-hot-tub-canvas
-
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - Bosnia-Herzegovina vs Qatar - VRT Canvas [Dutch] 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2060,11 +2060,11 @@ http://cdnlivetv.168.us.kg/live//bbc-two-hd-uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//bbc-two-fhd-uk
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Morocco vs Haiti - BBC Two Wales HD UK 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Morocco vs Haiti - BBC Two Northern Ireland HD UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Northern%20Ireland%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//bbc-two-wales-hd-uk
+http://cdnlivetv.168.us.kg/live//bbc-two-northern-ireland-hd-uk
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Morocco vs Haiti - BBC Two HD NL 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20HD%20NL&code=&user=cdnlivetv&plan=free
@@ -2089,24 +2089,6 @@ http://cdnlivetv.168.us.kg/live//canvas-hd-nl
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//canvas-fhd-nl
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Morocco vs Haiti - Canvas FHD BE 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//canvas-fhd-be
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Morocco vs Haiti - Batwoman - S02E05 - Gore on Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Batwoman%20-%20S02E05%20-%20Gore%20on%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//batwoman---s02e05---gore-on-canvas
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Morocco vs Haiti - Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//robot-chicken---s08e03---zeb-and-kevin-erotic-hot-tub-canvas
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Morocco vs Haiti - BBC Two [English] 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
@@ -2155,6 +2137,12 @@ http://cdnlivetv.168.us.kg/live//bbc-one-yorkshire-and-lincolnshire-fhd-uk
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//bbc-one-east-midlands-uk
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Scotland vs Brazil - BBC One North East and Cumbria UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//bbc-one-north-east-and-cumbria-uk
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Scotland vs Brazil - BBC One Wales HD UK 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
@@ -2216,24 +2204,6 @@ http://cdnlivetv.168.us.kg/live//canvas-hd-nl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//canvas-fhd-nl
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[09:00] ⏳ Soccer - South Africa vs South Korea - Canvas FHD BE 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//canvas-fhd-be
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[09:00] ⏳ Soccer - South Africa vs South Korea - Batwoman - S02E05 - Gore on Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Batwoman%20-%20S02E05%20-%20Gore%20on%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//batwoman---s02e05---gore-on-canvas
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[09:00] ⏳ Soccer - South Africa vs South Korea - Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//robot-chicken---s08e03---zeb-and-kevin-erotic-hot-tub-canvas
-
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[09:00] ⏳ Soccer - South Africa vs South Korea - VRT Canvas [Dutch] 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2251,24 +2221,6 @@ http://cdnlivetv.168.us.kg/live//canvas-hd-nl
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//canvas-fhd-nl
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Curaçao vs Ivory Coast - Canvas FHD BE 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//canvas-fhd-be
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Curaçao vs Ivory Coast - Batwoman - S02E05 - Gore on Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Batwoman%20-%20S02E05%20-%20Gore%20on%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//batwoman---s02e05---gore-on-canvas
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Curaçao vs Ivory Coast - Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//robot-chicken---s08e03---zeb-and-kevin-erotic-hot-tub-canvas
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Curaçao vs Ivory Coast - VRT Canvas [Dutch] 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&code=&user=cdnlivetv&plan=free
@@ -2306,24 +2258,6 @@ http://cdnlivetv.168.us.kg/live//canvas-hd-nl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//canvas-fhd-nl
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Japan vs Sweden - Canvas FHD BE 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//canvas-fhd-be
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Japan vs Sweden - Batwoman - S02E05 - Gore on Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Batwoman%20-%20S02E05%20-%20Gore%20on%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//batwoman---s02e05---gore-on-canvas
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Japan vs Sweden - Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//robot-chicken---s08e03---zeb-and-kevin-erotic-hot-tub-canvas
-
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Japan vs Sweden - VRT Canvas [Dutch] 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2341,24 +2275,6 @@ http://cdnlivetv.168.us.kg/live//canvas-hd-nl
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//canvas-fhd-nl
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[10:00] ⏳ Soccer - Paraguay vs Australia - Canvas FHD BE 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//canvas-fhd-be
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[10:00] ⏳ Soccer - Paraguay vs Australia - Batwoman - S02E05 - Gore on Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Batwoman%20-%20S02E05%20-%20Gore%20on%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//batwoman---s02e05---gore-on-canvas
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[10:00] ⏳ Soccer - Paraguay vs Australia - Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//robot-chicken---s08e03---zeb-and-kevin-erotic-hot-tub-canvas
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[10:00] ⏳ Soccer - Paraguay vs Australia - VRT Canvas [Dutch] 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&code=&user=cdnlivetv&plan=free
@@ -2378,24 +2294,6 @@ http://cdnlivetv.168.us.kg/live//canvas-hd-nl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//canvas-fhd-nl
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - Senegal vs Iraq - Canvas FHD BE 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//canvas-fhd-be
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - Senegal vs Iraq - Batwoman - S02E05 - Gore on Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Batwoman%20-%20S02E05%20-%20Gore%20on%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//batwoman---s02e05---gore-on-canvas
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - Senegal vs Iraq - Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//robot-chicken---s08e03---zeb-and-kevin-erotic-hot-tub-canvas
-
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - Senegal vs Iraq - VRT Canvas [Dutch] 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2414,24 +2312,6 @@ http://cdnlivetv.168.us.kg/live//canvas-hd-nl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//canvas-fhd-nl
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Egypt vs Iran - Canvas FHD BE 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//canvas-fhd-be
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Egypt vs Iran - Batwoman - S02E05 - Gore on Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Batwoman%20-%20S02E05%20-%20Gore%20on%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//batwoman---s02e05---gore-on-canvas
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Egypt vs Iran - Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//robot-chicken---s08e03---zeb-and-kevin-erotic-hot-tub-canvas
-
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Egypt vs Iran - VRT Canvas [Dutch] 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2449,24 +2329,6 @@ http://cdnlivetv.168.us.kg/live//canvas-hd-nl
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//canvas-fhd-nl
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[05:00] ⏳ Soccer - Croatia vs Ghana - Canvas FHD BE 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//canvas-fhd-be
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[05:00] ⏳ Soccer - Croatia vs Ghana - Batwoman - S02E05 - Gore on Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Batwoman%20-%20S02E05%20-%20Gore%20on%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//batwoman---s02e05---gore-on-canvas
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[05:00] ⏳ Soccer - Croatia vs Ghana - Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//robot-chicken---s08e03---zeb-and-kevin-erotic-hot-tub-canvas
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[05:00] ⏳ Soccer - Croatia vs Ghana - VRT Canvas [Dutch] 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&code=&user=cdnlivetv&plan=free
@@ -2563,6 +2425,24 @@ http://cdnlivetv.168.us.kg/live//tnt-sports-1-hd-uk
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tnt-sports-10-uk
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[07:05] ⏳ MLB - New York Yankees vs Cincinnati Reds - MLB Network HD US 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network-hd-us
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[07:05] ⏳ MLB - New York Yankees vs Cincinnati Reds - MLB Network Strike Zone HD US 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20Strike%20Zone%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network-strike-zone-hd-us
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[07:05] ⏳ MLB - New York Yankees vs Cincinnati Reds - MLB Network 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network
 
 #EXTINF:-1 tvg-logo="" group-title="MLB",[07:05] ⏳ MLB - New York Yankees vs Cincinnati Reds - TVA Sports CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
@@ -2756,6 +2636,24 @@ http://cdnlivetv.168.us.kg/live//masn-2-us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//masn-us
 
+#EXTINF:-1 tvg-logo="" group-title="MLB",[10:10] ⏳ MLB - Los Angeles Dodgers vs Baltimore Orioles - MLB Network HD US 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network-hd-us
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[10:10] ⏳ MLB - Los Angeles Dodgers vs Baltimore Orioles - MLB Network Strike Zone HD US 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20Strike%20Zone%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network-strike-zone-hd-us
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[10:10] ⏳ MLB - Los Angeles Dodgers vs Baltimore Orioles - MLB Network 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network
+
 #EXTINF:-1 tvg-logo="" group-title="MLB",[10:10] ⏳ MLB - Los Angeles Dodgers vs Baltimore Orioles - TVA Sports CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2936,6 +2834,12 @@ http://cdnlivetv.168.us.kg/live//tva-sports-qc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tva-sports-2-hd-qc
 
+#EXTINF:-1 tvg-logo="" group-title="MLB",[07:15] ⏳ MLB - Philadelphia Phillies vs New York Mets - Fox Deportes FHD LAM 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20FHD%20LAM&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//fox-deportes-fhd-lam
+
 #EXTINF:-1 tvg-logo="" group-title="MLB",[07:15] ⏳ MLB - Philadelphia Phillies vs New York Mets - Fox Deportes HD CHL 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20CHL&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -3020,6 +2924,24 @@ http://cdnlivetv.168.us.kg/live//bein-sports-max-4-sd-fr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//bein-sports-max-4-[english]
 
+#EXTINF:-1 tvg-logo="" group-title="MLB",[10:05] ⏳ MLB - Athletics vs Los Angeles Angels - MLB Network HD US 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network-hd-us
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[10:05] ⏳ MLB - Athletics vs Los Angeles Angels - MLB Network Strike Zone HD US 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20Strike%20Zone%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network-strike-zone-hd-us
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[10:05] ⏳ MLB - Athletics vs Los Angeles Angels - MLB Network 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network
+
 #EXTINF:-1 tvg-logo="" group-title="MLB",[10:05] ⏳ MLB - Athletics vs Los Angeles Angels - MLB Network CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -3056,6 +2978,24 @@ http://cdnlivetv.168.us.kg/live//tnt-sports-1-hd-uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tnt-sports-10-uk
 
+#EXTINF:-1 tvg-logo="" group-title="MLB",[04:05] ⏳ MLB - Athletics vs Los Angeles Angels - MLB Network HD US 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network-hd-us
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[04:05] ⏳ MLB - Athletics vs Los Angeles Angels - MLB Network Strike Zone HD US 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20Strike%20Zone%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network-strike-zone-hd-us
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[04:05] ⏳ MLB - Athletics vs Los Angeles Angels - MLB Network 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network
+
 #EXTINF:-1 tvg-logo="" group-title="MLB",[04:05] ⏳ MLB - Athletics vs Los Angeles Angels - MLB Network CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -3073,6 +3013,12 @@ http://cdnlivetv.168.us.kg/live//sportsnet-one-ca
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//sportsnet-one-hd-ca
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[07:20] ⏳ MLB - Philadelphia Phillies vs New York Mets - NBC 12 (WWBT) Richmond HD US 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%2012%20(WWBT)%20Richmond%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//nbc-12-(wwbt)-richmond-hd-us
 
 #EXTINF:-1 tvg-logo="" group-title="MLB",[07:20] ⏳ MLB - Philadelphia Phillies vs New York Mets - RDS 2 QC 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnlivetv&plan=free
@@ -3266,12 +3212,6 @@ http://cdnlivetv.168.us.kg/live//sportsnet-one-hd-ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//espn-us
 
-#EXTINF:-1 tvg-logo="" group-title="MLB",[10:10] ⏳ MLB - San Diego Padres vs Atlanta Braves - ESPN Deportes US 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//espn-deportes-us
-
 #EXTINF:-1 tvg-logo="" group-title="MLB",[10:10] ⏳ MLB - San Diego Padres vs Atlanta Braves - ESPN Deportes HD LAM 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -3289,6 +3229,24 @@ http://cdnlivetv.168.us.kg/live//espn-deportes-fhd-lam
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//espn-deportes-hd-lam
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[04:07] ⏳ MLB - Toronto Blue Jays vs Houston Astros - MLB Network HD US 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network-hd-us
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[04:07] ⏳ MLB - Toronto Blue Jays vs Houston Astros - MLB Network Strike Zone HD US 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20Strike%20Zone%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network-strike-zone-hd-us
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[04:07] ⏳ MLB - Toronto Blue Jays vs Houston Astros - MLB Network 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network
 
 #EXTINF:-1 tvg-logo="" group-title="MLB",[04:07] ⏳ MLB - Toronto Blue Jays vs Houston Astros - MLB Network CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20CA&code=&user=cdnlivetv&plan=free
@@ -3380,11 +3338,29 @@ http://cdnlivetv.168.us.kg/live//tva-sports-2-hd-qc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//nbc-sports-california-plus-us
 
+#EXTINF:-1 tvg-logo="" group-title="MLB",[09:45] ⏳ MLB - San Francisco Giants vs Athletics - MLB Network HD US 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network-hd-us
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[09:45] ⏳ MLB - San Francisco Giants vs Athletics - MLB Network Strike Zone HD US 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20Strike%20Zone%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network-strike-zone-hd-us
+
 #EXTINF:-1 tvg-logo="" group-title="MLB",[09:45] ⏳ MLB - San Francisco Giants vs Athletics - NBC Sports California HD US 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//nbc-sports-california-hd-us
+
+#EXTINF:-1 tvg-logo="" group-title="MLB",[09:45] ⏳ MLB - San Francisco Giants vs Athletics - MLB Network 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//mlb-network
 
 #EXTINF:-1 tvg-logo="" group-title="MLB",[09:45] ⏳ MLB - San Francisco Giants vs Athletics - NBC Sports California HD US 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
@@ -3476,6 +3452,12 @@ http://cdnlivetv.168.us.kg/live//tnt-sports-4-uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tnt-sports-4-hd-uk
 
+#EXTINF:-1 tvg-logo="" group-title="MLB",[01:35] ⏳ MLB - Boston Red Sox vs Tampa Bay Rays - TNT Sports 4 FHD UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tnt-sports-4-fhd-uk
+
 #EXTINF:-1 tvg-logo="" group-title="MLB",[01:35] ⏳ MLB - Boston Red Sox vs Tampa Bay Rays - TNT Sports 10 UK 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%2010%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -3512,6 +3494,12 @@ http://cdnlivetv.168.us.kg/live//tnt-sports-2-uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tnt-sports-2-hd-uk
 
+#EXTINF:-1 tvg-logo="" group-title="MLB",[01:05] ⏳ MLB - New York Yankees vs Boston Red Sox - Fox Deportes FHD LAM 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20FHD%20LAM&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//fox-deportes-fhd-lam
+
 #EXTINF:-1 tvg-logo="" group-title="MLB",[01:05] ⏳ MLB - New York Yankees vs Boston Red Sox - Fox Deportes HD CHL 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20CHL&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -3541,12 +3529,6 @@ http://cdnlivetv.168.us.kg/live//tsn-2-hd-ca
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-2-[english]
-
-#EXTINF:-1 tvg-logo="" group-title="Basketball",[01:00] ⏳ Basketball - Atlanta Dream vs Indiana Fever - ESPN Deportes US 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//espn-deportes-us
 
 #EXTINF:-1 tvg-logo="" group-title="Basketball",[01:00] ⏳ Basketball - Atlanta Dream vs Indiana Fever - ESPN Deportes HD LAM 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
@@ -3650,12 +3632,6 @@ http://cdnlivetv.168.us.kg/live//nba-tv-rs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//espn-us
 
-#EXTINF:-1 tvg-logo="" group-title="Basketball",[08:00] ⏳ Basketball - Los Angeles Sparks vs New York Liberty - ESPN Deportes US 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//espn-deportes-us
-
 #EXTINF:-1 tvg-logo="" group-title="Basketball",[08:00] ⏳ Basketball - Los Angeles Sparks vs New York Liberty - ESPN Deportes HD LAM 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -3685,3 +3661,453 @@ http://cdnlivetv.168.us.kg/live/us/usa-network-us
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/usa-network-west-us
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - France Volleyball Women vs China Volleyball Women - Polsat Sport 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - France Volleyball Women vs China Volleyball Women - Polsat Sport 3 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-3-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - France Volleyball Women vs China Volleyball Women - Polsat Sport 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - France Volleyball Women vs China Volleyball Women - Polsat Sport Premium 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - France Volleyball Women vs China Volleyball Women - Polsat Sport Premium 2 HD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20HD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-2-hd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - France Volleyball Women vs China Volleyball Women - Polsat Sport Premium 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - France Volleyball Women vs China Volleyball Women - Polsat Sport Extra 3 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-3-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - France Volleyball Women vs China Volleyball Women - Polsat Sport Extra 4 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-4-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - France Volleyball Women vs China Volleyball Women - Polsat Sport Extra 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - France Volleyball Women vs China Volleyball Women - Polsat Sport Extra 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[00:30] ⏳ Volleyball - Belgium Volleyball Women vs Germany Volleyball Women - Polsat Sport Extra 3 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-3-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[16:00] ⏳ Volleyball - USA Volleyball Women vs Italy Volleyball Women - Polsat Sport 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[16:00] ⏳ Volleyball - USA Volleyball Women vs Italy Volleyball Women - Arena Sport 2 Premium RS 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//arena-sport-2-premium-rs
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Netherlands Volleyball Women vs Poland Volleyball Women - Ziggo Sport 2 FHD NL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202%20FHD%20NL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//ziggo-sport-2-fhd-nl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Netherlands Volleyball Women vs Poland Volleyball Women - Polsat Sport 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Netherlands Volleyball Women vs Poland Volleyball Women - Polsat Sport 3 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-3-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Netherlands Volleyball Women vs Poland Volleyball Women - Polsat Sport 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Netherlands Volleyball Women vs Poland Volleyball Women - Polsat Sport Premium 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Netherlands Volleyball Women vs Poland Volleyball Women - Polsat Sport Premium 2 HD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20HD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-2-hd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Netherlands Volleyball Women vs Poland Volleyball Women - Polsat Sport Premium 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Netherlands Volleyball Women vs Poland Volleyball Women - Polsat Sport Extra 3 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-3-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Netherlands Volleyball Women vs Poland Volleyball Women - Polsat Sport Extra 4 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-4-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Netherlands Volleyball Women vs Poland Volleyball Women - Polsat Sport Extra 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Netherlands Volleyball Women vs Poland Volleyball Women - Polsat Sport Extra 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Netherlands Volleyball Women vs Poland Volleyball Women - Arena Sport 2 Premium RS 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//arena-sport-2-premium-rs
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - China Volleyball Women vs Brazil Volleyball Women - Polsat Sport 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - China Volleyball Women vs Brazil Volleyball Women - Polsat Sport 3 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-3-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - China Volleyball Women vs Brazil Volleyball Women - Polsat Sport 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - China Volleyball Women vs Brazil Volleyball Women - Polsat Sport Premium 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - China Volleyball Women vs Brazil Volleyball Women - Polsat Sport Premium 2 HD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20HD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-2-hd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - China Volleyball Women vs Brazil Volleyball Women - Polsat Sport Premium 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - China Volleyball Women vs Brazil Volleyball Women - Polsat Sport Extra 3 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-3-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - China Volleyball Women vs Brazil Volleyball Women - Polsat Sport Extra 4 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-4-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - China Volleyball Women vs Brazil Volleyball Women - Polsat Sport Extra 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - China Volleyball Women vs Brazil Volleyball Women - Polsat Sport Extra 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - China Volleyball Women vs Brazil Volleyball Women - Arena Sport 2 Premium RS 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//arena-sport-2-premium-rs
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[00:30] ⏳ Volleyball - Turkey Volleyball Women vs Germany Volleyball Women - Polsat Sport 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[00:30] ⏳ Volleyball - Turkey Volleyball Women vs Germany Volleyball Women - Polsat Sport 3 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-3-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[00:30] ⏳ Volleyball - Turkey Volleyball Women vs Germany Volleyball Women - Polsat Sport 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[00:30] ⏳ Volleyball - Turkey Volleyball Women vs Germany Volleyball Women - Polsat Sport Premium 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[00:30] ⏳ Volleyball - Turkey Volleyball Women vs Germany Volleyball Women - Polsat Sport Premium 2 HD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20HD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-2-hd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[00:30] ⏳ Volleyball - Turkey Volleyball Women vs Germany Volleyball Women - Polsat Sport Premium 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[00:30] ⏳ Volleyball - Turkey Volleyball Women vs Germany Volleyball Women - Polsat Sport Extra 3 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-3-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[00:30] ⏳ Volleyball - Turkey Volleyball Women vs Germany Volleyball Women - Polsat Sport Extra 4 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-4-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[00:30] ⏳ Volleyball - Turkey Volleyball Women vs Germany Volleyball Women - Polsat Sport Extra 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[00:30] ⏳ Volleyball - Turkey Volleyball Women vs Germany Volleyball Women - Polsat Sport Extra 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[12:00] ⏳ Volleyball - Serbia Volleyball Women vs USA Volleyball Women - Polsat Sport 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[12:00] ⏳ Volleyball - Serbia Volleyball Women vs USA Volleyball Women - Polsat Sport 3 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-3-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[12:00] ⏳ Volleyball - Serbia Volleyball Women vs USA Volleyball Women - Polsat Sport 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[12:00] ⏳ Volleyball - Serbia Volleyball Women vs USA Volleyball Women - Polsat Sport Premium 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[12:00] ⏳ Volleyball - Serbia Volleyball Women vs USA Volleyball Women - Polsat Sport Premium 2 HD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20HD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-2-hd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[12:00] ⏳ Volleyball - Serbia Volleyball Women vs USA Volleyball Women - Polsat Sport Premium 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[12:00] ⏳ Volleyball - Serbia Volleyball Women vs USA Volleyball Women - Polsat Sport Extra 3 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-3-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[12:00] ⏳ Volleyball - Serbia Volleyball Women vs USA Volleyball Women - Polsat Sport Extra 4 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-4-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[12:00] ⏳ Volleyball - Serbia Volleyball Women vs USA Volleyball Women - Polsat Sport Extra 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[12:00] ⏳ Volleyball - Serbia Volleyball Women vs USA Volleyball Women - Polsat Sport Extra 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[12:00] ⏳ Volleyball - Serbia Volleyball Women vs USA Volleyball Women - Arena Sport 2 Premium RS 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//arena-sport-2-premium-rs
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[14:00] ⏳ Volleyball - Bulgaria Volleyball Women vs Ukraine Volleyball Women - Polsat Sport 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[16:00] ⏳ Volleyball - Czech Republic Volleyball Women vs Dominican Republic Volleyball Women - Arena Sport 2 Premium RS 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//arena-sport-2-premium-rs
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[17:30] ⏳ Volleyball - Belgium Volleyball Women vs France Volleyball Women - Polsat Sport 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Canada Volleyball Women vs Poland Volleyball Women - Polsat Sport 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Canada Volleyball Women vs Poland Volleyball Women - Polsat Sport 3 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-3-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Canada Volleyball Women vs Poland Volleyball Women - Polsat Sport 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Canada Volleyball Women vs Poland Volleyball Women - Polsat Sport Premium 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Canada Volleyball Women vs Poland Volleyball Women - Polsat Sport Premium 2 HD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20HD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-2-hd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Canada Volleyball Women vs Poland Volleyball Women - Polsat Sport Premium 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-premium-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Canada Volleyball Women vs Poland Volleyball Women - Polsat Sport Extra 3 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-3-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Canada Volleyball Women vs Poland Volleyball Women - Polsat Sport Extra 4 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-4-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Canada Volleyball Women vs Poland Volleyball Women - Polsat Sport Extra 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Canada Volleyball Women vs Poland Volleyball Women - Polsat Sport Extra 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-extra-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[18:00] ⏳ Volleyball - Canada Volleyball Women vs Poland Volleyball Women - Arena Sport 2 Premium RS 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//arena-sport-2-premium-rs
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[20:00] ⏳ Volleyball - Japan Volleyball Women vs Italy Volleyball Women - Polsat Sport 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-2-fhd-pl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:00] ⏳ Volleyball - Germany Volleyball Women vs Brazil Volleyball Women - Arena Sport 2 Premium RS 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//arena-sport-2-premium-rs
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[21:30] ⏳ Volleyball - Thailand Volleyball Women vs Netherlands Volleyball Women - Ziggo Sport 2 FHD NL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202%20FHD%20NL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//ziggo-sport-2-fhd-nl
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball",[00:30] ⏳ Volleyball - Turkey Volleyball Women vs China Volleyball Women - Polsat Sport 2 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//polsat-sport-2-fhd-pl
