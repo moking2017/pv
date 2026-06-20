@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-06-20 22:27
-# Total: 58
+# UTC+8 | Generated: 2026-06-21 00:46
+# Total: 57
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67ffdb3628a436114baa101077b6a29a-thumbnail.jpg" group-title="American Football",[2026-06-21 00:00] Paris Lights vs. Alpine Rams
 https://ppv2.168.us.kg/stream?uri=afle/2026-06-20/par-alp
@@ -78,6 +78,9 @@ https://ppv2.168.us.kg/stream?uri=wnba/2026-06-20/sea-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/028d3f042bd2a74d8f85f441c8580c78-thumbnail.jpg" group-title="Basketball",[2026-06-21 08:00] Chicago Sky vs. Dallas Wings
 https://ppv2.168.us.kg/stream?uri=wnba/2026-06-20/chi-dal
 
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/151a85042c914ef772580afecb70ea09-thumbnail.jpg" group-title="Combat Sports",[2026-06-21 00:00] OKTAGON 90
+https://ppv2.168.us.kg/stream?uri=oktagon-90
+
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/946c8db429b487d649e05f6422c6d49d-thumbnail.jpg" group-title="Combat Sports",[2026-06-21 02:00] Ryan Garner vs. Michael Magnesi
 https://ppv2.168.us.kg/stream?uri=ryan-garner-vs-michael-magnesi
 
@@ -140,12 +143,6 @@ https://ppv2.168.us.kg/stream?uri=nrl/2026-06-21/mel-can
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba99588a531aca3b621324630ac2fcc0-thumbnail.jpg" group-title="Rugby",[2026-06-21 16:15] Roosters vs. Sharks
 https://ppv2.168.us.kg/stream?uri=nrl/2026-06-21/syd-cro
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6840c277f0ea1e26460abccc7b80d076-thumbnail.jpg" group-title="Volleyball",[2026-06-20 20:00] Japan vs. Dominican Republic
-https://ppv2.168.us.kg/stream?uri=womensvnl/2026-06-20/jap-dom
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/96571b206db09be87de115301a5aab02-thumbnail.jpg" group-title="Volleyball",[2026-06-20 21:00] China vs. Brazil
-https://ppv2.168.us.kg/stream?uri=womensvnl/2026-06-20/chi-bra
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/acf0c1a681e24e6c3ec956395c3b9016-thumbnail.jpg" group-title="Volleyball",[2026-06-20 21:30] Thailand vs. Canada
 https://ppv2.168.us.kg/stream?uri=womensvnl/2026-06-20/tha-can
