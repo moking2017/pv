@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e67a044783c1549e59ae7c8873502047-thumbnail.jpg" group-title="American Football",Toronto Argonauts vs. Ottawa RedBlacks
-http://192.168.2.139:8090/stream?uri=cfl/2026-06-20/tor-ott
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5a362d080ef15e5bd72e04b7d3c970b-thumbnail.jpg" group-title="American Football",Montreal Alouettes vs. Edmonton Elks
 http://192.168.2.139:8090/stream?uri=cfl/2026-06-20/mtl-edm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93231d58f574e1a75128f898624f4b94-thumbnail.jpg" group-title="American Football",Saskatchewan Roughriders vs. Calgary Stampeders
@@ -13,10 +11,6 @@ http://192.168.2.139:8090/stream?uri=afle/2026-06-21/ber-rhe
 http://192.168.2.139:8090/stream?uri=afl/2026-06-21/rich-nmfc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6172a5883ed42e29efe05c4a3495f4c-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Western Bulldogs
 http://192.168.2.139:8090/stream?uri=afl/2026-06-21/stk-wb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/06cec066993770c81ab112f5e54f8e02-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Detroit Tigers
-http://192.168.2.139:8090/stream?uri=mlb/2026-06-20/chw-det
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ecdf1f8a51ff5bde46ef6291bb047a9e-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. New York Yankees
-http://192.168.2.139:8090/stream?uri=mlb/2026-06-20/cin-nyy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/763a9528aa8d96bde7e04136136cee12-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Chicago Cubs
 http://192.168.2.139:8090/stream?uri=mlb/2026-06-20/tor-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/86c51b0095c76e5125e2ba00ff4d5020-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Texas Rangers
@@ -41,14 +35,10 @@ http://192.168.2.139:8090/stream?uri=mlb/2026-06-20/bos-sea
 http://192.168.2.139:8090/stream?uri=mlb/2026-06-20/bal-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf560e6a2cb2ca186061b2d0cb239c13-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Arizona Diamondbacks
 http://192.168.2.139:8090/stream?uri=mlb/2026-06-20/min-ari
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fbfa453d83555c93919687160a06abb7-thumbnail.jpg" group-title="Basketball",Indiana Fever vs. Atlanta Dream
-http://192.168.2.139:8090/stream?uri=wnba/2026-06-20/ind-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b2818a77fa2cde6b51ae1977cf818735-thumbnail.jpg" group-title="Basketball",Seattle Storm vs. Phoenix Mercury
 http://192.168.2.139:8090/stream?uri=wnba/2026-06-20/sea-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/028d3f042bd2a74d8f85f441c8580c78-thumbnail.jpg" group-title="Basketball",Chicago Sky vs. Dallas Wings
 http://192.168.2.139:8090/stream?uri=wnba/2026-06-20/chi-dal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/151a85042c914ef772580afecb70ea09-thumbnail.jpg" group-title="Combat Sports",OKTAGON 90
-http://192.168.2.139:8090/stream?uri=oktagon-90
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/946c8db429b487d649e05f6422c6d49d-thumbnail.jpg" group-title="Combat Sports",Ryan Garner vs. Michael Magnesi
 http://192.168.2.139:8090/stream?uri=ryan-garner-vs-michael-magnesi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e6a350f1630085facab883877538f22-thumbnail.jpg" group-title="Combat Sports",Cage Warriors 207
@@ -57,8 +47,6 @@ http://192.168.2.139:8090/stream?uri=cage-warriors-207
 http://192.168.2.139:8090/stream?uri=ufc-fight-night-kape-vs-horiguchi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67cce9f5e71f3aab884eca85e2fac0d2-thumbnail.jpg" group-title="Combat Sports",ONE Friday Fights 160 & The Inner Circle 20
 http://192.168.2.139:8090/stream?uri=one-friday-fights-160--the-inner-circle-20
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f11f6a6175ccc11ea58858f2439945e6-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
-http://192.168.2.139:8090/stream?uri=cricket/2026/eng-nzl/2nd-test
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Slovak Darts Open | Day 2
 http://192.168.2.139:8090/stream?uri=darts/2026/et9/day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Slovak Darts Open | Day 3
@@ -89,8 +77,6 @@ http://192.168.2.139:8090/stream?uri=nrl/2026-06-21/new-nor
 http://192.168.2.139:8090/stream?uri=nrl/2026-06-21/mel-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba99588a531aca3b621324630ac2fcc0-thumbnail.jpg" group-title="Rugby",Roosters vs. Sharks
 http://192.168.2.139:8090/stream?uri=nrl/2026-06-21/syd-cro
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ea6c4318049d3a4cc782f591ea9a34ef-thumbnail.jpg" group-title="Volleyball",Türkiye vs. Germany
-http://192.168.2.139:8090/stream?uri=womensvnl/2026-06-20/tür-ger
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/37ac74a15dd0383d9be586f5d6152d09-thumbnail.jpg" group-title="Volleyball",Serbia vs. USA
 http://192.168.2.139:8090/stream?uri=womensvnl/2026-06-21/ser-usa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
