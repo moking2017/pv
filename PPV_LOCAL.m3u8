@@ -3,18 +3,6 @@
 http://192.168.2.139:8090/stream?uri=afle/2026-06-21/vie-lon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6ab1922d212e6c5f52169092fbeb6f62-thumbnail.jpg" group-title="American Football",Berlin Thunder vs. Rhein Fire
 http://192.168.2.139:8090/stream?uri=afle/2026-06-21/ber-rhe
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b121b6e3326b8d8e6b2b8c9841c4890f-thumbnail.jpg" group-title="Australian Football",Richmond vs. North Melbourne
-http://192.168.2.139:8090/stream?uri=afl/2026-06-21/rich-nmfc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6172a5883ed42e29efe05c4a3495f4c-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Western Bulldogs
-http://192.168.2.139:8090/stream?uri=afl/2026-06-21/stk-wb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e8cc687540db7b4862b162bee6fa5aec-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Athletics
-http://192.168.2.139:8090/stream?uri=mlb/2026-06-20/laa-ath
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/02a2fd07ea55992126e844c4bc1daecb-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Seattle Mariners
-http://192.168.2.139:8090/stream?uri=mlb/2026-06-20/bos-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c12603876fc61be7d66840690d9b2571-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Los Angeles Dodgers
-http://192.168.2.139:8090/stream?uri=mlb/2026-06-20/bal-lad
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf560e6a2cb2ca186061b2d0cb239c13-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Arizona Diamondbacks
-http://192.168.2.139:8090/stream?uri=mlb/2026-06-20/min-ari
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ecdf1f8a51ff5bde46ef6291bb047a9e-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. New York Yankees
 http://192.168.2.139:8090/stream?uri=mlb/2026-06-21/cin-nyy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f97b69669cd7fb3bf4d346eb4f19334-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Atlanta Braves
@@ -53,10 +41,10 @@ http://192.168.2.139:8090/stream?uri=wnba/2026-06-21/wsh-min
 http://192.168.2.139:8090/stream?uri=wnba/2026-06-21/ny-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67cce9f5e71f3aab884eca85e2fac0d2-thumbnail.jpg" group-title="Combat Sports",ONE Friday Fights 160 & The Inner Circle 20
 http://192.168.2.139:8090/stream?uri=one-friday-fights-160--the-inner-circle-20
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f11f6a6175ccc11ea58858f2439945e6-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
+http://192.168.2.139:8090/stream?uri=cricket/2026-06-21/eng-nzl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Slovak Darts Open | Day 3
 http://192.168.2.139:8090/stream?uri=darts/2026/et9/day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2056a3155d2e5ea1e2e8d32ba080c81e-thumbnail.jpg" group-title="Football",Tunisia vs. Japan
-http://192.168.2.139:8090/stream?uri=wc/2026-06-20/tun-jpn
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec3d94756c3620c631cdb4810d68c1f1-thumbnail.jpg" group-title="Football",Spain vs. Saudi Arabia
 http://192.168.2.139:8090/stream?uri=wc/2026-06-21/esp-ksa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/90c9450f391bd2f08f9c479d88fbc11d-thumbnail.jpg" group-title="Football",Belgium vs. Iran
@@ -73,14 +61,8 @@ http://192.168.2.139:8090/stream?uri=wc/2026-06-22/fra-irq
 http://192.168.2.139:8090/stream?uri=wc/2026-06-22/nor-sen
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aa16f1715060b271db98cd3685a23547-thumbnail.jpg" group-title="Football",Jordan vs. Algeria
 http://192.168.2.139:8090/stream?uri=wc/2026-06-22/jor-alg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0ccbe4e31f0e759e477a534001034ba7-thumbnail.jpg" group-title="Rugby",Warriors vs. Cowboys
-http://192.168.2.139:8090/stream?uri=nrl/2026-06-21/new-nor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b6887bc60e8bea1b52d424755462b463-thumbnail.jpg" group-title="Rugby",Storm vs. Raiders
-http://192.168.2.139:8090/stream?uri=nrl/2026-06-21/mel-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba99588a531aca3b621324630ac2fcc0-thumbnail.jpg" group-title="Rugby",Roosters vs. Sharks
 http://192.168.2.139:8090/stream?uri=nrl/2026-06-21/syd-cro
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/37ac74a15dd0383d9be586f5d6152d09-thumbnail.jpg" group-title="Volleyball",Serbia vs. USA
-http://192.168.2.139:8090/stream?uri=womensvnl/2026-06-21/ser-usa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61c624e386fddee6c9e14deb3db4cba1-thumbnail.jpg" group-title="Volleyball",Bulgaria vs. Ukraine
 http://192.168.2.139:8090/stream?uri=womensvnl/2026-06-21/bul-ukr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c513a3da8ba8f209a7d15678aa528af4-thumbnail.jpg" group-title="Volleyball",Czechia vs. Dominican Republic
