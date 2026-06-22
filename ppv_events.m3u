@@ -1,6 +1,6 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-06-22 20:23
+# UTC+8 | Generated: 2026-06-23 02:52
 # Total: 59
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/566e0d91b42e70e6b92aa542b8971fbc-thumbnail.jpg" group-title="American Football",[2026-06-26 08:30] Edmonton Elks vs. Winnipeg Blue Bombers
@@ -144,8 +144,11 @@ https://ppv2.168.us.kg/stream?uri=nrl/2026-06-28/can-st.
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4c57dd01b2423834a377ecf8c69621dd-thumbnail.jpg" group-title="Rugby",[2026-06-28 14:05] Knights vs. Wests Tigers
 https://ppv2.168.us.kg/stream?uri=nrl/2026-06-28/new-wes
 
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling",[2026-06-23 08:00] WWE: Monday Night RAW
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling",[2026-06-23 02:00] WWE: Monday Night RAW
 https://ppv2.168.us.kg/stream?uri=wwe/raw/2026-06-22
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",[2026-06-24 00:00] WWE: Smackdown
+https://ppv2.168.us.kg/stream?uri=wwe/smackdown/2026-06-23
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",[2026-06-24 08:00] WWE: NXT
 https://ppv2.168.us.kg/stream?uri=wwe/nxt/2026-06-23
@@ -155,9 +158,6 @@ https://ppv2.168.us.kg/stream?uri=aew/dynamite/2026-06-24
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",[2026-06-26 09:00] TNA: Impact
 https://ppv2.168.us.kg/stream?uri=tna/impact/2026-06-25
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",[2026-06-27 08:00] WWE: Friday Night Smackdown
-https://ppv2.168.us.kg/stream?uri=wwe/smackdown/2026-06-26
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",[2026-06-28 08:00] AEW: Saturday Night Collision
 https://ppv2.168.us.kg/stream?uri=aew/collision/2026-06-27
