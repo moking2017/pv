@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-06-24 04:20
-# Total: 58
+# UTC+8 | Generated: 2026-06-24 06:21
+# Total: 60
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/566e0d91b42e70e6b92aa542b8971fbc-thumbnail.jpg" group-title="American Football",[2026-06-26 08:30] Edmonton Elks vs. Winnipeg Blue Bombers
 https://ppv2.168.us.kg/stream?uri=cfl/2026-06-25/edm-wpg
@@ -87,8 +87,14 @@ https://ppv2.168.us.kg/stream?uri=mlb/2026-06-23/atl-sd
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/08698c07dc99127fbd3881e54908f083-thumbnail.jpg" group-title="Baseball",[2026-06-24 09:45] Athletics vs. San Francisco Giants
 https://ppv2.168.us.kg/stream?uri=mlb/2026-06-23/ath-sf
 
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d8c6788285e93807efdeb5b38cb4a355-thumbnail.jpg" group-title="Basketball",[2026-06-24 08:00] 2026 NBA Draft | Round 1
+https://ppv2.168.us.kg/stream?uri=2026-nba-draft--round-1
+
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3e84ae089438b3c81f80bee662c940d5-thumbnail.jpg" group-title="Basketball",[2026-06-24 10:00] New York Liberty vs. Las Vegas Aces
 https://ppv2.168.us.kg/stream?uri=wnba/2026-06-23/ny-lv
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d8c6788285e93807efdeb5b38cb4a355-thumbnail.jpg" group-title="Basketball",[2026-06-25 08:00] 2026 NBA Draft | Round 2
+https://ppv2.168.us.kg/stream?uri=2026-nba-draft--round-2
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67cce9f5e71f3aab884eca85e2fac0d2-thumbnail.jpg" group-title="Combat Sports",[2026-06-26 19:30] ONE Friday Fights 160 & The Inner Circle 20
 https://ppv2.168.us.kg/stream?uri=one-friday-fights-160--the-inner-circle-20
