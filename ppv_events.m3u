@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-06-25 12:21
-# Total: 63
+# UTC+8 | Generated: 2026-06-25 17:41
+# Total: 66
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/566e0d91b42e70e6b92aa542b8971fbc-thumbnail.jpg" group-title="American Football",[2026-06-26 08:30] Edmonton Elks vs. Winnipeg Blue Bombers
 https://ppv2.168.us.kg/stream?uri=cfl/2026-06-25/edm-wpg
@@ -42,9 +42,6 @@ https://ppv2.168.us.kg/stream?uri=afl/2026-06-28/nmfc-ess
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5feb92d5482f51ca84509e1fedb2b3f2-thumbnail.jpg" group-title="Australian Football",[2026-06-28 15:10] Fremantle vs. Gold Coast SUNS
 https://ppv2.168.us.kg/stream?uri=afl/2026-06-28/fre-gcfc
 
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/08698c07dc99127fbd3881e54908f083-thumbnail.jpg" group-title="Baseball",[2026-06-25 09:45] Athletics vs. San Francisco Giants
-https://ppv2.168.us.kg/stream?uri=mlb/2026-06-24/ath-sf
-
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fda72535ed1fa2cf4e8ac894d6a97bb8-thumbnail.jpg" group-title="Baseball",[2026-06-26 00:10] Kansas City Royals vs. Tampa Bay Rays
 https://ppv2.168.us.kg/stream?uri=mlb/2026-06-25/kc-tb
 
@@ -71,9 +68,6 @@ https://ppv2.168.us.kg/stream?uri=mlb/2026-06-25/nyy-bos
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/befc90bc75e31b7a6c1d0cad6d4fcc88-thumbnail.jpg" group-title="Baseball",[2026-06-26 07:45] Arizona Diamondbacks vs. St. Louis Cardinals
 https://ppv2.168.us.kg/stream?uri=mlb/2026-06-25/ari-stl
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bce0d65e36a3e70a9a5fc1214b0f3c0e-thumbnail.jpg" group-title="Basketball",[2026-06-25 10:00] Atlanta Dream vs. Golden State Valkyries
-https://ppv2.168.us.kg/stream?uri=wnba/2026-06-24/atl-gs
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e7bc0bee51d341933c7643adc7e3b15f-thumbnail.jpg" group-title="Basketball",[2026-06-26 07:00] Los Angeles Sparks vs. Toronto Tempo
 https://ppv2.168.us.kg/stream?uri=wnba/2026-06-25/la-tor
@@ -122,6 +116,21 @@ https://ppv2.168.us.kg/stream?uri=wc/2026-06-26/egy-irn
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c347f6dcc81379f4d78623ee6b95478f-thumbnail.jpg" group-title="Football",[2026-06-27 11:00] New Zealand vs. Belgium
 https://ppv2.168.us.kg/stream?uri=wc/2026-06-26/nzl-bel
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d721aaa6f3f8f201bc4aa0d5c81fe7e1-thumbnail.jpg" group-title="Motorsports",[2026-06-26 19:30] Austrian Grand Prix - Practice 1
+https://ppv2.168.us.kg/stream?uri=f1/2026/austria/fp1
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3609e7ff705ce3311e41421e97c5cf-thumbnail.jpg" group-title="Motorsports",[2026-06-26 23:00] Austrian Grand Prix - Practice 2
+https://ppv2.168.us.kg/stream?uri=f1/2026/austria/fp2
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0d8fb094b045a9fc120a74a36234887-thumbnail.jpg" group-title="Motorsports",[2026-06-27 18:30] Austrian Grand Prix - Practice 3
+https://ppv2.168.us.kg/stream?uri=f1/2026/austria/fp3
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c512ae2ea1ef8f7f44dacbbe6c557c2b-thumbnail.jpg" group-title="Motorsports",[2026-06-27 22:00] Austrian Grand Prix - Qualifying
+https://ppv2.168.us.kg/stream?uri=f1/2026/austria/qualifying
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4f314c3226507cd4c6d2d195a67fc728-thumbnail.jpg" group-title="Motorsports",[2026-06-28 21:00] Austrian Grand Prix - Race
+https://ppv2.168.us.kg/stream?uri=f1/2026/austria/race
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1ef5aff72abdd61b6ea3a7d315dd7c71-thumbnail.jpg" group-title="Rugby",[2026-06-25 17:50] Eels vs. Rabbitohs
 https://ppv2.168.us.kg/stream?uri=nrl/2026-06-25/par-sou
