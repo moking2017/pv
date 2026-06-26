@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-06-27 04:06
-# Total: 61
+# UTC+8 | Generated: 2026-06-27 06:21
+# Total: 59
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e4635280158fd7e5c44358491236981a-thumbnail.jpg" group-title="American Football",[2026-06-27 09:00] Toronto Argonauts vs. Saskatchewan Roughriders
 https://ppv2.168.us.kg/stream?uri=cfl/2026-06-26/tor-ssk
@@ -87,17 +87,14 @@ https://ppv2.168.us.kg/stream?uri=wnba/2026-06-26/por-chi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bce0d65e36a3e70a9a5fc1214b0f3c0e-thumbnail.jpg" group-title="Basketball",[2026-06-27 10:00] Atlanta Dream vs. Golden State Valkyries
 https://ppv2.168.us.kg/stream?uri=wnba/2026-06-26/atl-gs
 
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0d6bc820d629204cfdda38285df58007-thumbnail.jpg" group-title="Combat Sports",[2026-06-27 21:00] UFC Fight Night: Fiziev vs. Torres
+https://ppv2.168.us.kg/stream?uri=ufc-fight-night-fiziev-vs-torres
+
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a34342d04442b7eb71b01491b74cdaa3-thumbnail.jpg" group-title="Combat Sports",[2026-06-28 11:30] PANCRASE 363
 https://ppv2.168.us.kg/stream?uri=pancrase-363
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a9e26042608bc780b10bb1ebb311ae54-thumbnail.jpg" group-title="Darts",[2026-06-27 01:00] US Darts Masters | Day 2
 https://ppv2.168.us.kg/stream?uri=us-darts-masters--day-2
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9450141dfcbba2199341aa47ff0ecc9d-thumbnail.jpg" group-title="Football",[2026-06-27 03:00] Norway vs. France
-https://ppv2.168.us.kg/stream?uri=wc/2026-06-26/nor-fra
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/314982592756f39bd99623a25d16c3c5-thumbnail.jpg" group-title="Football",[2026-06-27 03:00] Senegal vs. Iraq
-https://ppv2.168.us.kg/stream?uri=wc/2026-06-26/sen-irq
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/92babce2ed435b0f5e831fb81a4b1bba-thumbnail.jpg" group-title="Football",[2026-06-27 08:00] Cape Verde vs. Saudi Arabia
 https://ppv2.168.us.kg/stream?uri=wc/2026-06-26/cpv-ksa
@@ -129,6 +126,9 @@ https://ppv2.168.us.kg/stream?uri=wc/2026-06-27/alg-aut
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9c2ca361a5b0d9a81be50ca52365f522-thumbnail.jpg" group-title="Football",[2026-06-28 10:00] Jordan vs. Argentina
 https://ppv2.168.us.kg/stream?uri=wc/2026-06-27/jor-arg
 
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a778bd40435ea2a0e8f55fa2ee0ac98-thumbnail.jpg" group-title="Ice Hockey",[2026-06-27 08:00] 2026 NHL Draft | Round 1
+https://ppv2.168.us.kg/stream?uri=2026-nhl-draft--round-1
+
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0d8fb094b045a9fc120a74a36234887-thumbnail.jpg" group-title="Motorsports",[2026-06-27 18:30] Austrian Grand Prix - Practice 3
 https://ppv2.168.us.kg/stream?uri=f1/2026/austria/fp3
 
@@ -153,17 +153,11 @@ https://ppv2.168.us.kg/stream?uri=nrl/2026-06-28/can-st.
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4c57dd01b2423834a377ecf8c69621dd-thumbnail.jpg" group-title="Rugby",[2026-06-28 14:05] Knights vs. Wests Tigers
 https://ppv2.168.us.kg/stream?uri=nrl/2026-06-28/new-wes
 
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89a18b6df6881d7d9cb8a540d55c0758-thumbnail.jpg" group-title="Volleyball",[2026-06-27 02:00] Brazil vs. Italy
-https://ppv2.168.us.kg/stream?uri=mensvnl/2026-06-26/bra-ita
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ec627ffd88c1d69641717687a556562-thumbnail.jpg" group-title="Volleyball",[2026-06-27 02:00] Belgium vs. Germany
-https://ppv2.168.us.kg/stream?uri=mensvnl/2026-06-26/bel-ger
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69be7c525a4a76665561e5382c4f56f8-thumbnail.jpg" group-title="Volleyball",[2026-06-27 02:30] Serbia vs. Cuba
-https://ppv2.168.us.kg/stream?uri=mensvnl/2026-06-26/ser-cub
-
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",[2026-06-27 08:00] WWE: Friday Night Smackdown
 https://ppv2.168.us.kg/stream?uri=wwe/smackdown/2026-06-26
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ad1364b4699ba49b02779938da69726b-thumbnail.jpg" group-title="Wrestling",[2026-06-28 01:00] WWE: Night of Champions Riyadh
+https://ppv2.168.us.kg/stream?uri=wwe/ple/2026-06-27
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",[2026-06-28 08:00] AEW: Saturday Night Collision
 https://ppv2.168.us.kg/stream?uri=aew/collision/2026-06-27
