@@ -1,7 +1,7 @@
 #EXTM3U
 # Generated from cdn-live.tv Sports API
-# UTC+8 timezone | Generated: 2026-06-29 12:53
-# Total Entries: 1044  |  Skipped (finished): 0
+# UTC+8 timezone | Generated: 2026-06-29 19:20
+# Total Entries: 1073  |  Skipped (finished): 0
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-3-premium-fhd-rs.webp" group-title="Soccer",[19:00] ⏳ Soccer - NK Olimpija Ljubljana vs FK Čukarički - Arena Sport 3 Premium FHD RS 🌐 RS
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%203%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -122,6 +122,12 @@ http://cdnlivetv.168.us.kg/live/rs/arena-sport-3-premium-fhd-rs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/rs/arena-sport-2-premium-fhd-rs
 
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport-italian.webp" group-title="Soccer",[23:00] ⏳ Soccer - Italy U19 vs Serbia U19 - Rai Sport [Italian] 🌐 IT
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%20Sport%20%5BItalian%5D&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/it/rai-sport-[italian]
+
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/rts-2-fhd-rs.webp" group-title="Soccer",[23:00] ⏳ Soccer - Italy U19 vs Serbia U19 - RTS 2 FHD RS 🌐 RS
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=RTS%202%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -164,11 +170,11 @@ http://cdnlivetv.168.us.kg/live/gb/bbc-one-fhd-uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-fhd-ca
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Brazil vs Japan - TSN 1 [English] 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Brazil vs Japan - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//tsn-1-[english]
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp" group-title="Soccer",[01:00] ⏳ Soccer - Brazil vs Japan - RDS CA 🌐 CA
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivetv&plan=free
@@ -260,6 +266,12 @@ http://cdnlivetv.168.us.kg/live/pl/tvp-2-fhd-pl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/fr/m6-fhd-fr
 
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-hd.webp" group-title="Soccer",[01:00] ⏳ Soccer - Brazil vs Japan - beIN SPORTS 1 FR HD 🌐 FR
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20HD&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/fr/bein-sports-1-fr-hd
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Brazil vs Japan - PTV SPORTS HD 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=PTV%20SPORTS%20HD&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -343,6 +355,12 @@ http://cdnlivetv.168.us.kg/live//arena-sport-1-fhd-hr
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/rs/rts-2-fhd-rs
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp" group-title="Soccer",[01:00] ⏳ Soccer - Brazil vs Japan - Arena Sport 1 Premium FHD RS 🌐 RS
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/rs/arena-sport-1-premium-fhd-rs
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-1-hd-gr.webp" group-title="Soccer",[01:00] ⏳ Soccer - Brazil vs Japan - ERT 1 HD GR 🌐 GR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%201%20HD%20GR&code=gr&user=cdnlivetv&plan=free
@@ -446,11 +464,11 @@ http://cdnlivetv.168.us.kg/live/gb/bbc-one-fhd-uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/de/zdf-fhd-de
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[04:30] ⏳ Soccer - Germany vs Paraguay - TSN 1 [English] 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[04:30] ⏳ Soccer - Germany vs Paraguay - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//tsn-1-[english]
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp" group-title="Soccer",[04:30] ⏳ Soccer - Germany vs Paraguay - RDS CA 🌐 CA
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivetv&plan=free
@@ -517,6 +535,18 @@ http://cdnlivetv.168.us.kg/live/pt/sport-tv-5-hd-pt
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/pl/tvp-sport-fhd-pl
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-1-fhd-pl.webp" group-title="Soccer",[04:30] ⏳ Soccer - Germany vs Paraguay - TVP 1 FHD PL 🌐 PL
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/pl/tvp-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-hd.webp" group-title="Soccer",[04:30] ⏳ Soccer - Germany vs Paraguay - beIN SPORTS 1 FR HD 🌐 FR
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20HD&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/fr/bein-sports-1-fr-hd
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/m6-fhd-fr.webp" group-title="Soccer",[04:30] ⏳ Soccer - Germany vs Paraguay - M6 FHD FR 🌐 FR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=M6%20FHD%20FR&code=fr&user=cdnlivetv&plan=free
@@ -632,11 +662,23 @@ http://cdnlivetv.168.us.kg/live/nl/npo1-fhd-nl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//arena-sport-1-fhd-hr
 
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp" group-title="Soccer",[04:30] ⏳ Soccer - Germany vs Paraguay - Arena Sport 1 Premium FHD RS 🌐 RS
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/rs/arena-sport-1-premium-fhd-rs
+
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-2-hd-gr.webp" group-title="Soccer",[04:30] ⏳ Soccer - Germany vs Paraguay - ERT 2 HD GR 🌐 GR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20HD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/gr/ert-2-hd-gr
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/tyc-sports-hd-arg.webp" group-title="Soccer",[04:30] ⏳ Soccer - Germany vs Paraguay - TyC Sports HD ARG 🌐 AR
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TyC%20Sports%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/ar/tyc-sports-hd-arg
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/hrt-2-fhd-hr.webp" group-title="Soccer",[04:30] ⏳ Soccer - Germany vs Paraguay - HRT 2 FHD HR 🌐 HR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=HRT%202%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
@@ -692,11 +734,11 @@ http://cdnlivetv.168.us.kg/live/nl/npo1-fhd-nl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-fhd-ca
 
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[09:00] ⏳ Soccer - Netherlands vs Morocco - TSN 1 [English] 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[09:00] ⏳ Soccer - Netherlands vs Morocco - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//tsn-1-[english]
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp" group-title="Soccer",[09:00] ⏳ Soccer - Netherlands vs Morocco - RDS CA 🌐 CA
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivetv&plan=free
@@ -782,6 +824,18 @@ http://cdnlivetv.168.us.kg/live/pt/sport-tv-5-hd-pt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/pl/tvp-sport-fhd-pl
 
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-1-fhd-pl.webp" group-title="Soccer",[09:00] ⏳ Soccer - Netherlands vs Morocco - TVP 1 FHD PL 🌐 PL
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/pl/tvp-1-fhd-pl
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-hd.webp" group-title="Soccer",[09:00] ⏳ Soccer - Netherlands vs Morocco - beIN SPORTS 1 FR HD 🌐 FR
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20HD&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/fr/bein-sports-1-fr-hd
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[09:00] ⏳ Soccer - Netherlands vs Morocco - Telemundo FHD MX 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20FHD%20MX&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -854,6 +908,12 @@ http://cdnlivetv.168.us.kg/live/hu/m4-sport-fhd-hu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//arena-sport-1-fhd-hr
 
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp" group-title="Soccer",[09:00] ⏳ Soccer - Netherlands vs Morocco - Arena Sport 1 Premium FHD RS 🌐 RS
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/rs/arena-sport-1-premium-fhd-rs
+
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-1-hd-gr.webp" group-title="Soccer",[09:00] ⏳ Soccer - Netherlands vs Morocco - ERT 1 HD GR 🌐 GR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%201%20HD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -895,6 +955,12 @@ http://cdnlivetv.168.us.kg/live//livenow-from-fox-us
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-ca
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Ivory Coast vs Norway - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Ivory Coast vs Norway - TSN 3 HD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
@@ -1142,6 +1208,12 @@ http://cdnlivetv.168.us.kg/live//tsn-5-ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-ca
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[05:00] ⏳ Soccer - France vs Sweden - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[05:00] ⏳ Soccer - France vs Sweden - TSN 3 HD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1183,6 +1255,12 @@ http://cdnlivetv.168.us.kg/live//npo-1-extra-hd-nl
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//npo-1-extra-fhd-nl
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[05:00] ⏳ Soccer - France vs Sweden - TVP 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tvp-1-fhd-pl
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[05:00] ⏳ Soccer - France vs Sweden - TVP Sport HD PL 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20HD%20PL&code=&user=cdnlivetv&plan=free
@@ -1400,6 +1478,12 @@ http://cdnlivetv.168.us.kg/live//tsn-5-ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-ca
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[09:00] ⏳ Soccer - Mexico vs Ecuador - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[09:00] ⏳ Soccer - Mexico vs Ecuador - TSN 3 HD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1441,6 +1525,12 @@ http://cdnlivetv.168.us.kg/live//npo-1-extra-hd-nl
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//npo-1-extra-fhd-nl
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[09:00] ⏳ Soccer - Mexico vs Ecuador - TVP 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tvp-1-fhd-pl
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[09:00] ⏳ Soccer - Mexico vs Ecuador - TVP Sport HD PL 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20HD%20PL&code=&user=cdnlivetv&plan=free
@@ -1676,6 +1766,12 @@ http://cdnlivetv.168.us.kg/live//ca-ctv-toronto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//ca-ctv-ottawa
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[00:00] ⏳ Soccer - England vs DR Congo - CA CTV Montreal 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Montreal&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//ca-ctv-montreal
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[00:00] ⏳ Soccer - England vs DR Congo - CA CTV Kitchener 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Kitchener&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -1724,11 +1820,23 @@ http://cdnlivetv.168.us.kg/live//ctv-vancouver-ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-ca
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[00:00] ⏳ Soccer - England vs DR Congo - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[00:00] ⏳ Soccer - England vs DR Congo - TSN 4 FHD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-fhd-ca
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[00:00] ⏳ Soccer - England vs DR Congo - CA CTV TORONTO 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20TORONTO&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//ca-ctv-toronto
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[00:00] ⏳ Soccer - England vs DR Congo - CA CTV Calgary 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=cdnlivetv&plan=free
@@ -2072,6 +2180,12 @@ http://cdnlivetv.168.us.kg/live//ca-ctv-toronto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//ca-ctv-ottawa
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Belgium vs Senegal - CA CTV Montreal 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Montreal&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//ca-ctv-montreal
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Belgium vs Senegal - CA CTV Kitchener 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Kitchener&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2120,6 +2234,12 @@ http://cdnlivetv.168.us.kg/live//ctv-vancouver-ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-ca
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Belgium vs Senegal - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Belgium vs Senegal - TSN 3 HD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2137,6 +2257,12 @@ http://cdnlivetv.168.us.kg/live//tsn-3-fhd-ca
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-fhd-ca
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Belgium vs Senegal - CA CTV TORONTO 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20TORONTO&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//ca-ctv-toronto
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Belgium vs Senegal - CA CTV Calgary 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=cdnlivetv&plan=free
@@ -2173,6 +2299,12 @@ http://cdnlivetv.168.us.kg/live//npo-1-extra-hd-nl
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//npo-1-extra-fhd-nl
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Belgium vs Senegal - TVP 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tvp-1-fhd-pl
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[04:00] ⏳ Soccer - Belgium vs Senegal - TVP Sport HD PL 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20HD%20PL&code=&user=cdnlivetv&plan=free
@@ -2408,6 +2540,12 @@ http://cdnlivetv.168.us.kg/live//nos-npo-1-[dutch]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-ca
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - Spain vs Austria - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - Spain vs Austria - TSN 3 HD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2437,6 +2575,12 @@ http://cdnlivetv.168.us.kg/live//npo-1-extra-hd-nl
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//npo-1-extra-fhd-nl
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - Spain vs Austria - TVP 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tvp-1-fhd-pl
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[03:00] ⏳ Soccer - Spain vs Austria - TVP Sport HD PL 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20HD%20PL&code=&user=cdnlivetv&plan=free
@@ -2540,6 +2684,12 @@ http://cdnlivetv.168.us.kg/live//ca-ctv-toronto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//ca-ctv-ottawa
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Portugal vs Croatia - CA CTV Montreal 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Montreal&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//ca-ctv-montreal
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Portugal vs Croatia - CA CTV Kitchener 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Kitchener&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2588,6 +2738,12 @@ http://cdnlivetv.168.us.kg/live//ctv-vancouver-ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-ca
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Portugal vs Croatia - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Portugal vs Croatia - TSN 3 HD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2605,6 +2761,12 @@ http://cdnlivetv.168.us.kg/live//tsn-3-fhd-ca
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-fhd-ca
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Portugal vs Croatia - CA CTV TORONTO 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20TORONTO&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//ca-ctv-toronto
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Portugal vs Croatia - CA CTV Calgary 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=cdnlivetv&plan=free
@@ -2629,6 +2791,12 @@ http://cdnlivetv.168.us.kg/live//ca-ctv-kitchener
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//ctv-montreal-hd-qc
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Portugal vs Croatia - TVP 1 FHD PL 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tvp-1-fhd-pl
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[07:00] ⏳ Soccer - Portugal vs Croatia - TVP Sport HD PL 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20HD%20PL&code=&user=cdnlivetv&plan=free
@@ -2786,6 +2954,12 @@ http://cdnlivetv.168.us.kg/live//ca-ctv-toronto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//ca-ctv-ottawa
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Switzerland vs Algeria - CA CTV Montreal 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Montreal&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//ca-ctv-montreal
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Switzerland vs Algeria - CA CTV Kitchener 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Kitchener&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2840,6 +3014,12 @@ http://cdnlivetv.168.us.kg/live//ctv-vancouver-ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-ca
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Switzerland vs Algeria - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Switzerland vs Algeria - TSN 3 HD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -2869,6 +3049,12 @@ http://cdnlivetv.168.us.kg/live//tsn-5-hd-ca
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-5-fhd-ca
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Switzerland vs Algeria - CA CTV TORONTO 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20TORONTO&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//ca-ctv-toronto
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Switzerland vs Algeria - CA CTV Calgary 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=cdnlivetv&plan=free
@@ -2966,6 +3152,12 @@ http://cdnlivetv.168.us.kg/live//tsn-1-[english]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-ca
 
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[02:00] ⏳ Soccer - Australia vs Egypt - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[02:00] ⏳ Soccer - Australia vs Egypt - TSN 4 FHD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -3031,6 +3223,12 @@ http://cdnlivetv.168.us.kg/live//tsn-5-ca
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//tsn-4-ca
+
+#EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Argentina vs Cape Verde - TSN 1 HD CA 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//tsn-1-hd-ca
 
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[06:00] ⏳ Soccer - Argentina vs Cape Verde - TSN 4 FHD CA 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
@@ -3212,18 +3410,6 @@ http://cdnlivetv.168.us.kg/live/ca/rds-2-ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//space-city-home-network-us
 
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-california-hd-us.webp" group-title="MLB",[08:40] ⏳ MLB - Oakland Athletics vs Los Angeles Dodgers - NBC Sports California HD US 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/nbc-sports-california-hd-us
-
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet-la-dodgers-hd-us.webp" group-title="MLB",[08:40] ⏳ MLB - Oakland Athletics vs Los Angeles Dodgers - Spectrum Sportsnet LA Dodgers HD US 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20Sportsnet%20LA%20Dodgers%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/spectrum-sportsnet-la-dodgers-hd-us
-
 #EXTINF:-1 tvg-logo="" group-title="MLB",[08:40] ⏳ MLB - Arizona Diamondbacks vs San Francisco Giants - MLB Network HD US 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -3301,6 +3487,12 @@ http://cdnlivetv.168.us.kg/live//nesn--hd-us
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/gb/tnt-sports-1-fhd-uk
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-hd-us.webp" group-title="MLB",[07:10] ⏳ MLB - Cleveland Guardians vs Texas Rangers - ESPN HD US 🌐 US
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/espn-hd-us
 
 #EXTINF:-1 tvg-logo="" group-title="MLB",[07:10] ⏳ MLB - Cleveland Guardians vs Texas Rangers - ESPN Deportes US 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
@@ -4706,6 +4898,12 @@ http://cdnlivetv.168.us.kg/live/us/msg-hd-us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/us/tennis-channel-fhd-us
 
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-hd-us.webp" group-title="Tennis",[17:00] ⏳ Tennis - 2026 Wimbledon Championships First Round - ESPN HD US 🌐 US
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/espn-hd-us
+
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-one-fhd-uk.webp" group-title="Tennis",[17:00] ⏳ Tennis - 2026 Wimbledon Championships First Round - BBC One FHD UK 🌐 GB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -4765,12 +4963,6 @@ http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-4-fhd-nl
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//movistar-plus--fhd
-
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-fhd.webp" group-title="Tennis",[17:00] ⏳ Tennis - 2026 Wimbledon Championships First Round - Movistar Deportes FHD 🌐 ES
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Deportes%20FHD&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/es/movistar-deportes-fhd
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-2-fhd.webp" group-title="Tennis",[17:00] ⏳ Tennis - 2026 Wimbledon Championships First Round - Movistar Deportes 2 FHD 🌐 ES
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Deportes%202%20FHD&code=es&user=cdnlivetv&plan=free
@@ -4868,6 +5060,12 @@ http://cdnlivetv.168.us.kg/live/br/espn-2-hd-br
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/gr/nova-sports-prime-fhd-gr
 
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-2-fr-hd.webp" group-title="Tennis",[17:00] ⏳ Tennis - 2026 Wimbledon Championships First Round - beIN SPORTS 2 FR HD 🌐 FR
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%202%20FR%20HD&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/fr/bein-sports-2-fr-hd
+
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-3-hd-fr.webp" group-title="Tennis",[17:00] ⏳ Tennis - 2026 Wimbledon Championships First Round - beIN Sports 3 HD FR 🌐 FR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%203%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -4897,6 +5095,12 @@ http://cdnlivetv.168.us.kg/live/pt/sport-tv-2-fhd-pt
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/pt/sport-tv-3-hd-pt
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-backup-rs.webp" group-title="Tennis",[17:00] ⏳ Tennis - 2026 Wimbledon Championships First Round - Arena Sport 1 (Backup) RS 🌐 RS
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20(Backup)%20RS&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/rs/arena-sport-1-(backup)-rs
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-1-fhd-hr.webp" group-title="Tennis",[17:00] ⏳ Tennis - 2026 Wimbledon Championships First Round - Sportklub 1 FHD HR 🌐 HR
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
@@ -5552,60 +5756,6 @@ http://cdnlivetv.168.us.kg/live/pl/polsat-sport-premium-2-hd-pl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/bg/max-sport-2-fhd-bg
 
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tnt-us.webp" group-title="Motorsport",[18:30] ⏳ Motorsport - Toyota  Save Mart 350 - TNT US 🌐 US
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/us/tnt-us
-
-#EXTINF:-1 tvg-logo="" group-title="Motorsport",[18:30] ⏳ Motorsport - Toyota  Save Mart 350 - TSN 5 FHD CA 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//tsn-5-fhd-ca
-
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2-fhd-uk.webp" group-title="Motorsport",[18:30] ⏳ Motorsport - Toyota  Save Mart 350 - Viaplay Sports 2 FHD UK 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/viaplay-sports-2-fhd-uk
-
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/motowizja-fhd-pl.webp" group-title="Motorsport",[18:30] ⏳ Motorsport - Toyota  Save Mart 350 - Motowizja FHD PL 🌐 PL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Motowizja%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/pl/motowizja-fhd-pl
-
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-1-fhd-bg.webp" group-title="Motorsport",[18:30] ⏳ Motorsport - Toyota  Save Mart 350 - Max Sport 1 FHD BG 🌐 BG
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%201%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/bg/max-sport-1-fhd-bg
-
-#EXTINF:-1 tvg-logo="" group-title="Motorsport",[18:30] ⏳ Motorsport - Toyota  Save Mart 350 - Arena Adrenalin FHD RS 🌐 
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Adrenalin%20FHD%20RS&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live//arena-adrenalin-fhd-rs
-
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2-fhd-nl.webp" group-title="Motorsport",[18:30] ⏳ Motorsport - Toyota  Save Mart 350 - Ziggo Sport 2 FHD NL 🌐 NL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nl/ziggo-sport-2-fhd-nl
-
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp" group-title="Motorsport",[18:30] ⏳ Motorsport - Toyota  Save Mart 350 - ESPN 4 HD BR 🌐 BR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/br/espn-4-hd-br
-
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-4-fhd-hr.webp" group-title="Motorsport",[18:30] ⏳ Motorsport - Toyota  Save Mart 350 - Sportklub 4 FHD HR 🌐 HR
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%204%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/hr/sportklub-4-fhd-hr
-
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-8-uk.webp" group-title="Motorsport",[19:00] ⏳ Motorsport - World Championship Portugal | MX2 | Race 1 - TNT Sports 8 UK 🌐 GB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%208%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -5960,6 +6110,12 @@ http://cdnlivetv.168.us.kg/live/gr/eurosport-2-gr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live//cbs-sports-network-hd-us
 
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-5-fhd-pl.webp" group-title="Motorsport",[22:30] ⏳ Motorsport - SPEEDWAY pl 2.Ekstraliga - Ostrow vs Pila - Canal+ Sport 5 FHD PL 🌐 PL
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/pl/canal--sport-5-fhd-pl
+
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-8-uk.webp" group-title="Motorsport",[23:00] ⏳ Motorsport - World Championship Portugal | MXGP | Race 2 - TNT Sports 8 UK 🌐 GB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%208%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
@@ -6080,17 +6236,29 @@ http://cdnlivetv.168.us.kg/live//willow-cricket-hd-us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/gb/tnt-sports-4-fhd-uk
 
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-fhd-uk.webp" group-title="Cricket",[21:30] ⏳ Cricket - Australia Cricket Women vs India Cricket Women - Sky Sports+ FHD UK 🌐 GB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="" group-title="Cricket",[21:30] ⏳ Cricket - Australia Cricket Women vs India Cricket Women - Sky Sports+ UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/gb/sky-sports--fhd-uk
+http://cdnlivetv.168.us.kg/live//sky-sports--uk
 
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-4-nz.webp" group-title="Cricket",[21:30] ⏳ Cricket - Australia Cricket Women vs India Cricket Women - Sky Sport 4 NZ 🌐 NZ
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%204%20NZ&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-logo="" group-title="Cricket",[21:30] ⏳ Cricket - Australia Cricket Women vs India Cricket Women - Sky Sports+ HD UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://cdnlivetv.168.us.kg/live/nz/sky-sport-4-nz
+http://cdnlivetv.168.us.kg/live//sky-sports--hd-uk
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket",[21:30] ⏳ Cricket - Australia Cricket Women vs India Cricket Women - Sky Sports+ FHD UK 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//sky-sports--fhd-uk
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket",[21:30] ⏳ Cricket - Australia Cricket Women vs India Cricket Women - Sky Sport 4 NZ 🌐 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%204%20NZ&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live//sky-sport-4-nz
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket",[04:30] ⏳ Cricket - LA Knights Riders vs Seattle Orcas - Willow Cricket HD US 🌐 
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
@@ -6145,6 +6313,12 @@ http://cdnlivetv.168.us.kg/live//sky-sports-main-event-fhd-uk
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://cdnlivetv.168.us.kg/live/nz/sky-sport-1-nz
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-extra-us.webp" group-title="Cricket",[21:00] ⏳ Cricket - West Indies vs Sri Lanka - Willow Cricket Extra US 🌐 US
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20Extra%20US&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://cdnlivetv.168.us.kg/live/us/willow-cricket-extra-us
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp" group-title="Cricket",[21:00] ⏳ Cricket - West Indies vs Sri Lanka - TNT Sports 1 FHD UK 🌐 GB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
