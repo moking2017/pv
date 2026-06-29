@@ -1,7 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-06-29 21:25:43
-# Total Events: 74
-# Live Events: 74
+# PlayTorrio Sports Events - 2026-06-29 22:55:56
+# Total Events: 73
+# Live Events: 73
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-3-fhd-uk.webp" group-title="Motorsport",[06:30] Motorsport - Rally WRC EKO Acropolis Rally Greece: Stage 14 🔴 - TNT Sports 3 FHD UK 🇬🇧 UK
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203%20FHD%20UK&code=gb&user=ntvstream&plan=free
@@ -240,7 +240,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%2
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp" group-title="MotoGP",[12:25] MotoGP - Round 11 | Netherlands Race 🔴 - Max Sport 2 FHD BG 🇧🇬 Bulgaria
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/eurosport-1-hd-fr.webp" group-title="Cycling",[12:30] Cycling - Spanish Championships mass start race 🔴
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/eurosport-1-fhd-pl.webp" group-title="Cycling",[12:30] Cycling - Spanish Championships mass start race 🔴 - Eurosport 1 FHD PL 🇵🇱 Poland
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20PL&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/eurosport-1-hd-fr.webp" group-title="Cycling",[12:30] Cycling - Spanish Championships mass start race 🔴 - Eurosport 1 HD FR 🇫🇷 France
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD%20FR&code=fr&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-3-premium-fhd-rs.webp" group-title="Club Friendly Games",[13:00] Club Friendly Games - NK Olimpija Ljubljana vs FK Čukarički 🔴
@@ -372,6 +375,9 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20GR&code=gr&use
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/racing-tv-fhd-uk.webp" group-title="Horse Racing",[14:00] Horse Racing - Live racing from Cartmel and the Curragh 🔴
 https://cdnlivetv.tv/api/v1/channels/player/?name=Racing%20TV%20FHD%20UK&code=gb&user=ntvstream&plan=free
 
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/eurosport-1-fhd-pl.webp" group-title="Cycling",[14:15] Cycling - French National Road Championships Elite Men's Road Race | La Tour-du-Pin (241.8km) 🔴 - Eurosport 1 FHD PL 🇵🇱 Poland
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20PL&code=pl&user=ntvstream&plan=free
+
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/eurosport-1-hd-fr.webp" group-title="Cycling",[14:15] Cycling - French National Road Championships Elite Men's Road Race | La Tour-du-Pin (241.8km) 🔴 - Eurosport 1 HD FR 🇫🇷 France
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD%20FR&code=fr&user=ntvstream&plan=free
 
@@ -431,9 +437,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20SE&code=se&use
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/eurosport-2-gr.webp" group-title="Motorsport",[16:00] Motorsport - World Championship Portugal | MX2 | Race 2 🔴 - Eurosport 2 GR 🇬🇷 Greece
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20GR&code=gr&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-5-fhd-pl.webp" group-title="Motorsport",[16:30] Motorsport - SPEEDWAY pl 2.Ekstraliga - Ostrow vs Pila 🔴
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20PL&code=pl&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-backup-rs.webp" group-title="Bg u23 league",[17:00] Bg u23 league - SC Rakovica Belgrade 🔴
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20(Backup)%20RS&code=rs&user=ntvstream&plan=free
