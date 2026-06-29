@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-06-29 12:56
-# Total: 53
+# UTC+8 | Generated: 2026-06-29 19:21
+# Total: 57
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7eb4e574845241f761bdb06fd0232eed-thumbnail.jpg" group-title="American Football",[2026-07-03 09:00] Toronto Argonauts vs. Calgary Stampeders
 https://ppv2.168.us.kg/stream?uri=cfl/2026-07-02/tor-cgy
@@ -90,9 +90,6 @@ https://ppv2.168.us.kg/stream?uri=mlb/2026-06-29/lad-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d0fce0fb2248536db7863d02b65a68af-thumbnail.jpg" group-title="Baseball",[2026-06-30 09:40] San Francisco Giants vs. Arizona Diamondbacks
 https://ppv2.168.us.kg/stream?uri=mlb/2026-06-29/sf-ari
 
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ade955ef7ac3a27a25696d4e6c0900ac-thumbnail.jpg" group-title="Combat Sports",[2026-06-29 05:00] Zuffa Boxing 08: De Los Santos vs. Valenzuela
-https://ppv2.168.us.kg/stream?uri=zuffa-boxing-08-de-los-santos-vs-valenzuela
-
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f88fbd278f51598afa34f6dffa064a5-thumbnail.jpg" group-title="Football",[2026-06-30 01:00] Brazil vs. Japan
 https://ppv2.168.us.kg/stream?uri=wc/2026-06-29/bra-jpn
 
@@ -110,6 +107,21 @@ https://ppv2.168.us.kg/stream?uri=wc/2026-06-30/fra-swe
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6bd2fa65730314fb02e7b9a66d7e46f1-thumbnail.jpg" group-title="Football",[2026-07-01 09:00] Mexico vs. Ecuador
 https://ppv2.168.us.kg/stream?uri=wc/2026-06-30/mex-ecu
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6fef75491c5b9d2d22710569ac42e443-thumbnail.jpg" group-title="Motorsports",[2026-07-03 19:30] British Grand Prix - Practice 1
+https://ppv2.168.us.kg/stream?uri=f1/2026/great-britain/fp1
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5dec658d1e95e5da2f1a8ca02808642-thumbnail.jpg" group-title="Motorsports",[2026-07-03 23:30] British Grand Prix - Sprint Qualifying
+https://ppv2.168.us.kg/stream?uri=f1/2026/great-britain/sprint-q
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/415ca9d288ac8834dde6081da96658b3-thumbnail.jpg" group-title="Motorsports",[2026-07-04 19:00] British Grand Prix - Sprint
+https://ppv2.168.us.kg/stream?uri=f1/2026/great-britain/sprint
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/597666ceb859c85a8ebb945d8b4cecf4-thumbnail.jpg" group-title="Motorsports",[2026-07-04 23:00] British Grand Prix - Qualifying
+https://ppv2.168.us.kg/stream?uri=f1/2026/great-britain/qualifying
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/de4e0197e6cec775325c0fa7f14470e2-thumbnail.jpg" group-title="Motorsports",[2026-07-05 22:00] British Grand Prix - Race
+https://ppv2.168.us.kg/stream?uri=f1/2026/great-britain/race
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cb1831136ae041c3da98698d571c0603-thumbnail.jpg" group-title="Rugby",[2026-07-03 18:00] Panthers vs. Rabbitohs
 https://ppv2.168.us.kg/stream?uri=nrl/2026-07-03/pen-sou
