@@ -1,7 +1,7 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-06-30 17:52:01
-# Total Events: 19
-# Live Events: 19
+# PlayTorrio Sports Events - 2026-06-30 21:27:08
+# Total Events: 18
+# Live Events: 18
 
 #EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="MLB",[09:40] MLB - Arizona Diamondbacks vs San Francisco Giants 🔴
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=ntvstream&plan=free
@@ -71,6 +71,9 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%2
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-1-fhd-pl.webp" group-title="Tennis",[18:00] Tennis - 2026 Wimbledon Championships First Round 🔴 - Polsat Sport Extra 1 FHD PL 🇵🇱 Poland
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp" group-title="Tennis",[18:00] Tennis - 2026 Wimbledon Championships First Round 🔴 - Polsat Sport Extra 2 FHD PL 🇵🇱 Poland
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-3-fhd-pl.webp" group-title="Tennis",[18:00] Tennis - 2026 Wimbledon Championships First Round 🔴 - Polsat Sport Extra 3 FHD PL 🇵🇱 Poland
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=pl&user=ntvstream&plan=free
@@ -162,9 +165,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%203%20Premium%20
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp" group-title="Cricket",[22:00] Cricket - West Indies vs Sri Lanka 🔴
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="FIFA World Cup",[04:30] FIFA World Cup - Tactical Feed 🔴
-https://cdnlivetv.tv/api/v1/channels/player/?name=FUSSBALL%20TV%202%20FHD%20DE&code=&user=ntvstream&plan=free
-
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-channel-fhd-us.webp" group-title="Golf",[08:00] Golf - Golf World Long Drive Pinnacle World Long Drive Tour - Florida 🔴
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20FHD%20US&code=us&user=ntvstream&plan=free
 
@@ -233,6 +233,9 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%2
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-1-fhd-pl.webp" group-title="Tennis Wimbledon Championships 2026",[18:00] Tennis Wimbledon Championships 2026 - 2026 Wimbledon Championships 🔴 - Polsat Sport Extra 1 FHD PL 🇵🇱 Poland
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp" group-title="Tennis Wimbledon Championships 2026",[18:00] Tennis Wimbledon Championships 2026 - 2026 Wimbledon Championships 🔴 - Polsat Sport Extra 2 FHD PL 🇵🇱 Poland
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-3-fhd-pl.webp" group-title="Tennis Wimbledon Championships 2026",[18:00] Tennis Wimbledon Championships 2026 - 2026 Wimbledon Championships 🔴 - Polsat Sport Extra 3 FHD PL 🇵🇱 Poland
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=pl&user=ntvstream&plan=free
@@ -438,23 +441,29 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=M6%20FHD%20FR&code=fr&user=ntv
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/t-sport-hd-cz.webp" group-title="FIFA World Cup 2026",[00:00] FIFA World Cup 2026 - FIFA World Cup 2026 🔴 - ČT sport HD CZ 🇨🇿 Czech Republic
 https://cdnlivetv.tv/api/v1/channels/player/?name=%C4%8CT%20sport%20HD%20CZ&code=cz&user=ntvstream&plan=free
 
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-hd.webp" group-title="FIFA World Cup 2026",[00:00] FIFA World Cup 2026 - FIFA World Cup 2026 🔴 - beIN SPORTS 1 FR HD 🇫🇷 France
+https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20HD&code=fr&user=ntvstream&plan=free
+
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport-fhd-hu.webp" group-title="FIFA World Cup 2026",[00:00] FIFA World Cup 2026 - FIFA World Cup 2026 🔴 - M4 Sport FHD HU 🇭🇺 Hungary
 https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-rs.webp" group-title="FIFA World Cup 2026",[00:00] FIFA World Cup 2026 - FIFA World Cup 2026 🔴 - Arena Sport 1 Premium RS 🇷🇸 Serbia
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20RS&code=rs&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="FIFA World Cup 2026",[00:00] FIFA World Cup 2026 - FIFA World Cup 2026 🔴 - Telemundo FHD MX Internacional
+https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20FHD%20MX&code=&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp" group-title="FIFA World Cup 2026",[00:00] FIFA World Cup 2026 - FIFA World Cup 2026 🔴 - Arena Sport 1 Premium FHD RS 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/denmark/tv2-hd-dk.webp" group-title="FIFA World Cup 2026",[00:00] FIFA World Cup 2026 - FIFA World Cup 2026 🔴 - TV2 HD DK 🇩🇰 Denmark
 https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20HD%20DK&code=dk&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/tyc-sports-hd-arg.webp" group-title="FIFA World Cup 2026",[00:00] FIFA World Cup 2026 - FIFA World Cup 2026 🔴 - TyC Sports HD ARG 🇦🇷 Argentina
+https://cdnlivetv.tv/api/v1/channels/player/?name=TyC%20Sports%20HD%20ARG&code=ar&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-2-ca.webp" group-title="FIFA World Cup 2026",[00:00] FIFA World Cup 2026 - FIFA World Cup 2026 🔴 - RDS 2 CA 🇨🇦 Canada
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=ca&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/channel-5-fhd-uk.webp" group-title="FIFA World Cup 2026",[00:00] FIFA World Cup 2026 - FIFA World Cup 2026 🔴 - Channel 5 FHD UK 🇬🇧 UK
 https://cdnlivetv.tv/api/v1/channels/player/?name=Channel%205%20FHD%20UK&code=gb&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-1-hd-gr.webp" group-title="FIFA World Cup 2026",[00:00] FIFA World Cup 2026 - FIFA World Cup 2026 🔴 - ERT 1 HD GR 🇬🇷 Greece
-https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%201%20HD%20GR&code=gr&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/bnt-1-hd-bg.webp" group-title="FIFA World Cup 2026",[00:00] FIFA World Cup 2026 - FIFA World Cup 2026 🔴 - BNT 1 HD BG 🇧🇬 Bulgaria
 https://cdnlivetv.tv/api/v1/channels/player/?name=BNT%201%20HD%20BG&code=bg&user=ntvstream&plan=free
@@ -549,6 +558,9 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20%5BCroatia
 #EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="FIFA World Cup 2026",[01:00] FIFA World Cup 2026 - Côte d'Ivoire vs Norway 🔴 - PTV SPORTS HD Internacional
 https://cdnlivetv.tv/api/v1/channels/player/?name=PTV%20SPORTS%20HD&code=&user=ntvstream&plan=free
 
+#EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="FIFA World Cup 2026",[01:00] FIFA World Cup 2026 - Côte d'Ivoire vs Norway 🔴 - Telemundo FHD MX Internacional
+https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20FHD%20MX&code=&user=ntvstream&plan=free
+
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/t-sport-hd-cz.webp" group-title="FIFA World Cup 2026",[01:00] FIFA World Cup 2026 - Côte d'Ivoire vs Norway 🔴 - ČT sport HD CZ 🇨🇿 Czech Republic
 https://cdnlivetv.tv/api/v1/channels/player/?name=%C4%8CT%20sport%20HD%20CZ&code=cz&user=ntvstream&plan=free
 
@@ -573,8 +585,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=be&user=
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/npo1-fhd-nl.webp" group-title="FIFA World Cup 2026",[01:00] FIFA World Cup 2026 - Côte d'Ivoire vs Norway 🔴 - NPO1 FHD NL 🇳🇱 Netherlands
 https://cdnlivetv.tv/api/v1/channels/player/?name=NPO1%20FHD%20NL&code=nl&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-rs.webp" group-title="FIFA World Cup 2026",[01:00] FIFA World Cup 2026 - Côte d'Ivoire vs Norway 🔴 - Arena Sport 1 Premium RS 🇷🇸 Serbia
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20RS&code=rs&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp" group-title="FIFA World Cup 2026",[01:00] FIFA World Cup 2026 - Côte d'Ivoire vs Norway 🔴 - Arena Sport 1 Premium FHD RS 🇷🇸 Serbia
+https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="FIFA World Cup 2026",[01:00] FIFA World Cup 2026 - Côte d'Ivoire vs Norway 🔴 - Fast Sport Armenia HD Internacional
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fast%20Sport%20Armenia%20HD&code=&user=ntvstream&plan=free
@@ -584,9 +596,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Klan%20TV%20FHD%20AL&code=&use
 
 #EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="FIFA World Cup 2026",[01:00] FIFA World Cup 2026 - Côte d'Ivoire vs Norway 🔴 - Ictimai TV AZ Internacional
 https://cdnlivetv.tv/api/v1/channels/player/?name=Ictimai%20TV%20AZ&code=&user=ntvstream&plan=free
-
-#EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="FIFA World Cup 2026",[01:00] FIFA World Cup 2026 - Côte d'Ivoire vs Norway 🔴 - Arena Sport 1 FHD BA Internacional
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20FHD%20BA&code=&user=ntvstream&plan=free
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-2-gr.webp" group-title="FIFA World Cup 2026",[01:00] FIFA World Cup 2026 - Côte d'Ivoire vs Norway 🔴 - ERT 2 GR 🇬🇷 Greece
 https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20GR&code=gr&user=ntvstream&plan=free
