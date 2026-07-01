@@ -119,11 +119,14 @@ def build_m3u(data: dict) -> str:
                 ch_name = ch.get("channel_name", name_raw)
                 logo = ch.get("image", "")
 
-                label = f"{ch_name} ({code.upper()})"
+                label = (
+                    f"[{time_local}] {status_tag} {sport} - "
+                    f"{match_title} - {ch_name} 🌐 {code.upper()}"
+                )
 
                 extinf = (
                     f'#EXTINF:-1 tvg-logo="{logo}" '
-                    f'group-title="{code.upper()}",'
+                    f'group-title="{sport}",'
                     f'{label}'
                 )
 
