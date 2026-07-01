@@ -16,7 +16,7 @@ from datetime import datetime, timezone, timedelta
 
 SPORTS_API  = "https://api.cdnlivetv.tv/api/v1/events/sports/?user=cdnlivetv&plan=free"
 OUTPUT_FILE = "sports_events.m3u"
-BASE_STREAM = "http://cdnlivetv.168.us.kg/live/{code}/{slug}"
+BASE_STREAM = "https://cdnlivetv.168.us.kg/play?name={name}&code={code}"
 TZ_OFFSET   = timedelta(hours=8)   # UTC → UTC+8
 
 HEADERS = {
@@ -65,15 +65,10 @@ def build_extinf(time_local: str, sport: str, match_title: str,
         f'{label}'
     )
 
-def build_stream_block(player_url: str, name_raw: str, code: str) -> str:
-    slug = name_to_slug(name_raw)
-    stream_url = BASE_STREAM.format(code=code, slug=slug)
-    return (
-        f"#EXTVLCOPT:http-referrer={player_url}\n"
-        f"#EXTVLCOPT:http-origin=https://cdnlivetv.tv\n"
-        f"#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        f"AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\n"
-        f"{stream_url}"
+def build_stream_block(name_raw: str, code: str) -> str:
+    return BASE_STREAM.format(
+        name=urllib.parse.quote_plus(name_raw),
+        code=code.lower()
     )
 
 # ── 主逻辑 ────────────────────────────────────────────────
@@ -124,18 +119,16 @@ def build_m3u(data: dict) -> str:
                 ch_name  = ch.get("channel_name", name_raw)
                 logo     = ch.get("image", "")
 
-                label = (
-                    f"[{time_local}] {status_tag} {sport} - "
-                    f"{match_title} - {ch_name} 🌐 {code.upper()}"
-                )
-                extinf = (
-                    f'#EXTINF:-1 tvg-logo="{logo}" '
-                    f'group-title="{sport}",'
-                    f'{label}'
-                )
+label = f"{ch_name} ({code.upper()})"
+
+extinf = (
+    f'#EXTINF:-1 tvg-logo="{logo}" '
+    f'group-title="{code.upper()}",'
+    f'{label}'
+)
 
                 lines.append(extinf)
-                lines.append(build_stream_block(player_url, name_raw, code))
+                lines.append(build_stream_block(name_raw, code))
                 lines.append("")
                 total_channels += 1
 
