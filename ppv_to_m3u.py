@@ -11,7 +11,7 @@ import json
 import requests
 from datetime import datetime, timezone, timedelta
 
-API_URL     = "https://api.ppv.to/api/streams"
+API_URL     = "https://api.ppv.st/api/streams"
 OUTPUT_FILE = "ppv_events.m3u"
 BASE_STREAM = "https://ppv2.168.us.kg/stream?uri={uri}"
 TZ_OFFSET   = timedelta(hours=8)   # UTC → UTC+8
