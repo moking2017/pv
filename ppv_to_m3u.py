@@ -8,7 +8,7 @@ ppv_to_m3u.py
 """
 
 import json
-import urllib.request
+import requests
 from datetime import datetime, timezone, timedelta
 
 API_URL     = "https://api.ppv.to/api/streams"
@@ -23,9 +23,13 @@ HEADERS = {
 }
 
 def fetch_json(url: str) -> dict:
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read().decode("utf-8"))
+    r = requests.get(
+        url,
+        headers=HEADERS,
+        timeout=30
+    )
+    r.raise_for_status()
+    return r.json()
 
 def ts_to_local(ts: int) -> str:
     """Unix timestamp → UTC+8 时间字符串 HH:MM"""
