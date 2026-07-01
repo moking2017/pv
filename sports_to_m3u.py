@@ -115,17 +115,17 @@ def build_m3u(data: dict) -> str:
                     continue
 
                 name_raw = name_from_url(player_url)
-                code     = ch.get("channel_code", "xx").lower()
-                ch_name  = ch.get("channel_name", name_raw)
-                logo     = ch.get("image", "")
+                code = ch.get("channel_code", "xx").lower()
+                ch_name = ch.get("channel_name", name_raw)
+                logo = ch.get("image", "")
 
-label = f"{ch_name} ({code.upper()})"
+                label = f"{ch_name} ({code.upper()})"
 
-extinf = (
-    f'#EXTINF:-1 tvg-logo="{logo}" '
-    f'group-title="{code.upper()}",'
-    f'{label}'
-)
+                extinf = (
+                    f'#EXTINF:-1 tvg-logo="{logo}" '
+                    f'group-title="{code.upper()}",'
+                    f'{label}'
+                )
 
                 lines.append(extinf)
                 lines.append(build_stream_block(name_raw, code))
