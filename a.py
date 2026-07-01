@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 import re
 
-API_URL = "https://api.ppv.to/api/streams"
+API_URL = "https://api.ppv.st/api/streams"
 
 OUTPUT_ORIGINAL = "example.m3u8"
 OUTPUT_PUBLIC = "PPV_IFRAME.m3u8"
