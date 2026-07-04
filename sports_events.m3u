@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from cdn-live.tv Sports API
-# UTC+8 timezone | Generated: 2026-07-05 00:11
+# UTC+8 timezone | Generated: 2026-07-05 03:32
 # Total Entries: 453  |  Skipped (finished): 0
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[11:00] ⏳ Soccer - Switzerland vs Algeria - CA CTV Winnipeg 🌐 
 https://cdnlivetv.168.us.kg/play?name=CA+CTV+Winnipeg&code=
@@ -611,6 +611,9 @@ https://cdnlivetv.168.us.kg/play?name=RT%C3%89+Two+FHD+UK&code=gb
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Canada vs Morocco - TSN 1 HD CA 🌐 
 https://cdnlivetv.168.us.kg/play?name=TSN+1+HD+CA&code=
 
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-1-fhd-uk.webp" group-title="Soccer",[01:00] ⏳ Soccer - Canada vs Morocco - ITV 1 FHD UK 🌐 GB
+https://cdnlivetv.168.us.kg/play?name=ITV+1+FHD+UK&code=gb
+
 #EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Canada vs Morocco - TSN 3 FHD CA 🌐 
 https://cdnlivetv.168.us.kg/play?name=TSN+3+FHD+CA&code=
 
@@ -745,9 +748,6 @@ https://cdnlivetv.168.us.kg/play?name=beIN+SPORTS+MAX+1+FHD+TR&code=
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/magenta-sport-fhd-de.webp" group-title="Soccer",[01:00] ⏳ Soccer - Canada vs Morocco - Magenta Sport FHD DE 🌐 DE
 https://cdnlivetv.168.us.kg/play?name=Magenta+Sport+FHD+DE&code=de
-
-#EXTINF:-1 tvg-logo="" group-title="Soccer",[01:00] ⏳ Soccer - Canada vs Morocco - ITV 1 FHD UK 🌐 
-https://cdnlivetv.168.us.kg/play?name=ITV+1+FHD+UK&code=
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1-fhd-pt.webp" group-title="Soccer",[01:00] ⏳ Soccer - Canada vs Morocco - Sport TV 1 FHD PT 🌐 PT
 https://cdnlivetv.168.us.kg/play?name=Sport+TV+1+FHD+PT&code=pt
@@ -929,8 +929,8 @@ https://cdnlivetv.168.us.kg/play?name=Arena+Sport+2+FHD+HR&code=hr
 #EXTINF:-1 tvg-logo="" group-title="MLB",[01:35] ⏳ MLB - New York Yankees vs Minnesota Twins - TVA Sports CA 🌐 
 https://cdnlivetv.168.us.kg/play?name=TVA+Sports+CA&code=
 
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-4-hd-uk.webp" group-title="MLB",[01:35] ⏳ MLB - New York Yankees vs Minnesota Twins - TNT Sports 4 HD UK 🌐 GB
-https://cdnlivetv.168.us.kg/play?name=TNT+Sports+4+HD+UK&code=gb
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-4-fhd-uk.webp" group-title="MLB",[01:35] ⏳ MLB - New York Yankees vs Minnesota Twins - TNT Sports 4 FHD UK 🌐 GB
+https://cdnlivetv.168.us.kg/play?name=TNT+Sports+4+FHD+UK&code=gb
 
 #EXTINF:-1 tvg-logo="" group-title="MLB",[01:35] ⏳ MLB - New York Yankees vs Minnesota Twins - MLB Network HD US 🌐 
 https://cdnlivetv.168.us.kg/play?name=MLB+Network+HD+US&code=
