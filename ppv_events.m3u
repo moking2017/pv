@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-07-07 23:10
-# Total: 76
+# UTC+8 | Generated: 2026-07-08 01:25
+# Total: 78
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/e94c902e80ff8c71b9ae7035cede7b5b-thumbnail.jpg" group-title="American Football",[2026-07-10 09:00] Ottawa RedBlacks vs. Edmonton Elks
 https://ppv2.168.us.kg/stream?uri=cfl/2026-07-09/ott-edm
@@ -120,9 +120,6 @@ https://ppv2.168.us.kg/stream?uri=wc/2026-07-07/arg-egy
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/a6b2a1c0e0b15ee221fb8ecf1cec10a1-thumbnail.jpg" group-title="Football",[2026-07-08 04:00] Switzerland vs. Colombia
 https://ppv2.168.us.kg/stream?uri=wc/2026-07-07/sui-col
 
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/17049c40612f2598ca006e6575be14f6-thumbnail.jpg" group-title="Miscellaneous",[2026-07-07 19:00] Tour de France- Stage 4
-https://ppv2.168.us.kg/stream?uri=tour-de-france/2026/stage-4
-
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/17049c40612f2598ca006e6575be14f6-thumbnail.jpg" group-title="Miscellaneous",[2026-07-08 19:30] Tour de France- Stage 5
 https://ppv2.168.us.kg/stream?uri=tour-de-france/2026/stage-5
 
@@ -134,6 +131,21 @@ https://ppv2.168.us.kg/stream?uri=tour-de-france/2026/stage-7
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/17049c40612f2598ca006e6575be14f6-thumbnail.jpg" group-title="Miscellaneous",[2026-07-11 19:00] Tour de France- Stage 8
 https://ppv2.168.us.kg/stream?uri=tour-de-france/2026/stage-8
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/44b784587bb418bc38f42e69acc35b04-thumbnail.jpg" group-title="Motorsports",[2026-07-17 19:30] Belgian Grand Prix - Practice 1
+https://ppv2.168.us.kg/stream?uri=f1/2026/belgium/fp1
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/2e7a8e4b7552cfe206d49b6f8158b3fb-thumbnail.jpg" group-title="Motorsports",[2026-07-17 23:00] Belgian Grand Prix - Practice 2
+https://ppv2.168.us.kg/stream?uri=f1/2026/belgium/fp2
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/0bc415ec26f68f7b7f9d364ebf4fe8ee-thumbnail.jpg" group-title="Motorsports",[2026-07-18 18:30] Belgian Grand Prix - Practice 3
+https://ppv2.168.us.kg/stream?uri=f1/2026/belgium/fp3
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/c39175f1b6f5797ced0bbace0dbc6655-thumbnail.jpg" group-title="Motorsports",[2026-07-18 22:00] Belgian Grand Prix - Qualifying
+https://ppv2.168.us.kg/stream?uri=f1/2026/belgium/qualifying
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/3c628f701a4e5c588ca5a8575b6dbec5-thumbnail.jpg" group-title="Motorsports",[2026-07-19 21:00] Belgian Grand Prix - Race
+https://ppv2.168.us.kg/stream?uri=f1/2026/belgium/race
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/d07046b4882858838c5b6ded73c3947d-thumbnail.jpg" group-title="Rugby",[2026-07-08 18:05] Queensland vs. New South Wales
 https://ppv2.168.us.kg/stream?uri=nrl/2026-07-08/que-new
@@ -162,19 +174,13 @@ https://ppv2.168.us.kg/stream?uri=nrl/2026-07-12/mel-gol
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/d49f8936c9c3510700ab7862aa14f7f8-thumbnail.jpg" group-title="Tennis",[2026-07-07 18:00] Wimbledon: Courtside
 https://ppv2.168.us.kg/stream?uri=wimbledon/2026-07-07/courtside
 
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/8d107d44e999b938cb00ead9b49542d4-thumbnail.jpg" group-title="Tennis",[2026-07-07 20:00] Jannik Sinner vs. Jan-Lennard Struff
-https://ppv2.168.us.kg/stream?uri=wimbledon/2026-07-07/sinner-struff
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/c64f05d082fae3027fc416f0b1ff3f53-thumbnail.jpg" group-title="Tennis",[2026-07-07 20:30] Jessica Pegula vs. Coco Gauff
-https://ppv2.168.us.kg/stream?uri=wimbledon/2026-07-07/pegula-gauff
-
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/24213d6bf3bd17e7d9b4d4f2f6034e64-thumbnail.jpg" group-title="Tennis",[2026-07-07 21:30] Jiri Lehecka vs. Alexander Zverev
 https://ppv2.168.us.kg/stream?uri=wimbledon/2026-07-07/lehecka-zverev
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/16139a2ab952c077218b68d04f2425cc-thumbnail.jpg" group-title="Tennis",[2026-07-07 22:00] Naomi Osaka vs. Karolina Muchova
 https://ppv2.168.us.kg/stream?uri=wimbledon/2026-07-07/osaka-muchova
 
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/4af0cc58f369cc37ec3716b0f6297820-thumbnail.jpg" group-title="Tennis",[2026-07-07 23:30] Felix Auger-Aliassime vs. Novak Djokovic
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/4af0cc58f369cc37ec3716b0f6297820-thumbnail.jpg" group-title="Tennis",[2026-07-08 00:00] Felix Auger-Aliassime vs. Novak Djokovic
 https://ppv2.168.us.kg/stream?uri=wimbledon/2026-07-07/auger-aliassime-djokovic
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/2268619a2c3292ec2fce3d12b74bda66-thumbnail.jpg" group-title="Volleyball",[2026-07-08 11:00] Türkiye vs. Poland
