@@ -1,6 +1,6 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-07-07 12:13
+# UTC+8 | Generated: 2026-07-07 17:58
 # Total: 69
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/e94c902e80ff8c71b9ae7035cede7b5b-thumbnail.jpg" group-title="American Football",[2026-07-10 09:00] Ottawa RedBlacks vs. Edmonton Elks
@@ -54,15 +54,6 @@ https://ppv2.168.us.kg/stream?uri=afl/2026-07-12/melb-rich
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/f304a0b7a9d8e6b0cc293ebe42a953b0-thumbnail.jpg" group-title="Australian Football",[2026-07-12 14:40] Brisbane Lions vs. Essendon
 https://ppv2.168.us.kg/stream?uri=afl/2026-07-12/bl-ess
 
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/761237f97fdca31f3640edd0194b10e2-thumbnail.jpg" group-title="Baseball",[2026-07-07 09:40] Arizona Diamondbacks vs. San Diego Padres
-https://ppv2.168.us.kg/stream?uri=mlb/2026-07-06/ari-sd
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/c919bff84c2c7fcfb01f1aa7785c978e-thumbnail.jpg" group-title="Baseball",[2026-07-07 09:45] Toronto Blue Jays vs. San Francisco Giants
-https://ppv2.168.us.kg/stream?uri=mlb/2026-07-06/tor-sf
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/618379565ab1c203760affc29a86d3f5-thumbnail.jpg" group-title="Baseball",[2026-07-07 10:10] Colorado Rockies vs. Los Angeles Dodgers
-https://ppv2.168.us.kg/stream?uri=mlb/2026-07-06/col-lad
-
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/c47bd3ff0c39c0941aa7c7566811bed7-thumbnail.jpg" group-title="Baseball",[2026-07-08 02:15] Milwaukee Brewers vs. St. Louis Cardinals
 https://ppv2.168.us.kg/stream?uri=mlb/2026-07-07/mil-stl
 
@@ -110,15 +101,6 @@ https://ppv2.168.us.kg/stream?uri=mlb/2026-07-07/tor-sf
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/618379565ab1c203760affc29a86d3f5-thumbnail.jpg" group-title="Baseball",[2026-07-08 10:10] Colorado Rockies vs. Los Angeles Dodgers
 https://ppv2.168.us.kg/stream?uri=mlb/2026-07-07/col-lad
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/d91781cd463015c18f602ead1a790a03-thumbnail.jpg" group-title="Basketball",[2026-07-07 10:00] Miami Heat vs. Golden State Warriors Gold
-https://ppv2.168.us.kg/stream?uri=nba/2026-07-06/mia-gs
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/76b02907bb6a222b9b68166a36fe3b8e-thumbnail.jpg" group-title="Basketball",[2026-07-07 10:00] Milwaukee Bucks vs. Sacramento Kings
-https://ppv2.168.us.kg/stream?uri=nba/2026-07-06/mil-sac
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/bb1d802ef94bb28a118c8f054138aa2c-thumbnail.jpg" group-title="Basketball",[2026-07-07 10:00] Seattle Storm vs. Los Angeles Sparks
-https://ppv2.168.us.kg/stream?uri=wnba/2026-07-06/sea-la
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/cd5fcfa2a59375b1d1806cf9774a3617-thumbnail.jpg" group-title="Basketball",[2026-07-08 07:00] Atlanta Hawks vs. Memphis Grizzlies
 https://ppv2.168.us.kg/stream?uri=nba/2026-07-07/atl-mem
@@ -176,6 +158,24 @@ https://ppv2.168.us.kg/stream?uri=nrl/2026-07-12/man-nor
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/eb7910ff7b11270b486d30f6314e0d52-thumbnail.jpg" group-title="Rugby",[2026-07-12 16:15] Storm vs. Titans
 https://ppv2.168.us.kg/stream?uri=nrl/2026-07-12/mel-gol
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/d49f8936c9c3510700ab7862aa14f7f8-thumbnail.jpg" group-title="Tennis",[2026-07-07 18:00] Wimbledon: Courtside
+https://ppv2.168.us.kg/stream?uri=wimbledon/2026-07-07/courtside
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/8d107d44e999b938cb00ead9b49542d4-thumbnail.jpg" group-title="Tennis",[2026-07-07 20:00] Jannik Sinner vs. Jan-Lennard Struff
+https://ppv2.168.us.kg/stream?uri=wimbledon/2026-07-07/sinner-struff
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/c64f05d082fae3027fc416f0b1ff3f53-thumbnail.jpg" group-title="Tennis",[2026-07-07 20:30] Jessica Pegula vs. Coco Gauff
+https://ppv2.168.us.kg/stream?uri=wimbledon/2026-07-07/pegula-gauff
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/24213d6bf3bd17e7d9b4d4f2f6034e64-thumbnail.jpg" group-title="Tennis",[2026-07-07 21:30] Jiri Lehecka vs. Alexander Zverev
+https://ppv2.168.us.kg/stream?uri=wimbledon/2026-07-07/lehecka-zverev
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/16139a2ab952c077218b68d04f2425cc-thumbnail.jpg" group-title="Tennis",[2026-07-07 22:00] Naomi Osaka vs. Karolina Muchova
+https://ppv2.168.us.kg/stream?uri=wimbledon/2026-07-07/osaka-muchova
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/4af0cc58f369cc37ec3716b0f6297820-thumbnail.jpg" group-title="Tennis",[2026-07-07 23:30] Felix Auger-Aliassime vs. Novak Djokovic
+https://ppv2.168.us.kg/stream?uri=wimbledon/2026-07-07/auger-aliassime-djokovic
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",[2026-07-08 08:00] WWE: NXT
 https://ppv2.168.us.kg/stream?uri=wwe/nxt/2026-07-07
