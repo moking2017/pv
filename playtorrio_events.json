@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T09:58:50.854681",
-  "total_events": 3,
-  "live_events": 3,
+  "generated_at": "2026-07-20T12:21:38.331408",
+  "total_events": 2,
+  "live_events": 2,
   "events": [
     {
       "title": "ATP Kitzbühel, ATP Estoril, WTA Hamburg &amp; WTA Prague – Early Rounds",
@@ -11,25 +11,11 @@
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
-          "name": "Tennis Channel FHD DE Internacional",
-          "channel": "Tennis Channel FHD DE",
-          "country": "Internacional",
-          "logo": "",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tennis%20Channel%20FHD%20DE&code=&user=ntvstream&plan=free"
-        },
-        {
           "name": "Sky Sports+ FHD UK Internacional",
           "channel": "Sky Sports+ FHD UK",
           "country": "Internacional",
           "logo": "",
           "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Sky Sport Uno FHD IT 🇮🇹 Italy",
-          "channel": "Sky Sport Uno FHD IT",
-          "country": "🇮🇹 Italy",
-          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno-fhd-it.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Uno%20FHD%20IT&code=it&user=ntvstream&plan=free"
         },
         {
           "name": "Sky Sports Tennis FHD UK 🇬🇧 UK",
@@ -170,23 +156,20 @@
           "country": "🇮🇱 Israel",
           "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live-hd-il.webp",
           "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20Live%20HD%20IL&code=il&user=ntvstream&plan=free"
-        }
-      ],
-      "live": true
-    },
-    {
-      "title": "ATP 250 Kitzbühel &amp; WTA 250 Prague",
-      "league": "Tennis",
-      "time": "10:00",
-      "timestamp": 1784534400000,
-      "logo": "https://iptv.playtorrio.xyz/logo.ico",
-      "sources": [
+        },
         {
-          "name": "Sport Klub 5 HD HR 🇭🇷 Croatia",
-          "channel": "Sport Klub 5 HD HR",
-          "country": "🇭🇷 Croatia",
-          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-5-hd-hr.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%205%20HD%20HR&code=hr&user=ntvstream&plan=free"
+          "name": "SONY TEN 3 Internacional",
+          "channel": "SONY TEN 3",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=SONY%20TEN%203&code=&user=ntvstream&plan=free"
+        },
+        {
+          "name": "TyC Sports HD ARG 🇦🇷 Argentina",
+          "channel": "TyC Sports HD ARG",
+          "country": "🇦🇷 Argentina",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/argentina/tyc-sports-hd-arg.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=TyC%20Sports%20HD%20ARG&code=ar&user=ntvstream&plan=free"
         }
       ],
       "live": true
@@ -198,6 +181,55 @@
       "timestamp": 1784531700000,
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
+        {
+          "name": "UFC Starzplay Internacional",
+          "channel": "UFC Starzplay",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=ntvstream&plan=free"
+        },
+        {
+          "name": "UFC 24/7 HD US Internacional",
+          "channel": "UFC 24/7 HD US",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=ntvstream&plan=free"
+        },
+        {
+          "name": "UFC Channel US Internacional",
+          "channel": "UFC Channel US",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=ntvstream&plan=free"
+        },
+        {
+          "name": "UFC Fight Pass 24/7 FHD US Internacional",
+          "channel": "UFC Fight Pass 24/7 FHD US",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=ntvstream&plan=free"
+        },
+        {
+          "name": "UFC 1 (Solo Eventos) Internacional",
+          "channel": "UFC 1 (Solo Eventos)",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=ntvstream&plan=free"
+        },
+        {
+          "name": "UFC 2 Internacional",
+          "channel": "UFC 2",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=ntvstream&plan=free"
+        },
+        {
+          "name": "UFC 3 (Solo Eventos) Internacional",
+          "channel": "UFC 3 (Solo Eventos)",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&code=&user=ntvstream&plan=free"
+        },
         {
           "name": "TVP Sport FHD PL 🇵🇱 Poland",
           "channel": "TVP Sport FHD PL",
