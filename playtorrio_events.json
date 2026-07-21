@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T10:24:06.455522",
-  "total_events": 6,
-  "live_events": 6,
+  "generated_at": "2026-07-21T12:23:08.990639",
+  "total_events": 8,
+  "live_events": 8,
   "events": [
     {
       "title": "WTA 250 Prague • ATP 250 Kitzbühel • WTA 250 Hamburg",
@@ -11,11 +11,11 @@
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
-          "name": "Sport Klub 5 HD HR 🇭🇷 Croatia",
-          "channel": "Sport Klub 5 HD HR",
+          "name": "Sport Klub 5 HR 🇭🇷 Croatia",
+          "channel": "Sport Klub 5 HR",
           "country": "🇭🇷 Croatia",
-          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-5-hd-hr.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%205%20HD%20HR&code=hr&user=ntvstream&plan=free"
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-5-hr.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%205%20HR&code=hr&user=ntvstream&plan=free"
         }
       ],
       "live": true
@@ -59,11 +59,11 @@
           "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=&user=ntvstream&plan=free"
         },
         {
-          "name": "Sky Sport Uno FHD IT 🇮🇹 Italy",
-          "channel": "Sky Sport Uno FHD IT",
+          "name": "Sky Sport UNO HD IT 🇮🇹 Italy",
+          "channel": "Sky Sport UNO HD IT",
           "country": "🇮🇹 Italy",
-          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno-fhd-it.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Uno%20FHD%20IT&code=it&user=ntvstream&plan=free"
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno-hd-it.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20UNO%20HD%20IT&code=it&user=ntvstream&plan=free"
         },
         {
           "name": "SONY TEN 2 Internacional",
@@ -94,18 +94,25 @@
           "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Tennis%20HD%20SE&code=&user=ntvstream&plan=free"
         },
         {
-          "name": "Ziggo Sport HD NL 🇳🇱 Netherlands",
-          "channel": "Ziggo Sport HD NL",
+          "name": "Ziggo Sport FHD NL 🇳🇱 Netherlands",
+          "channel": "Ziggo Sport FHD NL",
           "country": "🇳🇱 Netherlands",
-          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-hd-nl.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%20HD%20NL&code=nl&user=ntvstream&plan=free"
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-fhd-nl.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%20FHD%20NL&code=nl&user=ntvstream&plan=free"
         },
         {
-          "name": "Ziggo Sport 5 HD NL 🇳🇱 Netherlands",
-          "channel": "Ziggo Sport 5 HD NL",
+          "name": "Ziggo Sport 4 FHD NL 🇳🇱 Netherlands",
+          "channel": "Ziggo Sport 4 FHD NL",
           "country": "🇳🇱 Netherlands",
-          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5-hd-nl.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%205%20HD%20NL&code=nl&user=ntvstream&plan=free"
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-4-fhd-nl.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%204%20FHD%20NL&code=nl&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Ziggo Sport 5 FHD NL 🇳🇱 Netherlands",
+          "channel": "Ziggo Sport 5 FHD NL",
+          "country": "🇳🇱 Netherlands",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5-fhd-nl.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%205%20FHD%20NL&code=nl&user=ntvstream&plan=free"
         },
         {
           "name": "Cytavision Sports 5 HD CY CY",
@@ -247,18 +254,18 @@
       "live": true
     },
     {
-      "title": "WTA 250 Prague • ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg",
+      "title": "ATP 250 Estoril • WTA 250 Prague • ATP 250 Kitzbühel • WTA 250 Hamburg",
       "league": "Tennis",
       "time": "12:00",
       "timestamp": 1784628000000,
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
-          "name": "Sportklub 4 FHD HR 🇭🇷 Croatia",
-          "channel": "Sportklub 4 FHD HR",
+          "name": "Sportklub 2 FHD HR 🇭🇷 Croatia",
+          "channel": "Sportklub 2 FHD HR",
           "country": "🇭🇷 Croatia",
-          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-4-fhd-hr.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%204%20FHD%20HR&code=hr&user=ntvstream&plan=free"
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-2-fhd-hr.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%202%20FHD%20HR&code=hr&user=ntvstream&plan=free"
         }
       ],
       "live": true
@@ -276,6 +283,40 @@
           "country": "🇭🇷 Croatia",
           "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-1-fhd-hr.webp",
           "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%201%20FHD%20HR&code=hr&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Live Racing from Around the UK",
+      "league": "Horse Racing",
+      "time": "13:00",
+      "timestamp": 1784631600000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Sky Sports Racing FHD UK 🇬🇧 UK",
+          "channel": "Sky Sports Racing FHD UK",
+          "country": "🇬🇧 UK",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-racing-fhd-uk.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Racing%20FHD%20UK&code=gb&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Musselburgh, Nottingham &amp; Salisbury | Ballinrobe",
+      "league": "Horse Racing",
+      "time": "14:15",
+      "timestamp": 1784636100000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Racing TV FHD UK 🇬🇧 UK",
+          "channel": "Racing TV FHD UK",
+          "country": "🇬🇧 UK",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/racing-tv-fhd-uk.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Racing%20TV%20FHD%20UK&code=gb&user=ntvstream&plan=free"
         }
       ],
       "live": true
