@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T17:16:56.537498",
-  "total_events": 11,
-  "live_events": 11,
+  "generated_at": "2026-07-21T19:19:07.175686",
+  "total_events": 16,
+  "live_events": 16,
   "events": [
     {
       "title": "Ararat-Armenia vs Shamrock Rovers",
@@ -96,10 +96,140 @@
       "live": true
     },
     {
+      "title": "Fenerbahçe vs Górnik Zabrze",
+      "league": "UEFA Champions League",
+      "time": "19:00",
+      "timestamp": 1784653200000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "TV100 FHD TR 🇹🇷 Turkey",
+          "channel": "TV100 FHD TR",
+          "country": "🇹🇷 Turkey",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/turkey/tv100-fhd-tr.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV100%20FHD%20TR&code=tr&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "FC Thun vs Dinamo Zagreb",
+      "league": "UEFA Champions League",
+      "time": "19:00",
+      "timestamp": 1784653200000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "SRF Zwei HD CH Internacional",
+          "channel": "SRF Zwei HD CH",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=ntvstream&plan=free"
+        },
+        {
+          "name": "RSI La2 FHD IT Internacional",
+          "channel": "RSI La2 FHD IT",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La2%20FHD%20IT&code=&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "FC Atert Bissen vs Győri ETO FC",
+      "league": "UEFA Conference League",
+      "time": "19:15",
+      "timestamp": 1784654100000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "M4 Sport FHD HU 🇭🇺 Hungary",
+          "channel": "M4 Sport FHD HU",
+          "country": "🇭🇺 Hungary",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport-fhd-hu.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Sturm Graz vs Heart of Midlothian (Hearts)",
+      "league": "UEFA Champions League",
+      "time": "19:30",
+      "timestamp": 1784655000000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Viaplay Sports 1 FHD UK 🇬🇧 UK",
+          "channel": "Viaplay Sports 1 FHD UK",
+          "country": "🇬🇧 UK",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1-fhd-uk.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%201%20FHD%20UK&code=gb&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Premier Sports 1 Ireland FHD UK Internacional",
+          "channel": "Premier Sports 1 Ireland FHD UK",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%201%20Ireland%20FHD%20UK&code=&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Arena Sport 2 Premium FHD RS 🇷🇸 Serbia",
+          "channel": "Arena Sport 2 Premium FHD RS",
+          "country": "🇷🇸 Serbia",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=ntvstream&plan=free"
+        },
+        {
+          "name": "ORF 1 FHD AT 🇦🇹 Austria",
+          "channel": "ORF 1 FHD AT",
+          "country": "🇦🇹 Austria",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/austria/orf-1-fhd-at.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ORF%201%20FHD%20AT&code=at&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Larne FC vs FK Crvena zvezda",
+      "league": "UEFA Champions League",
+      "time": "20:00",
+      "timestamp": 1784656800000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Arena Sport 1 Premium FHD RS 🇷🇸 Serbia",
+          "channel": "Arena Sport 1 Premium FHD RS",
+          "country": "🇷🇸 Serbia",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
       "title": "West Lyon vs Unity Christian",
       "league": "High School Baseball – IAHSAA Class 2A Tournament",
       "time": "17:00",
       "timestamp": 1784646000000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Marquee Sports Network FHD US 🇺🇸 USA",
+          "channel": "Marquee Sports Network FHD US",
+          "country": "🇺🇸 USA",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee-sports-network-fhd-us.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=us&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Roland-Story vs Durant",
+      "league": "High School Baseball – IAHSAA Class 2A Tournament",
+      "time": "19:30",
+      "timestamp": 1784655000000,
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
@@ -125,89 +255,6 @@
           "country": "🇬🇧 UK",
           "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2-fhd-uk.webp",
           "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=gb&user=ntvstream&plan=free"
-        }
-      ],
-      "live": true
-    },
-    {
-      "title": "Oval Invincibles Women vs Northern Superchargers Women",
-      "league": "The Hundred Women",
-      "time": "14:45",
-      "timestamp": 1784637900000,
-      "logo": "https://iptv.playtorrio.xyz/logo.ico",
-      "sources": [
-        {
-          "name": "Willow Cricket HD US Internacional",
-          "channel": "Willow Cricket HD US",
-          "country": "Internacional",
-          "logo": "",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Sky Sports Cricket FHD UK 🇬🇧 UK",
-          "channel": "Sky Sports Cricket FHD UK",
-          "country": "🇬🇧 UK",
-          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-cricket-fhd-uk.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Cricket%20FHD%20UK&code=gb&user=ntvstream&plan=free"
-        },
-        {
-          "name": "BBC Two FHD UK 🇬🇧 UK",
-          "channel": "BBC Two FHD UK",
-          "country": "🇬🇧 UK",
-          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-two-fhd-uk.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20FHD%20UK&code=gb&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Sky Sports Mix FHD UK 🇬🇧 UK",
-          "channel": "Sky Sports Mix FHD UK",
-          "country": "🇬🇧 UK",
-          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-mix-fhd-uk.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix%20FHD%20UK&code=gb&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Sky Sports Main Event FHD UK Internacional",
-          "channel": "Sky Sports Main Event FHD UK",
-          "country": "Internacional",
-          "logo": "",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=&user=ntvstream&plan=free"
-        },
-        {
-          "name": "ASTRO CRICKET HD Internacional",
-          "channel": "ASTRO CRICKET HD",
-          "country": "Internacional",
-          "logo": "",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ASTRO%20CRICKET%20HD&code=&user=ntvstream&plan=free"
-        },
-        {
-          "name": "Sky Sport 2 NZ 🇳🇿 New Zealand",
-          "channel": "Sky Sport 2 NZ",
-          "country": "🇳🇿 New Zealand",
-          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-2-nz.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202%20NZ&code=nz&user=ntvstream&plan=free"
-        },
-        {
-          "name": "SuperSport Cricket Internacional",
-          "channel": "SuperSport Cricket",
-          "country": "Internacional",
-          "logo": "",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Cricket&code=&user=ntvstream&plan=free"
-        }
-      ],
-      "live": true
-    },
-    {
-      "title": "Sixers vs Royals",
-      "league": "LPL 2026",
-      "time": "15:00",
-      "timestamp": 1784638800000,
-      "logo": "https://iptv.playtorrio.xyz/logo.ico",
-      "sources": [
-        {
-          "name": "Willow Cricket Extra FHD US 🇺🇸 USA",
-          "channel": "Willow Cricket Extra FHD US",
-          "country": "🇺🇸 USA",
-          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-extra-fhd-us.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20Extra%20FHD%20US&code=us&user=ntvstream&plan=free"
         }
       ],
       "live": true
@@ -286,18 +333,105 @@
       "live": true
     },
     {
-      "title": "Musselburgh, Nottingham &amp; Salisbury | Ballinrobe",
-      "league": "Horse Racing",
-      "time": "14:15",
-      "timestamp": 1784636100000,
+      "title": "West Indies vs New Zealand",
+      "league": "5th ODI",
+      "time": "19:30",
+      "timestamp": 1784655000000,
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
-          "name": "Racing TV FHD UK 🇬🇧 UK",
-          "channel": "Racing TV FHD UK",
+          "name": "Willow Cricket HD US Internacional",
+          "channel": "Willow Cricket HD US",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=ntvstream&plan=free"
+        },
+        {
+          "name": "TNT Sports 1 FHD UK 🇬🇧 UK",
+          "channel": "TNT Sports 1 FHD UK",
           "country": "🇬🇧 UK",
-          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/racing-tv-fhd-uk.webp",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Racing%20TV%20FHD%20UK&code=gb&user=ntvstream&plan=free"
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Sky Sport 2 NZ 🇳🇿 New Zealand",
+          "channel": "Sky Sport 2 NZ",
+          "country": "🇳🇿 New Zealand",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-2-nz.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202%20NZ&code=nz&user=ntvstream&plan=free"
+        },
+        {
+          "name": "SuperSport Cricket Internacional",
+          "channel": "SuperSport Cricket",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Cricket&code=&user=ntvstream&plan=free"
+        },
+        {
+          "name": "SuperSport Grandstand Internacional",
+          "channel": "SuperSport Grandstand",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Grandstand&code=&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Second Round – Winter Gardens, Blackpool, England",
+      "league": "PDC World Matchplay Darts",
+      "time": "19:00",
+      "timestamp": 1784653200000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Sky Sports Action FHD UK 🇬🇧 UK",
+          "channel": "Sky Sports Action FHD UK",
+          "country": "🇬🇧 UK",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-action-fhd-uk.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20FHD%20UK&code=gb&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Sky Sports Main Event FHD UK 🇬🇧 UK",
+          "channel": "Sky Sports Main Event FHD UK",
+          "country": "🇬🇧 UK",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=gb&user=ntvstream&plan=free"
+        },
+        {
+          "name": "DAZN 2 FHD DE 🇩🇪 Germany",
+          "channel": "DAZN 2 FHD DE",
+          "country": "🇩🇪 Germany",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-2-fhd-de.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202%20FHD%20DE&code=de&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Sky Sport 1 NZ 🇳🇿 New Zealand",
+          "channel": "Sky Sport 1 NZ",
+          "country": "🇳🇿 New Zealand",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-1-nz.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201%20NZ&code=nz&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Canal+ Sport 5 FHD PL 🇵🇱 Poland",
+          "channel": "Canal+ Sport 5 FHD PL",
+          "country": "🇵🇱 Poland",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-5-fhd-pl.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20PL&code=pl&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Arena Sport 5 FHD RS 🇷🇸 Serbia",
+          "channel": "Arena Sport 5 FHD RS",
+          "country": "🇷🇸 Serbia",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-5-fhd-rs.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%205%20FHD%20RS&code=rs&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Sport 1 HD HU 🇭🇺 Hungary",
+          "channel": "Sport 1 HD HU",
+          "country": "🇭🇺 Hungary",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/hungary/sport-1-hd-hu.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20HU&code=hu&user=ntvstream&plan=free"
         }
       ],
       "live": true
