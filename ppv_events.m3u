@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-07-25 21:58
-# Total: 81
+# UTC+8 | Generated: 2026-07-26 00:10
+# Total: 79
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/a4aeec59430922ce8c910bd7f90aebda-thumbnail.jpg" group-title="American Football",[2026-07-25 21:00] Alpine Rams vs. Panthers Wroclaw
 https://ppv2.168.us.kg/stream?uri=afle/2026-07-25/alp-pan
@@ -89,6 +89,9 @@ https://ppv2.168.us.kg/stream?uri=world-matchplay---final
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/c38d9bfa0341e25eac242a6a91fcc49b-thumbnail.jpg" group-title="Football",[2026-07-25 22:00] Bolton Wanderers vs. Everton
 https://ppv2.168.us.kg/stream?uri=club-friendly/2026-07-25/bol-eve
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/d0892d70277b92859598229086a447ae-thumbnail.jpg" group-title="Football",[2026-07-26 02:00] Zbrojovka Brno vs. Sparta Prague
+https://ppv2.168.us.kg/stream?uri=chance-liga/2026-07-25/zbr-acs
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/435d2bce27607bd304e5530406e34eba-thumbnail.jpg" group-title="Football",[2026-07-26 06:00] Liverpool vs. Sunderland
 https://ppv2.168.us.kg/stream?uri=friendly/2026-07-25/liv-sun
@@ -192,9 +195,6 @@ https://ppv2.168.us.kg/stream?uri=friendly/2026-08-15/tot-tsg
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/b47b4f8644f65c01945329445ac31a4b-thumbnail.jpg" group-title="Football",[2026-08-16 22:00] Tottenham Hotspur vs. TSG Hoffenheim
 https://ppv2.168.us.kg/stream?uri=friendly/2026-08-16/tot-tsg
 
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/17049c40612f2598ca006e6575be14f6-thumbnail.jpg" group-title="Miscellaneous",[2026-07-25 17:00] Tour de France - Stage 20
-https://ppv2.168.us.kg/stream?uri=tour-de-france/2026/stage-20
-
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/17049c40612f2598ca006e6575be14f6-thumbnail.jpg" group-title="Miscellaneous",[2026-07-26 21:30] Tour de France - Stage 21
 https://ppv2.168.us.kg/stream?uri=tour-de-france/2026/stage-21
 
@@ -203,9 +203,6 @@ https://ppv2.168.us.kg/stream?uri=kt-2026-08-07
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/9f54dea213c4d5ffbc5caafa12db0a7f-thumbnail.jpg" group-title="Miscellaneous",[2026-08-09 07:30] Kill Tony Live from MSG | Saturday
 https://ppv2.168.us.kg/stream?uri=kt-2026-08-08
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/e559f228c96eebe6e9e1773b830ec893-thumbnail.jpg" group-title="Motorsports",[2026-07-25 22:00] Hungarian Grand Prix - Qualifying
-https://ppv2.168.us.kg/stream?uri=f1/2026/hungary/qualifying
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",[2026-07-26 01:00] Pro Motocross: Washougal
 https://ppv2.168.us.kg/stream?uri=smx-wk25
@@ -219,14 +216,11 @@ https://ppv2.168.us.kg/stream?uri=nrl/2026-07-26/st.-gol
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/acca2f518654e0e90ced3f8f8108e561-thumbnail.jpg" group-title="Rugby",[2026-07-26 14:05] Sea Eagles vs. Sharks
 https://ppv2.168.us.kg/stream?uri=nrl/2026-07-26/man-cro
 
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/aec335122bdf96dce5d1d7e30b93e066-thumbnail.jpg" group-title="Tennis",[2026-07-25 19:00] ATP 250: Kitzbuhel - Final
-https://ppv2.168.us.kg/stream?uri=atp-250-kitzbuhel---final
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/09b2c8a2068c941bdf7b0e4e7c1aa9d2-thumbnail.jpg" group-title="Volleyball",[2026-07-25 19:30] SF: China vs. Türkiye
-https://ppv2.168.us.kg/stream?uri=womensvnl/2026-07-25/sf:-tür
-
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",[2026-07-26 08:00] AEW: Saturday Night Collision
 https://ppv2.168.us.kg/stream?uri=aew/collision/2026-07-25
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/497a3678839b011dcc04ff2dbecc39b2-thumbnail.jpg" group-title="Wrestling",[2026-07-27 07:00] AEW Redemption
+https://ppv2.168.us.kg/stream?uri=aew-redemption-2026
 
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://ppv2.168.us.kg/stream?uri=247-south-park
