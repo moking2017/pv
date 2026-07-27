@@ -1,7 +1,13 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-07-27 10:40:33
-# Total Events: 1
-# Live Events: 1
+# PlayTorrio Sports Events - 2026-07-27 13:39:51
+# Total Events: 2
+# Live Events: 2
 
-#EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="Glasgow 2026 Boxing",[18:00] Glasgow 2026 Boxing - Day 4 Session 1 🔴
+#EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="Glasgow 2026 Boxing",[18:00] Glasgow 2026 Boxing - Day 4 Session 1 🔴 - PPV 04 ⓧ|  07:00 AM | UFC Fight Night: Ankalaev vs Guskov English Internacional
+https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2004%20%E2%93%A7%7C%20%2007%3A00%20AM%20%7C%20UFC%20Fight%20Night%3A%20Ankalaev%20vs%20Guskov%20English&code=&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="Glasgow 2026 Boxing",[18:00] Glasgow 2026 Boxing - Day 4 Session 1 🔴 - UFC 24/7 HD US Internacional
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-two-uk.webp" group-title="The Hundred Women",[22:00] The Hundred Women - Southern Brave Women vs Oval Invincibles Women 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20UK&code=gb&user=ntvstream&plan=free
