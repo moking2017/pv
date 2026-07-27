@@ -1,37 +1,160 @@
 {
-  "generated_at": "2026-07-27T13:39:51.174383",
-  "total_events": 2,
-  "live_events": 2,
+  "generated_at": "2026-07-27T18:23:10.455539",
+  "total_events": 8,
+  "live_events": 8,
   "events": [
     {
-      "title": "Day 4 Session 1",
-      "league": "Glasgow 2026 Boxing",
-      "time": "11:00",
-      "timestamp": 1785142800000,
+      "title": "CFR Cluj vs Voluntari",
+      "league": "Romania - Liga I",
+      "time": "16:30",
+      "timestamp": 1785162600000,
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
-          "name": "PPV 04 ⓧ|  07:00 AM | UFC Fight Night: Ankalaev vs Guskov English Internacional",
-          "channel": "PPV 04 ⓧ|  07:00 AM | UFC Fight Night: Ankalaev vs Guskov English",
-          "country": "Internacional",
-          "logo": "",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2004%20%E2%93%A7%7C%20%2007%3A00%20AM%20%7C%20UFC%20Fight%20Night%3A%20Ankalaev%20vs%20Guskov%20English&code=&user=ntvstream&plan=free"
+          "name": "Digi Sport 1 FHD RO 🇷🇴 Romania",
+          "channel": "Digi Sport 1 FHD RO",
+          "country": "🇷🇴 Romania",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-1-fhd-ro.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%201%20FHD%20RO&code=ro&user=ntvstream&plan=free"
         },
         {
-          "name": "UFC 24/7 HD US Internacional",
-          "channel": "UFC 24/7 HD US",
-          "country": "Internacional",
-          "logo": "",
-          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=ntvstream&plan=free"
+          "name": "Arena Sport 1 FHD HR 🇭🇷 Croatia",
+          "channel": "Arena Sport 1 FHD HR",
+          "country": "🇭🇷 Croatia",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-1-fhd-hr.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20FHD%20HR&code=hr&user=ntvstream&plan=free"
         }
       ],
       "live": true
     },
     {
-      "title": "Southern Brave Women vs Oval Invincibles Women",
-      "league": "The Hundred Women",
+      "title": "Artis vs Mladá Boleslav",
+      "league": "Czech Republic - 1. Liga",
+      "time": "17:00",
+      "timestamp": 1785164400000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Oneplay Sport 1 FHD CZ 🇨🇿 Czech Republic",
+          "channel": "Oneplay Sport 1 FHD CZ",
+          "country": "🇨🇿 Czech Republic",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/oneplay-sport-1-fhd-cz.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Oneplay%20Sport%201%20FHD%20CZ&code=cz&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Zagłębie Lubin vs Piast Gliwice",
+      "league": "Poland - Ekstraklasa",
+      "time": "18:00",
+      "timestamp": 1785168000000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Canal+ Sport 3 FHD PL 🇵🇱 Poland",
+          "channel": "Canal+ Sport 3 FHD PL",
+          "country": "🇵🇱 Poland",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-3-fhd-pl.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=pl&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Arena Sport 2 FHD HR 🇭🇷 Croatia",
+          "channel": "Arena Sport 2 FHD HR",
+          "country": "🇭🇷 Croatia",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-2-fhd-hr.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20FHD%20HR&code=hr&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "KAMAZ vs Rotor Volgograd",
+      "league": "Russia - FNL",
+      "time": "18:00",
+      "timestamp": 1785168000000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "MatchTV RU 🇷🇺 Russia",
+          "channel": "MatchTV RU",
+          "country": "🇷🇺 Russia",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/russia/matchtv-ru.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=MatchTV%20RU&code=ru&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Botoșani vs Rapid București",
+      "league": "Romania - Liga I",
+      "time": "19:30",
+      "timestamp": 1785173400000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Digi Sport 1 FHD RO 🇷🇴 Romania",
+          "channel": "Digi Sport 1 FHD RO",
+          "country": "🇷🇴 Romania",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-1-fhd-ro.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%201%20FHD%20RO&code=ro&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Day 1 – Session 1",
+      "league": "Washington Open",
+      "time": "16:00",
+      "timestamp": 1785160800000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Ziggo Sport 4 FHD NL 🇳🇱 Netherlands",
+          "channel": "Ziggo Sport 4 FHD NL",
+          "country": "🇳🇱 Netherlands",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-4-fhd-nl.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%204%20FHD%20NL&code=nl&user=ntvstream&plan=free"
+        },
+        {
+          "name": "ESPN HD ARG 🇦🇷 Argentina",
+          "channel": "ESPN HD ARG",
+          "country": "🇦🇷 Argentina",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-hd-arg.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20HD%20ARG&code=ar&user=ntvstream&plan=free"
+        },
+        {
+          "name": "Eurosport 2 SD FR 🇫🇷 France",
+          "channel": "Eurosport 2 SD FR",
+          "country": "🇫🇷 France",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/france/eurosport-2-sd-fr.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20SD%20FR&code=fr&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "West Indies vs Pakistan",
+      "league": "1st Test | Day 3",
       "time": "15:00",
       "timestamp": 1785157200000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "ASTRO CRICKET HD Internacional",
+          "channel": "ASTRO CRICKET HD",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ASTRO%20CRICKET%20HD&code=&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Southern Brave vs Oval Invincibles",
+      "league": "The Hundred",
+      "time": "18:30",
+      "timestamp": 1785169800000,
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
