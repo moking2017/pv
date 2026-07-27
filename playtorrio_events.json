@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-27T10:40:33.862306",
-  "total_events": 1,
-  "live_events": 1,
+  "generated_at": "2026-07-27T13:39:51.174383",
+  "total_events": 2,
+  "live_events": 2,
   "events": [
     {
       "title": "Day 4 Session 1",
@@ -11,11 +11,35 @@
       "logo": "https://iptv.playtorrio.xyz/logo.ico",
       "sources": [
         {
+          "name": "PPV 04 ⓧ|  07:00 AM | UFC Fight Night: Ankalaev vs Guskov English Internacional",
+          "channel": "PPV 04 ⓧ|  07:00 AM | UFC Fight Night: Ankalaev vs Guskov English",
+          "country": "Internacional",
+          "logo": "",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2004%20%E2%93%A7%7C%20%2007%3A00%20AM%20%7C%20UFC%20Fight%20Night%3A%20Ankalaev%20vs%20Guskov%20English&code=&user=ntvstream&plan=free"
+        },
+        {
           "name": "UFC 24/7 HD US Internacional",
           "channel": "UFC 24/7 HD US",
           "country": "Internacional",
           "logo": "",
           "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Southern Brave Women vs Oval Invincibles Women",
+      "league": "The Hundred Women",
+      "time": "15:00",
+      "timestamp": 1785157200000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "BBC Two UK 🇬🇧 UK",
+          "channel": "BBC Two UK",
+          "country": "🇬🇧 UK",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-two-uk.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20UK&code=gb&user=ntvstream&plan=free"
         }
       ],
       "live": true
