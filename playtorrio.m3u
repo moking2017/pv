@@ -1,11 +1,17 @@
 #EXTM3U
-# PlayTorrio Sports Events - 2026-07-28 03:26:33
-# Total Events: 1
-# Live Events: 1
+# PlayTorrio Sports Events - 2026-07-28 06:25:26
+# Total Events: 2
+# Live Events: 2
 
-#EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="Brazilian Serie B",[23:30] Brazilian Serie B - Atletico GO vs Operario-PR 🔴 - Premiere Clubes HD BR Internacional
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="WNBA",[03:00] WNBA - WNBA: Portland Fire Women vs Las Vegas Aces Women 🔴
+https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&user=ntvstream&plan=free
 
-#EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="Brazilian Serie B",[23:30] Brazilian Serie B - Atletico GO vs Operario-PR 🔴 - Premiere 2 HD BR Internacional
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=ntvstream&plan=free
+#EXTINF:-1 tvg-logo="https://iptv.playtorrio.xyz/logo.ico" group-title="Tennis",[03:00] Tennis - ATP 250 Los Cabos – Early Rounds 🔴 - TVA Sports CA Internacional
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-3-fhd-pl.webp" group-title="Tennis",[03:00] Tennis - ATP 250 Los Cabos – Early Rounds 🔴 - Polsat Sport 3 FHD PL 🇵🇱 Poland
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=pl&user=ntvstream&plan=free
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-hd-il.webp" group-title="Tennis",[03:00] Tennis - ATP 250 Los Cabos – Early Rounds 🔴 - Sport 5 HD IL 🇮🇱 Israel
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20HD%20IL&code=il&user=ntvstream&plan=free
 
