@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T09:35:42.145622",
-  "total_events": 1,
-  "live_events": 1,
+  "generated_at": "2026-07-28T11:56:51.247560",
+  "total_events": 6,
+  "live_events": 6,
   "events": [
     {
       "title": "Club Friendly: Chelsea vs Western Sydney Wanderers",
@@ -23,6 +23,91 @@
           "country": "🇮🇱 Israel",
           "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1-hd-il.webp",
           "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20IL&code=il&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Russian Cup: Bomik vs Broke Boys",
+      "league": "All Soccer Events",
+      "time": "13:00",
+      "timestamp": 1785236400000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Match Premier RU 🇷🇺 Russia",
+          "channel": "Match Premier RU",
+          "country": "🇷🇺 Russia",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-premier-ru.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Premier%20RU&code=ru&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Glasgow 2026 Commonwealth Games – Day 5 Boxing (Day Session)",
+      "league": "Boxing",
+      "time": "12:00",
+      "timestamp": 1785232800000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Sky Sport 7 NZ 🇳🇿 New Zealand",
+          "channel": "Sky Sport 7 NZ",
+          "country": "🇳🇿 New Zealand",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-7-nz.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%207%20NZ&code=nz&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Live Horse Racing from Around the UK",
+      "league": "Horse Racing",
+      "time": "13:00",
+      "timestamp": 1785236400000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Sky Sports Racing FHD UK 🇬🇧 UK",
+          "channel": "Sky Sports Racing FHD UK",
+          "country": "🇬🇧 UK",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-racing-fhd-uk.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Racing%20FHD%20UK&code=gb&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Live Horse Racing: Goodwood, Beverley &amp; Galway",
+      "league": "Horse Racing",
+      "time": "13:15",
+      "timestamp": 1785237300000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "Racing TV FHD UK 🇬🇧 UK",
+          "channel": "Racing TV FHD UK",
+          "country": "🇬🇧 UK",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/racing-tv-fhd-uk.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Racing%20TV%20FHD%20UK&code=gb&user=ntvstream&plan=free"
+        }
+      ],
+      "live": true
+    },
+    {
+      "title": "Glorious Goodwood 2026 – Day 1: Goodwood Cup",
+      "league": "Horse Racing",
+      "time": "13:30",
+      "timestamp": 1785238200000,
+      "logo": "https://iptv.playtorrio.xyz/logo.ico",
+      "sources": [
+        {
+          "name": "ITV 1 FHD UK 🇬🇧 UK",
+          "channel": "ITV 1 FHD UK",
+          "country": "🇬🇧 UK",
+          "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-1-fhd-uk.webp",
+          "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%201%20FHD%20UK&code=gb&user=ntvstream&plan=free"
         }
       ],
       "live": true
