@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-08-01 16:32
-# Total: 79
+# UTC+8 | Generated: 2026-08-01 18:46
+# Total: 80
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/61b33fed61628d237ad45b92235d23c7-thumbnail.jpg" group-title="American Football",[2026-08-01 23:10] Paris Lights vs. Firenze Red Lions
 https://ppv2.168.us.kg/stream?uri=afle/2026-08-01/par-fir
@@ -89,6 +89,9 @@ https://ppv2.168.us.kg/stream?uri=wnba/2026-08-01/ny-phx
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/c6fe065c37cd85ba261338f043a1e23e-thumbnail.jpg" group-title="Combat Sports",[2026-08-01 22:00] UFC Fight Night: Medić vs. Rodriguez
 https://ppv2.168.us.kg/stream?uri=ufc-fight-night-medi-vs-rodriguez
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/22b2d4783a3c8b5a355d73343139630d-thumbnail.jpg" group-title="Combat Sports",[2026-08-02 00:00] OKTAGON 92: SZABOVÁ VS. PUDILOVÁ
+https://ppv2.168.us.kg/stream?uri=oktagon-92
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/fe4747a0b81161d0ad62b8989db2330e-thumbnail.jpg" group-title="Football",[2026-08-01 17:45] Chelsea vs. Tottenham Hotspur
 https://ppv2.168.us.kg/stream?uri=friendly/2026-08-01/che-tot
@@ -201,9 +204,6 @@ https://ppv2.168.us.kg/stream?uri=kt-2026-08-07
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/9f54dea213c4d5ffbc5caafa12db0a7f-thumbnail.jpg" group-title="Miscellaneous",[2026-08-09 07:30] Kill Tony Live from MSG | Saturday
 https://ppv2.168.us.kg/stream?uri=kt-2026-08-08
 
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/4fbb69177ad276621d054d11ce54de81-thumbnail.jpg" group-title="Rugby",[2026-08-01 15:30] Panthers vs. Raiders
-https://ppv2.168.us.kg/stream?uri=nrl/2026-08-01/pen-can
-
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/668008c7caa8815bcafbbf9cb4dea7cd-thumbnail.jpg" group-title="Rugby",[2026-08-01 17:35] Broncos vs. Knights
 https://ppv2.168.us.kg/stream?uri=nrl/2026-08-01/bri-new
 
@@ -213,14 +213,17 @@ https://ppv2.168.us.kg/stream?uri=nrl/2026-08-02/cro-sou
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/6db3d8b0b6ce4e85b8512ceed0663ea3-thumbnail.jpg" group-title="Rugby",[2026-08-02 14:05] Wests Tigers vs. Eels
 https://ppv2.168.us.kg/stream?uri=nrl/2026-08-02/wes-par
 
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/74fef131cb385955b7a92476b9f587af-thumbnail.jpg" group-title="Volleyball",[2026-08-01 15:00] Slovenia vs. Poland
-https://ppv2.168.us.kg/stream?uri=mensvnl/2026-08-01/slo-pol
-
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/41ea9f08737804ec13925b6134ffa199-thumbnail.jpg" group-title="Volleyball",[2026-08-01 19:30] Japan vs. USA
 https://ppv2.168.us.kg/stream?uri=mensvnl/2026-08-01/jap-usa
 
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/1cfdf971fd3df606a98090e74757e82a-thumbnail.jpg" group-title="Wrestling",[2026-08-02 06:00] WWE SummerSlam | Night 1
+https://ppv2.168.us.kg/stream?uri=wwe/2026-08-01
+
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",[2026-08-02 08:00] AEW: Saturday Night Collision
 https://ppv2.168.us.kg/stream?uri=aew/collision/2026-08-01
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/1cfdf971fd3df606a98090e74757e82a-thumbnail.jpg" group-title="Wrestling",[2026-08-03 06:00] WWE SummerSlam | Night 2
+https://ppv2.168.us.kg/stream?uri=wwe/2026-08-02
 
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://ppv2.168.us.kg/stream?uri=247-south-park
