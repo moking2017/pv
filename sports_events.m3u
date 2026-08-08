@@ -1,7 +1,7 @@
 #EXTM3U
 # Generated from cdn-live.tv Sports API
-# UTC+8 timezone | Generated: 2026-08-08 21:05
-# Total Entries: 402  |  Skipped (finished): 0
+# UTC+8 timezone | Generated: 2026-08-08 23:37
+# Total Entries: 401  |  Skipped (finished): 0
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-brasil-hd-br.webp" group-title="Soccer",[03:00] ⏳ Soccer - Vila Nova vs Sport Recife - ESPN Brasil HD BR 🌐 BR
 https://cdnlivetv.168.us.kg/play?name=ESPN+Brasil+HD+BR&code=br
 
@@ -113,6 +113,9 @@ https://cdnlivetv.168.us.kg/play?name=CA+CTV+Edmonton&code=
 #EXTINF:-1 tvg-logo="" group-title="NFL",[03:00] ⏳ NFL - Montreal Alouettes vs Edmonton Elks - CTV Ottawa HD CA 🌐 
 https://cdnlivetv.168.us.kg/play?name=CTV+Ottawa+HD+CA&code=
 
+#EXTINF:-1 tvg-logo="" group-title="NFL",[03:00] ⏳ NFL - Montreal Alouettes vs Edmonton Elks - CTV Kitchener CA 🌐 
+https://cdnlivetv.168.us.kg/play?name=CTV+Kitchener+CA&code=
+
 #EXTINF:-1 tvg-logo="" group-title="NFL",[03:00] ⏳ NFL - Montreal Alouettes vs Edmonton Elks - CTV Calgary CA 🌐 
 https://cdnlivetv.168.us.kg/play?name=CTV+Calgary+CA&code=
 
@@ -140,17 +143,14 @@ https://cdnlivetv.168.us.kg/play?name=CA+CTV+Kitchener&code=
 #EXTINF:-1 tvg-logo="" group-title="NFL",[03:00] ⏳ NFL - Montreal Alouettes vs Edmonton Elks - CTV Montreal HD QC 🌐 
 https://cdnlivetv.168.us.kg/play?name=CTV+Montreal+HD+QC&code=
 
-#EXTINF:-1 tvg-logo="" group-title="NFL",[03:00] ⏳ NFL - Montreal Alouettes vs Edmonton Elks - CTV Kitchener CA 🌐 
-https://cdnlivetv.168.us.kg/play?name=CTV+Kitchener+CA&code=
+#EXTINF:-1 tvg-logo="" group-title="NFL",[07:00] ⏳ NFL - BC Lions vs Hamilton Tiger-Cats - CBS Sports Network HD US 🌐 
+https://cdnlivetv.168.us.kg/play?name=CBS+Sports+Network+HD+US&code=
 
 #EXTINF:-1 tvg-logo="" group-title="NFL",[07:00] ⏳ NFL - BC Lions vs Hamilton Tiger-Cats - TSN 1 HD CA 🌐 
 https://cdnlivetv.168.us.kg/play?name=TSN+1+HD+CA&code=
 
 #EXTINF:-1 tvg-logo="" group-title="NFL",[07:00] ⏳ NFL - BC Lions vs Hamilton Tiger-Cats - TSN 3 FHD CA 🌐 
 https://cdnlivetv.168.us.kg/play?name=TSN+3+FHD+CA&code=
-
-#EXTINF:-1 tvg-logo="" group-title="NFL",[07:00] ⏳ NFL - BC Lions vs Hamilton Tiger-Cats - CBS Sports Network HD US 🌐 
-https://cdnlivetv.168.us.kg/play?name=CBS+Sports+Network+HD+US&code=
 
 #EXTINF:-1 tvg-logo="" group-title="NFL",[09:00] ⏳ NFL - Calgary Stampeders vs BC Lions - RDS 2 QC 🌐 
 https://cdnlivetv.168.us.kg/play?name=RDS+2+QC&code=
@@ -221,6 +221,9 @@ https://cdnlivetv.168.us.kg/play?name=Fox+Sports+1+FHD+US&code=us
 #EXTINF:-1 tvg-logo="" group-title="MLB",[04:10] ⏳ MLB - Boston Red Sox vs Athletics - Fox Deportes HD US 🌐 
 https://cdnlivetv.168.us.kg/play?name=Fox+Deportes+HD+US&code=
 
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-philadelphia-hd-us.webp" group-title="MLB",[06:05] ⏳ MLB - Philadelphia Phillies vs Toronto Blue Jays - NBC Sports Philadelphia HD US 🌐 US
+https://cdnlivetv.168.us.kg/play?name=NBC+Sports+Philadelphia+HD+US&code=us
+
 #EXTINF:-1 tvg-logo="" group-title="MLB",[06:05] ⏳ MLB - Philadelphia Phillies vs Toronto Blue Jays - Sportsnet Ontario HD CA 🌐 
 https://cdnlivetv.168.us.kg/play?name=Sportsnet+Ontario+HD+CA&code=
 
@@ -230,17 +233,14 @@ https://cdnlivetv.168.us.kg/play?name=Sportsnet+West+HD+CA&code=
 #EXTINF:-1 tvg-logo="" group-title="MLB",[06:05] ⏳ MLB - Philadelphia Phillies vs Toronto Blue Jays - SPORTSNET EAST CA 🌐 
 https://cdnlivetv.168.us.kg/play?name=SPORTSNET+EAST+CA&code=
 
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-philadelphia-hd-us.webp" group-title="MLB",[06:05] ⏳ MLB - Philadelphia Phillies vs Toronto Blue Jays - NBC Sports Philadelphia HD US 🌐 US
-https://cdnlivetv.168.us.kg/play?name=NBC+Sports+Philadelphia+HD+US&code=us
-
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cw-us.webp" group-title="MLB",[06:40] ⏳ MLB - Pittsburgh Pirates vs New York Mets - CW US 🌐 US
 https://cdnlivetv.168.us.kg/play?name=CW+US&code=us
 
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/at-t-sportsnet-pittsburgh-hd-us.webp" group-title="MLB",[06:40] ⏳ MLB - Pittsburgh Pirates vs New York Mets - AT&T SportsNet Pittsburgh HD US 🌐 US
-https://cdnlivetv.168.us.kg/play?name=AT%26T+SportsNet+Pittsburgh+HD+US&code=us
-
 #EXTINF:-1 tvg-logo="" group-title="MLB",[06:40] ⏳ MLB - Pittsburgh Pirates vs New York Mets - NY | New York |  CW WPIX 🌐 
 https://cdnlivetv.168.us.kg/play?name=NY+%7C+New+York+%7C++CW+WPIX&code=
+
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/at-t-sportsnet-pittsburgh-hd-us.webp" group-title="MLB",[06:40] ⏳ MLB - Pittsburgh Pirates vs New York Mets - AT&T SportsNet Pittsburgh HD US 🌐 US
+https://cdnlivetv.168.us.kg/play?name=AT%26T+SportsNet+Pittsburgh+HD+US&code=us
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee-sports-network-fhd-us.webp" group-title="MLB",[07:10] ⏳ MLB - Kansas City Royals vs Chicago Cubs - Marquee Sports Network FHD US 🌐 US
 https://cdnlivetv.168.us.kg/play?name=Marquee+Sports+Network+FHD+US&code=us
@@ -269,11 +269,14 @@ https://cdnlivetv.168.us.kg/play?name=TSN+2+FHD+CA&code=
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cw-us.webp" group-title="MLB",[01:35] ⏳ MLB - Pittsburgh Pirates vs New York Mets - CW US 🌐 US
 https://cdnlivetv.168.us.kg/play?name=CW+US&code=us
 
+#EXTINF:-1 tvg-logo="" group-title="MLB",[01:35] ⏳ MLB - Pittsburgh Pirates vs New York Mets - NY | New York |  CW WPIX 🌐 
+https://cdnlivetv.168.us.kg/play?name=NY+%7C+New+York+%7C++CW+WPIX&code=
+
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/at-t-sportsnet-pittsburgh-hd-us.webp" group-title="MLB",[01:35] ⏳ MLB - Pittsburgh Pirates vs New York Mets - AT&T SportsNet Pittsburgh HD US 🌐 US
 https://cdnlivetv.168.us.kg/play?name=AT%26T+SportsNet+Pittsburgh+HD+US&code=us
 
-#EXTINF:-1 tvg-logo="" group-title="MLB",[01:35] ⏳ MLB - Pittsburgh Pirates vs New York Mets - NY | New York |  CW WPIX 🌐 
-https://cdnlivetv.168.us.kg/play?name=NY+%7C+New+York+%7C++CW+WPIX&code=
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-philadelphia-hd-us.webp" group-title="MLB",[01:35] ⏳ MLB - Philadelphia Phillies vs Toronto Blue Jays - NBC Sports Philadelphia HD US 🌐 US
+https://cdnlivetv.168.us.kg/play?name=NBC+Sports+Philadelphia+HD+US&code=us
 
 #EXTINF:-1 tvg-logo="" group-title="MLB",[01:35] ⏳ MLB - Philadelphia Phillies vs Toronto Blue Jays - Sportsnet Ontario HD CA 🌐 
 https://cdnlivetv.168.us.kg/play?name=Sportsnet+Ontario+HD+CA&code=
@@ -283,9 +286,6 @@ https://cdnlivetv.168.us.kg/play?name=Sportsnet+West+HD+CA&code=
 
 #EXTINF:-1 tvg-logo="" group-title="MLB",[01:35] ⏳ MLB - Philadelphia Phillies vs Toronto Blue Jays - SPORTSNET EAST CA 🌐 
 https://cdnlivetv.168.us.kg/play?name=SPORTSNET+EAST+CA&code=
-
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-philadelphia-hd-us.webp" group-title="MLB",[01:35] ⏳ MLB - Philadelphia Phillies vs Toronto Blue Jays - NBC Sports Philadelphia HD US 🌐 US
-https://cdnlivetv.168.us.kg/play?name=NBC+Sports+Philadelphia+HD+US&code=us
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-california-hd-us.webp" group-title="MLB",[01:35] ⏳ MLB - Boston Red Sox vs Athletics - NBC Sports California HD US 🌐 US
 https://cdnlivetv.168.us.kg/play?name=NBC+Sports+California+HD+US&code=us
@@ -370,9 +370,6 @@ https://cdnlivetv.168.us.kg/play?name=beIN+Sports+Max+4+HD+FR&code=
 
 #EXTINF:-1 tvg-logo="" group-title="MLB",[07:07] ⏳ MLB - Toronto Blue Jays vs Boston Red Sox - beIN Sports Max 4 SD FR 🌐 
 https://cdnlivetv.168.us.kg/play?name=beIN+Sports+Max+4+SD+FR&code=
-
-#EXTINF:-1 tvg-logo="" group-title="MLB",[07:07] ⏳ MLB - Toronto Blue Jays vs Boston Red Sox - MLB 09: Athletics @ Boston Red Sox | HOME NESN | Fri 07 Aug 19:10 (Live) 🌐 
-https://cdnlivetv.168.us.kg/play?name=MLB+09%3A+Athletics+%40+Boston+Red+Sox+%7C+HOME+NESN+%7C+Fri+07+Aug+19%3A10+%28Live%29&code=
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp" group-title="MLB",[07:15] ⏳ MLB - Atlanta Braves vs New York Mets - TNT Sports 1 FHD UK 🌐 GB
 https://cdnlivetv.168.us.kg/play?name=TNT+Sports+1+FHD+UK&code=gb
@@ -716,6 +713,9 @@ https://cdnlivetv.168.us.kg/play?name=ABC+7+New+York&code=
 #EXTINF:-1 tvg-logo="" group-title="Basketball",[03:30] ⏳ Basketball - Chicago Sky vs Indiana Fever - ESPN Deportes US 🌐 
 https://cdnlivetv.168.us.kg/play?name=ESPN+Deportes+US&code=
 
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-4-hd-gr.webp" group-title="Basketball",[03:30] ⏳ Basketball - Chicago Sky vs Indiana Fever - Cosmote Sport 4 HD GR 🌐 GR
+https://cdnlivetv.168.us.kg/play?name=Cosmote+Sport+4+HD+GR&code=gr
+
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn-3-fhd-nl.webp" group-title="Basketball",[03:30] ⏳ Basketball - Chicago Sky vs Indiana Fever - ESPN 3 FHD NL 🌐 NL
 https://cdnlivetv.168.us.kg/play?name=ESPN+3+FHD+NL&code=nl
 
@@ -724,9 +724,6 @@ https://cdnlivetv.168.us.kg/play?name=ESPN+3+FHD+BR&code=br
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-hd-il.webp" group-title="Basketball",[03:30] ⏳ Basketball - Chicago Sky vs Indiana Fever - Sport 5 HD IL 🌐 IL
 https://cdnlivetv.168.us.kg/play?name=Sport+5+HD+IL&code=il
-
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-4-hd-gr.webp" group-title="Basketball",[03:30] ⏳ Basketball - Chicago Sky vs Indiana Fever - Cosmote Sport 4 HD GR 🌐 GR
-https://cdnlivetv.168.us.kg/play?name=Cosmote+Sport+4+HD+GR&code=gr
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-tv-fhd-us.webp" group-title="Basketball",[08:30] ⏳ Basketball - Portland Fire vs Seattle Storm - NBA TV FHD US 🌐 US
 https://cdnlivetv.168.us.kg/play?name=NBA+TV+FHD+US&code=us
@@ -1193,6 +1190,9 @@ https://cdnlivetv.168.us.kg/play?name=RMC+Sport+1+HD+FR&code=fr
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp" group-title="UFC",[04:00] ⏳ UFC - UFC Fight Night 284 Gamrot vs Salkilld - Polsat Sport 1 FHD PL 🌐 PL
 https://cdnlivetv.168.us.kg/play?name=Polsat+Sport+1+FHD+PL&code=pl
 
+#EXTINF:-1 tvg-logo="" group-title="UFC",[04:00] ⏳ UFC - UFC Fight Night 284 Gamrot vs Salkilld - Cosmote Sport 7 HD GR 🌐 
+https://cdnlivetv.168.us.kg/play?name=Cosmote+Sport+7+HD+GR&code=
+
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-premium-1-fhd-pl.webp" group-title="UFC",[04:00] ⏳ UFC - UFC Fight Night 284 Gamrot vs Salkilld - Polsat Sport Premium 1 FHD PL 🌐 PL
 https://cdnlivetv.168.us.kg/play?name=Polsat+Sport+Premium+1+FHD+PL&code=pl
 
@@ -1204,6 +1204,3 @@ https://cdnlivetv.168.us.kg/play?name=Max+Sport+2+FHD+BG&code=bg
 
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live-hd-il.webp" group-title="UFC",[04:00] ⏳ UFC - UFC Fight Night 284 Gamrot vs Salkilld - Sport 5 Live HD IL 🌐 IL
 https://cdnlivetv.168.us.kg/play?name=Sport+5+Live+HD+IL&code=il
-
-#EXTINF:-1 tvg-logo="" group-title="UFC",[04:00] ⏳ UFC - UFC Fight Night 284 Gamrot vs Salkilld - Cosmote Sport 7 HD GR 🌐 
-https://cdnlivetv.168.us.kg/play?name=Cosmote+Sport+7+HD+GR&code=
