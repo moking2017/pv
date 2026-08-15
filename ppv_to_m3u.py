@@ -13,7 +13,7 @@ from datetime import datetime, timezone, timedelta
 
 API_URL     = "https://api.ppv.st/api/streams"
 OUTPUT_FILE = "ppv_events.m3u"
-BASE_STREAM = "https://ppv2.168.us.kg/?id={uri}"
+BASE_STREAM = "https://ppv2.168.us.kg/?proxy=1&id={uri}"
 TZ_OFFSET   = timedelta(hours=8)   # UTC → UTC+8
 
 HEADERS = {
