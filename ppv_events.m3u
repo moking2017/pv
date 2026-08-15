@@ -1,6 +1,6 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-08-15 05:36
+# UTC+8 | Generated: 2026-08-15 09:47
 # Total: 104
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/56d20b22fe7369c067ab8dabef988680-thumbnail.jpg" group-title="American Football",[2026-08-15 07:00] Denver Broncos at Atlanta Falcons
@@ -78,12 +78,6 @@ https://ppv2.168.us.kg/stream?uri=afl/2026-08-16/wb-carl
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/4a32e4774d232ab288439ebf2368172c-thumbnail.jpg" group-title="Australian Football",[2026-08-16 14:40] Essendon vs. Sydney Swans
 https://ppv2.168.us.kg/stream?uri=afl/2026-08-16/ess-syd
 
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/7ca7369d6d76897af2bd9a5e4b1ec876-thumbnail.jpg" group-title="Baseball",[2026-08-15 02:20] St. Louis Cardinals vs. Chicago Cubs
-https://ppv2.168.us.kg/stream?uri=mlb/2026-08-14/stl-chc
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/8bd8ffe0abf01eb84a6edc53caf4885f-thumbnail.jpg" group-title="Baseball",[2026-08-15 06:10] Miami Marlins vs. Cincinnati Reds
-https://ppv2.168.us.kg/stream?uri=mlb/2026-08-14/mia-cin
-
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/373e4caa7139a32caa5db687df40f888-thumbnail.jpg" group-title="Baseball",[2026-08-15 06:40] Boston Red Sox vs. Pittsburgh Pirates
 https://ppv2.168.us.kg/stream?uri=mlb/2026-08-14/bos-pit
 
@@ -144,17 +138,20 @@ https://ppv2.168.us.kg/stream?uri=ufc-330
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/3b3a8ea0aeaa144b567a0956df12ee6e-thumbnail.jpg" group-title="Cricket",[2026-08-15 08:30] Australia vs. Bangladesh
 https://ppv2.168.us.kg/stream?uri=cricket/2026-08-14/aus-bgd
 
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/cf8015f0aa3b065da283f93635a7ad61-thumbnail.jpg" group-title="Football",[2026-08-15 03:15] Sporting CP vs. Vitória de Guimaraes
-https://ppv2.168.us.kg/stream?uri=portuguese-liga/2026-08-14/scp-vsc
-
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/0263b86986e74bbc7cc189b770674b78-thumbnail.jpg" group-title="Football",[2026-08-15 21:00] Mjällby AIF vs. IK Sirius
 https://ppv2.168.us.kg/stream?uri=swedish-allsvenskan/2026-08-15/mja-sir
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/b47b4f8644f65c01945329445ac31a4b-thumbnail.jpg" group-title="Football",[2026-08-15 22:00] Tottenham Hotspur vs. TSG Hoffenheim
 https://ppv2.168.us.kg/stream?uri=friendly/2026-08-15/tot-tsg
 
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/310bb71f0a019c18dac3179dc0e192a7-thumbnail.jpg" group-title="Football",[2026-08-15 22:45] Manchester United vs. AC Milan
+https://ppv2.168.us.kg/stream?uri=club-friendly/2026-08-15/mun-mil
+
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/4ae2f3d7af0e510f07bd69bdc87f85ff-thumbnail.jpg" group-title="Football",[2026-08-16 01:30] Alavés vs. Getafe
 https://ppv2.168.us.kg/stream?uri=laliga/2026-08-15/ala-get
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/2040910a4d88586c5b592573913a9ccf-thumbnail.jpg" group-title="Football",[2026-08-16 01:30] Inter Milan vs. Real Betis
+https://ppv2.168.us.kg/stream?uri=club-friendly/2026-08-15/int-bet
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/2b267a5beda1f3ebb3225ada7be85f66-thumbnail.jpg" group-title="Football",[2026-08-16 02:45] OH Leuven vs. Club Brugge
 https://ppv2.168.us.kg/stream?uri=belgian-pro-league/2026-08-15/ohl-bru
@@ -275,6 +272,9 @@ https://ppv2.168.us.kg/stream?uri=f1/2026/netherlands/qualifying
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/193d21f12212b477d268382f77f497fd-thumbnail.jpg" group-title="Motorsports",[2026-08-23 21:00] Dutch Grand Prix - Race
 https://ppv2.168.us.kg/stream?uri=f1/2026/netherlands/race
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",[2026-08-28 22:00] Pro Motocross: Unadilla
+https://ppv2.168.us.kg/stream?uri=smx-rd26
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/60c9d0f556e2bbb14f2a41b292aa55ab-thumbnail.jpg" group-title="Rugby",[2026-08-15 13:00] Sharks vs. Raiders
 https://ppv2.168.us.kg/stream?uri=nrl/2026-08-15/cro-can
