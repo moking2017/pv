@@ -1,7 +1,7 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-08-25 02:56
-# Total: 151
+# UTC+8 | Generated: 2026-08-25 05:40
+# Total: 148
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/435a450a04a2aad0f4a65782dbc2a3b4-thumbnail.jpg" group-title="American Football",[2026-08-28 07:00] Pittsburgh Steelers at Buffalo Bills
 https://ppv2.168.us.kg/?proxy=1&id=nfl/2026-08-27/pit-buf
@@ -63,6 +63,9 @@ https://ppv2.168.us.kg/?proxy=1&id=cfl/2026-08-29/tor-ssk
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/8e9c1e4e6bd52cf00279316dd4334354-thumbnail.jpg" group-title="American Football",[2026-08-31 07:00] BC Lions at Ottawa RedBlacks
 https://ppv2.168.us.kg/?proxy=1&id=cfl/2026-08-30/bc-ott
 
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[1970-01-01 07:59] Fox Footy
+https://ppv2.168.us.kg/?proxy=1&id=247-fox-footy
+
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/89763f7b9e1bf52761ae33261da9fad4-thumbnail.jpg" group-title="Australian Football",[2026-08-28 17:40] Western Bulldogs vs. Collingwood
 https://ppv2.168.us.kg/?proxy=1&id=afl/2026-08-28/wb-coll
 
@@ -113,21 +116,6 @@ https://ppv2.168.us.kg/?proxy=1&id=players-championship-26
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",[2026-08-26 19:00] Players Championship 27
 https://ppv2.168.us.kg/?proxy=1&id=players-championship-27
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/402c827b924d95e27adda180c85e2f0f-thumbnail.jpg" group-title="Football",[2026-08-25 00:30] Bologna vs. Lazio
-https://ppv2.168.us.kg/?proxy=1&id=seriea/2026-08-24/bol-laz
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/6c0034589cc74187bc47db94f6f8a5a5-thumbnail.jpg" group-title="Football",[2026-08-25 01:00] Malmö FF vs. Djurgården
-https://ppv2.168.us.kg/?proxy=1&id=swedish-allsvenskan/2026-08-24/mal-dju
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/e2914a67b42448f4bc0af2fb16436440-thumbnail.jpg" group-title="Football",[2026-08-25 01:30] Osasuna vs. Levante
-https://ppv2.168.us.kg/?proxy=1&id=laliga/2026-08-24/osa-lev
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/852d2f496def476a5d62aeaa499cedbc-thumbnail.jpg" group-title="Football",[2026-08-25 02:45] AS Roma vs. Fiorentina
-https://ppv2.168.us.kg/?proxy=1&id=seriea/2026-08-24/roma-fio
-
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/8516af5bd034ab07161699c1b6b9f764-thumbnail.jpg" group-title="Football",[2026-08-25 03:00] Fulham vs. Chelsea
-https://ppv2.168.us.kg/?proxy=1&id=pl/2026-08-24/ful-che
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/0305ddbd1e1fd0d7f2b9c7d47952620b-thumbnail.jpg" group-title="Football",[2026-08-25 03:30] Málaga vs. Deportivo
 https://ppv2.168.us.kg/?proxy=1&id=laliga/2026-08-24/mcf-dep
@@ -395,6 +383,9 @@ https://ppv2.168.us.kg/?proxy=1&id=pl/2026-08-31/avl-ars
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/23edf67100ab6959b5405d6f9ea007c2-thumbnail.jpg" group-title="Football",[2026-09-01 03:30] Barcelona vs. Rayo Vallecano
 https://ppv2.168.us.kg/?proxy=1&id=laliga/2026-08-31/bar-ray
+
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[1970-01-01 07:59] Fox League
+https://ppv2.168.us.kg/?proxy=1&id=247-fox-league
 
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/a3f15750b9fa708b5fa10ffaaaee0873-thumbnail.jpg" group-title="Rugby",[2026-08-27 17:50] Broncos vs. Storm
 https://ppv2.168.us.kg/?proxy=1&id=nrl/2026-08-27/bri-mel
