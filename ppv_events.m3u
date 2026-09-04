@@ -1,7 +1,10 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-09-04 19:12
-# Total: 179
+# UTC+8 | Generated: 2026-09-05 00:17
+# Total: 181
+
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ce00a76459f692ca439e07a741861974-thumbnail.jpg" group-title="American Football",[2026-09-05 06:30] San José State Spartans at Eastern Michigan Eagles
+https://ppv2.168.us.kg/?proxy=1&id=cfb/2026-09-04/sjsu-emu
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fdd8dbdb1035baff20df5ea290df778e-thumbnail.jpg" group-title="American Football",[2026-09-05 07:30] BC Lions at Montreal Alouettes
 https://ppv2.168.us.kg/?proxy=1&id=cfl/2026-09-04/bc-mtl
@@ -84,9 +87,6 @@ https://ppv2.168.us.kg/?proxy=1&id=cfb/2026-09-07/smu-fsu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[1970-01-01 07:59] Fox Footy
 https://ppv2.168.us.kg/?proxy=1&id=247-fox-footy
 
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2ad88107349a232f88cdcef445128a7f-thumbnail.jpg" group-title="Australian Football",[2026-09-04 17:40] Geelong Cats vs. Carlton
-https://ppv2.168.us.kg/?proxy=1&id=afl/2026-09-04/geel-carl
-
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3935ab9a57db98625394c21f8ae3818a-thumbnail.jpg" group-title="Australian Football",[2026-09-05 13:15] Sydney Swans vs. Brisbane Lions
 https://ppv2.168.us.kg/?proxy=1&id=afl/2026-09-05/syd-bl
 
@@ -152,6 +152,21 @@ https://ppv2.168.us.kg/?proxy=1&id=247-willow
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[1970-01-01 07:00] Fox Cricket
 https://ppv2.168.us.kg/?proxy=1&id=247-fox-cricket
+
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[2026-09-05 01:00] Czech Darts Open | Day 1 - Evening Session
+https://ppv2.168.us.kg/?proxy=1&id=darts/2026-09-04/evening
+
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[2026-09-05 19:00] Czech Darts Open | Day 2 - Afternoon Session
+https://ppv2.168.us.kg/?proxy=1&id=darts/2026-09-05/afternoon
+
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[2026-09-06 01:00] Czech Darts Open | Day 2 - Evening Session
+https://ppv2.168.us.kg/?proxy=1&id=darts/2026-09-05/evening
+
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[2026-09-06 19:00] Czech Darts Open | Day 3 - Afternoon Session
+https://ppv2.168.us.kg/?proxy=1&id=darts/2026-09-06/afternoon
+
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[2026-09-07 01:00] Czech Darts Open | Day 3 - Evening Session
+https://ppv2.168.us.kg/?proxy=1&id=darts/2026-09-06/evening
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3829f5a1169d1b2315f9ea02113d5357-thumbnail.jpg" group-title="Football",[2026-09-05 00:30] Arminia Bielefeld vs. St. Pauli
 https://ppv2.168.us.kg/?proxy=1&id=2-bundesliga/2026-09-04/dsc-stp
@@ -477,12 +492,6 @@ https://ppv2.168.us.kg/?proxy=1&id=seriea/2026-09-07/udi-laz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/48d6ac6f92d23ba30885b56067be002c-thumbnail.jpg" group-title="Football",[2026-09-08 03:30] Elche vs. Real Sociedad
 https://ppv2.168.us.kg/?proxy=1&id=laliga/2026-09-07/elc-rso
 
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3d4f77dea3d9bf29d9ceb8ae4b1ff76e-thumbnail.jpg" group-title="Motorsports",[2026-09-04 18:30] Italian Grand Prix - Practice 1
-https://ppv2.168.us.kg/?proxy=1&id=f1/2026/italy/fp1
-
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07b3a21d2a208498797104e803cc00f6-thumbnail.jpg" group-title="Motorsports",[2026-09-04 22:00] Italian Grand Prix - Practice 2
-https://ppv2.168.us.kg/?proxy=1&id=f1/2026/italy/fp2
-
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ec86e081ed78a867863675dd643c221c-thumbnail.jpg" group-title="Motorsports",[2026-09-05 18:30] Italian Grand Prix - Practice 3
 https://ppv2.168.us.kg/?proxy=1&id=f1/2026/italy/fp3
 
@@ -494,9 +503,6 @@ https://ppv2.168.us.kg/?proxy=1&id=f1/2026/italy/race
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[1970-01-01 07:59] Fox League
 https://ppv2.168.us.kg/?proxy=1&id=247-fox-league
-
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e91319bc9d53567d76b4b73a1d855fbb-thumbnail.jpg" group-title="Rugby",[2026-09-04 18:00] Rabbitohs vs. Roosters
-https://ppv2.168.us.kg/?proxy=1&id=nrl/2026-09-04/sou-syd
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e2e69cb3db1b8f42a4f0ee2b78927b5c-thumbnail.jpg" group-title="Rugby",[2026-09-05 13:00] Warriors vs. Sea Eagles
 https://ppv2.168.us.kg/?proxy=1&id=nrl/2026-09-05/new-man
