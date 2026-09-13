@@ -33,8 +33,6 @@ http://192.168.2.139:8090/stream?uri=nfl/2026-09-13/dal-nyg
 http://192.168.2.139:8090/stream?uri=nfl/2026-09-14/den-kc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",Fox Footy
 http://192.168.2.139:8090/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/761a70cc5c33ca08b2730ea0fc4c5073-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Detroit Tigers
-http://192.168.2.139:8090/stream?uri=mlb/2026-09-13/col-det
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5e255de1c0e8218cea33ae1c6284a737-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Washington Nationals
 http://192.168.2.139:8090/stream?uri=mlb/2026-09-13/laa-wsh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3d9890485056344b46594fd36f885a91-thumbnail.jpg" group-title="Baseball",New York Mets vs. New York Yankees
@@ -69,18 +67,6 @@ http://192.168.2.139:8090/stream?uri=247-willow
 http://192.168.2.139:8090/stream?uri=247-fox-cricket
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Flanders Darts Trophy | Day 3 - Evening Session
 http://192.168.2.139:8090/stream?uri=flanders-darts-trophy--day-3---evening-session-28586
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95e7746db8a8f8d868a87e1fbe152a64-thumbnail.jpg" group-title="Football",Le Mans vs. Lens
-http://192.168.2.139:8090/stream?uri=ligue1/2026-09-13/mns-rcl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bc4798b7d44a2268815d83f6c1b851d9-thumbnail.jpg" group-title="Football",SV Elversberg vs. Bayern Munich
-http://192.168.2.139:8090/stream?uri=bundesliga/2026-09-13/elv-mun
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eb4b298b2d9c02c58d79847d062f569c-thumbnail.jpg" group-title="Football",Manchester United vs. Manchester City
-http://192.168.2.139:8090/stream?uri=pl/2026-09-13/mun-mci
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c48f1757afa9062827500f0e37e6c0bc-thumbnail.jpg" group-title="Football",Napoli vs. Bologna
-http://192.168.2.139:8090/stream?uri=seriea/2026-09-13/nap-bol
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e01bf47e5d18a505ba1cb9b141bb8a35-thumbnail.jpg" group-title="Football",Getafe vs. Deportivo
-http://192.168.2.139:8090/stream?uri=laliga/2026-09-13/get-dep
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1372ea51cda5e7054e93b7ecb2c2f7d1-thumbnail.jpg" group-title="Football",Benfica vs. Gil Vicente
-http://192.168.2.139:8090/stream?uri=portuguese-liga/2026-09-13/slb-gvfc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4008eb8d7301a890ee2d7ebb420e3a0b-thumbnail.jpg" group-title="Football",PSV Eindhoven vs. Sparta Rotterdam
 http://192.168.2.139:8090/stream?uri=eredivisie/2026-09-13/psv-spa
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d16ea23c7183912df416c8f47b86f520-thumbnail.jpg" group-title="Football",Sassuolo vs. Juventus
@@ -95,6 +81,8 @@ http://192.168.2.139:8090/stream?uri=portuguese-liga/2026-09-13/fcf-scp
 http://192.168.2.139:8090/stream?uri=mls/2026-09-13/chi-ne
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3abee4b956cffc982979ee3b92b5cb76-thumbnail.jpg" group-title="Football",Vancouver Whitecaps vs. Austin FC
 http://192.168.2.139:8090/stream?uri=mls/2026-09-13/van-atx
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/82a9569ab014f980365bbbc109562686-thumbnail.jpg" group-title="Football",Club Deportivo Marathón vs. Club Deportivo Olimpia
+http://192.168.2.139:8090/stream?uri=honduran-liga-nacional/2026-09-13/mar-oli
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3e22c8f7ec6e7497533869c443430c55-thumbnail.jpg" group-title="Football",Santos vs. FC Juarez
 http://192.168.2.139:8090/stream?uri=liga-mx/2026-09-13/san-jua
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3b49f0e2d3551824be88824b4e949805-thumbnail.jpg" group-title="Football",San Diego FC vs. Philadelphia Union
