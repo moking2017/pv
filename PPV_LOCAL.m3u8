@@ -65,10 +65,6 @@ http://192.168.2.139:8090/stream?uri=mlb/2026-09-20/nyy-ari
 http://192.168.2.139:8090/stream?uri=mlb/2026-09-20/sf-lad
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7e9c1c3ff24e449ca0e216f67382056e-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Baltimore Orioles
 http://192.168.2.139:8090/stream?uri=mlb/2026-09-20/mil-bal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/be1dd9cfac2fa0212f40b44791d85ea7-thumbnail.jpg" group-title="Basketball",New Zealand Breakers vs. Illawarra Hawks
-http://192.168.2.139:8090/stream?uri=nbl/2026-09-20/nzl-hwk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/be9476a0a9d2afeabdc608b99a1a774c-thumbnail.jpg" group-title="Basketball",Sydney Kings vs. Cairns Taipans
-http://192.168.2.139:8090/stream?uri=nbl/2026-09-20/syd-cns
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/89986f16bf66375db2baf8c9a8a63fc2-thumbnail.jpg" group-title="Basketball",Minnesota Lynx vs. Connecticut Sun
 http://192.168.2.139:8090/stream?uri=wnba/2026-09-20/min-con
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/74c365f111c53a34ce4c19e1f3545216-thumbnail.jpg" group-title="Basketball",New York Liberty vs. Toronto Tempo
@@ -93,6 +89,10 @@ http://192.168.2.139:8090/stream?uri=world-series-of-darts-finals--day-4---eveni
 http://192.168.2.139:8090/stream?uri=eredivisie/2026-09-20/fey-utr
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/56196fb7154a552f6c98d317936613b2-thumbnail.jpg" group-title="Football",Fiorentina vs. Napoli
 http://192.168.2.139:8090/stream?uri=seriea/2026-09-20/fio-nap
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e64861977b1b616e0b34ef3f27a96f35-thumbnail.jpg" group-title="Football",Celtic vs. Rangers
+http://192.168.2.139:8090/stream?uri=spfl-premiership/2026-09-20/cel-ran
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9581195b05b09ffd33861d6a1530064d-thumbnail.jpg" group-title="Football",Wolverhampton Wanderers vs. West Bromwich Albion
+http://192.168.2.139:8090/stream?uri=efl-championship/2026-09-20/wol-wba
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0b58ebb1d0ee9b25992a41f15917c69e-thumbnail.jpg" group-title="Football",Getafe vs. Málaga
 http://192.168.2.139:8090/stream?uri=laliga/2026-09-20/get-mcf
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4fa263a731dcac41c3b2d71ca57a155-thumbnail.jpg" group-title="Football",Djurgården vs. IF Elfsborg
@@ -101,6 +101,8 @@ http://192.168.2.139:8090/stream?uri=allsvenskan/2026-09-20/dju-elf
 http://192.168.2.139:8090/stream?uri=allsvenskan/2026-09-20/hbk-aik
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5b35de795ae14a5ebb4368e1353ec03f-thumbnail.jpg" group-title="Football",Kalmar FF vs. BK Häcken
 http://192.168.2.139:8090/stream?uri=allsvenskan/2026-09-20/kff-bkh
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aa29cff1f3b0bcf1e8c02c92f0d8e6e1-thumbnail.jpg" group-title="Football",Brøndby IF vs. F.C. København
+http://192.168.2.139:8090/stream?uri=danish-superliga/2026-09-20/bro-kbh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bb7766be9311d81cb5de223e56d4be55-thumbnail.jpg" group-title="Football",AZ Alkmaar vs. Telstar
 http://192.168.2.139:8090/stream?uri=eredivisie/2026-09-20/az-tel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/77b19e0d21ff94e091ad5eede8c69286-thumbnail.jpg" group-title="Football",FC Twente vs. PSV Eindhoven
@@ -151,16 +153,10 @@ http://192.168.2.139:8090/stream?uri=laliga/2026-09-20/val-rso
 http://192.168.2.139:8090/stream?uri=mls/2026-09-20/mia-sd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a063cd147c61a7af0f569292aa70ad6e-thumbnail.jpg" group-title="Football",Pachuca vs. Tijuana
 http://192.168.2.139:8090/stream?uri=liga-mx/2026-09-20/pac-tij
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9ee895bda4da7b5f9b9873ba89cfcd64-thumbnail.jpg" group-title="Football",Toluca vs. Santos
-http://192.168.2.139:8090/stream?uri=liga-mx/2026-09-20/tol-san
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4c8e407e72e7f89840bdbb745e9665d-thumbnail.jpg" group-title="Football",Querétaro vs. León
-http://192.168.2.139:8090/stream?uri=liga-mx/2026-09-20/qro-leo
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
 http://192.168.2.139:8090/stream?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/57e2e3b77b2c00dccff877c9f2b73858-thumbnail.jpg" group-title="Ice Hockey",New York Islanders vs. New Jersey Devils
 http://192.168.2.139:8090/stream?uri=nhl/2026-09-20/nyi-nj
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ee5da4c1d35f8371f3738e1064831ebb-thumbnail.jpg" group-title="Ice Hockey",San Jose Sharks vs. Anaheim Ducks
-http://192.168.2.139:8090/stream?uri=nhl/2026-09-20/sj-ana
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/38e9fd8b21f242694b59620f15d1596f-thumbnail.jpg" group-title="Ice Hockey",Washington Capitals vs. Boston Bruins
 http://192.168.2.139:8090/stream?uri=nhl/2026-09-20/wsh-bos
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/147af7d9d8439e7bbbf01f962d0b2690-thumbnail.jpg" group-title="Ice Hockey",Nashville Predators vs. Tampa Bay Lightning
@@ -185,8 +181,6 @@ http://192.168.2.139:8090/stream?uri=f1/2026/azerbaijan/qualifying
 http://192.168.2.139:8090/stream?uri=f1/2026/azerbaijan/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",Fox League
 http://192.168.2.139:8090/stream?uri=247-fox-league
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4c007d8180367dd9ee13fe52ad54fd50-thumbnail.jpg" group-title="Rugby",Warriors vs. Knights
-http://192.168.2.139:8090/stream?uri=nrl/2026-09-20/new-new
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 http://192.168.2.139:8090/stream?uri=247-south-park
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
