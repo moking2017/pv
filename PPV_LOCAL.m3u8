@@ -69,8 +69,10 @@ http://192.168.2.139:8090/stream?uri=mlb/2026-09-24/laa-sea
 http://192.168.2.139:8090/stream?uri=mlb/2026-09-24/hou-ath
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cf9ad61b0aee85cc2081887bf8958ae0-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Los Angeles Dodgers
 http://192.168.2.139:8090/stream?uri=mlb/2026-09-24/sd-lad
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/15fb5d45acaf845a2b12fc35801fc7eb-thumbnail.jpg" group-title="Basketball",Perth Wildcats vs. Adelaide 36ers
-http://192.168.2.139:8090/stream?uri=nbl/2026-09-24/per-adl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6690fba5c67ce224c8c84b36480ae232-thumbnail.jpg" group-title="Basketball",Hapoel Tel Aviv vs. Bayern München
+http://192.168.2.139:8090/stream?uri=hapoel-tel-aviv-vs-bayern-mnchen-29308
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/64de6aa46f362920ef10374e752ad51c-thumbnail.jpg" group-title="Basketball",Panathinaikos BC vs. Paris Basketball
+http://192.168.2.139:8090/stream?uri=panathinaikos-bc-vs-paris-basketball-29309
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fe6112bb7848a99d010c4b7893cdd0d8-thumbnail.jpg" group-title="Basketball",Toronto Tempo vs. Connecticut Sun
 http://192.168.2.139:8090/stream?uri=wnba/2026-09-24/tor-con
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7bd42d142f6485eed7913f92b947774c-thumbnail.jpg" group-title="Basketball",Chicago Sky vs. Washington Mystics
@@ -89,8 +91,6 @@ http://192.168.2.139:8090/stream?uri=ufc-bjj-11-musumeci-vs-mitchell-29267
 http://192.168.2.139:8090/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",Fox Cricket
 http://192.168.2.139:8090/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/35f17e75ea7acdd4f5a38e2620c5223f-thumbnail.jpg" group-title="Football",Andorra vs. Malta
-http://192.168.2.139:8090/stream?uri=uefa-nations-league/2026-09-24/and-mlt
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ed66bf140b301f98f3bec76f1f93d641-thumbnail.jpg" group-title="Football",Austria vs. Israel
 http://192.168.2.139:8090/stream?uri=uefa-nations-league/2026-09-24/aut-isr
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/be30d93ced463e8588be6009d4fa5f46-thumbnail.jpg" group-title="Football",Kosovo vs. Republic of Ireland
@@ -159,6 +159,8 @@ http://192.168.2.139:8090/stream?uri=liga-mx/2026-09-27/leo-jua
 http://192.168.2.139:8090/stream?uri=liga-mx/2026-09-27/ncx-ame
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
 http://192.168.2.139:8090/stream?uri=sky-sports-golf-29059
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/03f5ae9d900830ff408bc03cf1d39581-thumbnail.jpg" group-title="Ice Hockey",Luleå HF vs. Frölunda HC
+http://192.168.2.139:8090/stream?uri=lule-hf-vs-frlunda-hc-29307
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9dd4f7fc128094e5e7b19bf6d0e89b44-thumbnail.jpg" group-title="Ice Hockey",Boston Bruins vs. Philadelphia Flyers
 http://192.168.2.139:8090/stream?uri=nhl/2026-09-24/bos-phi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b7fa99fe8f12c219724449809d4e861f-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. Detroit Red Wings
