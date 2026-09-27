@@ -1,10 +1,13 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-09-27 19:57
-# Total: 59
+# UTC+8 | Generated: 2026-09-28 00:55
+# Total: 58
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://ppv2.168.us.kg/?proxy=1&id=nfl-network
+
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg" group-title="American Football",[2026-09-28 00:50] NFL RedZone
+https://ppv2.168.us.kg/?proxy=1&id=nfl-redzone-29537
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6c780fd7f628b8c6cc57d9f14db2015e-thumbnail.jpg" group-title="American Football",[2026-09-28 01:00] Los Angeles Chargers at Buffalo Bills
 https://ppv2.168.us.kg/?proxy=1&id=nfl/2026-09-27/lac-buf
@@ -111,17 +114,11 @@ https://ppv2.168.us.kg/?proxy=1&id=wnba/2026-09-27/wsh-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e0775e09d18951b1f7cbe0cf744d188e-thumbnail.jpg" group-title="Basketball",[2026-09-28 09:00] Dallas Wings vs. Golden State Valkyries
 https://ppv2.168.us.kg/?proxy=1&id=wnba/2026-09-27/dal-gs
 
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8ead095c8b977f65ff045aa19128d709-thumbnail.jpg" group-title="Combat Sports",[2026-09-27 16:00] Inoue vs. Nasukawa 2
-https://ppv2.168.us.kg/?proxy=1&id=inoue-vs-nasukawa-2-29473
-
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[1970-01-01 07:00] Willow
 https://ppv2.168.us.kg/?proxy=1&id=247-willow
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[1970-01-01 07:00] Fox Cricket
 https://ppv2.168.us.kg/?proxy=1&id=247-fox-cricket
-
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b21e52d61e2cdd801a75eb510aa914e3-thumbnail.jpg" group-title="Football",[2026-09-27 21:00] Lithuania vs. Azerbaijan
-https://ppv2.168.us.kg/?proxy=1&id=uefa-nations-league/2026-09-27/ltu-aze
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/695b2f7ca8b9c61e563f6525ad75f528-thumbnail.jpg" group-title="Football",[2026-09-28 00:00] Austria vs. Kosovo
 https://ppv2.168.us.kg/?proxy=1&id=uefa-nations-league/2026-09-27/aut-kos
