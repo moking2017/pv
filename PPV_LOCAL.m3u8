@@ -75,10 +75,6 @@ http://192.168.2.139:8090/stream?uri=nfl/2026-10-05/atl-no
 http://192.168.2.139:8090/stream?uri=247-fox-footy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7349d8fd61256dd678ec4033d0de2a26-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Atlanta Braves
 http://192.168.2.139:8090/stream?uri=mlb/2026-10-01/phi-atl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b686ad928e9742bc8aa65bc8bbf6718d-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. New York Yankees
-http://192.168.2.139:8090/stream?uri=mlb/2026-10-01/bos-nyy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e0a360d6fba52aa7a8dcd9ac2ca7ab09-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. San Diego Padres
-http://192.168.2.139:8090/stream?uri=mlb/2026-10-01/chc-sd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6b7bdc01e6955584362a63de56a0e20f-thumbnail.jpg" group-title="Basketball",Indiana Fever vs. Las Vegas Aces
 http://192.168.2.139:8090/stream?uri=wnba/2026-10-01/ind-lv
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c6f0822a845ce50c9dd793ba460a9dbc-thumbnail.jpg" group-title="Basketball",Illawarra Hawks vs. Adelaide 36ers
@@ -97,12 +93,6 @@ http://192.168.2.139:8090/stream?uri=2026-world-grand-prix--day-5-29600
 http://192.168.2.139:8090/stream?uri=2026-world-grand-prix--day-6-29601
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/47d877cec15c6e8841a0fe15f422225c-thumbnail.jpg" group-title="Darts",2026 World Grand Prix | Day 7
 http://192.168.2.139:8090/stream?uri=2026-world-grand-prix--day-7-29602
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c40e8e24a753ce279d1fa1e441f3116b-thumbnail.jpg" group-title="Football",Azerbaijan vs. Liechtenstein
-http://192.168.2.139:8090/stream?uri=uefa-nations-league/2026-10-01/aze-lie
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/42a361d93eb2ff0a84c48c83e20ef6ff-thumbnail.jpg" group-title="Football",Austria Vienna vs. Inter Milan
-http://192.168.2.139:8090/stream?uri=uefa-womens-champions-league/2026-10-01/vie-int
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2791953dcc563cd4da654041f9563502-thumbnail.jpg" group-title="Football",HB Køge vs. Servette
-http://192.168.2.139:8090/stream?uri=uefa-womens-champions-league/2026-10-01/hbk-ser
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c442103b88ba6a68c32968e6b390818e-thumbnail.jpg" group-title="Football",Denmark vs. Portugal
 http://192.168.2.139:8090/stream?uri=uefa-nations-league/2026-10-01/den-por
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7a60cc44f48bcb045da92b78ec317618-thumbnail.jpg" group-title="Football",Germany vs. Serbia
@@ -123,8 +113,12 @@ http://192.168.2.139:8090/stream?uri=uefa-womens-champions-league/2026-10-01/mci
 http://192.168.2.139:8090/stream?uri=uefa-womens-champions-league/2026-10-01/psg-ohl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1b1120e1bcdd579aff4b9582d8e2c5b6-thumbnail.jpg" group-title="Football",Seattle Sounders FC vs. Sporting Kansas City
 http://192.168.2.139:8090/stream?uri=mls/2026-10-01/sea-skc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fee3317fd74387252a4b7fd69543993d-thumbnail.jpg" group-title="Football",El Salvador vs. Jamaica
+http://192.168.2.139:8090/stream?uri=concacaf-nations-league/2026-10-02/slv-jam
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
 http://192.168.2.139:8090/stream?uri=sky-sports-golf-29059
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/23dce4109add26135a19cc786257f3ad-thumbnail.jpg" group-title="Ice Hockey",Frölunda HC vs Brynäs IF
+http://192.168.2.139:8090/stream?uri=frlunda-hc-vs-bryns-if-29672
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6cffdef47b52f8a6b010d8be146bed4f-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. Columbus Blue Jackets
 http://192.168.2.139:8090/stream?uri=nhl/2026-10-01/buf-cbj
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4ea6372af14f570f454467d1103c74ac-thumbnail.jpg" group-title="Ice Hockey",Philadelphia Flyers vs. New Jersey Devils
