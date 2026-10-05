@@ -1,28 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 http://192.168.2.139:8090/stream?uri=nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg" group-title="American Football",NFL RedZone
-http://192.168.2.139:8090/stream?uri=nfl-redzone-29818
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/97069db88ca3409e557e21ab54a4deea-thumbnail.jpg" group-title="American Football",Miami Dolphins at Minnesota Vikings
-http://192.168.2.139:8090/stream?uri=nfl/2026-10-04/mia-min
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/619c081bb803ea4b32736a89283468c0-thumbnail.jpg" group-title="American Football",Kansas City Chiefs at Las Vegas Raiders
-http://192.168.2.139:8090/stream?uri=nfl/2026-10-04/kc-lv
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2ff926c517550f2f86e568a8e493a3c0-thumbnail.jpg" group-title="American Football",Denver Broncos at San Francisco 49ers
-http://192.168.2.139:8090/stream?uri=nfl/2026-10-04/den-sf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0e4ad01c673c8ca1eb05b712d6e7f28c-thumbnail.jpg" group-title="American Football",Los Angeles Chargers at Seattle Seahawks
-http://192.168.2.139:8090/stream?uri=nfl/2026-10-04/lac-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/720b814fc9288f55828e89b14ee1cc32-thumbnail.jpg" group-title="American Football",Detroit Lions at Carolina Panthers
 http://192.168.2.139:8090/stream?uri=nfl/2026-10-04/det-car
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/988173f5de9aa455e5b66ebbe4e8d834-thumbnail.jpg" group-title="American Football",Atlanta Falcons at New Orleans Saints
 http://192.168.2.139:8090/stream?uri=nfl/2026-10-05/atl-no
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",Fox Footy
 http://192.168.2.139:8090/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0102e0442b6b70b56a632dae96116b10-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Milwaukee Brewers
-http://192.168.2.139:8090/stream?uri=mlb/2026-10-04/sd-mil
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/684747a5b3ecc1a0e0a420fbf66aa562-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Los Angeles Dodgers
 http://192.168.2.139:8090/stream?uri=mlb/2026-10-04/atl-lad
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bf1b05a45cefca7e5cd54f2bb9f88315-thumbnail.jpg" group-title="Basketball",Las Vegas Aces vs. Golden State Valkyries
-http://192.168.2.139:8090/stream?uri=wnba/2026-10-04/lv-gs
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cda54c935202511d07fe86f0b4ec7d28-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Denver Nuggets
 http://192.168.2.139:8090/stream?uri=nba/2026-10-04/utah-den
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c6462fe3cdc4e3d5042c9d848f261423-thumbnail.jpg" group-title="Basketball",Golden State Warriors vs. LA Clippers
@@ -41,8 +27,6 @@ http://192.168.2.139:8090/stream?uri=nba/2026-10-05/lal-sac
 http://192.168.2.139:8090/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",Fox Cricket
 http://192.168.2.139:8090/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/47d877cec15c6e8841a0fe15f422225c-thumbnail.jpg" group-title="Darts",2026 World Grand Prix | Day 7
-http://192.168.2.139:8090/stream?uri=2026-world-grand-prix--day-7-29602
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
 http://192.168.2.139:8090/stream?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
