@@ -1,16 +1,10 @@
 #EXTM3U
 # Source: ppv.to API
-# UTC+8 | Generated: 2026-10-11 13:39
-# Total: 77
+# UTC+8 | Generated: 2026-10-11 20:42
+# Total: 75
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://ppv2.168.us.kg/?proxy=1&id=nfl-network
-
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/55ee676ff1f89781c90dea421abdb419-thumbnail.jpg" group-title="American Football",[2026-10-11 10:15] Kansas Jayhawks at Utah Utes
-https://ppv2.168.us.kg/?proxy=1&id=cfb/2026-10-10/ku-utah
-
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4475ec4a20655ab7a7cb917c62fb6283-thumbnail.jpg" group-title="American Football",[2026-10-11 10:30] Boise State Broncos at Fresno State Bulldogs
-https://ppv2.168.us.kg/?proxy=1&id=cfb/2026-10-10/bois-fres
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f9b9f1f9712d796d51b38ece0bfa27a7-thumbnail.jpg" group-title="American Football",[2026-10-11 21:30] Philadelphia Eagles at Jacksonville Jaguars
 https://ppv2.168.us.kg/?proxy=1&id=nfl/2026-10-11/phi-jax
@@ -60,12 +54,6 @@ https://ppv2.168.us.kg/?proxy=1&id=247-fox-footy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/83ccc6a9e6c494c0a6b80e56ea82ae3a-thumbnail.jpg" group-title="Baseball",[2026-10-12 08:00] Los Angeles Dodgers vs. Milwaukee Brewers
 https://ppv2.168.us.kg/?proxy=1&id=mlb/2026-10-11/lad-mil
 
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/02cfe8e04a74553754dfa8df40e290b9-thumbnail.jpg" group-title="Basketball",[2026-10-11 12:00] Sydney Kings vs. Adelaide 36ers
-https://ppv2.168.us.kg/?proxy=1&id=nbl/2026-10-11/syd-adl
-
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/268e6f536327b4e614ae56d331fc6b76-thumbnail.jpg" group-title="Basketball",[2026-10-11 14:00] Illawarra Hawks vs. Cairns Taipans
-https://ppv2.168.us.kg/?proxy=1&id=nbl/2026-10-11/hwk-cns
-
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/80411e5a3d947113875c2bb519b7b347-thumbnail.jpg" group-title="Basketball",[2026-10-11 18:00] Dallas Mavericks vs. Houston Rockets
 https://ppv2.168.us.kg/?proxy=1&id=nba/2026-10-11/dal-hou
 
@@ -96,6 +84,12 @@ https://ppv2.168.us.kg/?proxy=1&id=eredivisie/2026-10-11/utr-wil
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6fde60cae67edad975e298a03cf02642-thumbnail.jpg" group-title="Football",[2026-10-11 18:30] Como vs. AS Roma
 https://ppv2.168.us.kg/?proxy=1&id=seriea/2026-10-11/como-roma
 
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/27bc5ff51412f0b66057abb92380dbdb-thumbnail.jpg" group-title="Football",[2026-10-11 19:00] Southampton vs. Portsmouth
+https://ppv2.168.us.kg/?proxy=1&id=efl-championship/2026-10-11/sou-por
+
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6f717661b3be74d21add83018758387c-thumbnail.jpg" group-title="Football",[2026-10-11 19:00] Motherwell vs. Celtic
+https://ppv2.168.us.kg/?proxy=1&id=spfl-premiership/2026-10-11/mot-cel
+
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/42fd2c1884fb3b05206162d2d1a7238d-thumbnail.jpg" group-title="Football",[2026-10-11 20:00] Elche vs. Celta Vigo
 https://ppv2.168.us.kg/?proxy=1&id=laliga/2026-10-11/elc-cel
 
@@ -122,6 +116,9 @@ https://ppv2.168.us.kg/?proxy=1&id=seriea/2026-10-11/lec-bol
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b0ab9316b6cabad96c365fcc096e416b-thumbnail.jpg" group-title="Football",[2026-10-11 21:00] Nice vs. Strasbourg
 https://ppv2.168.us.kg/?proxy=1&id=ligue1/2026-10-11/nice-str
+
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c32a4f4f7b16e0ddb981c1c30c487ad4-thumbnail.jpg" group-title="Football",[2026-10-11 21:00] Aberdeen vs. St Johnstone
+https://ppv2.168.us.kg/?proxy=1&id=spfl-premiership/2026-10-11/abe-stj
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8735864cf4fc8f32a214e22c6b0cd228-thumbnail.jpg" group-title="Football",[2026-10-11 21:30] FC Cologne vs. Borussia Mönchengladbach
 https://ppv2.168.us.kg/?proxy=1&id=bundesliga/2026-10-11/koe-bmg
@@ -206,9 +203,6 @@ https://ppv2.168.us.kg/?proxy=1&id=nhl/2026-10-11/van-nyr
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f8a8ddb2ec5a635041cacf9814345882-thumbnail.jpg" group-title="Ice Hockey",[2026-10-12 07:00] Carolina Hurricanes vs. Philadelphia Flyers
 https://ppv2.168.us.kg/?proxy=1&id=nhl/2026-10-11/car-phi
-
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1317ae882a9269a6e8f3f9b19821e006-thumbnail.jpg" group-title="Motorsports",[2026-10-11 07:00] Supercars Championship: Bathurst 1000
-https://ppv2.168.us.kg/?proxy=1&id=supercars-championship-bathurst-1000-30180
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bb33c68839419137b1f98852f1f3a016-thumbnail.jpg" group-title="Motorsports",[2026-10-11 20:00] Singapore Grand Prix - Race
 https://ppv2.168.us.kg/?proxy=1&id=f1/2026/singapore/race
