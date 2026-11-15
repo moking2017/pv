@@ -1,34 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 http://192.168.2.139:8090/stream?uri=nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c13aa2e9382735baf9be4a01a88313e6-thumbnail.jpg" group-title="American Football",Duke Blue Devils at Miami Hurricanes
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/duke-mia
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fd12d220f18a3559b04677c817dcad9a-thumbnail.jpg" group-title="American Football",Northwestern Wildcats at Ohio State Buckeyes
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/nu-osu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1d29a39140b9274705a331a489fc5ec4-thumbnail.jpg" group-title="American Football",Wake Forest Demon Deacons at SMU Mustangs
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/wake-smu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ab755b046542a31d79415e649bbdd4c1-thumbnail.jpg" group-title="American Football",Alabama Crimson Tide at Vanderbilt Commodores
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/ala-van
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/818b6512c84f3c9d2a766872596488fe-thumbnail.jpg" group-title="American Football",Tennessee Volunteers at Texas A&M Aggies
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/tenn-tam
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/873859d775641dd9e910e5ef107c5a0e-thumbnail.jpg" group-title="American Football",Missouri Tigers at Georgia Bulldogs
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/miz-uga
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/345fe3aa272ce68b3f499c982172ee94-thumbnail.jpg" group-title="American Football",USC Trojans at Indiana Hoosiers
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/usc-iu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ed4ba350b1b15dfc348370741d7e810f-thumbnail.jpg" group-title="American Football",Baylor Bears at BYU Cougars
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/bay-byu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/df9ea491f44fef3288b8d43fa114f2ea-thumbnail.jpg" group-title="American Football",Boston College Eagles at Notre Dame Fighting Irish
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/bc-nd
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6b3a214ea4760c197a40495d6a209f63-thumbnail.jpg" group-title="American Football",Michigan Wolverines at Oregon Ducks
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/mich-ore
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/83a51b3044f085f19f1ce542e219c1ea-thumbnail.jpg" group-title="American Football",Ole Miss Rebels at Oklahoma Sooners
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/miss-ou
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7725e6546344211cf8aec75a7e6f8e35-thumbnail.jpg" group-title="American Football",Oregon State Beavers at Boise State Broncos
 http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/orst-bois
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9d820641b0a101098ae1af471765bbaf-thumbnail.jpg" group-title="American Football",Florida Gators at Kentucky Wildcats
 http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/fla-uk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a2164e606a888fd43286f74d88f957d3-thumbnail.jpg" group-title="American Football",Utah Utes at Arizona Wildcats
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/utah-ariz
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ed4ba350b1b15dfc348370741d7e810f-thumbnail.jpg" group-title="American Football",Baylor Bears at BYU Cougars
+http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/bay-byu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1044926db70a6b6e8d1cb0b31534e1ea-thumbnail.jpg" group-title="American Football",Texas Longhorns at LSU Tigers
 http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/tex-lsu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3c7ef6ac58a3963238ae719f872a90d2-thumbnail.jpg" group-title="American Football",Purdue Boilermakers at Iowa Hawkeyes
@@ -37,6 +15,8 @@ http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/pur-iowa
 http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/sc-ark
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a69838aad1a5517d09011d90d51818f0-thumbnail.jpg" group-title="American Football",Texas Tech Red Raiders at Oklahoma State Cowboys
 http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/ttu-okst
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a2164e606a888fd43286f74d88f957d3-thumbnail.jpg" group-title="American Football",Utah Utes at Arizona Wildcats
+http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/utah-ariz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2ee5ed760b71a282eb597a7a17d04756-thumbnail.jpg" group-title="American Football",New England Patriots at Detroit Lions
 http://192.168.2.139:8090/stream?uri=nfl/2026-11-15/ne-det
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d11241cda6866dd6f13754a4dbd232a9-thumbnail.jpg" group-title="American Football",Kansas City Chiefs at Atlanta Falcons
@@ -53,6 +33,8 @@ http://192.168.2.139:8090/stream?uri=nfl/2026-11-15/mia-ind
 http://192.168.2.139:8090/stream?uri=nfl/2026-11-15/car-no
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/381c8f699724c0c76c745151c69c177c-thumbnail.jpg" group-title="American Football",Buffalo Bills at New York Jets
 http://192.168.2.139:8090/stream?uri=nfl/2026-11-15/buf-nyj
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/83a51b3044f085f19f1ce542e219c1ea-thumbnail.jpg" group-title="American Football",Ole Miss Rebels at Oklahoma Sooners
+http://192.168.2.139:8090/stream?uri=cfb/2026-11-14/miss-ou
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5d2b3b489d2fceb05d10990d63a1c44b-thumbnail.jpg" group-title="American Football",Seattle Seahawks at Las Vegas Raiders
 http://192.168.2.139:8090/stream?uri=nfl/2026-11-15/sea-lv
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/456ed7690ea865b2e54b5c806284996b-thumbnail.jpg" group-title="American Football",Los Angeles Rams at Arizona Cardinals
@@ -67,10 +49,6 @@ http://192.168.2.139:8090/stream?uri=nfl/2026-11-15/pit-cin
 http://192.168.2.139:8090/stream?uri=nfl/2026-11-16/lac-bal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",Fox Footy
 http://192.168.2.139:8090/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e5e03416c8e0d595b79fb60f7b49c40e-thumbnail.jpg" group-title="Basketball",Stonehill Skyhawks at Texas Tech Red Raiders
-http://192.168.2.139:8090/stream?uri=cbb/2026-11-14/sto-ttu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4c55f8f2ae4d75f95e7aa91f9df270a0-thumbnail.jpg" group-title="Basketball",LSU Tigers at Gonzaga Bulldogs
-http://192.168.2.139:8090/stream?uri=cbb/2026-11-14/lsu-gonz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5467b20c6e17a09dc8fa170ec9792bd3-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. New Orleans Pelicans
 http://192.168.2.139:8090/stream?uri=nba/2026-11-14/den-no
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/90888e38d8fb2d063adf14b990221ad5-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Cleveland Cavaliers
@@ -117,26 +95,12 @@ http://192.168.2.139:8090/stream?uri=nba/2026-11-15/atl-mil
 http://192.168.2.139:8090/stream?uri=nba/2026-11-15/okc-sac
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/811bfeee22c6f88e6d2e3651a6e4015a-thumbnail.jpg" group-title="Combat Sports",Polymarket UFC 334: Gane vs. Hokit
 http://192.168.2.139:8090/stream?uri=polymarket-ufc-334-gane-vs-hokit-32218
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/811a3ddb5132b71f1c5eb820439d827b-thumbnail.jpg" group-title="Combat Sports",Pacheco vs. Fulghum
+http://192.168.2.139:8090/stream?uri=pacheco-vs-fulghum-32224
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",Willow
 http://192.168.2.139:8090/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",Fox Cricket
 http://192.168.2.139:8090/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f1db1a30a96a2ac945d6f0bb898bd2e7-thumbnail.jpg" group-title="Football",Algeria vs. Togo
-http://192.168.2.139:8090/stream?uri=afcon-qualifying/2026-11-14/alg-tog
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/af77c541084e89ab431b30be12933572-thumbnail.jpg" group-title="Football",Angola vs. South Sudan
-http://192.168.2.139:8090/stream?uri=afcon-qualifying/2026-11-14/ang-ssd
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c694b087c1f462e3bed7c274a61490d6-thumbnail.jpg" group-title="Football",Austria vs. Republic of Ireland
-http://192.168.2.139:8090/stream?uri=uefa-nations-league/2026-11-14/aut-irl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/018e9e2c26d998017ecb74e6c18f00d4-thumbnail.jpg" group-title="Football",Northern Ireland vs. Ukraine
-http://192.168.2.139:8090/stream?uri=uefa-nations-league/2026-11-14/nir-ukr
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e652a3f6b3622eb4eb143f098f3315f8-thumbnail.jpg" group-title="Football",Portugal vs. Denmark
-http://192.168.2.139:8090/stream?uri=uefa-nations-league/2026-11-14/por-den
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4751b82fa0e48517c63a9d1aa6168d93-thumbnail.jpg" group-title="Football",Romania vs. Poland
-http://192.168.2.139:8090/stream?uri=uefa-nations-league/2026-11-14/rou-pol
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eaeac30e84385f5d590e5ad247dad9d1-thumbnail.jpg" group-title="Football",Sweden vs. Bosnia-Herzegovina
-http://192.168.2.139:8090/stream?uri=uefa-nations-league/2026-11-14/swe-bih
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6997fb4449b4f022c2a12ce044221461-thumbnail.jpg" group-title="Football",Haiti vs. United States
-http://192.168.2.139:8090/stream?uri=concacaf-nations-league/2026-11-14/hai-usa
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a351016af671c9b82c33072f7768dee9-thumbnail.jpg" group-title="Football",Querétaro vs. Monterrey
 http://192.168.2.139:8090/stream?uri=liga-mx/2026-11-14/qro-mty
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4ee82a4bea518c56a0c883ed5ed59cef-thumbnail.jpg" group-title="Football",Jamaica vs. Mexico
@@ -145,10 +109,6 @@ http://192.168.2.139:8090/stream?uri=concacaf-nations-league/2026-11-15/jam-mex
 http://192.168.2.139:8090/stream?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 http://192.168.2.139:8090/stream?uri=nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3ef20d409a74a2b8e4eeb1f8e6656472-thumbnail.jpg" group-title="Ice Hockey",Seattle Kraken vs. Carolina Hurricanes
-http://192.168.2.139:8090/stream?uri=nhl/2026-11-14/sea-car
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9d88feafab6d5a85ddef199cd1e6e4a3-thumbnail.jpg" group-title="Ice Hockey",Winnipeg Jets vs. Chicago Blackhawks
-http://192.168.2.139:8090/stream?uri=nhl/2026-11-14/wpg-chi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b030dff112833767261469617e18bafb-thumbnail.jpg" group-title="Ice Hockey",Minnesota Wild vs. Boston Bruins
 http://192.168.2.139:8090/stream?uri=nhl/2026-11-14/min-bos
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/101f7f0e650c346f6e2656b5e5d14ed0-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. Toronto Maple Leafs
@@ -175,8 +135,8 @@ http://192.168.2.139:8090/stream?uri=nhl/2026-11-14/nyi-ana
 http://192.168.2.139:8090/stream?uri=nhl/2026-11-14/cgy-la
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",Fox League
 http://192.168.2.139:8090/stream?uri=247-fox-league
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW Saturday Night Collision
-http://192.168.2.139:8090/stream?uri=aew/2026-11-14
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/60795419dea1562c4d49da8839909798-thumbnail.jpg" group-title="Wrestling",AEW Full Gear
+http://192.168.2.139:8090/stream?uri=aew-full-gear-32225
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 http://192.168.2.139:8090/stream?uri=247-south-park
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
