@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 http://192.168.2.139:8090/stream?uri=nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1e7f9038b4af818221287acd7bd8b5c0-thumbnail.jpg" group-title="American Football",Nebraska Cornhuskers at Iowa Hawkeyes
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-27/neb-iowa
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6aa58ec8c0cabbb57dea3aef3a635c9b-thumbnail.jpg" group-title="American Football",Mississippi State Bulldogs at Ole Miss Rebels
-http://192.168.2.139:8090/stream?uri=cfb/2026-11-27/msst-miss
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ba976e2604c62434eb25dbe611f97b10-thumbnail.jpg" group-title="American Football",Denver Broncos at Pittsburgh Steelers
 http://192.168.2.139:8090/stream?uri=nfl/2026-11-27/den-pit
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/14f0eb94fb2fb4e64922db55542466d6-thumbnail.jpg" group-title="American Football",Florida Gators at Florida State Seminoles
@@ -71,12 +67,6 @@ http://192.168.2.139:8090/stream?uri=nfl/2026-11-29/lv-cle
 http://192.168.2.139:8090/stream?uri=nfl/2026-11-30/car-tb
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",Fox Footy
 http://192.168.2.139:8090/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6b1613335259a1baab0cd5990fabafb5-thumbnail.jpg" group-title="Basketball",Virginia Cavaliers at Xavier Musketeers
-http://192.168.2.139:8090/stream?uri=cbb/2026-11-27/uva-xav
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/39650c97616466a32060ac7b8a8b8978-thumbnail.jpg" group-title="Basketball",Southern Jaguars at Vanderbilt Commodores
-http://192.168.2.139:8090/stream?uri=cbb/2026-11-27/sou-van
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e9bcb184f691e472bf366bec4f015fa1-thumbnail.jpg" group-title="Basketball",Georgetown Hoyas at UCLA Bruins
-http://192.168.2.139:8090/stream?uri=cbb/2026-11-27/gtwn-ucla
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1231bf5741717f70c4a9c2577367b62a-thumbnail.jpg" group-title="Basketball",Villanova Wildcats at Kansas Jayhawks
 http://192.168.2.139:8090/stream?uri=cbb/2026-11-27/vill-ku
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b06c10cff3b877798d3253d557beb532-thumbnail.jpg" group-title="Basketball",Texas Longhorns at Saint Mary's Gaels
@@ -123,10 +113,6 @@ http://192.168.2.139:8090/stream?uri=nba/2026-11-28/phi-hou
 http://192.168.2.139:8090/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",Fox Cricket
 http://192.168.2.139:8090/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aaceb79bab84f3b63d778d5ec12c796b-thumbnail.jpg" group-title="Darts",Players Championship Finals | Day 1 Session 1
-http://192.168.2.139:8090/stream?uri=players-championship-finals--day-1-session-1-33037
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aaceb79bab84f3b63d778d5ec12c796b-thumbnail.jpg" group-title="Darts",Players Championship Finals | Day 1 Session 2
-http://192.168.2.139:8090/stream?uri=players-championship-finals--day-1-session-2-33039
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aaceb79bab84f3b63d778d5ec12c796b-thumbnail.jpg" group-title="Darts",Players Championship Finals | Day 2 Session 1
 http://192.168.2.139:8090/stream?uri=players-championship-finals--day-2-session-1-33041
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aaceb79bab84f3b63d778d5ec12c796b-thumbnail.jpg" group-title="Darts",Players Championship Finals | Day 2 Session 2
@@ -135,18 +121,6 @@ http://192.168.2.139:8090/stream?uri=players-championship-finals--day-2-session-
 http://192.168.2.139:8090/stream?uri=players-championship-finals--day-3-session-1-33045
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aaceb79bab84f3b63d778d5ec12c796b-thumbnail.jpg" group-title="Darts",Players Championship Finals | Day 3 Session 2
 http://192.168.2.139:8090/stream?uri=players-championship-finals--day-3-session-2-33047
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/173f7b7327c58243669307ab03190d36-thumbnail.jpg" group-title="Football",FC Groningen vs. Willem II
-http://192.168.2.139:8090/stream?uri=eredivisie/2026-11-27/gro-wil
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/366d387045664c189cb67ce562dfe634-thumbnail.jpg" group-title="Football",FC Dordrecht vs. Vitesse
-http://192.168.2.139:8090/stream?uri=keuken-kampioen-divisie/2026-11-27/dor-vit
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5baae9270e3796c90e0f455f651357c0-thumbnail.jpg" group-title="Football",Werder Bremen vs. Borussia Mönchengladbach
-http://192.168.2.139:8090/stream?uri=bundesliga/2026-11-27/svw-bmg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a71f7b095e9d509c0a7b264c6198a2ce-thumbnail.jpg" group-title="Football",Venezia vs. Bologna
-http://192.168.2.139:8090/stream?uri=seriea/2026-11-27/ven-bol
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f9d22f2a3c55b88750a083e1bf9d8433-thumbnail.jpg" group-title="Football",Levante vs. Racing Santander
-http://192.168.2.139:8090/stream?uri=laliga/2026-11-27/lev-rac
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2caeecfaa71b74af230a7e81c7ec0623-thumbnail.jpg" group-title="Football",Nottingham Forest vs. Chelsea
-http://192.168.2.139:8090/stream?uri=pl/2026-11-27/nfo-che
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/96dc5274feda674f51eacac2d955beac-thumbnail.jpg" group-title="Football",Columbus Crew vs. Inter Miami CF
 http://192.168.2.139:8090/stream?uri=mls/2026-11-27/clb-mia
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a69bd9c6b636e2e1ab1fde35c4a8c810-thumbnail.jpg" group-title="Football",Real Salt Lake vs. Vancouver Whitecaps
@@ -269,22 +243,6 @@ http://192.168.2.139:8090/stream?uri=seriea/2026-11-30/cag-mil
 http://192.168.2.139:8090/stream?uri=laliga/2026-11-30/esp-get
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 http://192.168.2.139:8090/stream?uri=nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/69cf493fd5f2dee3f0a38d72d554f746-thumbnail.jpg" group-title="Ice Hockey",Toronto Maple Leafs vs. Boston Bruins
-http://192.168.2.139:8090/stream?uri=nhl/2026-11-27/tor-bos
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/15efd0c47aaec85204c94568b1246b11-thumbnail.jpg" group-title="Ice Hockey",Calgary Flames vs. New Jersey Devils
-http://192.168.2.139:8090/stream?uri=nhl/2026-11-27/cgy-nj
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/493d1aa6f3309827038ea06181b73266-thumbnail.jpg" group-title="Ice Hockey",Utah Mammoth vs. Nashville Predators
-http://192.168.2.139:8090/stream?uri=nhl/2026-11-27/uta-nsh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1d48dee2057540ecf0fdf9d48b90aef6-thumbnail.jpg" group-title="Ice Hockey",Dallas Stars vs. St. Louis Blues
-http://192.168.2.139:8090/stream?uri=nhl/2026-11-27/dal-stl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7df1f78479305216dee4082fa843ac89-thumbnail.jpg" group-title="Ice Hockey",Ottawa Senators vs. Tampa Bay Lightning
-http://192.168.2.139:8090/stream?uri=nhl/2026-11-27/ott-tb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e7d49afc6d1b1d7fcf1c815835d5c1da-thumbnail.jpg" group-title="Ice Hockey",Vancouver Canucks vs. Philadelphia Flyers
-http://192.168.2.139:8090/stream?uri=nhl/2026-11-27/van-phi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d2706c929ac0145ac4e90c437490a7ec-thumbnail.jpg" group-title="Ice Hockey",Florida Panthers vs. Washington Capitals
-http://192.168.2.139:8090/stream?uri=nhl/2026-11-27/fla-wsh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f3531ee51b4a777cbfa5fcaa1eeb46a9-thumbnail.jpg" group-title="Ice Hockey",Detroit Red Wings vs. Columbus Blue Jackets
-http://192.168.2.139:8090/stream?uri=nhl/2026-11-27/det-cbj
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/09baf10cb9201a0af243a670e5370194-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Minnesota Wild
 http://192.168.2.139:8090/stream?uri=nhl/2026-11-27/col-min
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d3c3044a50dd0294a926f2bfa65c49e0-thumbnail.jpg" group-title="Ice Hockey",Los Angeles Kings vs. Anaheim Ducks
@@ -299,10 +257,6 @@ http://192.168.2.139:8090/stream?uri=nhl/2026-11-27/wpg-nyi
 http://192.168.2.139:8090/stream?uri=nhl/2026-11-27/pit-buf
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8ac945ebf90d7dfbb9efd9a666732f04-thumbnail.jpg" group-title="Ice Hockey",Seattle Kraken vs. Edmonton Oilers
 http://192.168.2.139:8090/stream?uri=nhl/2026-11-27/sea-edm
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/738c267cb254c84b00f6c62b045f6b47-thumbnail.jpg" group-title="Motorsports",Qatar Grand Prix - Practice 1
-http://192.168.2.139:8090/stream?uri=f1/2026/qatar/fp1
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e617e3c371c9e873cbd6ee0db193b3ed-thumbnail.jpg" group-title="Motorsports",Qatar Grand Prix - Practice 2
-http://192.168.2.139:8090/stream?uri=f1/2026/qatar/fp2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0087ef7a8d6791f399ba9331b5bc407a-thumbnail.jpg" group-title="Motorsports",Qatar Grand Prix - Practice 3
 http://192.168.2.139:8090/stream?uri=f1/2026/qatar/fp3
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a4966426c08bd8f2cec00a2993758683-thumbnail.jpg" group-title="Motorsports",Qatar Grand Prix - Qualifying
